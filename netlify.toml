@@ -5,12 +5,7 @@
 [build.environment]
   NODE_VERSION = "22"
 
-# Redirects for SPA support
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-  conditions = {Role = ["admin"]}
+# NOTE: Removed SPA redirect as Quartz handles routing
 
 # Cache static assets
 [[headers]]
