@@ -1,17 +1,16 @@
+
 ---
 publish: true
-tags:
-  - ai
-  - race
-  - impact
-  - brain
-  - transparency
+tags: #ai #race #impact #brain #transparency 
 ---
 
 Note: this is an unedited version of my [Jakarta Post March 31st article](https://www.thejakartapost.com/opinion/2023/03/31/ai-race-the-future-is-coming-too-fast.html). The published version had to be condensed in order to fulfill the word limit. For the Bahasa Indonesia translation, see [[Balapan AI -- Masa Depan Datang Terlalu Cepat]].
 
 
 Mohamad Mova AlAfghani*
+
+Voice:
+![[synthesized_audio (5).mp3]]
 
 There has been many debates and criticism about the recently viral ChatGPT. In addition to those who are "wowed" by its capability, some people notes that ChatGPT sometimes "hallucinate" with its output. Oftentimes, its hallucination can only be detected by a domain expert. This is correct and I have experienced it myself when using ChatGPT to assist me on my research on water governance or environmental regulation -- the domains of my expertise.
 
@@ -53,4 +52,4 @@ Finally, if AI manage to displace entry and mid level knowledge workers, the pol
 
 The current presidential race needs to discuss these issues. We need safety net and universal basic income if AI manage to displace entry level knowledge workers. While some of our children are still crossing rivers in order to get to school, our educational system will need to cope with this AI race. The changes that AI bring will be exponential. This means that our existing values and institutions including our legal system will have tremendous challenges to be able to cope with frequent disruptions. The future is coming too fast.
 
-*Lecturer at Universitas Ibn Khaldun Bogor*
+·       Lecturer at Universitas Ibn Khaldun Bogor
