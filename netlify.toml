@@ -36,3 +36,14 @@
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Edge Function for protected content (Basic Auth)
+[[edge_functions]]
+  path = "/Buku-Ajar-Hukum-Perubahan-Iklim/*"
+  function = "auth"
+
+# Disable caching for protected content
+[[headers]]
+  for = "/Buku-Ajar-Hukum-Perubahan-Iklim/*"
+  [headers.values]
+    Cache-Control = "private, no-cache, no-store, must-revalidate"
