@@ -29,5 +29,5 @@ export default async (request: Request, context: Context) => {
 };
 
 export const config = {
-  path: "/Buku-Ajar-Hukum-Perubahan-Iklim/*",
+  path: "/perubahan-iklim/*",
 };

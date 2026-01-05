@@ -39,11 +39,11 @@
 
 # Edge Function for protected content (Basic Auth)
 [[edge_functions]]
-  path = "/Buku-Ajar-Hukum-Perubahan-Iklim/*"
+  path = "/perubahan-iklim/*"
   function = "auth"
 
 # Disable caching for protected content
 [[headers]]
-  for = "/Buku-Ajar-Hukum-Perubahan-Iklim/*"
+  for = "/perubahan-iklim/*"
   [headers.values]
     Cache-Control = "private, no-cache, no-store, must-revalidate"
