@@ -1,10 +1,21 @@
 # Quartz Publisher Plugin
 
+Obsidian plugin for publishing notes to the mova-quartz Quartz site with one command.
+
+---
+
 ## Overview
 
-The Quartz Publisher plugin allows you to publish Obsidian notes to your Quartz static site hosted on Netlify with a single command.
+The Quartz Publisher plugin enables seamless publishing from Obsidian to your Quartz static site hosted on Netlify.
 
-**Site URL:** https://mova-quartz.netlify.app
+| Property | Value |
+|----------|-------|
+| **Plugin Name** | Quartz Publisher |
+| **Location** | `.obsidian/plugins/quartz-publisher/` |
+| **Site URL** | https://note.alafghani.info |
+| **Netlify Site** | https://mova-quartz.netlify.app |
+
+---
 
 ## How It Works
 
@@ -38,37 +49,109 @@ The Quartz Publisher plugin allows you to publish Obsidian notes to your Quartz 
 └─────────────────────────────────────────────────────────────┘
                             ↓
 ┌─────────────────────────────────────────────────────────────┐
-│  Live at https://mova-quartz.netlify.app                    │
+│  Live at https://note.alafghani.info                        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
+---
+
 ## Commands
+
+Access via Command Palette (`Ctrl+P`):
 
 | Command | Description |
 |---------|-------------|
-| `Publish current note to Quartz` | Publishes the currently active note. Auto-adds `publish: true` if missing. Skips if content unchanged. |
-| `Publish all notes with publish: true` | Finds all notes with `publish: true` or `share: true` outside content/ folder and publishes them in batch. |
+| **Publish current note to Quartz** | Publishes the currently open note. Auto-adds `publish: true` if missing. Skips if content unchanged. |
+| **Publish all notes with publish: true** | Batch publishes all notes with `publish: true` or `share: true` outside the content/ folder. |
 
-**How to use:** Press `Ctrl+P` to open command palette, then type "Publish"
+---
+
+## Quick Start
+
+### Publish a Single Note
+
+1. Open the note you want to publish
+2. Press `Ctrl+P` to open Command Palette
+3. Type "Publish current note to Quartz"
+4. Wait ~30 seconds for build and deploy
+5. Visit https://note.alafghani.info to see your note
+
+### Publish Multiple Notes
+
+1. Add `publish: true` to frontmatter of notes you want to publish
+2. Press `Ctrl+P`
+3. Type "Publish all notes with publish: true"
+4. Plugin finds and publishes all matching notes
+
+---
 
 ## Settings
 
-Access via: Settings → Community Plugins → Quartz Publisher → Settings
+Access: Settings → Community Plugins → Quartz Publisher → Settings
 
 | Setting | Default | Description |
 |---------|---------|-------------|
 | Git branch | `v4` | Branch to push changes to |
 | Commit message | `Publish: {{filename}}` | Template for commit messages. `{{filename}}` is replaced with the note name. |
 
+---
+
+## Frontmatter Handling
+
+### Automatic Processing
+
+The plugin automatically processes frontmatter when publishing:
+
+#### Before (your note)
+```yaml
+---
+title: My Note
+share: true
+tags: #ai #research #ml
+---
+
+Content with ![[audio.mp3]] embed...
+```
+
+#### After (in content/ folder)
+```yaml
+---
+publish: true
+title: My Note
+tags:
+  - ai
+  - research
+  - ml
+---
+
+Content without audio embed...
+```
+
+### Conversions Performed
+
+| From | To |
+|------|-----|
+| `share: true` | `publish: true` |
+| `tags: #ai #ml` (inline) | `tags:\n  - ai\n  - ml` (YAML array) |
+| No frontmatter | Adds `---\npublish: true\n---` |
+| `![[audio.mp3]]` | Removed (not supported) |
+
+---
+
 ## Folder Structure
 
 ```
 mova-quartz/                    ← Vault root (also Quartz repo)
-├── content/                    ← Published notes go here (Quartz reads from this)
-│   ├── images/                 ← Referenced images are copied here
+├── content/                    ← Published notes go here
 │   ├── index.md               ← Homepage
-│   └── *.md                   ← Published notes
-├── notes/                      ← Your working notes (any folder)
+│   ├── images/                ← Referenced images copied here
+│   ├── perubahan-iklim/       ← Protected content folder
+│   │   ├── index.md
+│   │   ├── BAB 1 -- Title --.md
+│   │   └── ...
+│   └── *.md                   ← Other published notes
+├── notes/                      ← Your working notes (any folder name)
+├── drafts/                     ← Unpublished drafts
 ├── public/                     ← Built site output (gitignored)
 ├── quartz/                     ← Quartz source code
 ├── quartz.config.ts           ← Quartz configuration
@@ -77,86 +160,95 @@ mova-quartz/                    ← Vault root (also Quartz repo)
 └── .obsidian/
     └── plugins/
         └── quartz-publisher/  ← Plugin files
+            ├── main.ts        ← Source code
+            ├── main.js        ← Compiled plugin
+            ├── manifest.json  ← Plugin metadata
+            └── package.json   ← Dependencies
 ```
 
-## Frontmatter Handling
-
-### Automatic Addition
-When you run "Publish current note to Quartz", the plugin automatically adds `publish: true` to your note's frontmatter if it's missing.
-
-### Before (your note)
-```yaml
 ---
-title: My Note
-tags: #ai #research
----
+
+## Image Handling
+
+### Automatic Image Copy
+
+When you publish a note with embedded images:
+
+```markdown
+![[my-image.png]]
 ```
 
-### After (in content/ folder)
-```yaml
----
-publish: true
-title: My Note
-tags:
-  - ai
-  - research
----
-```
+The plugin:
+1. Finds the image in your vault
+2. Copies it to `content/images/`
+3. Updates the link in the published note
 
-### Conversions
-| From | To |
-|------|-----|
-| `share: true` | `publish: true` |
-| `tags: #ai #ml` | `tags:\n  - ai\n  - ml` |
-| No frontmatter | Adds `---\npublish: true\n---` |
+### Supported Formats
+
+| Format | Supported |
+|--------|-----------|
+| PNG | ✅ |
+| JPG/JPEG | ✅ |
+| GIF | ✅ |
+| SVG | ✅ |
+| WebP | ✅ |
+| MP3/Audio | ❌ (removed) |
+| MP4/Video | ❌ (removed) |
+
+---
 
 ## Duplicate Prevention
 
-The plugin checks if the content in `content/` folder is identical to the processed note. If unchanged, it shows "already up to date" and skips the publish cycle.
+The plugin checks if content has changed before publishing:
+
+1. Compares processed note with existing file in `content/`
+2. If identical, shows "already up to date"
+3. Skips git/build/deploy cycle
+4. Saves time and avoids unnecessary deploys
 
 ---
 
-# Credentials & Authentication
+## Authentication
 
-## Git / GitHub
+### Git / GitHub
+
+The plugin uses your existing Git configuration:
 
 **Repository:** https://github.com/movanet/mova-quartz
 **Branch:** v4
 
-Git credentials are managed by your system's Git credential manager. The plugin uses your existing Git configuration.
+Git credentials are managed by your system's Git credential manager (Windows Credential Manager on Windows).
 
 **Verify Git auth:**
 ```bash
 cd C:\Users\mova\obsidian\mova-quartz
 git remote -v
-git push origin v4  # Test push
+# Should show: origin  https://github.com/movanet/mova-quartz.git
+
+git push origin v4 --dry-run
+# Should succeed without prompting
 ```
 
-## Netlify
+### Netlify
+
+The plugin uses Netlify CLI for deployment:
 
 **Site Name:** mova-quartz
-**Site URL:** https://mova-quartz.netlify.app
-**Site ID:** (managed by netlify-cli)
+**Site URL:** https://note.alafghani.info
 
-### Netlify CLI Authentication
-
-The Netlify CLI stores authentication in your user profile. To check or re-authenticate:
-
+**Verify Netlify auth:**
 ```bash
-# Check current status
-npx netlify-cli status
-
-# Login (if needed)
-npx netlify-cli login
-
-# Link to existing site (if needed)
 cd C:\Users\mova\obsidian\mova-quartz
-npx netlify-cli link
+npx netlify-cli status
+# Should show site linked to mova-quartz
 ```
 
-### Netlify Configuration
+---
+
+## Netlify Configuration
 
 File: `netlify.toml`
+
 ```toml
 [build]
   command = "npx quartz build"
@@ -166,84 +258,206 @@ File: `netlify.toml`
   NODE_VERSION = "22"
 ```
 
-### Netlify Dashboard
+### Dashboard Links
+
 - **Dashboard:** https://app.netlify.com/projects/mova-quartz
 - **Deploy logs:** https://app.netlify.com/projects/mova-quartz/deploys
+- **Functions:** https://app.netlify.com/projects/mova-quartz/logs/edge-functions
 
 ---
 
-# Troubleshooting
+## Troubleshooting
 
-## "No active file to publish"
-- Make sure you have a markdown file open and focused
+### "No active file to publish"
 
-## "Can only publish markdown files"
-- The plugin only works with `.md` files
+**Cause:** No markdown file is currently open and focused.
 
-## "already up to date"
-- The note content hasn't changed since last publish
-- Edit the note and try again
+**Solution:** Open a `.md` file and ensure it's the active tab.
 
-## "No changes to commit"
-- Git detected no changes in the content/ folder
-- The note may already be published with identical content
+### "Can only publish markdown files"
 
-## Publish failed: Git errors
-1. Check Git authentication: `git push origin v4`
-2. Check for merge conflicts
-3. Ensure you're on the v4 branch: `git branch`
+**Cause:** The active file is not a markdown file.
 
-## Publish failed: Netlify errors
-1. Check Netlify auth: `npx netlify-cli status`
-2. Re-login if needed: `npx netlify-cli login`
-3. Re-link site: `npx netlify-cli link`
+**Solution:** Only `.md` files can be published.
 
-## Plugin not appearing in Obsidian
-1. Check plugin is enabled: Settings → Community Plugins
-2. Reload Obsidian: Ctrl+R or restart completely
-3. Check plugin files exist in `.obsidian/plugins/quartz-publisher/`
+### "already up to date"
 
-## Build errors
+**Cause:** The note content hasn't changed since last publish.
+
+**Solution:** This is normal. Edit the note and try again if you need to republish.
+
+### "No changes to commit"
+
+**Cause:** Git detected no changes in the content/ folder.
+
+**Solution:** The note may already be published with identical content.
+
+### Git Errors
+
+```
+Publish failed: Git error
+```
+
+**Solutions:**
+1. Check Git authentication:
+   ```bash
+   cd C:\Users\mova\obsidian\mova-quartz
+   git push origin v4
+   ```
+2. Check for merge conflicts:
+   ```bash
+   git status
+   ```
+3. Ensure correct branch:
+   ```bash
+   git branch
+   # Should show: * v4
+   ```
+
+### Netlify Errors
+
+```
+Publish failed: Netlify error
+```
+
+**Solutions:**
+1. Check Netlify auth:
+   ```bash
+   npx netlify-cli status
+   ```
+2. Re-login:
+   ```bash
+   npx netlify-cli logout
+   npx netlify-cli login
+   ```
+3. Re-link site:
+   ```bash
+   npx netlify-cli unlink
+   npx netlify-cli link
+   # Select "mova-quartz"
+   ```
+
+### Plugin Not Appearing
+
+**Solutions:**
+1. Check plugin is enabled:
+   - Settings → Community Plugins → Quartz Publisher (toggle on)
+2. Reload Obsidian:
+   - `Ctrl+R` or close and reopen
+3. Check plugin files exist:
+   - `.obsidian/plugins/quartz-publisher/main.js` must exist
+
+### Build Errors
+
+**Manual build test:**
 ```bash
-# Manual build test
 cd C:\Users\mova\obsidian\mova-quartz
 npx quartz build
 ```
 
-## Deploy errors
+Common causes:
+- Invalid YAML frontmatter
+- Unclosed code blocks
+- Syntax errors in markdown
+
+### Deploy Errors
+
+**Manual deploy test:**
 ```bash
-# Manual deploy test
 cd C:\Users\mova\obsidian\mova-quartz
+npx quartz build
 npx netlify-cli deploy --dir=public --prod
 ```
 
 ---
 
-# Quick Reference
+## Manual Publishing
 
-## Publish a note
-1. Open the note you want to publish
-2. Press `Ctrl+P`
-3. Type "Publish current note to Quartz"
-4. Wait ~20 seconds for build and deploy
+If the plugin isn't working, you can publish manually:
 
-## Check your site
-https://mova-quartz.netlify.app
+### Step 1: Prepare the note
 
-## Plugin location
-`C:\Users\mova\obsidian\mova-quartz\.obsidian\plugins\quartz-publisher\`
+Add frontmatter:
+```yaml
+---
+publish: true
+---
+```
 
-## Key files
+### Step 2: Copy to content folder
+
+Copy your note to `content/` folder.
+
+### Step 3: Git commit and push
+
+```bash
+cd C:\Users\mova\obsidian\mova-quartz
+git add content/
+git commit -m "Publish: My Note"
+git push origin v4
+```
+
+### Step 4: Build and deploy
+
+```bash
+npx quartz build
+npx netlify-cli deploy --dir=public --prod
+```
+
+Or use the combined command:
+```bash
+npx netlify-cli deploy --build --prod
+```
+
+---
+
+## Plugin Development
+
+### File Locations
+
 | File | Purpose |
 |------|---------|
-| `main.ts` | Plugin source code |
-| `main.js` | Compiled plugin |
-| `manifest.json` | Plugin metadata |
-| `package.json` | Dependencies |
+| `main.ts` | TypeScript source code |
+| `main.js` | Compiled JavaScript (loaded by Obsidian) |
+| `manifest.json` | Plugin metadata (name, version, etc.) |
+| `package.json` | npm dependencies |
+| `styles.css` | Plugin styles (if any) |
 
-## Rebuild plugin (after editing main.ts)
+### Rebuild Plugin
+
+After editing `main.ts`:
+
 ```bash
 cd C:\Users\mova\obsidian\mova-quartz\.obsidian\plugins\quartz-publisher
 npm run build
 ```
-Then reload Obsidian.
+
+Then reload Obsidian (`Ctrl+R`).
+
+### Dependencies
+
+```bash
+cd C:\Users\mova\obsidian\mova-quartz\.obsidian\plugins\quartz-publisher
+npm install
+```
+
+---
+
+## Quick Reference
+
+| Action | How |
+|--------|-----|
+| Publish single note | Open note → `Ctrl+P` → "Publish current note to Quartz" |
+| Publish all marked notes | `Ctrl+P` → "Publish all notes with publish: true" |
+| Check site | Visit https://note.alafghani.info |
+| Plugin settings | Settings → Community Plugins → Quartz Publisher |
+| Plugin location | `.obsidian/plugins/quartz-publisher/` |
+
+---
+
+## Related Documentation
+
+- [CLAUDE.md](../CLAUDE.md) - Main project guide
+- [Setup and Credentials](./Setup%20and%20Credentials.md) - Account info
+- [Quartz Configuration](./Quartz%20Configuration.md) - Quartz settings
+- [Netlify API Reference](./Netlify-API-Reference.md) - API documentation
