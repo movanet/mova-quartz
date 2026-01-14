@@ -49,7 +49,7 @@ graph LR
     B --> E[BAB 8: Pasar Karbon]
 ```
 
-Bab ini terkait erat dengan [[BAB 4 -- Kewajiban Mitigasi dalam Hukum Internasional --|BAB 4 (Mitigasi)]] dan [[BAB 5 -- Hukum Adaptasi Perubahan Iklim --|BAB 5 (Adaptasi)]] karena pendanaan diperlukan untuk kedua upaya tersebut, serta menjadi fondasi untuk [[BAB 8 -- Nilai Ekonomi Karbon dan Bursa Karbon --|BAB 8 tentang Pasar Karbon Indonesia]].
+Bab ini terkait erat dengan [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4 (Mitigasi)]] dan [[Buku-Ajar-Hukum-Perubahan-Iklim-05-Hukum-Adaptasi_BAB-05|BAB 5 (Adaptasi)]] karena pendanaan diperlukan untuk kedua upaya tersebut, serta menjadi fondasi untuk [[Buku-Ajar-Hukum-Perubahan-Iklim-08-Nilai-Ekonomi-Karbon_BAB-08|BAB 8 tentang Pasar Karbon Indonesia]].
 
 ### 5. Peta Konsep Bab
 
@@ -609,7 +609,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-a, 2-c, 3-b, 4-b, 5-a, 6-S, 7-S, 8-B, 9-B, 10-S
 
@@ -621,7 +621,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-07\|BAB 7]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -644,12 +644,12 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 6. Daftar Pustaka Bab
 
 **Sumber Primer:**
-- Paris Agreement, Pasal 6 dan 9. [[01-Traktat/Paris_Agreement_2015]]
+- Paris Agreement, Pasal 6 dan 9. [[01-Traktat_Paris_Agreement_2015]]
 - COP decisions on climate finance and Article 6.
 
 **Sumber Sekunder:**
-- Doelle, M. & Seck, S. (Eds.). (2021). *Research Handbook on Climate Change Law and Loss & Damage*. Edward Elgar. [[04-Akademik/Buku/Doelle_2021_LossDamage]]
-- Smits, R. (Ed.). (2024). *Sustainable Finance and Climate Change: Law and Regulation*. Edward Elgar. [[04-Akademik/Buku/Smits_2024_SustainableFinance]]
+- Doelle, M. & Seck, S. (Eds.). (2021). *Research Handbook on Climate Change Law and Loss & Damage*. Edward Elgar. [[04-Akademik-Buku_Doelle_2021_LossDamage]]
+- Smits, R. (Ed.). (2024). *Sustainable Finance and Climate Change: Law and Regulation*. Edward Elgar. [[04-Akademik-Buku_Smits_2024_SustainableFinance]]
 
 **Sumber Pendukung:**
 - OECD. (2023). *Climate Finance Provided and Mobilised by Developed Countries*.
@@ -660,15 +660,15 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 7. Tautan Terkait
 
 **Sumber dalam Vault:**
-- [[01-Traktat/Paris_Agreement_2015]] - Pasal 6 dan 9
-- [[04-Akademik/Buku/Doelle_2021_LossDamage]] - Handbook L&D dan pendanaan
-- [[04-Akademik/Buku/Smits_2024_SustainableFinance]] - Sustainable finance
-- [[03-Peraturan/Indonesia/Perpres_98_2021_NEK]] - Kerangka hukum karbon Indonesia
+- [[01-Traktat_Paris_Agreement_2015]] - Pasal 6 dan 9
+- [[04-Akademik-Buku_Doelle_2021_LossDamage]] - Handbook L&D dan pendanaan
+- [[04-Akademik-Buku_Smits_2024_SustainableFinance]] - Sustainable finance
+- [[03-Peraturan-Indonesia_Perpres_98_2021_NEK]] - Kerangka hukum karbon Indonesia
 
 **Navigasi Buku:**
-- ← [[BAB 5 -- Hukum Adaptasi Perubahan Iklim --|BAB 5: Hukum Adaptasi Perubahan Iklim]]
-- → [[BAB 7 -- Kerangka Hukum Iklim Indonesia --|BAB 7: Kerangka Hukum Iklim Indonesia]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-05-Hukum-Adaptasi_BAB-05|BAB 5: Hukum Adaptasi Perubahan Iklim]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7: Kerangka Hukum Iklim Indonesia]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

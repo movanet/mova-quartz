@@ -50,7 +50,7 @@ graph LR
     B --> D[BAB 10: Hukum Iklim Sektoral]
 ```
 
-Bab ini menerapkan prinsip-prinsip kerangka internasional dari [[BAB 13 -- Kerangka Hukum Adaptasi Internasional --|BAB 13]] ke dalam konteks regulasi sektoral Indonesia. Pemahaman ini menjadi fondasi untuk memahami [[BAB 15 -- Loss and Damage dalam Hukum Iklim --|BAB 15]] tentang kerugian dan kerusakan yang terjadi ketika adaptasi tidak memadai, dan melengkapi [[BAB 10 -- Hukum Iklim Sektoral --|BAB 10]] yang lebih fokus pada mitigasi sektoral.
+Bab ini menerapkan prinsip-prinsip kerangka internasional dari [[Buku-Ajar-Hukum-Perubahan-Iklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13]] ke dalam konteks regulasi sektoral Indonesia. Pemahaman ini menjadi fondasi untuk memahami [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15]] tentang kerugian dan kerusakan yang terjadi ketika adaptasi tidak memadai, dan melengkapi [[Buku-Ajar-Hukum-Perubahan-Iklim-10-Hukum-Iklim-Sektoral_BAB-10|BAB 10]] yang lebih fokus pada mitigasi sektoral.
 
 ### 5. Peta Konsep Bab
 
@@ -783,7 +783,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-c, 2-b, 3-c, 4-b, 5-c, 6-S, 7-B, 8-S, 9-B, 10-S
 
@@ -795,7 +795,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-15\|BAB 15]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -886,9 +886,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 **Navigasi Buku:**
-- ← [[BAB 13 -- Kerangka Hukum Adaptasi Internasional --|BAB 13: Kerangka Hukum Adaptasi Internasional]]
-- → [[BAB 15 -- Loss and Damage dalam Hukum Iklim --|BAB 15: Loss and Damage dalam Hukum Iklim]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13: Kerangka Hukum Adaptasi Internasional]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

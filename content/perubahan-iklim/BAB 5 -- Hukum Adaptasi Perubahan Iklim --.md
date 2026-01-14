@@ -51,13 +51,13 @@ graph LR
     B --> H[BAB 15: Loss & Damage]
 ```
 
-Bab ini melengkapi [[BAB 4 -- Kewajiban Mitigasi dalam Hukum Internasional --|BAB 4 tentang Mitigasi]] dan terkait erat dengan [[BAB 6 -- Pendanaan dan Mekanisme Iklim --|BAB 6 tentang Pendanaan]] karena adaptasi memerlukan sumber daya yang signifikan.
+Bab ini melengkapi [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4 tentang Mitigasi]] dan terkait erat dengan [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6 tentang Pendanaan]] karena adaptasi memerlukan sumber daya yang signifikan.
 
 > [!tip] **Bab Lanjutan tentang Adaptasi**
 > Untuk pembahasan lebih mendalam, lihat:
-> - [[BAB 13 -- Kerangka Hukum Adaptasi Internasional --|BAB 13: Kerangka Hukum Adaptasi Internasional]] - GGA, NAP, dan kelembagaan internasional
-> - [[BAB 14 -- Hukum Adaptasi Sektoral Indonesia --|BAB 14: Hukum Adaptasi Sektoral Indonesia]] - Regulasi adaptasi per sektor
-> - [[BAB 15 -- Loss and Damage dalam Hukum Iklim --|BAB 15: Loss and Damage dalam Hukum Iklim]] - Pembahasan mendalam L&D
+> - [[Buku-Ajar-Hukum-Perubahan-Iklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13: Kerangka Hukum Adaptasi Internasional]] - GGA, NAP, dan kelembagaan internasional
+> - [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14: Hukum Adaptasi Sektoral Indonesia]] - Regulasi adaptasi per sektor
+> - [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]] - Pembahasan mendalam L&D
 
 ### 5. Peta Konsep Bab
 
@@ -494,7 +494,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-c, 4-c, 5-c, 6-S, 7-S, 8-B, 9-B, 10-S
 
@@ -506,7 +506,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-06\|BAB 6]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -529,15 +529,15 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 6. Daftar Pustaka Bab
 
 **Sumber Primer:**
-- Paris Agreement, Pasal 7 dan 8. [[01-Traktat/Paris_Agreement_2015]]
+- Paris Agreement, Pasal 7 dan 8. [[01-Traktat_Paris_Agreement_2015]]
 - COP27 Decision on Loss and Damage Fund, 2022.
 
 **Sumber Sekunder:**
-- Verschuuren, J. (Ed.). (2022). *Research Handbook on Climate Change Adaptation Law*. Edward Elgar. [[04-Akademik/Buku/Verschuuren_2022_Adaptation]]
+- Verschuuren, J. (Ed.). (2022). *Research Handbook on Climate Change Adaptation Law*. Edward Elgar. [[04-Akademik-Buku_Verschuuren_2022_Adaptation]]
 - Mechler, R. et al. (Eds.). (2019). *Loss and Damage from Climate Change*. Springer.
 
 **Sumber Pendukung:**
-- UNEP. (2023). *Adaptation Gap Report 2023*. [[05-Laporan/UNEP_Adaptation_Gap]]
+- UNEP. (2023). *Adaptation Gap Report 2023*. [[05-Laporan_UNEP_Adaptation_Gap]]
 - Indonesia RAN-API (Rencana Aksi Nasional Adaptasi Perubahan Iklim).
 
 ---
@@ -545,15 +545,15 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 7. Tautan Terkait
 
 **Sumber dalam Vault:**
-- [[01-Traktat/Paris_Agreement_2015]] - Pasal 7 dan 8 tentang adaptasi dan L&D
-- [[04-Akademik/Buku/Verschuuren_2022_Adaptation]] - Handbook adaptasi
-- [[05-Laporan/UNEP_Adaptation_Gap]] - Laporan kesenjangan adaptasi
-- [[03-Peraturan/Indonesia/NDC_Indonesia]] - Komponen adaptasi NDC Indonesia
+- [[01-Traktat_Paris_Agreement_2015]] - Pasal 7 dan 8 tentang adaptasi dan L&D
+- [[04-Akademik-Buku_Verschuuren_2022_Adaptation]] - Handbook adaptasi
+- [[05-Laporan_UNEP_Adaptation_Gap]] - Laporan kesenjangan adaptasi
+- [[03-Peraturan-Indonesia_NDC_Indonesia]] - Komponen adaptasi NDC Indonesia
 
 **Navigasi Buku:**
-- ← [[BAB 4 -- Kewajiban Mitigasi dalam Hukum Internasional --|BAB 4: Kewajiban Mitigasi dalam Hukum Internasional]]
-- → [[BAB 6 -- Pendanaan dan Mekanisme Iklim --|BAB 6: Pendanaan dan Mekanisme Iklim]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4: Kewajiban Mitigasi dalam Hukum Internasional]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6: Pendanaan dan Mekanisme Iklim]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

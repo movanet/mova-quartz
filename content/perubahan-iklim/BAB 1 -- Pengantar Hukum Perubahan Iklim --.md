@@ -48,7 +48,7 @@ graph LR
     C --> D
 ```
 
-Bab ini merupakan fondasi untuk seluruh materi dalam buku ini. Pemahaman tentang basis ilmiah dan keadilan iklim akan mempermudah Anda memahami [[BAB 2 -- Prinsip-Prinsip Hukum Lingkungan Internasional --|prinsip-prinsip hukum lingkungan]] dan [[BAB 3 -- Arsitektur Rezim Iklim Internasional --|arsitektur rezim iklim internasional]] di bab-bab selanjutnya.
+Bab ini merupakan fondasi untuk seluruh materi dalam buku ini. Pemahaman tentang basis ilmiah dan keadilan iklim akan mempermudah Anda memahami [[Buku-Ajar-Hukum-Perubahan-Iklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|prinsip-prinsip hukum lingkungan]] dan [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|arsitektur rezim iklim internasional]] di bab-bab selanjutnya.
 
 ### 5. Peta Konsep Bab
 
@@ -97,9 +97,9 @@ Konsentrasi CO₂ Atmosfer (ppm):
 ```
 
 > [!tip] **Kotak Pengayaan: Industri Fosil Sudah Tahu Sejak 1982**
-> Dokumen internal Exxon Corporation yang bocor ke publik menunjukkan bahwa perusahaan minyak terbesar di dunia telah mengetahui dampak perubahan iklim sejak awal 1980-an. Para ilmuwan Exxon bahkan membuat proyeksi pemanasan global yang terbukti sangat akurat. Namun, alih-alih mengambil tindakan, industri fosil justru mendanai kampanye penyangkalan iklim selama puluhan tahun. Dokumen ini kini menjadi bukti kunci dalam berbagai [[BAB 11 -- Litigasi Perubahan Iklim --|litigasi iklim]] di seluruh dunia.
+> Dokumen internal Exxon Corporation yang bocor ke publik menunjukkan bahwa perusahaan minyak terbesar di dunia telah mengetahui dampak perubahan iklim sejak awal 1980-an. Para ilmuwan Exxon bahkan membuat proyeksi pemanasan global yang terbukti sangat akurat. Namun, alih-alih mengambil tindakan, industri fosil justru mendanai kampanye penyangkalan iklim selama puluhan tahun. Dokumen ini kini menjadi bukti kunci dalam berbagai [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|litigasi iklim]] di seluruh dunia.
 >
-> Lihat: [[Exxon_Climate_Report_1982]] dan [[Shell_Greenhouse_Report]]
+> Lihat: [[05-Laporan_Exxon_Climate_Report_1982]] dan [[05-Laporan_Shell_Greenhouse_Report]]
 
 #### 1.2 Konsensus Ilmiah: IPCC dan AR6
 
@@ -170,7 +170,7 @@ Dimensi keadilan antargenerasi mungkin merupakan aspek paling fundamental dan fi
 > [!example] **Contoh: Litigasi Pemuda untuk Keadilan Antargenerasi**
 > Kasus *Neubauer et al. v. Germany* (2021) di Mahkamah Konstitusi Jerman mengabulkan gugatan sekelompok pemuda yang menuntut pemerintah memperkuat target iklim. Mahkamah menyatakan bahwa undang-undang iklim Jerman melanggar kebebasan generasi muda karena membebankan pengurangan emisi yang tidak proporsional ke masa depan.
 >
-> Lihat juga: [[02-Yurisprudensi/Domestik/Children_v_Austria_2023]]
+> Lihat juga: [[02-Yurisprudensi-Domestik_Children_v_Austria_2023]]
 
 #### 2.2 Keadilan Iklim dalam Konteks Indonesia
 
@@ -212,7 +212,7 @@ Hukum menjalankan beberapa fungsi krusial:
 Hukum menetapkan batasan-batasan yang mengikat dan memaksa: target emisi nasional dan sektoral, standar efisiensi energi untuk bangunan dan kendaraan, serta larangan terhadap zat-zat perusak ozon dan gas rumah kaca tertentu. Tanpa kekuatan hukum yang memaksa, komitmen politik hanya menjadi janji kosong yang dapat dengan mudah diabaikan ketika kepentingan jangka pendek berbenturan dengan tujuan perlindungan iklim jangka panjang. Pengalaman dari Protokol Montreal 1987 tentang zat perusak ozon menunjukkan bahwa regulasi yang mengikat secara hukum dapat secara efektif mengubah perilaku industri dan konsumen dalam skala global.[^31]
 
 > [!example] **Contoh**
-> Perpres No. 98 Tahun 2021 tentang Nilai Ekonomi Karbon ([[03-Peraturan/Indonesia/Perpres_98_2021_NEK]]) menetapkan kerangka hukum untuk perdagangan karbon di Indonesia—sesuatu yang tidak mungkin berjalan tanpa dasar hukum yang jelas.
+> Perpres No. 98 Tahun 2021 tentang Nilai Ekonomi Karbon ([[03-Peraturan-Indonesia_Perpres_98_2021_NEK]]) menetapkan kerangka hukum untuk perdagangan karbon di Indonesia—sesuatu yang tidak mungkin berjalan tanpa dasar hukum yang jelas.
 
 **b. Fungsi Koordinasi**
 
@@ -413,7 +413,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-b, 4-c, 5-d, 6-S, 7-B, 8-S, 9-S, 10-S
 
@@ -425,7 +425,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-02\|BAB 2]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -448,29 +448,29 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 6. Daftar Pustaka Bab
 
 **Sumber Primer:**
-- IPCC. (2023). *AR6 Synthesis Report: Climate Change 2023*. Geneva: IPCC. [[IPCC_AR6_2023]]
+- IPCC. (2023). *AR6 Synthesis Report: Climate Change 2023*. Geneva: IPCC. [[05-Laporan_IPCC_AR6_2023]]
 
 **Sumber Sekunder:**
-- Bodansky, D., Brunnée, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP. [[Bodansky_2017_IntlClimateLaw]]
-- Coplan, K. S. et al. (2021). *Climate Change Law: An Introduction*. Cheltenham: Edward Elgar. [[Coplan_2021_ClimateChangeLaw]]
+- Bodansky, D., Brunnée, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP. [[04-Akademik-Buku_Bodansky_2017_IntlClimateLaw]]
+- Coplan, K. S. et al. (2021). *Climate Change Law: An Introduction*. Cheltenham: Edward Elgar. [[04-Akademik-Buku_Coplan_2021_ClimateChangeLaw]]
 
 **Sumber Pendukung:**
-- Exxon Corporation. (1982). *CO₂ Greenhouse Effect*. Internal Report. [[Exxon_Climate_Report_1982]]
-- Ekwurzel, B. et al. (2017). "The rise in global atmospheric CO₂, surface temperature, and sea level from emissions traced to major carbon producers." *Climatic Change*. [[Ekwurzel_2017_CarbonProducers]]
+- Exxon Corporation. (1982). *CO₂ Greenhouse Effect*. Internal Report. [[05-Laporan_Exxon_Climate_Report_1982]]
+- Ekwurzel, B. et al. (2017). "The rise in global atmospheric CO₂, surface temperature, and sea level from emissions traced to major carbon producers." *Climatic Change*. [[04-Akademik-Artikel_Ekwurzel_2017_CarbonProducers]]
 
 ---
 
 ### 7. Tautan Terkait
 
 **Sumber dalam Vault:**
-- [[01-Traktat/UNFCCC_1992]] - Konvensi kerangka yang memulai rezim iklim internasional
-- [[01-Traktat/Paris_Agreement_2015]] - Perjanjian iklim terkini
-- [[05-Laporan/IPCC_AR6_2023]] - Laporan ilmiah komprehensif
-- [[04-Akademik/Buku/Coplan_2021_ClimateChangeLaw]] - Buku teks referensi
+- [[01-Traktat_UNFCCC_1992]] - Konvensi kerangka yang memulai rezim iklim internasional
+- [[01-Traktat_Paris_Agreement_2015]] - Perjanjian iklim terkini
+- [[05-Laporan_IPCC_AR6_2023]] - Laporan ilmiah komprehensif
+- [[04-Akademik-Buku_Coplan_2021_ClimateChangeLaw]] - Buku teks referensi
 
 **Navigasi Buku:**
-- → [[BAB 2 -- Prinsip-Prinsip Hukum Lingkungan Internasional --|BAB 2: Prinsip-Prinsip Hukum Lingkungan Internasional]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2: Prinsip-Prinsip Hukum Lingkungan Internasional]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

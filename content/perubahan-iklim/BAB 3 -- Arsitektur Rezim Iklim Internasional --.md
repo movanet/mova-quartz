@@ -51,7 +51,7 @@ graph LR
     B --> F[BAB 7: Hukum Indonesia]
 ```
 
-Bab ini merupakan kelanjutan dari [[BAB 2 -- Prinsip-Prinsip Hukum Lingkungan Internasional --|BAB 2 tentang Prinsip-Prinsip]] dan menjadi fondasi untuk memahami kewajiban spesifik dalam [[BAB 4 -- Kewajiban Mitigasi dalam Hukum Internasional --|BAB 4 (Mitigasi)]], [[BAB 5 -- Hukum Adaptasi Perubahan Iklim --|BAB 5 (Adaptasi)]], dan [[BAB 6 -- Pendanaan dan Mekanisme Iklim --|BAB 6 (Pendanaan)]].
+Bab ini merupakan kelanjutan dari [[Buku-Ajar-Hukum-Perubahan-Iklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2 tentang Prinsip-Prinsip]] dan menjadi fondasi untuk memahami kewajiban spesifik dalam [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4 (Mitigasi)]], [[Buku-Ajar-Hukum-Perubahan-Iklim-05-Hukum-Adaptasi_BAB-05|BAB 5 (Adaptasi)]], dan [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6 (Pendanaan)]].
 
 ### 5. Peta Konsep Bab
 
@@ -231,7 +231,7 @@ Penting untuk dipahami bahwa meskipun kewajiban prosedural dalam Persetujuan Par
 >
 > Target ini mencakup sektor-sektor: energi, limbah, IPPU, pertanian, dan kehutanan (FOLU).
 >
-> Lihat: [[03-Peraturan/Indonesia/NDC_Indonesia]]
+> Lihat: [[03-Peraturan-Indonesia_NDC_Indonesia]]
 
 #### 3.3 Global Stocktake (GST)
 
@@ -498,7 +498,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-b, 4-c, 5-c, 6-S, 7-B, 8-S, 9-B, 10-S
 
@@ -510,7 +510,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-04\|BAB 4]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -541,9 +541,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 6. Daftar Pustaka Bab
 
 **Sumber Primer:**
-- United Nations Framework Convention on Climate Change, 1992. [[01-Traktat/UNFCCC_1992]]
-- Kyoto Protocol, 1997. [[01-Traktat/Kyoto_Protocol_1997]]
-- Paris Agreement, 2015. [[01-Traktat/Paris_Agreement_2015]]
+- United Nations Framework Convention on Climate Change, 1992. [[01-Traktat_UNFCCC_1992]]
+- Kyoto Protocol, 1997. [[01-Traktat_Kyoto_Protocol_1997]]
+- Paris Agreement, 2015. [[01-Traktat_Paris_Agreement_2015]]
 
 **Sumber Sekunder:**
 - Bodansky, D., Brunnée, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP.
@@ -552,22 +552,22 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 **Sumber Pendukung:**
 - UNFCCC. (2023). *Technical dialogue of the first global stocktake: Synthesis report*.
-- Indonesia Enhanced NDC, 2022. [[03-Peraturan/Indonesia/NDC_Indonesia]]
+- Indonesia Enhanced NDC, 2022. [[03-Peraturan-Indonesia_NDC_Indonesia]]
 
 ---
 
 ### 7. Tautan Terkait
 
 **Sumber dalam Vault:**
-- [[01-Traktat/UNFCCC_1992]] - Teks konvensi kerangka
-- [[01-Traktat/Kyoto_Protocol_1997]] - Teks protokol pertama
-- [[01-Traktat/Paris_Agreement_2015]] - Teks persetujuan terkini
-- [[03-Peraturan/Indonesia/NDC_Indonesia]] - Kontribusi nasional Indonesia
+- [[01-Traktat_UNFCCC_1992]] - Teks konvensi kerangka
+- [[01-Traktat_Kyoto_Protocol_1997]] - Teks protokol pertama
+- [[01-Traktat_Paris_Agreement_2015]] - Teks persetujuan terkini
+- [[03-Peraturan-Indonesia_NDC_Indonesia]] - Kontribusi nasional Indonesia
 
 **Navigasi Buku:**
-- ← [[BAB 2 -- Prinsip-Prinsip Hukum Lingkungan Internasional --|BAB 2: Prinsip-Prinsip Hukum Lingkungan Internasional]]
-- → [[BAB 4 -- Kewajiban Mitigasi dalam Hukum Internasional --|BAB 4: Kewajiban Mitigasi dalam Hukum Internasional]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2: Prinsip-Prinsip Hukum Lingkungan Internasional]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4: Kewajiban Mitigasi dalam Hukum Internasional]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

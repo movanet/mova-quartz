@@ -240,7 +240,7 @@ Di bawah payung UU PPLH dan UU ratifikasi, berbagai PP dan Perpres mengatur impl
 
 **Perpres 98/2021 tentang Penyelenggaraan Nilai Ekonomi Karbon** menjadi peraturan paling signifikan dalam arsitektur hukum iklim Indonesia pasca-Persetujuan Paris. Perpres ini menetapkan kerangka hukum untuk berbagai instrumen ekonomi karbon: perdagangan emisi dalam negeri (*cap and trade* dan *offset*), pungutan atas karbon (pajak karbon), pembayaran berbasis kinerja (*Results-Based Payment*/RBP), dan kontribusi berbasis hasil untuk mekanisme internasional seperti REDD+.[^22]
 
-Perpres NEK juga mengatur tata kelola kelembagaan pasar karbon, termasuk pembentukan sistem registri nasional, penunjukan lembaga verifikasi, dan mekanisme pelaporan. Pembahasan mendalam tentang Perpres NEK tersedia di [[BAB 8 -- Nilai Ekonomi Karbon dan Bursa Karbon --|BAB 8]].
+Perpres NEK juga mengatur tata kelola kelembagaan pasar karbon, termasuk pembentukan sistem registri nasional, penunjukan lembaga verifikasi, dan mekanisme pelaporan. Pembahasan mendalam tentang Perpres NEK tersedia di [[Buku-Ajar-Hukum-Perubahan-Iklim-08-Nilai-Ekonomi-Karbon_BAB-08|BAB 8]].
 
 **PP 40/2025 tentang Dekarbonisasi Sektor Ketenagalistrikan** adalah regulasi terbaru yang mengatur transisi energi di sektor listrik—sektor dengan emisi terbesar setelah FOLU. PP ini menetapkan roadmap pensiun dini PLTU batubara, cap emisi untuk sektor listrik, dan integrasi dengan sistem perdagangan emisi.[^23]
 
@@ -593,7 +593,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-b, 4-b, 5-c, 6-S, 7-S, 8-B, 9-B, 10-S
 
@@ -620,9 +620,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 **Sumber Primer:**
 - UUD Negara Republik Indonesia Tahun 1945
-- UU No. 32 Tahun 2009 tentang PPLH [[03-Peraturan/Indonesia/UU_32_2009_PPLH]]
-- Perpres No. 98 Tahun 2021 tentang NEK [[03-Peraturan/Indonesia/Perpres_98_2021_NEK]]
-- Enhanced NDC Indonesia, 2022 [[03-Peraturan/Indonesia/NDC_Indonesia]]
+- UU No. 32 Tahun 2009 tentang PPLH [[03-Peraturan-Indonesia_UU_32_2009_PPLH]]
+- Perpres No. 98 Tahun 2021 tentang NEK [[03-Peraturan-Indonesia_Perpres_98_2021_NEK]]
+- Enhanced NDC Indonesia, 2022 [[03-Peraturan-Indonesia_NDC_Indonesia]]
 
 **Sumber Sekunder:**
 - KLHK. (2022). *Laporan Inventarisasi GRK Nasional*.
@@ -633,15 +633,15 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 7. Tautan Terkait
 
 **Sumber dalam Vault:**
-- [[03-Peraturan/Indonesia/NDC_Indonesia]] - NDC Indonesia
-- [[03-Peraturan/Indonesia/UU_32_2009_PPLH]] - UU PPLH
-- [[03-Peraturan/Indonesia/Perpres_98_2021_NEK]] - Perpres NEK
-- [[01-Traktat/Paris_Agreement_2015]] - Persetujuan Paris
+- [[03-Peraturan-Indonesia_NDC_Indonesia]] - NDC Indonesia
+- [[03-Peraturan-Indonesia_UU_32_2009_PPLH]] - UU PPLH
+- [[03-Peraturan-Indonesia_Perpres_98_2021_NEK]] - Perpres NEK
+- [[01-Traktat_Paris_Agreement_2015]] - Persetujuan Paris
 
 **Navigasi Buku:**
-- ← [[BAB 6 -- Pendanaan dan Mekanisme Iklim --|BAB 6: Pendanaan dan Mekanisme Iklim]]
-- → [[BAB 8 -- Nilai Ekonomi Karbon dan Bursa Karbon --|BAB 8: Nilai Ekonomi Karbon dan Bursa Karbon]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6: Pendanaan dan Mekanisme Iklim]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-08-Nilai-Ekonomi-Karbon_BAB-08|BAB 8: Nilai Ekonomi Karbon dan Bursa Karbon]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

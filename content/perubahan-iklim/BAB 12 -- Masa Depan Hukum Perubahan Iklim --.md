@@ -228,8 +228,8 @@ Hukum perubahan iklim adalah bidang yang dinamis dan terus berkembang. Sebagai c
 ---
 
 **Navigasi:**
-- ← [[BAB 11 -- Litigasi Perubahan Iklim --|BAB 11]]
-- → [[BAB 13 -- Kerangka Hukum Adaptasi Internasional --|BAB 13]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|BAB 11]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13]]
 
 ---
 

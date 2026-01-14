@@ -1,11 +1,10 @@
----
-publish: true
----
-
 # Lampiran 4: Kunci Jawaban Tes Formatif
+publish: true
 
 **Buku Ajar Hukum Perubahan Iklim**
 *Universitas Ibn Khaldun Bogor*
+
+---
 
 Lampiran ini berisi kunci jawaban untuk tes formatif dari seluruh 16 bab dalam buku ajar.
 
@@ -341,7 +340,7 @@ Lampiran ini berisi kunci jawaban untuk tes formatif dari seluruh 16 bab dalam b
 
 ## Rumus Penilaian
 
-$$Tingkat\ Penguasaan = rac{Jumlah\ Jawaban\ Benar}{10} 	imes 100\%$$
+$$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 ## Interpretasi dan Tindak Lanjut
 
@@ -355,8 +354,8 @@ $$Tingkat\ Penguasaan = rac{Jumlah\ Jawaban\ Benar}{10} 	imes 100\%$$
 ---
 
 **Navigasi:**
-- ← [[Indeks|Indeks]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter_Indeks|Indeks]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

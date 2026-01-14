@@ -29,7 +29,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 4. **Mengidentifikasi** potensi dan tantangan litigasi iklim di Indonesia
 
 > [!tip] **Pembahasan Komprehensif**
-> Bab ini memberikan pengantar tentang litigasi iklim. Untuk pembahasan komprehensif dengan analisis Advisory Opinions (ICJ, ITLOS, IACtHR), kasus-kasus terbaru 2024-2025, dan detail litigasi Indonesia, lihat [[BAB 16 -- Litigasi Perubahan Iklim --|BAB 16: Litigasi Perubahan Iklim (Komprehensif)]].
+> Bab ini memberikan pengantar tentang litigasi iklim. Untuk pembahasan komprehensif dengan analisis Advisory Opinions (ICJ, ITLOS, IACtHR), kasus-kasus terbaru 2024-2025, dan detail litigasi Indonesia, lihat [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16: Litigasi Perubahan Iklim (Komprehensif)]].
 
 ### 2. Peta Konsep Bab
 
@@ -232,7 +232,7 @@ Tahun 2024-2025 menyaksikan dua perkembangan penting: **Advisory Opinions** dari
 
 **ITLOS Advisory Opinion (2024)**: International Tribunal for the Law of the Sea menerbitkan Advisory Opinion tentang kewajiban negara pihak UNCLOS terkait emisi GRK dan dampaknya pada lingkungan laut. Putusan ini menegaskan bahwa polusi atmosfer yang berujung pada pengasaman laut termasuk dalam cakupan UNCLOS.[^26]
 
-Untuk pembahasan komprehensif tentang Advisory Opinions dan kasus-kasus terbaru, lihat [[BAB 16 -- Litigasi Perubahan Iklim --|BAB 16]].
+Untuk pembahasan komprehensif tentang Advisory Opinions dan kasus-kasus terbaru, lihat [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16]].
 
 [^25]: UN General Assembly Resolution A/RES/77/276 (29 March 2023) 'Request for an advisory opinion of the International Court of Justice on the obligations of States in respect of climate change'.
 [^26]: Request for an Advisory Opinion Submitted by the Commission of Small Island States on Climate Change and International Law, Case No 31, ITLOS (21 May 2024).
@@ -320,7 +320,7 @@ Beberapa kasus Indonesia memberikan preseden yang dapat dikembangkan untuk litig
 **Menuju "Urgenda Indonesia"?**: Dengan dasar hukum yang tersedia dan preseden yang sudah ada, Indonesia siap untuk kasus iklim strategis pertamanya. Koalisi organisasi lingkungan dapat mempertimbangkan gugatan terhadap pemerintah atas kegagalan mencapai target NDC atau atas kebijakan yang inkonsisten dengan komitmen Paris Agreement.[^35]
 
 [^34]: Meliani et al v Presiden RI et al, Putusan PN Jakarta Pusat No 374/Pdt.G/LH/2019/PN Jkt Pst (16 September 2021).
-[^35]: Untuk pembahasan komprehensif tentang litigasi iklim Indonesia dan strategi ke depan, lihat [[BAB 16 -- Litigasi Perubahan Iklim --|BAB 16]].
+[^35]: Untuk pembahasan komprehensif tentang litigasi iklim Indonesia dan strategi ke depan, lihat [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16]].
 
 ---
 
@@ -367,8 +367,8 @@ Koalisi LSM ingin menggugat pemerintah Indonesia atas kegagalan mencapai target 
 ---
 
 **Navigasi:**
-- ← [[BAB 10 -- Hukum Iklim Sektoral --|BAB 10]]
-- → [[BAB 12 -- Masa Depan Hukum Perubahan Iklim --|BAB 12]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-10-Hukum-Iklim-Sektoral_BAB-10|BAB 10]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-12-Masa-Depan-Hukum-Iklim_BAB-12|BAB 12]]
 
 ---
 

@@ -50,7 +50,7 @@ graph LR
     B --> F[BAB 10: Sektoral]
 ```
 
-Bab ini terkait erat dengan [[BAB 6 -- Pendanaan dan Mekanisme Iklim --|BAB 6 tentang Pendanaan]] karena pasar karbon merupakan salah satu instrumen pendanaan iklim, dan [[BAB 7 -- Kerangka Hukum Iklim Indonesia --|BAB 7 tentang Kerangka Hukum Indonesia]] yang membahas regulasi iklim nasional secara umum.
+Bab ini terkait erat dengan [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6 tentang Pendanaan]] karena pasar karbon merupakan salah satu instrumen pendanaan iklim, dan [[Buku-Ajar-Hukum-Perubahan-Iklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7 tentang Kerangka Hukum Indonesia]] yang membahas regulasi iklim nasional secara umum.
 
 ### 5. Peta Konsep Bab
 
@@ -437,7 +437,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-b, 3-c, 4-c, 5-c, 6-S, 7-B, 8-B, 9-S, 10-B
 
@@ -449,7 +449,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-09\|BAB 9]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-09-Perbandingan-Hukum-Iklim_BAB-09|BAB 9]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -497,14 +497,14 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 7. Tautan Terkait
 
 **Sumber dalam Vault:**
-- [[03-Peraturan/Indonesia/Perpres_98_2021_NEK]] - Teks lengkap Perpres 98/2021
-- [[03-Peraturan/Indonesia/PP_40_2025_Dekarbonisasi]] - PP tentang dekarbonisasi
-- [[01-Traktat/Paris_Agreement_2015]] - Pasal 6 tentang mekanisme pasar
+- [[03-Peraturan-Indonesia_Perpres_98_2021_NEK]] - Teks lengkap Perpres 98/2021
+- [[03-Peraturan-Indonesia_PP_40_2025_Dekarbonisasi]] - PP tentang dekarbonisasi
+- [[01-Traktat_Paris_Agreement_2015]] - Pasal 6 tentang mekanisme pasar
 
 **Navigasi Buku:**
-- ← [[BAB 7 -- Kerangka Hukum Iklim Indonesia --|BAB 7: Kerangka Hukum Iklim Indonesia]]
-- → [[BAB 9 -- Studi Perbandingan Hukum Iklim --|BAB 9: Studi Perbandingan Hukum Iklim]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7: Kerangka Hukum Iklim Indonesia]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-09-Perbandingan-Hukum-Iklim_BAB-09|BAB 9: Studi Perbandingan Hukum Iklim]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

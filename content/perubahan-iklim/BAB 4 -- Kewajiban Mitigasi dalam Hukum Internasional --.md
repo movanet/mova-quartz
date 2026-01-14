@@ -49,7 +49,7 @@ graph LR
     B --> E[BAB 11: Litigasi]
 ```
 
-Bab ini merupakan kelanjutan dari [[BAB 3 -- Arsitektur Rezim Iklim Internasional --|BAB 3 tentang Arsitektur Rezim]] dan menjadi fondasi untuk memahami [[BAB 5 -- Hukum Adaptasi Perubahan Iklim --|Adaptasi]], [[BAB 6 -- Pendanaan dan Mekanisme Iklim --|Pendanaan]], dan [[BAB 11 -- Litigasi Perubahan Iklim --|Litigasi Iklim]].
+Bab ini merupakan kelanjutan dari [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3 tentang Arsitektur Rezim]] dan menjadi fondasi untuk memahami [[Buku-Ajar-Hukum-Perubahan-Iklim-05-Hukum-Adaptasi_BAB-05|Adaptasi]], [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|Pendanaan]], dan [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|Litigasi Iklim]].
 
 ### 5. Peta Konsep Bab
 
@@ -492,7 +492,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-b, 3-b, 4-b, 5-c, 6-S, 7-B, 8-S, 9-B, 10-S
 
@@ -504,7 +504,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-05\|BAB 5]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-05-Hukum-Adaptasi_BAB-05|BAB 5]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -534,12 +534,12 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 6. Daftar Pustaka Bab
 
 **Sumber Primer:**
-- Paris Agreement, 2015. [[01-Traktat/Paris_Agreement_2015]]
-- ICJ Advisory Opinion on Climate Change, 2025. [[02-Yurisprudensi/Internasional/ICJ_Climate_AO_2025]]
-- Urgenda v. State of the Netherlands, Hoge Raad, 2019. [[02-Yurisprudensi/Domestik/Urgenda_v_Netherlands_2019]]
+- Paris Agreement, 2015. [[01-Traktat_Paris_Agreement_2015]]
+- ICJ Advisory Opinion on Climate Change, 2025. [[02-Yurisprudensi-Internasional_ICJ_Climate_AO_2025]]
+- Urgenda v. State of the Netherlands, Hoge Raad, 2019. [[02-Yurisprudensi-Domestik_Urgenda_v_Netherlands_2019]]
 
 **Sumber Sekunder:**
-- Mayer, B. (2022). *International Law Obligations on Climate Change Mitigation*. Oxford: OUP. [[04-Akademik/Buku/Mayer_2022_Mitigation]]
+- Mayer, B. (2022). *International Law Obligations on Climate Change Mitigation*. Oxford: OUP. [[04-Akademik-Buku_Mayer_2022_Mitigation]]
 - Bodansky, D. et al. (2017). *International Climate Change Law*. Oxford: OUP.
 - Savaresi, A. & Setzer, J. (2022). "Climate litigation and human rights." *Annual Review of Law and Social Science*.
 
@@ -552,15 +552,15 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 7. Tautan Terkait
 
 **Sumber dalam Vault:**
-- [[01-Traktat/Paris_Agreement_2015]] - Persetujuan Paris dengan kewajiban mitigasi
-- [[02-Yurisprudensi/Internasional/ICJ_Climate_AO_2025]] - Pendapat hukum ICJ
-- [[02-Yurisprudensi/Domestik/Urgenda_v_Netherlands_2019]] - Kasus landmark litigasi iklim
-- [[04-Akademik/Buku/Mayer_2022_Mitigation]] - Referensi akademis utama
+- [[01-Traktat_Paris_Agreement_2015]] - Persetujuan Paris dengan kewajiban mitigasi
+- [[02-Yurisprudensi-Internasional_ICJ_Climate_AO_2025]] - Pendapat hukum ICJ
+- [[02-Yurisprudensi-Domestik_Urgenda_v_Netherlands_2019]] - Kasus landmark litigasi iklim
+- [[04-Akademik-Buku_Mayer_2022_Mitigation]] - Referensi akademis utama
 
 **Navigasi Buku:**
-- ← [[BAB 3 -- Arsitektur Rezim Iklim Internasional --|BAB 3: Arsitektur Rezim Iklim Internasional]]
-- → [[BAB 5 -- Hukum Adaptasi Perubahan Iklim --|BAB 5: Hukum Adaptasi Perubahan Iklim]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3: Arsitektur Rezim Iklim Internasional]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-05-Hukum-Adaptasi_BAB-05|BAB 5: Hukum Adaptasi Perubahan Iklim]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

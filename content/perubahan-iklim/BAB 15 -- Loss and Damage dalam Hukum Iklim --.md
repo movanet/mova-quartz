@@ -49,7 +49,7 @@ graph LR
     B --> E[BAB 16: Litigasi Iklim]
 ```
 
-Bab ini melengkapi pembahasan adaptasi di [[BAB 5 -- Hukum Adaptasi Perubahan Iklim --|BAB 5]], [[BAB 13 -- Kerangka Hukum Adaptasi Internasional --|BAB 13]], dan [[BAB 14 -- Hukum Adaptasi Sektoral Indonesia --|BAB 14]] dengan membahas apa yang terjadi ketika adaptasi mencapai batasnya. Konsep *loss and damage* juga terkait erat dengan [[BAB 16 -- Litigasi Perubahan Iklim --|BAB 16]] tentang litigasi iklim, karena sebagian kasus litigasi bertujuan untuk menuntut kompensasi atas kerugian dan kerusakan.
+Bab ini melengkapi pembahasan adaptasi di [[Buku-Ajar-Hukum-Perubahan-Iklim-05-Hukum-Adaptasi_BAB-05|BAB 5]], [[Buku-Ajar-Hukum-Perubahan-Iklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13]], dan [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14]] dengan membahas apa yang terjadi ketika adaptasi mencapai batasnya. Konsep *loss and damage* juga terkait erat dengan [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16]] tentang litigasi iklim, karena sebagian kasus litigasi bertujuan untuk menuntut kompensasi atas kerugian dan kerusakan.
 
 ### 5. Peta Konsep Bab
 
@@ -384,7 +384,7 @@ Meski Paragraf 51 membatasi klaim berdasarkan Pasal 8, jalur hukum lain tetap te
 > - Kegagalan memenuhi kewajiban ini dapat menimbulkan tanggung jawab negara
 > - Paris Agreement menciptakan kewajiban hukum yang mengikat
 >
-> Lihat pembahasan lengkap di [[BAB 16 -- Litigasi Perubahan Iklim --|BAB 16]].
+> Lihat pembahasan lengkap di [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16]].
 
 ---
 
@@ -580,7 +580,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-c, 2-b, 3-c, 4-c, 5-c, 6-S, 7-B, 8-B, 9-S, 10-B
 
@@ -592,7 +592,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-16\|BAB 16]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -671,9 +671,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 **Navigasi Buku:**
-- ← [[BAB 14 -- Hukum Adaptasi Sektoral Indonesia --|BAB 14: Hukum Adaptasi Sektoral Indonesia]]
-- → [[BAB 16 -- Litigasi Perubahan Iklim --|BAB 16: Litigasi Perubahan Iklim]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14: Hukum Adaptasi Sektoral Indonesia]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16: Litigasi Perubahan Iklim]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

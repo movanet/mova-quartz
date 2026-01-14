@@ -49,7 +49,7 @@ graph LR
     B --> E[BAB 14: Adaptasi Sektoral]
 ```
 
-Bab ini memperdalam [[BAB 7 -- Kerangka Hukum Iklim Indonesia --|BAB 7]] dengan fokus pada regulasi sektor-sektor utama. Untuk pembahasan adaptasi sektoral (bukan mitigasi), lihat [[BAB 14 -- Hukum Adaptasi Sektoral Indonesia --|BAB 14]].
+Bab ini memperdalam [[Buku-Ajar-Hukum-Perubahan-Iklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7]] dengan fokus pada regulasi sektor-sektor utama. Untuk pembahasan adaptasi sektoral (bukan mitigasi), lihat [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14]].
 
 ### 5. Peta Konsep Bab
 
@@ -385,7 +385,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-b, 3-b, 4-a, 5-b, 6-B, 7-S, 8-B, 9-B, 10-B
 
@@ -397,7 +397,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-11\|BAB 11]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|BAB 11]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -447,14 +447,14 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 7. Tautan Terkait
 
 **Sumber dalam Vault:**
-- [[03-Peraturan/Indonesia/Perpres_112_2022_EBT]] - Perpres tentang EBT
-- [[04-Akademik/Artikel/Diantoro_RegulasiFOLU]] - Artikel tentang regulasi FOLU
-- [[03-Peraturan/Indonesia/NDC_Indonesia]] - Dokumen NDC Indonesia
+- [[03-Peraturan-Indonesia_Perpres_112_2022_EBT]] - Perpres tentang EBT
+- [[04-Akademik-Artikel_Diantoro_RegulasiFOLU]] - Artikel tentang regulasi FOLU
+- [[03-Peraturan-Indonesia_NDC_Indonesia]] - Dokumen NDC Indonesia
 
 **Navigasi Buku:**
-- ← [[BAB 9 -- Studi Perbandingan Hukum Iklim --|BAB 9: Studi Perbandingan Hukum Iklim]]
-- → [[BAB 11 -- Litigasi Perubahan Iklim --|BAB 11: Litigasi Perubahan Iklim]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-09-Perbandingan-Hukum-Iklim_BAB-09|BAB 9: Studi Perbandingan Hukum Iklim]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|BAB 11: Litigasi Perubahan Iklim]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

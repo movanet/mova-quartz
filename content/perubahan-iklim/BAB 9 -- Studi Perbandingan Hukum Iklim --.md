@@ -49,7 +49,7 @@ graph LR
     B --> E[BAB 12: Masa Depan]
 ```
 
-Bab ini melengkapi [[BAB 7 -- Kerangka Hukum Iklim Indonesia --|BAB 7]] dan [[BAB 8 -- Nilai Ekonomi Karbon dan Bursa Karbon --|BAB 8]] dengan perspektif komparatif dari yurisdiksi lain untuk memberikan konteks global bagi perkembangan hukum iklim Indonesia.
+Bab ini melengkapi [[Buku-Ajar-Hukum-Perubahan-Iklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7]] dan [[Buku-Ajar-Hukum-Perubahan-Iklim-08-Nilai-Ekonomi-Karbon_BAB-08|BAB 8]] dengan perspektif komparatif dari yurisdiksi lain untuk memberikan konteks global bagi perkembangan hukum iklim Indonesia.
 
 ### 5. Peta Konsep Bab
 
@@ -216,7 +216,7 @@ Amerika Serikat memiliki tradisi litigasi iklim yang paling berkembang di dunia.
 
 **Public trust doctrine**: Beberapa kasus mengandalkan doktrin bahwa negara memiliki kewajiban fidusiari untuk melindungi sumber daya alam bagi generasi mendatang. Meskipun belum berhasil di tingkat federal, doktrin ini mendapat penerimaan di beberapa yurisdiksi negara bagian.[^33]
 
-**Pelajaran litigasi AS untuk Indonesia**: Meskipun tradisi hukum berbeda, litigasi iklim mulai muncul di Indonesia. Kasus [[02-Yurisprudensi/Domestik/Wahana_Lingkungan_Hidup|WALHI v. Pemerintah RI]] dan gugatan-gugatan terkait kebakaran hutan menunjukkan potensi pengadilan sebagai forum untuk akuntabilitas iklim. Penguatan akses keadilan dan *legal standing* organisasi lingkungan akan memperluas peran ini.[^34]
+**Pelajaran litigasi AS untuk Indonesia**: Meskipun tradisi hukum berbeda, litigasi iklim mulai muncul di Indonesia. Kasus [[02-Yurisprudensi-Domestik_Wahana_Lingkungan_Hidup|WALHI v. Pemerintah RI]] dan gugatan-gugatan terkait kebakaran hutan menunjukkan potensi pengadilan sebagai forum untuk akuntabilitas iklim. Penguatan akses keadilan dan *legal standing* organisasi lingkungan akan memperluas peran ini.[^34]
 
 [^29]: Setzer J dan Higham C, *Global Trends in Climate Change Litigation: 2023 Snapshot* (Grantham Research Institute, LSE 2023) 5-10.
 [^30]: Juliana v United States, 947 F 3d 1159 (9th Cir 2020).
@@ -482,7 +482,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-b, 4-c, 5-c, 6-B, 7-S, 8-S, 9-B, 10-S
 
@@ -494,7 +494,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-10\|BAB 10]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-10-Hukum-Iklim-Sektoral_BAB-10|BAB 10]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -543,14 +543,14 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 7. Tautan Terkait
 
 **Sumber dalam Vault:**
-- [[03-Peraturan/Internasional/EU_Climate_Law_2021]] - Teks EU Climate Law
-- [[03-Peraturan/Internasional/US_IRA_2022]] - Ringkasan Inflation Reduction Act
-- [[01-Traktat/Paris_Agreement_2015]] - Konteks internasional
+- [[03-Peraturan-Internasional_EU_Climate_Law_2021]] - Teks EU Climate Law
+- [[03-Peraturan-Internasional_US_IRA_2022]] - Ringkasan Inflation Reduction Act
+- [[01-Traktat_Paris_Agreement_2015]] - Konteks internasional
 
 **Navigasi Buku:**
-- ← [[BAB 8 -- Nilai Ekonomi Karbon dan Bursa Karbon --|BAB 8: Nilai Ekonomi Karbon dan Bursa Karbon]]
-- → [[BAB 10 -- Hukum Iklim Sektoral --|BAB 10: Hukum Iklim Sektoral]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-08-Nilai-Ekonomi-Karbon_BAB-08|BAB 8: Nilai Ekonomi Karbon dan Bursa Karbon]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-10-Hukum-Iklim-Sektoral_BAB-10|BAB 10: Hukum Iklim Sektoral]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

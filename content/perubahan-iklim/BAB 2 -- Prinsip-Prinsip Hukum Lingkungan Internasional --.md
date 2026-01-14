@@ -50,7 +50,7 @@ graph LR
     B --> E[BAB 5: Hukum Adaptasi]
 ```
 
-Bab ini merupakan kelanjutan dari [[BAB 1 -- Pengantar Hukum Perubahan Iklim --|BAB 1 tentang Pengantar]] dan menjadi fondasi normatif untuk memahami [[BAB 3 -- Arsitektur Rezim Iklim Internasional --|Arsitektur Rezim Iklim Internasional]] dan bab-bab selanjutnya.
+Bab ini merupakan kelanjutan dari [[Buku-Ajar-Hukum-Perubahan-Iklim-01-Pengantar-Hukum-Perubahan-Iklim_BAB-01|BAB 1 tentang Pengantar]] dan menjadi fondasi normatif untuk memahami [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|Arsitektur Rezim Iklim Internasional]] dan bab-bab selanjutnya.
 
 ### 5. Peta Konsep Bab
 
@@ -439,7 +439,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-b, 4-c, 5-b, 6-S, 7-B, 8-S, 9-B, 10-S
 
@@ -451,7 +451,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[BAB-03\|BAB 3]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -481,8 +481,8 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 6. Daftar Pustaka Bab
 
 **Sumber Primer:**
-- Declaration of the United Nations Conference on the Human Environment (Stockholm Declaration), 1972. [[01-Traktat/Stockholm_Declaration_1972]]
-- Rio Declaration on Environment and Development, 1992. [[01-Traktat/Rio_Declaration_1992]]
+- Declaration of the United Nations Conference on the Human Environment (Stockholm Declaration), 1972. [[01-Traktat_Stockholm_Declaration_1972]]
+- Rio Declaration on Environment and Development, 1992. [[01-Traktat_Rio_Declaration_1992]]
 
 **Sumber Sekunder:**
 - Sands, P. & Peel, J. (2018). *Principles of International Environmental Law*. 4th ed. Cambridge: CUP.
@@ -490,7 +490,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - Weiss, E. B. (1989). *In Fairness to Future Generations*. Tokyo: UNU.
 
 **Sumber Pendukung:**
-- ICJ Advisory Opinion on Climate Change, 2025. [[02-Yurisprudensi/Internasional/ICJ_Climate_AO_2025]]
+- ICJ Advisory Opinion on Climate Change, 2025. [[02-Yurisprudensi-Internasional_ICJ_Climate_AO_2025]]
 - Heede, R. (2014). "Tracing anthropogenic carbon dioxide and methane emissions to fossil fuel and cement producers." *Climatic Change*.
 
 ---
@@ -498,15 +498,15 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ### 7. Tautan Terkait
 
 **Sumber dalam Vault:**
-- [[01-Traktat/Stockholm_Declaration_1972]] - Teks Deklarasi Stockholm
-- [[01-Traktat/Rio_Declaration_1992]] - Teks Deklarasi Rio
-- [[01-Traktat/UNFCCC_1992]] - Konvensi yang mengadopsi prinsip-prinsip Rio
-- [[02-Yurisprudensi/Internasional/ICJ_Climate_AO_2025]] - Penerapan prinsip-prinsip dalam yurisprudensi
+- [[01-Traktat_Stockholm_Declaration_1972]] - Teks Deklarasi Stockholm
+- [[01-Traktat_Rio_Declaration_1992]] - Teks Deklarasi Rio
+- [[01-Traktat_UNFCCC_1992]] - Konvensi yang mengadopsi prinsip-prinsip Rio
+- [[02-Yurisprudensi-Internasional_ICJ_Climate_AO_2025]] - Penerapan prinsip-prinsip dalam yurisprudensi
 
 **Navigasi Buku:**
-- ← [[BAB 1 -- Pengantar Hukum Perubahan Iklim --|BAB 1: Pengantar Hukum Perubahan Iklim]]
-- → [[BAB 3 -- Arsitektur Rezim Iklim Internasional --|BAB 3: Arsitektur Rezim Iklim Internasional]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-01-Pengantar-Hukum-Perubahan-Iklim_BAB-01|BAB 1: Pengantar Hukum Perubahan Iklim]]
+- → [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3: Arsitektur Rezim Iklim Internasional]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

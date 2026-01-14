@@ -50,7 +50,7 @@ graph LR
     B --> E[Seluruh BAB]
 ```
 
-Bab ini memperdalam dan memperbarui pembahasan litigasi di [[BAB 11 -- Litigasi Perubahan Iklim --|BAB 11]] dengan perkembangan terbaru termasuk ICJ Advisory Opinion 2025. Pemahaman tentang litigasi iklim juga terhubung dengan [[BAB 15 -- Loss and Damage dalam Hukum Iklim --|BAB 15]] (kompensasi *loss and damage* melalui pengadilan) dan [[BAB 3 -- Arsitektur Rezim Iklim Internasional --|BAB 3]] (interpretasi kewajiban dalam traktat iklim).
+Bab ini memperdalam dan memperbarui pembahasan litigasi di [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|BAB 11]] dengan perkembangan terbaru termasuk ICJ Advisory Opinion 2025. Pemahaman tentang litigasi iklim juga terhubung dengan [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15]] (kompensasi *loss and damage* melalui pengadilan) dan [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3]] (interpretasi kewajiban dalam traktat iklim).
 
 ### 5. Peta Konsep Bab
 
@@ -686,7 +686,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-d, 2-b, 3-b, 4-b, 5-c, 6-S, 7-B, 8-B, 9-S, 10-B
 
@@ -791,8 +791,8 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 **Navigasi Buku:**
-- ← [[BAB 15 -- Loss and Damage dalam Hukum Iklim --|BAB 15: Loss and Damage dalam Hukum Iklim]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]]
+- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
