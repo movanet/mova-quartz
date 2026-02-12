@@ -90,6 +90,9 @@ Mulai dengan memahami konteks dan tujuan pembelajaran:
 ### Lampiran
 - [[Lampiran-04-Kunci-Jawaban|Kunci Jawaban]] - Jawaban latihan soal
 
+### Ujian Akhir Semester (UAS)
+- [[UAS-Soal-Studi-Kasus-Litigasi-Iklim|Soal UAS: Studi Kasus Litigasi Iklim]] - Ujian komprehensif berbasis kasus fiktif
+
 ---
 
 ## Cara Menggunakan Buku Ini

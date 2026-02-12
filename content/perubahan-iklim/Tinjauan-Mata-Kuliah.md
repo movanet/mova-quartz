@@ -235,6 +235,28 @@ flowchart LR
 | 14 | BAB 12: Masa Depan + Review | Diskusi Panel |
 | 15-16 | **UAS** | Ujian Akhir Semester |
 
+#### Metode Penilaian
+
+Mata kuliah ini menggunakan penilaian berbasis kompetensi dengan komponen sebagai berikut:
+
+| Komponen | Bobot | Deskripsi |
+|----------|-------|-----------|
+| **Partisipasi & Diskusi** | 10% | Keaktifan dalam diskusi kelas, pertanyaan kritis |
+| **Tugas & Latihan** | 15% | Latihan per BAB, analisis kasus singkat |
+| **Proyek Kelompok** | 20% | Naskah Akademik Perda Iklim (IKU 7) |
+| **UTS** | 25% | Ujian Tengah Semester (BAB 1-6) |
+| **UAS** | 30% | Ujian Akhir Semester - Studi Kasus Litigasi |
+
+**Format UAS Khusus:**
+UAS untuk mata kuliah ini menggunakan format **studi kasus litigasi iklim fiktif** yang dirancang untuk menguji kemampuan mahasiswa dalam:
+- Mengintegrasikan materi dari seluruh 16 BAB
+- Menganalisis preseden kasus nyata (Indonesia dan internasional)
+- Menyusun argumentasi hukum yang komprehensif
+- Menerapkan prinsip-prinsip hukum pada situasi konkret
+
+Untuk informasi lengkap tentang format UAS, lihat:
+- [[UAS-Soal-Studi-Kasus-Litigasi-Iklim|Soal UAS: Studi Kasus Litigasi Iklim]]
+
 ---
 
 ## VIII. PROYEK BERBASIS TIM (IKU 7)
