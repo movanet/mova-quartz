@@ -712,4 +712,4 @@ Praktik Indonesia dalam penyelesaian sengketa internasional sangat beragam, dari
 
 ---
 
-*Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[07_Tanggung_Jawab_Negara]] untuk pembahasan tentang tanggung jawab negara yang dapat menjadi dasar sengketa internasional, dan [[05_Yurisdiksi_Negara]] untuk pembahasan tentang yurisdiksi yang berkaitan erat dengan kompetensi pengadilan internasional.*
+*Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[07-Tanggung-Jawab]] untuk pembahasan tentang tanggung jawab negara yang dapat menjadi dasar sengketa internasional, dan [[05-Yurisdiksi]] untuk pembahasan tentang yurisdiksi yang berkaitan erat dengan kompetensi pengadilan internasional.*

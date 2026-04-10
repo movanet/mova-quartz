@@ -166,9 +166,9 @@ Kasus MV Saiga melibatkan kapal tanker yang ditangkap oleh armada laut Guinea di
 ## Referensi Silang
 
 Untuk pemahaman yang lebih lengkap, silakan merujuk ke:
-- [[01_Pengertian_Sejarah_HI]] - Konteks sejarah hukum internasional modern
-- [[05_Sumber_Hukum_Internasional]] - Sumber-sumber hukum internasional termasuk perjanjian internasional
-- [[07_Penyelesaian_Sengketa]] - Mekanisme penyelesaian sengketa internasional secara umum
+- [[01-Pengertian]] - Konteks sejarah hukum internasional modern
+- [[02-Sumber]] - Sumber-sumber hukum internasional termasuk perjanjian internasional
+- [[08-Sengketa]] - Mekanisme penyelesaian sengketa internasional secara umum
 
 ## Daftar Pustaka
 

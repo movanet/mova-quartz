@@ -702,10 +702,10 @@ Haryomataram. (2012). *Hukum Organisasi Internasional*. Jakarta: Universitas Ter
 ---
 
 **Cross-References:**
-- [[01_Pengertian_Sejarah_HI|Pengertian dan Sejarah Hukum Internasional]]
-- [[05_Sumber_Hukum_Internasional|Sumber-Sumber Hukum Internasional]]
-- [[09_Hukum_Laut_Internasional|Hukum Laut Internasional]]
-- [[11_Hukum_HAM_Internasional|Hukum Hak Asasi Manusia Internasional]]
+- [[01-Pengertian|Pengertian dan Sejarah Hukum Internasional]]
+- [[02-Sumber|Sumber-Sumber Hukum Internasional]]
+- [[09-Hukum-Laut|Hukum Laut Internasional]]
+- [[11-HAM|Hukum Hak Asasi Manusia Internasional]]
 
 **Catatan Pengajaran:** Materi ini dirancang untuk memberikan pemahaman komprehensif mengenai organisasi-organisasi internasional dari perspektif hukum internasional publik. Mahasiswa disarankan untuk melengkapi pembelajaran ini dengan membaca sumber-sumber primer seperti Piagam PBB, ASEAN Charter, dan putusan-putusan penting dari Mahkamah Internasional. Diskusi kelas dapat difokuskan pada analisis kritis terhadap efektivitas organisasi-organisasi internasional dalam mengatasi tantangan-tantangan kontemporer seperti perubahan iklim, keamanan siber, dan krisis kemanusiaan.
 

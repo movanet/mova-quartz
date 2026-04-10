@@ -416,9 +416,9 @@ Ysebrant, Lucas P. "Proportionality in International Humanitarian Law." Oxford J
 
 ### Pranala Silang
 
-- [[01_Pengertian_Sejarah_HI|Pengertian dan Sejarah Hukum Internasional]]
-- [[06_Subjek_Hukum_Internasional|Subjek-Subjek Hukum Internasional]]
-- [[11_Hukum_HAM_Internasional|Hukum Hak Asasi Manusia Internasional]]
+- [[01-Pengertian|Pengertian dan Sejarah Hukum Internasional]]
+- [[03-Subjek|Subjek-Subjek Hukum Internasional]]
+- [[11-HAM|Hukum Hak Asasi Manusia Internasional]]
 
 ---
 

@@ -777,4 +777,4 @@ Ekstradisi dan bantuan hukum timbal balik menjadi mekanisme penting kerja sama i
 
 ---
 
-*Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[04_Wilayah_Negara]] untuk pembahasan tentang kedaulatan teritorial dan [[06_Hukum_Perjanjian_Internasional]] untuk pembahasan tentang perjanjian internasional yang menjadi dasar bagi banyak perjanjian ekstradisi dan bantuan hukum timbal balik.*
+*Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[04-HI-Nasional]] untuk pembahasan tentang kedaulatan teritorial dan [[06-Perjanjian]] untuk pembahasan tentang perjanjian internasional yang menjadi dasar bagi banyak perjanjian ekstradisi dan bantuan hukum timbal balik.*

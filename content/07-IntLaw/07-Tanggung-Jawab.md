@@ -699,4 +699,4 @@ Prinsip reparasi penuh—melalui restitusi, kompensasi, dan satisfaksi—memasti
 
 ---
 
-*Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[06_Hukum_Perjanjian_Internasional]] untuk pembahasan tentang kewajiban perjanjian yang pelanggarannya dapat menimbulkan tanggung jawab negara, dan [[08_Penyelesaian_Sengketa_Internasional]] untuk pembahasan tentang mekanisme penyelesaian sengketa yang digunakan untuk mengajukan klaim tanggung jawab negara.*
+*Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[06-Perjanjian]] untuk pembahasan tentang kewajiban perjanjian yang pelanggarannya dapat menimbulkan tanggung jawab negara, dan [[08-Sengketa]] untuk pembahasan tentang mekanisme penyelesaian sengketa yang digunakan untuk mengajukan klaim tanggung jawab negara.*

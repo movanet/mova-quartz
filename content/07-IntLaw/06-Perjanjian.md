@@ -756,4 +756,4 @@ Praktik Indonesia dalam pembuatan perjanjian internasional diatur oleh UU 24/200
 
 ---
 
-*Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[05_Yurisdiksi_Negara]] untuk pembahasan tentang yurisdiksi dan [[07_Tanggung_Jawab_Negara]] untuk pembahasan tentang tanggung jawab negara atas pelanggaran kewajiban internasional, termasuk kewajiban yang bersumber dari perjanjian.*
+*Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[05-Yurisdiksi]] untuk pembahasan tentang yurisdiksi dan [[07-Tanggung-Jawab]] untuk pembahasan tentang tanggung jawab negara atas pelanggaran kewajiban internasional, termasuk kewajiban yang bersumber dari perjanjian.*
