@@ -1,9 +1,9 @@
----
+﻿---
 publish: true
 ---
 
 
-Berikut adalah terjemahan dari paper saya [Strengths and Limitations of The Indonesian Constitutional Court’s “6 Basic Principles” in Resolving Water Conflicts](https://consrev.mkri.id/index.php/const-rev/article/view/916/542)
+Berikut adalah terjemahan dari paper saya [Strengths and Limitations of The Indonesian Constitutional Courtâ€™s â€œ6 Basic Principlesâ€ in Resolving Water Conflicts](https://consrev.mkri.id/index.php/const-rev/article/view/916/542)
 
 tags: #water #constitution #allocation #conflict #indonesia 
 
@@ -41,3 +41,4 @@ Dalam menghadapi keterbatasan ini, makalah ini merekomendasikan agar Mahkamah Ko
 
 Related:
 [[Water Conflict in Indonesia]]
+

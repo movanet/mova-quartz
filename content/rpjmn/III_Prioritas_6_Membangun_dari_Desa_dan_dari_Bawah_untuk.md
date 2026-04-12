@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "Prioritas Nasional 6: Membangun dari Desa dan dari Bawah"
 chapter: "BAB III"
@@ -26,7 +26,7 @@ status: "validated"
 date: "2025-10-29"
 ---
 
-> **Navigation:** [[00_INDEX|🏠 Index]] | [[README|📖 About]]
+> **Navigation:** [[00_INDEX|ðŸ  Index]] | [[README|ðŸ“– About]]
 >
 > **You are here:** Prioritas Nasional 6: Membangun dari Desa dan dari Bawah
 
@@ -70,7 +70,7 @@ Sasaran Utama pada Prioritas Nasional 6 guna menjamin perencanaan dan pembanguna
 
 efektivitas dan efisiensi Untuk mengawal keberhasilan pertumbuhan 2025 dan 2029 adalah sebagai berikut:
 
-Sasaran pembangunan Prioritas Nasional 6 tahun ekonomi, pemberantasan pemerataan ekonomi, kemiskinan maka dan proses Sasaran Utama pada Prioritas Nasional 6 No Sasaran dan Indikator Baseline 2024 Target 2025 Target 2029 Mempercepat pengurangan kemiskinan dan peningkatan pemerataan 1 2 Tingkat kemiskinan (%) Tingkat kemiskinan ekstrem (%)a) 9,03 1,47 7,0–8,0 0,5 –1 4,5–5,0 0 161 No Sasaran dan Indikator Baseline 2024 Target 2025 Target 2029 3 4 5 Proporsi penduduk kelas menengah (%) Cakupan kepesertaan jaminan sosial ketenagakerjaan (%)b) Penyandang disabilitas yang bekerja di sektor formal (%) 17,13 17,50 20,00 29,77 32,15 43,92 (Semester I) 9,07 (2023) 10 12 Meningkatkan akses hunian layak, terjangkau, dan berkelanjutan 6 Rumah tangga dengan akses hunian 65,25 67,00 74,00 layak, terjangkau dan berkelanjutan (%) Mewujudkan pembangunan kemandirian perdesaan dari bawah sebagai sumber pertumbuhan ekonomi yang berkelanjutan 7 Persentase desa mandiri (%)c) 22,85 23,29 25,79 Perkotaan sebagai pusat pertumbuhan ekonomi 8 9 Proporsi PDRB perkotaan terhadap PDB nasional (%) Proporsi kontribusi PDRB Wilayah Metropolitan terhadap nasional (%)b) 56,56 (2022) 57,29 59,25 44,13 (2022) 44,35 45,60 Keterangan: a) menggunakan US$ 2,15 PPP tahun 2017; b) indikator merupakan 45 indikator RPJPN Tahun 2025–2045, namun tidak menjadi indikator pada level Prioritas Nasional RPJMN Tahun 2025–2029; dan c) sesuai perhitungan dan proyeksi Indeks Desa 2024.
+Sasaran pembangunan Prioritas Nasional 6 tahun ekonomi, pemberantasan pemerataan ekonomi, kemiskinan maka dan proses Sasaran Utama pada Prioritas Nasional 6 No Sasaran dan Indikator Baseline 2024 Target 2025 Target 2029 Mempercepat pengurangan kemiskinan dan peningkatan pemerataan 1 2 Tingkat kemiskinan (%) Tingkat kemiskinan ekstrem (%)a) 9,03 1,47 7,0â€“8,0 0,5 â€“1 4,5â€“5,0 0 161 No Sasaran dan Indikator Baseline 2024 Target 2025 Target 2029 3 4 5 Proporsi penduduk kelas menengah (%) Cakupan kepesertaan jaminan sosial ketenagakerjaan (%)b) Penyandang disabilitas yang bekerja di sektor formal (%) 17,13 17,50 20,00 29,77 32,15 43,92 (Semester I) 9,07 (2023) 10 12 Meningkatkan akses hunian layak, terjangkau, dan berkelanjutan 6 Rumah tangga dengan akses hunian 65,25 67,00 74,00 layak, terjangkau dan berkelanjutan (%) Mewujudkan pembangunan kemandirian perdesaan dari bawah sebagai sumber pertumbuhan ekonomi yang berkelanjutan 7 Persentase desa mandiri (%)c) 22,85 23,29 25,79 Perkotaan sebagai pusat pertumbuhan ekonomi 8 9 Proporsi PDRB perkotaan terhadap PDB nasional (%) Proporsi kontribusi PDRB Wilayah Metropolitan terhadap nasional (%)b) 56,56 (2022) 57,29 59,25 44,13 (2022) 44,35 45,60 Keterangan: a) menggunakan US$ 2,15 PPP tahun 2017; b) indikator merupakan 45 indikator RPJPN Tahun 2025â€“2045, namun tidak menjadi indikator pada level Prioritas Nasional RPJMN Tahun 2025â€“2029; dan c) sesuai perhitungan dan proyeksi Indeks Desa 2024.
 
 Arah Kebijakan Dalam rangka mewujudkan sasaran-sasaran pembangunan Prioritas Nasional 6, dilaksanakan kebijakan sebagai berikut:
 
@@ -140,7 +140,7 @@ Implementasi Program Hasil Terbaik Cepat dilakukan melalui Kegiatan Prioritas.
 
 peluang Secara kerja baru spesifik, program yang ini bertujuan untuk meningkatkan jumlah wirausaha, menciptakan tenaga kerja mandiri, memperkuat daya saing usaha, serta mendorong pemberdayaan masyarakat sebagai bagian dari upaya pengentasan kemiskinan. Pelaksanaan program Kartu Usaha ini terbagi menjadi Kartu Usaha Afirmatif yang ditujukan bagi kelompok masyarakat miskin dan rentan, serta Kartu Usaha Produktif yang ditujukan Usaha untuk Menghilangkan Kemiskinan bagi masyarakat kelas menengah.
 
-Absolut (a) Kartu Kesejahteraan Program Hasil Terbaik Cepat (PHTC) 5 berperan penting dalam mendukung Prioritas Nasional 6 untuk menurunkan tingkat kemiskinan menjadi 4,5– 5,0 persen dan meningkatkan Indeks Modal Permasalahan dan tantangan.
+Absolut (a) Kartu Kesejahteraan Program Hasil Terbaik Cepat (PHTC) 5 berperan penting dalam mendukung Prioritas Nasional 6 untuk menurunkan tingkat kemiskinan menjadi 4,5â€“ 5,0 persen dan meningkatkan Indeks Modal Permasalahan dan tantangan.
 
 Program perlindungan sosial yang saat ini berjalan masih menghadapi sejumlah tantangan. Tantangan tersebut mencakup (i) akurasi penyaluran bantuan 167 sosial masih komprehensif rendah;
 
@@ -223,3 +223,4 @@ dan (2) (3) perlindungan konsumen;
 insentif fiskal dengan (iv) Optimalisasi kepentingan peran setiap pemangku dalam mendukung penyelenggaraan perumahan seperti pelaksana dan pengelola program pemerintah terkait perumahan, pengelola dana Tapera dan Fasilitas Likuiditas Pembiayaan Perumahan, serta berperan dalam membangun dan mengembangkan pasar pembiayaan sekunder perumahan.
 
 174
+

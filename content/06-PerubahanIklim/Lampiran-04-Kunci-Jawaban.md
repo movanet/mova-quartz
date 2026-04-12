@@ -1,4 +1,4 @@
-# Lampiran 4: Kunci Jawaban Tes Formatif
+﻿# Lampiran 4: Kunci Jawaban Tes Formatif
 publish: true
 
 **Buku Ajar Hukum Perubahan Iklim**
@@ -16,7 +16,7 @@ Lampiran ini berisi kunci jawaban untuk tes formatif dari seluruh 16 bab dalam b
 | No. | Jawaban | Penjelasan Singkat |
 |-----|---------|-------------------|
 | 1 | **b** | IPCC didirikan tahun 1988 |
-| 2 | **c** | CO₂ adalah GRK utama dari aktivitas manusia |
+| 2 | **c** | COâ‚‚ adalah GRK utama dari aktivitas manusia |
 | 3 | **b** | UNFCCC diadopsi di Rio de Janeiro 1992 |
 | 4 | **c** | Hukum iklim berbasis science dan hukum |
 | 5 | **d** | IPCC memberikan assessment ilmiah |
@@ -26,7 +26,7 @@ Lampiran ini berisi kunci jawaban untuk tes formatif dari seluruh 16 bab dalam b
 |-----|---------|------------|
 | 6 | **S** | Mitigasi mengurangi emisi, adaptasi menyesuaikan dampak |
 | 7 | **B** | UU 32/2009 memuat hak atas lingkungan |
-| 8 | **S** | Metana (CH₄) juga merupakan GRK |
+| 8 | **S** | Metana (CHâ‚„) juga merupakan GRK |
 | 9 | **S** | Keadilan iklim juga mencakup keadilan antar negara |
 | 10 | **S** | Indonesia meratifikasi Paris Agreement melalui UU 16/2016 |
 
@@ -62,7 +62,7 @@ Lampiran ini berisi kunci jawaban untuk tes formatif dari seluruh 16 bab dalam b
 | 1 | **b** | UNFCCC diadopsi 1992 di Rio |
 | 2 | **c** | Kyoto Protocol menggunakan pendekatan top-down |
 | 3 | **b** | Paris Agreement diadopsi 2015 |
-| 4 | **c** | Target Paris Agreement: 1.5°C - 2°C |
+| 4 | **c** | Target Paris Agreement: 1.5Â°C - 2Â°C |
 | 5 | **c** | Global Stocktake setiap 5 tahun |
 
 **Benar/Salah:**
@@ -194,7 +194,7 @@ Lampiran ini berisi kunci jawaban untuk tes formatif dari seluruh 16 bab dalam b
 | 1 | **b** | EU Climate Law target net zero 2050 |
 | 2 | **c** | EU ETS adalah sistem perdagangan tertua |
 | 3 | **b** | IRA mengalokasikan USD 369 miliar |
-| 4 | **c** | Harga karbon EU ETS €80-100/ton |
+| 4 | **c** | Harga karbon EU ETS â‚¬80-100/ton |
 | 5 | **c** | China target carbon neutrality 2060 |
 
 **Benar/Salah:**
@@ -354,9 +354,10 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 **Navigasi:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter_Indeks|Indeks]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter_Indeks|Indeks]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | Lampiran 4: Kunci Jawaban*
+

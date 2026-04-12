@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: Tinjauan Mata Kuliah
 mata_kuliah: Hukum Perubahan Iklim
@@ -8,7 +8,7 @@ prodi: Ilmu Hukum
 jenjang: S1/S2/S3
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - tinjauan
 ---
 
@@ -157,7 +157,7 @@ flowchart TB
 | | 15 | [[BAB-15\|Loss and Damage dalam Hukum Iklim]] | 120 menit | S2-S3 |
 | | 16 | [[BAB-16\|Litigasi Perubahan Iklim Lanjutan]] | 150 menit | S2-S3 |
 
-**Total Durasi Baca:** ± 32 jam (termasuk latihan dan studi kasus)
+**Total Durasi Baca:** Â± 32 jam (termasuk latihan dan studi kasus)
 
 ---
 
@@ -173,7 +173,7 @@ flowchart TB
    - Hubungkan dengan pengetahuan yang sudah Anda miliki
 
 2. **Saat Membaca:**
-   - Baca secara aktif—buat catatan, garis bawahi konsep penting
+   - Baca secara aktifâ€”buat catatan, garis bawahi konsep penting
    - Perhatikan kotak pengayaan (*enrichment box*) untuk wawasan tambahan
    - Coba jawab pertanyaan pemantik sebelum melihat jawabannya
 
@@ -328,10 +328,10 @@ Pemahaman hukum perubahan iklim membuka peluang karir di bidang:
 - [[04-Prakata|Prakata]]
 - [[05-Daftar-Isi|Daftar Isi]]
 - [[08-Daftar-Singkatan|Daftar Singkatan]]
-- **→ Anda di sini: Tinjauan Mata Kuliah**
+- **â†’ Anda di sini: Tinjauan Mata Kuliah**
 
 ### Bagian Isi (*Body Matter*)
-- [[BAB 1 -- Pengantar Hukum Perubahan Iklim --|BAB 1]] → [[BAB 2 -- Prinsip-Prinsip Hukum Lingkungan Internasional --|BAB 2]] → ... → [[BAB 12 -- Masa Depan Hukum Perubahan Iklim --|BAB 12]]
+- [[BAB 1 -- Pengantar Hukum Perubahan Iklim --|BAB 1]] â†’ [[BAB 2 -- Prinsip-Prinsip Hukum Lingkungan Internasional --|BAB 2]] â†’ ... â†’ [[BAB 12 -- Masa Depan Hukum Perubahan Iklim --|BAB 12]]
 
 ### Bagian Akhir (*Back Matter*)
 - [[Daftar-Pustaka|Daftar Pustaka]]
@@ -341,9 +341,10 @@ Pemahaman hukum perubahan iklim membuka peluang karir di bidang:
 
 ---
 
-**Mulai Perjalanan Anda:** [[BAB 1 -- Pengantar Hukum Perubahan Iklim --|→ BAB 1: Pengantar Hukum Perubahan Iklim]]
+**Mulai Perjalanan Anda:** [[BAB 1 -- Pengantar Hukum Perubahan Iklim --|â†’ BAB 1: Pengantar Hukum Perubahan Iklim]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim*
 *Disusun sesuai standar SN-Dikti dan Kurikulum Merdeka*
+

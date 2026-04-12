@@ -1,4 +1,4 @@
-# RPJMN 2025-2029: Master Index
+﻿# RPJMN 2025-2029: Master Index
 
 > **Rencana Pembangunan Jangka Menengah Nasional 2025-2029**
 >
@@ -7,20 +7,20 @@
 ---
 publish: true
 
-## 🎯 Quick Navigation
+## ðŸŽ¯ Quick Navigation
 
 | Section | Description | Files |
 |---------|-------------|-------|
-| 📋 [Daftar Isi](#table-of-contents) | Complete table of contents | 1 file |
-| 📊 [BAB I-II](#bab-i-ii-foundation) | Evaluation & Policy Framework | 2 files |
-| 🎯 [BAB III](#bab-iii-national-priorities) | 8 National Priorities (Asta Cita) | 9 files |
-| 🗺️ [BAB IV](#bab-iv-regional-development) | 7 Regional Development Plans | 8 files |
-| 💰 [BAB V-VI](#bab-v-vi-implementation) | Funding & Monitoring | 2 files |
-| 🔗 [Concept Hubs](#concept-hubs) | Thematic cross-references | 9 hubs |
+| ðŸ“‹ [Daftar Isi](#table-of-contents) | Complete table of contents | 1 file |
+| ðŸ“Š [BAB I-II](#bab-i-ii-foundation) | Evaluation & Policy Framework | 2 files |
+| ðŸŽ¯ [BAB III](#bab-iii-national-priorities) | 8 National Priorities (Asta Cita) | 9 files |
+| ðŸ—ºï¸ [BAB IV](#bab-iv-regional-development) | 7 Regional Development Plans | 8 files |
+| ðŸ’° [BAB V-VI](#bab-v-vi-implementation) | Funding & Monitoring | 2 files |
+| ðŸ”— [Concept Hubs](#concept-hubs) | Thematic cross-references | 9 hubs |
 
 ---
 
-## 📚 Document Structure
+## ðŸ“š Document Structure
 
 ### Table of Contents
 - **[[00_DAFTAR_ISI]]** - Complete table of contents from original PDF
@@ -33,8 +33,8 @@ publish: true
 **[[I_Evaluasi_dan_Tantangan_Pembangunan]]** (3,555 lines)
 
 **Contents:**
-- 1.1 Kilas Balik Pembangunan Tahun 2020–2024 dan Perkembangan Global
-- 1.2 Evaluasi Pembangunan Tahun 2020–2024
+- 1.1 Kilas Balik Pembangunan Tahun 2020â€“2024 dan Perkembangan Global
+- 1.2 Evaluasi Pembangunan Tahun 2020â€“2024
   - Ketahanan Ekonomi
   - Pembangunan SDM
   - Infrastruktur
@@ -52,7 +52,7 @@ publish: true
   - Indonesia Emas 2045 Vision
   - RPJPN 2025-2045 Framework
   - Asta Cita (8 National Priorities)
-- 2.2 Kerangka Pikir dan Kebijakan RPJMN Tahun 2025–2029
+- 2.2 Kerangka Pikir dan Kebijakan RPJMN Tahun 2025â€“2029
 - 2.3 Kerangka Ekonomi Makro
 
 **Key Topics:** National vision, strategic framework, macroeconomic assumptions, Asta Cita introduction
@@ -136,15 +136,15 @@ publish: true
 
 ---
 
-## 🔗 Concept Hubs
+## ðŸ”— Concept Hubs
 
 ### Strategic Themes
 
 #### Self-Sufficiency (Kemandirian Bangsa)
 **[[Swasembada_Hub]]** - Comprehensive guide to national self-sufficiency
-- 🌾 Swasembada Pangan (Food self-sufficiency)
-- ⚡ Swasembada Energi (Energy self-sufficiency)
-- 💧 Swasembada Air (Water self-sufficiency)
+- ðŸŒ¾ Swasembada Pangan (Food self-sufficiency)
+- âš¡ Swasembada Energi (Energy self-sufficiency)
+- ðŸ’§ Swasembada Air (Water self-sufficiency)
 - Cross-links: PN 2, Regional agriculture, Food granaries, FEW Nexus
 
 #### Industrial Value Addition
@@ -156,7 +156,7 @@ publish: true
 
 #### Human Development
 **[[SDM_Hub]]** - Human capital development
-- Education (Early childhood → Higher education)
+- Education (Early childhood â†’ Higher education)
 - Health (JKN, universal coverage)
 - Science & Technology
 - Skills development
@@ -215,7 +215,7 @@ publish: true
 
 ---
 
-## 📊 By the Numbers
+## ðŸ“Š By the Numbers
 
 | Metric | Value |
 |--------|-------|
@@ -230,7 +230,7 @@ publish: true
 
 ---
 
-## 🏷️ Browse by Theme
+## ðŸ·ï¸ Browse by Theme
 
 ### Economic Development
 - [[Swasembada_Hub]] - Self-sufficiency
@@ -271,7 +271,7 @@ publish: true
 
 ---
 
-## 📖 Additional Resources
+## ðŸ“– Additional Resources
 
 - **[[README]]** - About this document and navigation guide
 - **[[VALIDATION_REPORT]]** - Quality validation report (99.2% score)
@@ -280,7 +280,7 @@ publish: true
 
 ---
 
-## 🔍 Search Tips
+## ðŸ” Search Tips
 
 **By Priority:** Use "PN X" or "Prioritas Nasional X" (X = 1-8)
 
@@ -294,7 +294,7 @@ publish: true
 
 ---
 
-**Document Status:** Validated ✅ | Enhanced with internal linking 🔗 | Deployed to notes.alafghani.info 🌐
+**Document Status:** Validated âœ… | Enhanced with internal linking ðŸ”— | Deployed to notes.alafghani.info ðŸŒ
 
 **Last Updated:** 2025-10-29
 

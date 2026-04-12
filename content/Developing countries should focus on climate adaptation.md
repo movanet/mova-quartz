@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 tags: #climate #change #adaptation #mitigation #developing #country
@@ -13,4 +13,4 @@ At the global scale, this is actually irrational since the cost of mitigating cl
 
 We also need to be picky with our mitigation efforts. Mitigation efforts should not increase climate vulnerabilities. Preventing forest fire and peatland preservation would be in line with this idea but nickel mining for making car batteries would not since the environmental costs -- e.g. groundwater pollution -- are just too high. We need to preserve as many resources (water, biodiversity) as we can in order to face the [impending doom](https://www.youtube.com/watch?v=JB6smZzFgVY).
 
-OK, I'll turn this into an op-ed ![🙂](https://static.xx.fbcdn.net/images/emoji.php/v9/ta5/1.5/16/1f642.png)
+OK, I'll turn this into an op-ed ![ðŸ™‚](https://static.xx.fbcdn.net/images/emoji.php/v9/ta5/1.5/16/1f642.png)

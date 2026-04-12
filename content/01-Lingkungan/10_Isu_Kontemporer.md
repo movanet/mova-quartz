@@ -1,4 +1,4 @@
----
+﻿---
 title: "Isu Kontemporer Hukum Lingkungan"
 description: "Bab komprehensif tentang isu-isu hukum lingkungan kontemporer termasuk perdagangan karbon, polusi plastik, ESG, litigasi iklim, hak-hak alam, ekonomi sirkular, teknologi digital, dan transisi energi. Mengintegrasikan kerangka hukum Indonesia, peraturan internasional, dan studi kasus praktis."
 date: 2026-04-09
@@ -26,9 +26,9 @@ publish: true
 # Isu Kontemporer Hukum Lingkungan
 
 **Navigasi:**
-- [[09_Hukum_Lingkungan_Internasional|← Hukum Lingkungan Internasional]]
-- [[README|↑ Index]]
-- [[11_Studi_Kasus|Studi Kasus →]]
+- [[09_Hukum_Lingkungan_Internasional|â† Hukum Lingkungan Internasional]]
+- [[README|â†‘ Index]]
+- [[11_Studi_Kasus|Studi Kasus â†’]]
 
 ---
 
@@ -62,13 +62,13 @@ Dua pendekatan utama untuk mengintegrasikan harga karbon dalam ekonomi adalah ca
 
 **Mekanisme Cap-and-Trade (Tutup dan Perdagangan):**
 
-Dalam sistem cap-and-trade, regulator pemerintah menetapkan batas total emisi (cap) untuk suatu sektor atau ekonomi secara keseluruhan dalam periode tertentu. Batas ini secara bertahap dikurangi untuk mencapai target pengurangan emisi jangka panjang. Regulator kemudian mengalokasikan kuota emisi kepada perusahaan peserta—baik melalui pelelangan (auctioning), alokasi gratis (free allocation), atau kombinasi keduanya. Perusahaan yang mengurangi emisi lebih dari yang disyaratkan dapat menjual kredit karbon surplus mereka kepada perusahaan yang kesulitan mencapai target emisi mereka.
+Dalam sistem cap-and-trade, regulator pemerintah menetapkan batas total emisi (cap) untuk suatu sektor atau ekonomi secara keseluruhan dalam periode tertentu. Batas ini secara bertahap dikurangi untuk mencapai target pengurangan emisi jangka panjang. Regulator kemudian mengalokasikan kuota emisi kepada perusahaan pesertaâ€”baik melalui pelelangan (auctioning), alokasi gratis (free allocation), atau kombinasi keduanya. Perusahaan yang mengurangi emisi lebih dari yang disyaratkan dapat menjual kredit karbon surplus mereka kepada perusahaan yang kesulitan mencapai target emisi mereka.
 
 Keunggulan sistem cap-and-trade terletak pada kepastian lingkungan: total emisi dijamin tidak akan melampaui cap yang ditetapkan. Sistem ini juga memberikan fleksibilitas kepada perusahaan untuk memilih cara paling ekonomis bagi mereka untuk mengurangi emisi, menciptakan insentif inovasi teknologi rendah karbon. Namun, harga karbon dalam sistem cap-and-trade bersifat fluktuatif, tergantung pada permintaan dan penawaran di pasar, yang dapat menciptakan ketidakpastian bagi perencanaan investasi jangka panjang.
 
 **Mekanisme Carbon Tax (Pajak Karbon):**
 
-Dalam sistem pajak karbon, pemerintah menetapkan harga tetap per ton CO₂ yang diemisikan atau dikonsumsikan dalam produk. Pajak ini dibebankan kepada produsen atau konsumen bahan bakar fosil, menciptakan insentif ekonomi untuk beralih ke energi terbarukan atau mengurangi konsumsi energi. Pendapatan dari pajak karbon dapat dialokasikan untuk berbagai tujuan, seperti investasi dalam energi terbarukan, perlindungan sosial, atau pengurangan pajak lainnya.
+Dalam sistem pajak karbon, pemerintah menetapkan harga tetap per ton COâ‚‚ yang diemisikan atau dikonsumsikan dalam produk. Pajak ini dibebankan kepada produsen atau konsumen bahan bakar fosil, menciptakan insentif ekonomi untuk beralih ke energi terbarukan atau mengurangi konsumsi energi. Pendapatan dari pajak karbon dapat dialokasikan untuk berbagai tujuan, seperti investasi dalam energi terbarukan, perlindungan sosial, atau pengurangan pajak lainnya.
 
 Keunggulan pajak karbon adalah kepastian harga dan kesederhanaan administrasi. Perusahaan mengetahui biaya karbon yang akan mereka hadapi, memudahkan perencanaan investasi. Pajak karbon juga lebih sederhana untuk diimplementasikan dibandingkan dengan sistem cap-and-trade kompleks yang memerlukan sistem registri, monitoring, dan perdagangan yang canggih. Namun, pajak karbon tidak memberikan kepastian tentang tingkat pengurangan emisi yang akan dicapai, karena respons pasar terhadap harga pajak dapat bervariasi.
 
@@ -146,7 +146,7 @@ Indonesia memainkan peran aktif dalam negosiasi ini, mengadvokasikan pendekatan 
 
 Pada tingkat nasional, Indonesia telah mengembangkan serangkaian peraturan untuk mengatasi polusi plastik. PP No. 27/2020 tentang Pengelolaan Sampah Spesifik memberikan kerangka untuk pengelolaan limbah khusus yang sulit didaur ulang, termasuk banyak jenis plastik sekali pakai. Regulasi ini mengakui bahwa pengelolaan sampah spesifik memerlukan perlakuan khusus dan teknologi pengelolaan yang berbeda dari sampah organik atau yang mudah didaur ulang.
 
-Lebih lanjut, Permen LHK No. 75/2019 tentang Peta Jalan Pengurangan Sampah oleh Produsen menetapkan kerangka untuk Extended Producer Responsibility (EPR) di Indonesia. Regulasi ini mengidentifikasi produsen—termasuk manufacturer, layanan makanan dan minuman, dan retail—sebagai pihak yang bertanggung jawab untuk mengurangi limbah dari produk dan kemasan mereka.
+Lebih lanjut, Permen LHK No. 75/2019 tentang Peta Jalan Pengurangan Sampah oleh Produsen menetapkan kerangka untuk Extended Producer Responsibility (EPR) di Indonesia. Regulasi ini mengidentifikasi produsenâ€”termasuk manufacturer, layanan makanan dan minuman, dan retailâ€”sebagai pihak yang bertanggung jawab untuk mengurangi limbah dari produk dan kemasan mereka.
 
 Peta jalan ini menetapkan target ambisius: pengurangan limbah sebesar 30% pada 2029. Target ini dicapai melalui tiga elemen inti: pengumpulan data baseline tentang limbah yang dihasilkan, implementasi strategi 3R (Reduce, Reuse, Recycle), dan penetapan target pengurangan tahunan yang progresif.
 
@@ -190,9 +190,9 @@ POJK 51/2017 mewajibkan lembaga jasa keuangan untuk: (1) mengembangkan dan mener
 
 Regulasi ini telah mendorong perubahan signifikan dalam industri jasa keuangan Indonesia, dengan lembaga keuangan utama mengembangkan kerangka kerja keberlanjutan yang komprehensif dan menjalankan screening investasi yang mempertimbangkan faktor-faktor keberlanjutan.
 
-Perkembangan penting dalam regulasi OJK adalah pengenalan persyaratan stress testing iklim dan analisis skenario risiko iklim untuk lembaga keuangan. OJK telah mengeluarkan pedoman untuk melakukan climate risk stress testing, di mana bank dan lembaga keuangan lainnya harus menganalisis dampak dari skenario iklim yang berbeda terhadap portofolio pembiayaan mereka. Stress testing ini mengevaluasi bagaimana pembiayaan untuk sektor-sektor yang terkena dampak iklim—seperti energi berbasis batu bara, pertanian yang rentan terhadap perubahan cuaca, dan properti yang rentan banjir—akan terpengaruh dalam skenario perubahan iklim yang berbeda (mitigasi agresif, perubahan berkelanjutan, atau hot house world).
+Perkembangan penting dalam regulasi OJK adalah pengenalan persyaratan stress testing iklim dan analisis skenario risiko iklim untuk lembaga keuangan. OJK telah mengeluarkan pedoman untuk melakukan climate risk stress testing, di mana bank dan lembaga keuangan lainnya harus menganalisis dampak dari skenario iklim yang berbeda terhadap portofolio pembiayaan mereka. Stress testing ini mengevaluasi bagaimana pembiayaan untuk sektor-sektor yang terkena dampak iklimâ€”seperti energi berbasis batu bara, pertanian yang rentan terhadap perubahan cuaca, dan properti yang rentan banjirâ€”akan terpengaruh dalam skenario perubahan iklim yang berbeda (mitigasi agresif, perubahan berkelanjutan, atau hot house world).
 
-Stress testing iklim mengungkap risiko sistemik dalam portfolio lembaga keuangan dan mendorong mereka untuk mengurangi eksposur terhadap aset-aset yang rentan terhadap perubahan iklim dan transisi ekonomi rendah karbon. Risiko transisi merujuk pada risiko keuangan yang muncul dari transisi ke ekonomi rendah karbon—misalnya, nilai kekurangan aset yang berinvestasi dalam batu bara atau energi fosil lainnya ketika permintaan global bergeser ke energi terbarukan. Risiko fisik merujuk pada risiko finansial langsung dari peristiwa iklim ekstrem (banjir, kekeringan, badai) dan perubahan iklim jangka panjang (naiknya permukaan laut, perubahan pola curah hujan).
+Stress testing iklim mengungkap risiko sistemik dalam portfolio lembaga keuangan dan mendorong mereka untuk mengurangi eksposur terhadap aset-aset yang rentan terhadap perubahan iklim dan transisi ekonomi rendah karbon. Risiko transisi merujuk pada risiko keuangan yang muncul dari transisi ke ekonomi rendah karbonâ€”misalnya, nilai kekurangan aset yang berinvestasi dalam batu bara atau energi fosil lainnya ketika permintaan global bergeser ke energi terbarukan. Risiko fisik merujuk pada risiko finansial langsung dari peristiwa iklim ekstrem (banjir, kekeringan, badai) dan perubahan iklim jangka panjang (naiknya permukaan laut, perubahan pola curah hujan).
 
 ### 3.3 Taksonomi Hijau Indonesia dan Taksonomi untuk Keuangan Berkelanjutan
 
@@ -214,7 +214,7 @@ Implementasi TKBI menghadirkan tantangan praktis bagi lembaga keuangan. Lembaga 
 
 ### 4.1 Remote Sensing dan Monitoring Deforestasi Berbasis Satelit
 
-Teknologi remote sensing—pengumpulan data tentang bumi dari jarak jauh menggunakan sensor di satelit atau pesawat—telah merevolusi kemampuan monitoring lingkungan. Untuk melacak deforestasi di hutan Indonesia yang luas, remote sensing menyediakan kemampuan pengamatan real-time dan near-real-time yang tidak mungkin dicapai melalui patroli lapangan tradisional saja.
+Teknologi remote sensingâ€”pengumpulan data tentang bumi dari jarak jauh menggunakan sensor di satelit atau pesawatâ€”telah merevolusi kemampuan monitoring lingkungan. Untuk melacak deforestasi di hutan Indonesia yang luas, remote sensing menyediakan kemampuan pengamatan real-time dan near-real-time yang tidak mungkin dicapai melalui patroli lapangan tradisional saja.
 
 Satelit dengan sensor optik dan sensor radar menyediakan data yang dapat digunakan untuk mengidentifikasi tutupan lahan, perubahan tutupan lahan, dan aktivitas logging. Data historis dari puluhan tahun memungkinkan para analis untuk melacak perubahan deforestasi dari waktu ke waktu dan mengidentifikasi hotspot deforestasi baru.
 
@@ -224,7 +224,7 @@ Platform seperti Global Forest Watch dan sistem monitoring nasional Indonesia se
 
 Kualitas monitoring deforestasi berbasis satelit telah meningkat secara signifikan dengan penerapan algoritma artificial intelligence (AI) dan machine learning. Model-model machine learning dapat dilatih untuk mengenali pola-pola yang menunjukkan deforestasi, termasuk pembersihan area hutan, pembangunan jalan logging, dan aktivitas pemanenan kayu.
 
-Sistem monitoring Indonesia telah mencapai tingkat akurasi detection yang signifikan—dengan confidence level untuk mendeteksi kehilangan vegetasi mencapai 82%—memungkinkan prioritisasi sumber daya penegakan hukum ke lokasi-lokasi dengan probabilitas tinggi deforestasi ilegal.
+Sistem monitoring Indonesia telah mencapai tingkat akurasi detection yang signifikanâ€”dengan confidence level untuk mendeteksi kehilangan vegetasi mencapai 82%â€”memungkinkan prioritisasi sumber daya penegakan hukum ke lokasi-lokasi dengan probabilitas tinggi deforestasi ilegal.
 
 ### 4.3 IoT untuk Monitoring Kualitas Air dan Teknologi Lainnya
 
@@ -252,7 +252,7 @@ Litigasi iklim dapat diklasifikasikan menjadi beberapa kategori berdasarkan targ
 
 Kasus Neubauer v. Germany (2021), yang diputuskan oleh Mahkamah Konstitusional Jerman (Bundesverfassungsgericht), menetapkan preseden penting bahwa undang-undang iklim yang tidak mengatur pengurangan emisi yang cukup setelah 2030 melanggar hak konstitusional generasi muda untuk masa depan yang berkelanjutan. Mahkamah menemukan bahwa Undang-Undang Perlindungan Iklim (Climate Protection Act) Jerman 2019, yang menetapkan target pengurangan emisi untuk 2030 tetapi tidak menetapkan target yang jelas untuk pengurangan emisi setelah 2030, melanggar Konstitusi Jerman karena memindahkan beban pengurangan emisi yang sangat berat kepada generasi muda. Keputusan ini secara efektif mengharuskan Jerman untuk mengadopsi target pengurangan emisi yang lebih ambisius untuk periode setelah 2030.
 
-**Litigasi Melawan Korporasi:** Menyerang perusahaan atas tanggung jawab mereka terhadap dampak perubahan iklim dan pengurangan emisi yang tidak memadai. Kasus Milieudefensie v. Royal Dutch Shell (2021) di Belanda adalah contoh penting di mana pengadilan Amsterdam memerintahkan Royal Dutch Shell untuk mengurangi emisi CO₂ dalam operasi dan portofolio energi mereka sebesar minimal 45% pada 2030 dibandingkan dengan tingkat emisi 2019. Pengadilan menemukan bahwa Shell memiliki tanggung jawab hukum sebagai perusahaan multinasional yang besar dan berpengaruh untuk mengatasi perubahan iklim melalui pengurangan emisi yang signifikan, bukan hanya investasi dalam energi terbarukan sambil terus memperluas operasi bahan bakar fosil. Keputusan ini menetapkan preseden bahwa perusahaan-perusahaan dapat dituntut untuk mengubah strategi bisnis mereka untuk mencapai konsistensi dengan pembatasan global pemanasan iklim.
+**Litigasi Melawan Korporasi:** Menyerang perusahaan atas tanggung jawab mereka terhadap dampak perubahan iklim dan pengurangan emisi yang tidak memadai. Kasus Milieudefensie v. Royal Dutch Shell (2021) di Belanda adalah contoh penting di mana pengadilan Amsterdam memerintahkan Royal Dutch Shell untuk mengurangi emisi COâ‚‚ dalam operasi dan portofolio energi mereka sebesar minimal 45% pada 2030 dibandingkan dengan tingkat emisi 2019. Pengadilan menemukan bahwa Shell memiliki tanggung jawab hukum sebagai perusahaan multinasional yang besar dan berpengaruh untuk mengatasi perubahan iklim melalui pengurangan emisi yang signifikan, bukan hanya investasi dalam energi terbarukan sambil terus memperluas operasi bahan bakar fosil. Keputusan ini menetapkan preseden bahwa perusahaan-perusahaan dapat dituntut untuk mengubah strategi bisnis mereka untuk mencapai konsistensi dengan pembatasan global pemanasan iklim.
 
 **Litigasi Berbasis HAM:** Menggabungkan argumen perubahan iklim dengan argumen hak asasi manusia, menegaskan bahwa dampak perubahan iklim melanggar hak-hak fundamental manusia, termasuk hak atas kehidupan, kesehatan, air bersih, dan makanan. Pengadilan di beberapa negara telah mengakui bahwa kegagalan pemerintah untuk mengatasi perubahan iklim dapat merupakan pelanggaran terhadap hak-hak HAM yang dilindungi oleh konvensi internasional.
 
@@ -272,9 +272,9 @@ Pengakuan hukum atas hak-hak alam telah muncul dalam konstitusi dan hukum nasion
 
 New Zealand mengakui sungai Te Awa Tupua (Sungai Whanganui) sebagai entitas hidup dengan hak sendiri melalui Te Awa Tupua Act 2017. Undang-undang ini mewakili pencapaian legislatif yang unik, di mana legislatur Selandia Baru secara eksplisit mengakui bahwa Te Awa Tupua memiliki "semua hak, kekuasaan, tugas, dan tanggung jawab dari seorang individu" di bawah hukum Selandia Baru. Praktis, ini berarti sungai memiliki representasi hukum melalui "Te Ture Whenua" (guardian), yang bertanggung jawab untuk melindungi kepentingan sungai dalam segala hal hukum.
 
-Pengakuan Te Awa Tupua sebagai entitas hidup bersumber pada pengetahuan tradisional Maori, yang memandang sungai sebagai bagian integral dari ekosistem dan komunitas yang hidup bersama dalam hubungan timbal balik. Proses legislatif yang menghasilkan Te Awa Tupua Act melibatkan kolaborasi ekstensif antara pemerintah Selandia Baru dan iwi (tribù) Maori, menunjukkan bagaimana hak-hak alam dapat diintegrasikan ke dalam kerangka hukum modern melalui penghormatan terhadap pengetahuan indigenous.
+Pengakuan Te Awa Tupua sebagai entitas hidup bersumber pada pengetahuan tradisional Maori, yang memandang sungai sebagai bagian integral dari ekosistem dan komunitas yang hidup bersama dalam hubungan timbal balik. Proses legislatif yang menghasilkan Te Awa Tupua Act melibatkan kolaborasi ekstensif antara pemerintah Selandia Baru dan iwi (tribÃ¹) Maori, menunjukkan bagaimana hak-hak alam dapat diintegrasikan ke dalam kerangka hukum modern melalui penghormatan terhadap pengetahuan indigenous.
 
-Di India, Pengadilan Tertinggi India telah secara progresif mengakui hak-hak beberapa sungai—termasuk Sungai Ganges dan Yamuna—sebagai entitas hidup dengan hak untuk hidup, mengalir, dan berkelanjutan dalam keputusan landmark. Pengadilan menemukan bahwa sungai-sungai ini, yang secara tradisional dianggap suci dalam keagamaan Hindu, harus diperlakukan sebagai entitas hidup dengan hak konstitusional untuk perlindungan dan pelestarian. Kolumbia juga telah mengakui hak-hak Sungai Atrato melalui keputusan pengadilan konstitusional (Court of Constitutional), yang menghadirkan mekanisme perlindungan hukum untuk ekosistem sungai yang kritis.
+Di India, Pengadilan Tertinggi India telah secara progresif mengakui hak-hak beberapa sungaiâ€”termasuk Sungai Ganges dan Yamunaâ€”sebagai entitas hidup dengan hak untuk hidup, mengalir, dan berkelanjutan dalam keputusan landmark. Pengadilan menemukan bahwa sungai-sungai ini, yang secara tradisional dianggap suci dalam keagamaan Hindu, harus diperlakukan sebagai entitas hidup dengan hak konstitusional untuk perlindungan dan pelestarian. Kolumbia juga telah mengakui hak-hak Sungai Atrato melalui keputusan pengadilan konstitusional (Court of Constitutional), yang menghadirkan mekanisme perlindungan hukum untuk ekosistem sungai yang kritis.
 
 ### 6.3 Relevansi terhadap Kerangka Hukum Indonesia
 
@@ -308,7 +308,7 @@ Peta jalan ini menetapkan target progresif: pengurangan limbah 20% pada 2025, 25
 
 Indonesia telah menjadi pusat upaya global untuk transisi energi yang adil melalui Just Energy Transition Partnership (JETP), sebuah kemitraan antara pemerintah Indonesia dan sekelompok negara-negara donor (termasuk Jepang, Amerika Serikat, Inggris, Perancis, Denmark, dan Norwegia) untuk mobilisasi pendanaan besar-besaran bagi akselerasi transisi dari energi berbasis batu bara ke energi terbarukan. JETP diinisiasikan pada COP26 di Glasgow pada 2021 dan telah berkembang menjadi salah satu inisiatif pembiayaan iklim terbesar untuk negara berkembang.
 
-Target JETP yang direvisi mencakup: pembatasan emisi sektor ketenagalistrikan pada-grid sebesar 250 MtCO₂ pada 2030 (turun dari proyeksi business-as-usual sebesar 400+ MtCO₂), peningkatan pangsa energi terbarukan dalam pembangkitan listrik on-grid menjadi 44% pada 2030 (naik dari sekitar 12% pada 2021), dan pencapaian net-zero dalam sistem ketenagalistrikan on-grid pada 2050. Kemitraan ini diharapkan untuk memobilisasi USD 20 miliar dalam pendanaan publik dan privat untuk mendukung transisi ini.
+Target JETP yang direvisi mencakup: pembatasan emisi sektor ketenagalistrikan pada-grid sebesar 250 MtCOâ‚‚ pada 2030 (turun dari proyeksi business-as-usual sebesar 400+ MtCOâ‚‚), peningkatan pangsa energi terbarukan dalam pembangkitan listrik on-grid menjadi 44% pada 2030 (naik dari sekitar 12% pada 2021), dan pencapaian net-zero dalam sistem ketenagalistrikan on-grid pada 2050. Kemitraan ini diharapkan untuk memobilisasi USD 20 miliar dalam pendanaan publik dan privat untuk mendukung transisi ini.
 
 Implementasi JETP melibatkan koordinasi kompleks antara berbagai stakeholder pemerintah, perusahaan energi, pengembang proyek, dan lembaga keuangan internasional. Pertama, mobilisasi pembiayaan JETP memerlukan perusahaan energi terbarukan, pengembang proyek, dan perusahaan teknologi untuk mengidentifikasi peluang investasi yang bankable dengan skalabilitas dan return on investment yang jelas. Kedua, implementasi memerlukan reformasi regulasi ketenagalistrikan Indonesia, termasuk perubahan pada struktur tarif listrik, aturan akses grid (grid interconnection), dan mekanisme kompensasi untuk pengembang energi terbarukan yang adil dan transparan. Ketiga, transisi yang adil (just transition) memerlukan dukungan komprehensif kepada pekerja industri batubara dan komunitas yang bergantung pada industri pertambangan batubara, termasuk program retraining dan pengembangan keterampilan baru, investasi dalam ekonomi alternatif lokal, dan perlindungan sosial untuk memastikan transisi yang tidak meninggalkan kelompok-kelompok yang paling rentan.
 
@@ -318,11 +318,11 @@ Implementasi JETP juga mencakup fase-out progresif pembangkit listrik berbasis b
 
 Perpres No. 112/2022 tentang Akselerasi Penggunaan Energi Terbarukan untuk Pembangkitan Tenaga Listrik menetapkan target ambisius untuk penambahan kapasitas energi terbarukan dan memberikan insentif fiskal kepada pengembang proyek energi terbarukan. Regulasi ini menciptakan kerangka kerja yang menguntungkan untuk investasi dalam tenaga surya, angin, panas bumi, dan energi terbarukan lainnya melalui mekanisme seperti power purchase agreements (PPA) yang transparan, prioritas grid akses untuk energi terbarukan, dan insentif perpajakan untuk perusahaan yang berinvestasi dalam energi terbarukan.
 
-Selain energi terbarukan, transisi energi Indonesia juga mengakui peran dari teknologi Carbon Capture and Storage (CCS)—teknologi yang menangkap emisi CO₂ dari sumber-sumber emisi stasioner (seperti pembangkit listrik atau fasilitas industri) atau dari udara, dan kemudian menyimpan CO₂ secara permanen di bawah tanah. CCS dianggap sebagai teknologi bridge penting dalam transisi ke ekonomi net-zero, terutama untuk sektor-sektor industri di mana dekarbonisasi sepenuhnya melalui perubahan teknologi dasar masih tidak feasible dalam jangka menengah.
+Selain energi terbarukan, transisi energi Indonesia juga mengakui peran dari teknologi Carbon Capture and Storage (CCS)â€”teknologi yang menangkap emisi COâ‚‚ dari sumber-sumber emisi stasioner (seperti pembangkit listrik atau fasilitas industri) atau dari udara, dan kemudian menyimpan COâ‚‚ secara permanen di bawah tanah. CCS dianggap sebagai teknologi bridge penting dalam transisi ke ekonomi net-zero, terutama untuk sektor-sektor industri di mana dekarbonisasi sepenuhnya melalui perubahan teknologi dasar masih tidak feasible dalam jangka menengah.
 
-Perpres 110/2025 mengakui CCS sebagai salah satu metode untuk menghasilkan kredit pengurangan emisi yang dapat diperdagangkan dalam sistem perdagangan karbon Indonesia. Kerangka regulasi CCS di Indonesia sedang dikembangkan, mencakup standar teknis untuk penangkapan, transportasi, dan penyimpanan CO₂, mekanisme akuntansi karbon untuk memastikan pengurangan emisi yang dapat diverifikasi, persyaratan lingkungan dan sosial untuk proyek CCS, dan mekanisme liability jangka panjang untuk memastikan CO₂ yang tersimpan tidak bocor kembali ke atmosfer selama ratusan atau ribuan tahun ke depan.
+Perpres 110/2025 mengakui CCS sebagai salah satu metode untuk menghasilkan kredit pengurangan emisi yang dapat diperdagangkan dalam sistem perdagangan karbon Indonesia. Kerangka regulasi CCS di Indonesia sedang dikembangkan, mencakup standar teknis untuk penangkapan, transportasi, dan penyimpanan COâ‚‚, mekanisme akuntansi karbon untuk memastikan pengurangan emisi yang dapat diverifikasi, persyaratan lingkungan dan sosial untuk proyek CCS, dan mekanisme liability jangka panjang untuk memastikan COâ‚‚ yang tersimpan tidak bocor kembali ke atmosfer selama ratusan atau ribuan tahun ke depan.
 
-Implementasi CCS di Indonesia menghadirkan tantangan teknis, ekonomi, dan regulasi yang signifikan. Secara teknis, teknologi penangkapan CO₂ masih relatif mahal, dan deposito geologi yang cocok untuk penyimpanan CO₂ permanen masih belum sepenuhnya dipetakan di Indonesia. Secara ekonomi, proyek CCS memerlukan dukungan pembiayaan jangka panjang dan steady revenue stream dari penjualan kredit CO₂ untuk menjadi viable. Secara regulasi, Indonesia perlu mengembangkan framework yang jelas tentang kepemilikan dan manajemen risiko dari CO₂ yang tersimpan, perlindungan lingkungan untuk memastikan integritas formasi geologi yang digunakan untuk penyimpanan, dan mekanisme monitoring jangka panjang untuk memverifikasi bahwa penyimpanan CO₂ tetap aman dan permanent.
+Implementasi CCS di Indonesia menghadirkan tantangan teknis, ekonomi, dan regulasi yang signifikan. Secara teknis, teknologi penangkapan COâ‚‚ masih relatif mahal, dan deposito geologi yang cocok untuk penyimpanan COâ‚‚ permanen masih belum sepenuhnya dipetakan di Indonesia. Secara ekonomi, proyek CCS memerlukan dukungan pembiayaan jangka panjang dan steady revenue stream dari penjualan kredit COâ‚‚ untuk menjadi viable. Secara regulasi, Indonesia perlu mengembangkan framework yang jelas tentang kepemilikan dan manajemen risiko dari COâ‚‚ yang tersimpan, perlindungan lingkungan untuk memastikan integritas formasi geologi yang digunakan untuk penyimpanan, dan mekanisme monitoring jangka panjang untuk memverifikasi bahwa penyimpanan COâ‚‚ tetap aman dan permanent.
 
 ---
 
@@ -352,7 +352,7 @@ Implementasi CCS di Indonesia menghadirkan tantangan teknis, ekonomi, dan regula
 
 **Peraturan Perundang-Undangan Tingkat Nasional:**
 - UU No. 32/2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (UUPPLH)
-- UU No. 7/2021 tentang Harmonisasi Peraturan Perpajakan (UU HPP) — Pasal 13 (Pajak Karbon)
+- UU No. 7/2021 tentang Harmonisasi Peraturan Perpajakan (UU HPP) â€” Pasal 13 (Pajak Karbon)
 - UU No. 18/2008 tentang Pengelolaan Sampah
 
 **Peraturan Presiden (Perpres):**
@@ -383,9 +383,9 @@ Implementasi CCS di Indonesia menghadirkan tantangan teknis, ekonomi, dan regula
 ---
 
 **Navigasi:**
-- [[09_Hukum_Lingkungan_Internasional|← Hukum Lingkungan Internasional]]
-- [[README|↑ Index]]
-- [[11_Studi_Kasus|Studi Kasus →]]
+- [[09_Hukum_Lingkungan_Internasional|â† Hukum Lingkungan Internasional]]
+- [[README|â†‘ Index]]
+- [[11_Studi_Kasus|Studi Kasus â†’]]
 
 ---
 
@@ -402,7 +402,7 @@ Implementasi CCS di Indonesia menghadirkan tantangan teknis, ekonomi, dan regula
 
 ## 2.5 Studi Kasus: Implementasi EPR di Sektor Kemasan Indonesia
 
-Implementasi Extended Producer Responsibility di sektor kemasan Indonesia menyajikan studi kasus yang kompleks tentang tantangan transisi menuju ekonomi sirkular. Kemasan—terutama kemasan plastik untuk produk konsumsi—merupakan salah satu sumber limbah terbesar di Indonesia, dengan volume produksi yang terus meningkat seiring dengan pertumbuhan ekonomi dan perubahan pola konsumsi.
+Implementasi Extended Producer Responsibility di sektor kemasan Indonesia menyajikan studi kasus yang kompleks tentang tantangan transisi menuju ekonomi sirkular. Kemasanâ€”terutama kemasan plastik untuk produk konsumsiâ€”merupakan salah satu sumber limbah terbesar di Indonesia, dengan volume produksi yang terus meningkat seiring dengan pertumbuhan ekonomi dan perubahan pola konsumsi.
 
 Tantangan praktis implementasi EPR kemasan mencakup: pertama, keberagaman jenis kemasan dan material yang memerlukan sistem pengumpulan dan pengolahan yang berbeda-beda; kedua, fragmentasi industri dengan banyak produsen kecil yang mungkin tidak memiliki kapasitas untuk mengelola program EPR; ketiga, kelemahan infrastruktur daur ulang yang belum mampu menerima dan memproses volume besar kemasan daur ulang; keempat, kesulitan melacak produk melalui rantai distribusi yang kompleks yang melibatkan distributor regional, pengecer, dan konsumen akhir.
 
@@ -429,11 +429,11 @@ Implementasi POJK ini telah meningkatkan kualitas informasi keberlanjutan yang t
 
 ## 4.6 Tantangan Etika dan Transparansi dalam AI untuk Lingkungan
 
-Penggunaan AI dalam penegakan hukum lingkungan memunculkan pertanyaan-pertanyaan etika yang kompleks yang perlu dipertimbangkan dalam pengembangan kebijakan dan regulasi. Transparansi dalam pengambilan keputusan AI—disebut sebagai "explainability"—adalah tantangan khusus dalam sistem AI berbasis deep learning yang sering beroperasi sebagai "black box."
+Penggunaan AI dalam penegakan hukum lingkungan memunculkan pertanyaan-pertanyaan etika yang kompleks yang perlu dipertimbangkan dalam pengembangan kebijakan dan regulasi. Transparansi dalam pengambilan keputusan AIâ€”disebut sebagai "explainability"â€”adalah tantangan khusus dalam sistem AI berbasis deep learning yang sering beroperasi sebagai "black box."
 
 Ketika sistem AI membuat rekomendasi untuk penindakan penegakan hukum lingkungan (misalnya, inspeksi fasilitas mana yang harus diprioritaskan), kemampuan untuk menjelaskan mengapa sistem membuat rekomendasi tertentu adalah penting untuk akuntabilitas. Pihak yang terpengaruh oleh keputusan berbasis AI memiliki hak untuk memahami dasar dari keputusan tersebut dan mempunyai kesempatan untuk menantangnya jika tidak adil.
 
-Bias dalam sistem AI adalah tantangan lainnya yang signifikan. Jika algoritma dilatih pada data historis yang mencerminkan bias dalam penegakan hukum lingkungan di masa lalu—misalnya, jika perusahaan kecil atau lokal telah dipilih untuk inspeksi lebih sering daripada perusahaan besar—sistem AI yang dilatih pada data ini dapat memperkuat dan memperbesar bias tersebut.
+Bias dalam sistem AI adalah tantangan lainnya yang signifikan. Jika algoritma dilatih pada data historis yang mencerminkan bias dalam penegakan hukum lingkungan di masa laluâ€”misalnya, jika perusahaan kecil atau lokal telah dipilih untuk inspeksi lebih sering daripada perusahaan besarâ€”sistem AI yang dilatih pada data ini dapat memperkuat dan memperbesar bias tersebut.
 
 Mekanisme governance yang kuat diperlukan untuk memastikan bahwa sistem AI untuk penegakan lingkungan:
 1. Dirancang dengan prinsip fairness dan non-discrimination dari awal
@@ -451,19 +451,19 @@ Mengingat meningkatnya penggunaan litigasi iklim sebagai strategi untuk mendoron
 
 **Skenario 1: Citizen Lawsuit atas Keadekuatan Kebijakan Iklim Nasional**
 
-Suatu skenario yang mungkin adalah bahwa kelompok warga—terutama muda yang akan menanggung dampak jangka panjang dari perubahan iklim—menggugat pemerintah atas dasar bahwa kebijakan iklim nasional tidak memenuhi standar konstitusional untuk perlindungan lingkungan dan hak untuk masa depan yang berkelanjutan. Gugatan semacam ini akan bergantung pada pengembangan jurisprudence oleh Mahkamah Konstitusi atau pengadilan lainnya yang mengakui hak konstitusional generasi muda terhadap lingkungan yang melindungi kemampuan mereka untuk hidup dalam kondisi yang dapat mendukung kehidupan.
+Suatu skenario yang mungkin adalah bahwa kelompok wargaâ€”terutama muda yang akan menanggung dampak jangka panjang dari perubahan iklimâ€”menggugat pemerintah atas dasar bahwa kebijakan iklim nasional tidak memenuhi standar konstitusional untuk perlindungan lingkungan dan hak untuk masa depan yang berkelanjutan. Gugatan semacam ini akan bergantung pada pengembangan jurisprudence oleh Mahkamah Konstitusi atau pengadilan lainnya yang mengakui hak konstitusional generasi muda terhadap lingkungan yang melindungi kemampuan mereka untuk hidup dalam kondisi yang dapat mendukung kehidupan.
 
 Precedent untuk litigasi semacam ini telah ditetapkan dalam kasus-kasus seperti Neubauer v. Germany, di mana pengadilan Jerman mengakui bahwa undang-undang iklim yang tidak memadai melanggar hak konstitusional generasi muda. Indonesia memiliki landasan hukum yang serupa dalam Pasal 28H UUD 1945 yang menjamin hak atas lingkungan hidup yang baik dan sehat, dan Pasal 33 ayat 3 yang menetapkan tanah dan air harus "dipergunakan untuk sebesar-besarnya kemakmuran rakyat."
 
 **Skenario 2: Litigasi Korporat atas Emisi dan Greenwashing**
 
-Skenario kedua yang mungkin adalah litigasi terhadap perusahaan besar—terutama perusahaan energi fosil, pertambangan, dan industri berat—atas dasar bahwa emisi mereka menyebabkan kerusakan lingkungan dan kesehatan masyarakat, atau bahwa mereka telah membuat klaim keberlanjutan yang menyesatkan (greenwashing) tanpa dukungan bukti yang cukup.
+Skenario kedua yang mungkin adalah litigasi terhadap perusahaan besarâ€”terutama perusahaan energi fosil, pertambangan, dan industri beratâ€”atas dasar bahwa emisi mereka menyebabkan kerusakan lingkungan dan kesehatan masyarakat, atau bahwa mereka telah membuat klaim keberlanjutan yang menyesatkan (greenwashing) tanpa dukungan bukti yang cukup.
 
 Litigasi semacam ini dapat didasarkan pada: pertama, undang-undang perlindungan konsumen yang melarang klaim yang menyesatkan; kedua, hukum umum tentang kelalaian atau tanggung jawab ketat (strict liability) jika emisi atau kegiatan perusahaan menyebabkan kerusakan yang dapat diukur; ketiga, hukum lingkungan yang mengatur kewajiban perusahaan untuk mencegah dampak lingkungan yang merugikan.
 
 **Skenario 3: Litigasi Berbasis HAM Atas Dampak Iklim**
 
-Skenario ketiga adalah litigasi yang menghubungkan dampak perubahan iklim dengan pelanggaran hak asasi manusia. Misalnya, kelompok masyarakat yang terkena dampak banjir ekstrem yang disebabkan atau diperburuk oleh perubahan iklim dapat menggugat pemerintah atas dasar bahwa pemerintah telah gagal dalam kewajiban mereka untuk melindungi hak atas kehidupan, kesehatan, dan properti. Begitu juga, komunitas yang tergantung pada perikanan dapat menggugat atas dasar bahwa perubahan iklim—yang didorong oleh emisi global yang pemerintah Indonesia juga berkontribusi—telah mengurangi akses mereka ke mata pencaharian tradisional.
+Skenario ketiga adalah litigasi yang menghubungkan dampak perubahan iklim dengan pelanggaran hak asasi manusia. Misalnya, kelompok masyarakat yang terkena dampak banjir ekstrem yang disebabkan atau diperburuk oleh perubahan iklim dapat menggugat pemerintah atas dasar bahwa pemerintah telah gagal dalam kewajiban mereka untuk melindungi hak atas kehidupan, kesehatan, dan properti. Begitu juga, komunitas yang tergantung pada perikanan dapat menggugat atas dasar bahwa perubahan iklimâ€”yang didorong oleh emisi global yang pemerintah Indonesia juga berkontribusiâ€”telah mengurangi akses mereka ke mata pencaharian tradisional.
 
 Litigasi berbasis HAM ini menghubungkan perubahan iklim dengan perjuangan yang lebih luas untuk keadilan sosial dan hak asasi manusia, yang mungkin beresonansi dengan nilai-nilai dan prioritas yang dipegang oleh banyak komunitas di Indonesia.
 
@@ -633,4 +633,5 @@ Untuk pembelajaran lebih lanjut tentang isu-isu dalam bab ini, pelajar disaranka
 - Website OJK untuk publikasi terbaru tentang Taksonomi Hijau dan keuangan berkelanjutan
 - Grantham Institute Climate Litigation database untuk kasus-kasus dan analisis litigasi iklim global
 - Reports dari LSE, World Bank, dan organisasi internasional lainnya tentang transisi energi dan ekonomi sirkular
+
 

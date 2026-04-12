@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pengertian dan Sejarah Hukum Internasional"
 tags:
   - hukum-internasional
@@ -171,7 +171,7 @@ Perjanjian Westphalia tahun 1648 yang mengakhiri Perang Tiga Puluh Tahun (Thirty
 
 #### Ketentuan-Ketentuan Utama Perjanjian Westphalia
 
-Perjanjian Westphalia sebenarnya terdiri atas dua perjanjian terpisah: Perjanjian Münster (Treaty of Münster) antara Spanyol dan Belanda, dan Perjanjian Osnabrück (Treaty of Osnabrück) antara Kaisar Romawi Suci dan Prusia di satu pihak, serta Prancis dan Swedia di pihak lain. Meskipun secara teknis terdapat dua perjanjian, keduanya ditandatangani pada tahun yang sama dan mengakhiri perang yang sama, sehingga keduanya sering dirujuk secara bersamaan sebagai "Perjanjian Westphalia".
+Perjanjian Westphalia sebenarnya terdiri atas dua perjanjian terpisah: Perjanjian MÃ¼nster (Treaty of MÃ¼nster) antara Spanyol dan Belanda, dan Perjanjian OsnabrÃ¼ck (Treaty of OsnabrÃ¼ck) antara Kaisar Romawi Suci dan Prusia di satu pihak, serta Prancis dan Swedia di pihak lain. Meskipun secara teknis terdapat dua perjanjian, keduanya ditandatangani pada tahun yang sama dan mengakhiri perang yang sama, sehingga keduanya sering dirujuk secara bersamaan sebagai "Perjanjian Westphalia".
 
 Ketentuan-ketentuan utama dalam Perjanjian Westphalia meliputi:
 
@@ -189,7 +189,7 @@ Ketentuan-ketentuan utama dalam Perjanjian Westphalia meliputi:
 
 Signifikansi Perjanjian Westphalia dalam perkembangan hukum internasional tidak dapat dilebih-lebihkan. Perjanjian ini menandai transisi dari sistem hukum medieval yang didasarkan pada hierarki dan otoritas universal menuju sistem hukum modern yang didasarkan pada kedaulatan negara dan persamaan derajat antara negara-negara.
 
-Sistem Westphalia memperkenalkan konsep "raison d'état" (kepentingan negara) sebagai dasar dari pengambilan keputusan dalam hubungan internasional. Hal ini berarti bahwa negara-negara dapat mengambil keputusan berdasarkan kepentingan mereka sendiri, tanpa perlu mempertimbangkan otoritas eksternal seperti Paus atau Kaisar.
+Sistem Westphalia memperkenalkan konsep "raison d'Ã©tat" (kepentingan negara) sebagai dasar dari pengambilan keputusan dalam hubungan internasional. Hal ini berarti bahwa negara-negara dapat mengambil keputusan berdasarkan kepentingan mereka sendiri, tanpa perlu mempertimbangkan otoritas eksternal seperti Paus atau Kaisar.
 
 Konsep kedaulatan dalam Perjanjian Westphalia juga menetapkan prinsip "cuius regio, eius religio" (siapa yang memerintah wilayah, dialah yang menentukan agama), yang berarti bahwa penguasa wilayah memiliki hak untuk menentukan agama resmi di wilayahnya. Meskipun prinsip ini sekarang dianggap ketinggalan zaman dan bertentangan dengan konsep kebebasan beragama, pada waktu itu prinsip ini merupakan kompromi yang cukup progresif untuk mengakhiri perang agama yang panjang.
 
@@ -870,4 +870,5 @@ Untuk membantu pemahaman yang lebih mendalam tentang materi yang telah dipelajar
 - International and Comparative Law Quarterly
 - International Law Quarterly
 - Journal of International Dispute Settlement
+
 

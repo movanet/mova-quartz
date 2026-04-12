@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -6,9 +6,9 @@ publish: true
 
 Untuk mengakses Deklarasi Rio silahkan [klik disini](https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_CONF.151_26_Vol.I_Declaration.pdf).
 
-Principle 15​
+Principle 15â€‹
 
-> In order to protect the environment, the precautionary approach shall be widely applied by States according to their capabilities. Where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation.
+> In order to protect the environment,Â theÂ precautionary approachÂ shall be widely appliedÂ by States according to their capabilities. WhereÂ there areÂ threats of serious or irreversibleÂ damage, lack of full scientific certainty shall notÂ be used as a reason for postponing cost-effective measures to prevent environmentalÂ degradation.
 
 Pada intinya, prinsip ini bicara "better safe than sorry". Mending selamat daripada menyesal. 
 
@@ -50,3 +50,4 @@ Dalam konteks perubahan iklim, banyak penelitian yang menunjukkan hubungan antar
 Lihat, Al'Afghani, MM,  [Precautionary ethics as mitigation for unknown COVID-19 variants](https://www.thejakartapost.com/paper/2021/06/25/precautionary-ethics-as-mitigation-for-unknown-covid-19-variants.html), The Jakarta Post, 2021. Untuk terjemahan atas artikel tersebut silahkan klik [[Covid-19, Kebijakan dan Etika Kehati-hatian dalam Menghadapi Bahaya yang Tidak Diketahui]].
 
   
+

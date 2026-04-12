@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 dg-publish: true
 tags:
@@ -24,7 +24,7 @@ The principle of strict liability in Indonesian environmental law is enshrined i
 
 2. **Article 501 of PP No. 22 of 2021**:
    - This article reiterates the application of strict liability, particularly highlighting that businesses and/or activities using hazardous and toxic substances (B3), generating and/or managing B3 waste, or posing serious threats to the environment are strictly liable for any resultant damage.
-   - **Explanation of Article 501**: It emphasizes that strict liability does not require proving fault and outlines the defenses available to the defendant, such as proving the damage was caused by natural disasters, wars, or actions of third parties】.
+   - **Explanation of Article 501**: It emphasizes that strict liability does not require proving fault and outlines the defenses available to the defendant, such as proving the damage was caused by natural disasters, wars, or actions of third partiesã€‘.
 
 3. **Article 503 of PP No. 22 of 2021**:
    - This article provides details on how strict liability can be applied to specific circumstances, including serious threats to the environment, and how it interacts with the principle of "the polluter pays".

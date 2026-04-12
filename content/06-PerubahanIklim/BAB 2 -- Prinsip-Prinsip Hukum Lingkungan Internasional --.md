@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "2"
 judul: "Prinsip-Prinsip Hukum Lingkungan Internasional"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "90 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - hukum-lingkungan-internasional
   - stockholm
   - rio
@@ -50,7 +50,7 @@ graph LR
     B --> E[BAB 5: Hukum Adaptasi]
 ```
 
-Bab ini merupakan kelanjutan dari [[Buku-Ajar-Hukum-Perubahan-Iklim-01-Pengantar-Hukum-Perubahan-Iklim_BAB-01|BAB 1 tentang Pengantar]] dan menjadi fondasi normatif untuk memahami [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|Arsitektur Rezim Iklim Internasional]] dan bab-bab selanjutnya.
+Bab ini merupakan kelanjutan dari [[Buku-Ajar-Hukum-06-PerubahanIklim-01-Pengantar-Hukum-06-PerubahanIklim_BAB-01|BAB 1 tentang Pengantar]] dan menjadi fondasi normatif untuk memahami [[Buku-Ajar-Hukum-06-PerubahanIklim-03-Arsitektur-Rezim-Iklim_BAB-03|Arsitektur Rezim Iklim Internasional]] dan bab-bab selanjutnya.
 
 ### 5. Peta Konsep Bab
 
@@ -96,7 +96,7 @@ Dari 26 prinsip yang diadopsi di Stockholm, Prinsip 21 menjadi yang paling berpe
 
 > [!quote] **Kutipan**
 > "States have, in accordance with the Charter of the United Nations and the principles of international law, the sovereign right to exploit their own resources pursuant to their own environmental policies, **and the responsibility to ensure that activities within their jurisdiction or control do not cause damage to the environment of other States or of areas beyond the limits of national jurisdiction.**"
-> — *Prinsip 21, Deklarasi Stockholm 1972*
+> â€” *Prinsip 21, Deklarasi Stockholm 1972*
 
 Prinsip 21 memuat dua elemen fundamental yang saling melengkapi dan mencerminkan ketegangan abadi dalam hukum internasional antara kedaulatan negara dan kepentingan komunitas internasional. Elemen pertama menegaskan hak kedaulatan permanen negara atas sumber daya alamnya, sebuah prinsip yang sangat penting bagi negara-negara berkembang yang baru merdeka dan ingin memastikan kontrol penuh atas kekayaan alam mereka.[^7] Elemen kedua, yang dikenal sebagai prinsip *sic utere tuo ut alienum non laedas* (gunakan milikmu sedemikian rupa sehingga tidak merugikan milik orang lain), menetapkan batasan terhadap kedaulatan tersebut dengan mewajibkan negara untuk tidak menyebabkan kerusakan lingkungan lintas batas.[^8]
 
@@ -141,7 +141,7 @@ Perbedaan formulasi antara Stockholm dan Rio, meskipun terlihat kecil, memiliki 
 
 > [!quote] **Kutipan**
 > "The right to development must be fulfilled so as to equitably meet developmental and environmental needs of present and future generations."
-> — *Prinsip 3, Deklarasi Rio 1992*
+> â€” *Prinsip 3, Deklarasi Rio 1992*
 
 Prinsip 3 Deklarasi Rio mengkodifikasi konsep pembangunan berkelanjutan (*sustainable development*) yang telah dipopulerkan oleh Laporan Brundtland pada tahun 1987. Komisi Dunia untuk Lingkungan dan Pembangunan yang dipimpin oleh Gro Harlem Brundtland, Perdana Menteri Norwegia, mendefinisikan pembangunan berkelanjutan sebagai "pembangunan yang memenuhi kebutuhan generasi sekarang tanpa mengorbankan kemampuan generasi mendatang untuk memenuhi kebutuhan mereka sendiri."[^16]
 
@@ -158,7 +158,7 @@ Prinsip 7 Deklarasi Rio memperkenalkan konsep yang menjadi sangat penting dan se
 
 > [!quote] **Kutipan**
 > "States shall cooperate in a spirit of global partnership to conserve, protect and restore the health and integrity of the Earth's ecosystem. In view of the different contributions to global environmental degradation, States have **common but differentiated responsibilities**."
-> — *Prinsip 7, Deklarasi Rio 1992*
+> â€” *Prinsip 7, Deklarasi Rio 1992*
 
 #### 3.1 Makna CBDR
 
@@ -201,7 +201,7 @@ Prinsip 15 Deklarasi Rio mengkodifikasi pendekatan kehati-hatian (*precautionary
 
 > [!quote] **Kutipan**
 > "In order to protect the environment, the precautionary approach shall be widely applied by States according to their capabilities. Where there are threats of serious or irreversible damage, **lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures** to prevent environmental degradation."
-> — *Prinsip 15, Deklarasi Rio 1992*
+> â€” *Prinsip 15, Deklarasi Rio 1992*
 
 #### 4.1 Makna Prinsip Kehati-hatian
 
@@ -232,7 +232,7 @@ Prinsip pencemar membayar (*polluter pays principle*) yang tercantum dalam Prins
 
 > [!quote] **Kutipan**
 > "National authorities should endeavour to promote the internalization of environmental costs and the use of economic instruments, taking into account the approach that **the polluter should, in principle, bear the cost of pollution**..."
-> — *Prinsip 16, Deklarasi Rio 1992*
+> â€” *Prinsip 16, Deklarasi Rio 1992*
 
 #### 5.1 Makna Polluter Pays
 
@@ -439,7 +439,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-b, 4-c, 5-b, 6-S, 7-B, 8-S, 9-B, 10-S
 
@@ -451,7 +451,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-06-PerubahanIklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -486,7 +486,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 **Sumber Sekunder:**
 - Sands, P. & Peel, J. (2018). *Principles of International Environmental Law*. 4th ed. Cambridge: CUP.
-- Bodansky, D., Brunnée, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP.
+- Bodansky, D., BrunnÃ©e, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP.
 - Weiss, E. B. (1989). *In Fairness to Future Generations*. Tokyo: UNU.
 
 **Sumber Pendukung:**
@@ -504,9 +504,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - [[02-Yurisprudensi-Internasional_ICJ_Climate_AO_2025]] - Penerapan prinsip-prinsip dalam yurisprudensi
 
 **Navigasi Buku:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-01-Pengantar-Hukum-Perubahan-Iklim_BAB-01|BAB 1: Pengantar Hukum Perubahan Iklim]]
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3: Arsitektur Rezim Iklim Internasional]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-01-Pengantar-Hukum-06-PerubahanIklim_BAB-01|BAB 1: Pengantar Hukum Perubahan Iklim]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3: Arsitektur Rezim Iklim Internasional]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
@@ -589,3 +589,4 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 [^36]: Nicholas Stern, *The Economics of Climate Change: The Stern Review* (CUP 2007) 31-35.
 
 [^37]: Bundesverfassungsgericht, *Neubauer et al v Germany* (24 March 2021) 1 BvR 2656/18, 1 BvR 78/20, 1 BvR 96/20, 1 BvR 288/20.
+

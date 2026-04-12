@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "15"
 judul: "Loss and Damage dalam Hukum Iklim"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "90 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - loss-and-damage
   - WIM
   - Paris-Agreement
@@ -37,7 +37,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Ada batas untuk adaptasi. Ketika kenaikan muka laut menenggelamkan pulau-pulau kecil, ketika kekeringan berkepanjangan merusak pertanian secara permanen, ketika badai menghancurkan infrastruktur vital—kerugian dan kerusakan (*loss and damage*) terjadi melampaui apa yang dapat diatasi oleh adaptasi. Bab ini akan membahas konsep *loss and damage*, kerangka hukum internasional yang sedang berkembang, dan implikasinya bagi Indonesia sebagai salah satu negara paling rentan terhadap dampak perubahan iklim.
+Ada batas untuk adaptasi. Ketika kenaikan muka laut menenggelamkan pulau-pulau kecil, ketika kekeringan berkepanjangan merusak pertanian secara permanen, ketika badai menghancurkan infrastruktur vitalâ€”kerugian dan kerusakan (*loss and damage*) terjadi melampaui apa yang dapat diatasi oleh adaptasi. Bab ini akan membahas konsep *loss and damage*, kerangka hukum internasional yang sedang berkembang, dan implikasinya bagi Indonesia sebagai salah satu negara paling rentan terhadap dampak perubahan iklim.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -49,7 +49,7 @@ graph LR
     B --> E[BAB 16: Litigasi Iklim]
 ```
 
-Bab ini melengkapi pembahasan adaptasi di [[Buku-Ajar-Hukum-Perubahan-Iklim-05-Hukum-Adaptasi_BAB-05|BAB 5]], [[Buku-Ajar-Hukum-Perubahan-Iklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13]], dan [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14]] dengan membahas apa yang terjadi ketika adaptasi mencapai batasnya. Konsep *loss and damage* juga terkait erat dengan [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16]] tentang litigasi iklim, karena sebagian kasus litigasi bertujuan untuk menuntut kompensasi atas kerugian dan kerusakan.
+Bab ini melengkapi pembahasan adaptasi di [[Buku-Ajar-Hukum-06-PerubahanIklim-05-Hukum-Adaptasi_BAB-05|BAB 5]], [[Buku-Ajar-Hukum-06-PerubahanIklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13]], dan [[Buku-Ajar-Hukum-06-PerubahanIklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14]] dengan membahas apa yang terjadi ketika adaptasi mencapai batasnya. Konsep *loss and damage* juga terkait erat dengan [[Buku-Ajar-Hukum-06-PerubahanIklim-16-Litigasi-06-PerubahanIklim_BAB-16|BAB 16]] tentang litigasi iklim, karena sebagian kasus litigasi bertujuan untuk menuntut kompensasi atas kerugian dan kerusakan.
 
 ### 5. Peta Konsep Bab
 
@@ -133,7 +133,7 @@ Untuk menuntut kompensasi atas *loss and damage*, diperlukan bukti kausalitas an
 
 > [!quote] **Kutipan**
 > "For 70% of the days when data are available, the probability of the observed daily maximum temperature can be attributed to human influence."
-> — *World Weather Attribution, 2022*[^3]
+> â€” *World Weather Attribution, 2022*[^3]
 
 **Implikasi Hukum:**
 Kemajuan ilmu atribusi memperkuat dasar ilmiah untuk klaim kompensasi dan litigasi iklim. Semakin jelas hubungan kausal antara emisi dan dampak, semakin kuat pula dasar hukum untuk menuntut pertanggungjawaban.
@@ -236,7 +236,7 @@ Para ahli hukum internasional seperti Benoit Mayer berpendapat bahwa Paragraf 51
 
 #### 4.1 Terobosan Sharm el-Sheikh 2022
 
-COP27 di Mesir menghasilkan terobosan bersejarah: persetujuan untuk membentuk **dana khusus untuk *loss and damage***—setelah 30 tahun perjuangan sejak proposal AOSIS 1991.
+COP27 di Mesir menghasilkan terobosan bersejarah: persetujuan untuk membentuk **dana khusus untuk *loss and damage***â€”setelah 30 tahun perjuangan sejak proposal AOSIS 1991.
 
 **Konteks:**
 - Banjir Pakistan 2022: 1.700 korban jiwa, USD 30 miliar kerugian
@@ -306,7 +306,7 @@ COP27 menetapkan struktur kelembagaan Santiago Network:[^14]
 
 #### 6.1 Konsep Climate Mobility
 
-*Loss and damage* seringkali menghasilkan mobilitas manusia—baik sukarela maupun terpaksa:
+*Loss and damage* seringkali menghasilkan mobilitas manusiaâ€”baik sukarela maupun terpaksa:
 
 | Jenis | Deskripsi | Kerangka Hukum |
 |-------|-----------|----------------|
@@ -384,7 +384,7 @@ Meski Paragraf 51 membatasi klaim berdasarkan Pasal 8, jalur hukum lain tetap te
 > - Kegagalan memenuhi kewajiban ini dapat menimbulkan tanggung jawab negara
 > - Paris Agreement menciptakan kewajiban hukum yang mengikat
 >
-> Lihat pembahasan lengkap di [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16]].
+> Lihat pembahasan lengkap di [[Buku-Ajar-Hukum-06-PerubahanIklim-16-Litigasi-06-PerubahanIklim_BAB-16|BAB 16]].
 
 ---
 
@@ -445,7 +445,7 @@ Indonesia memerlukan kerangka hukum domestik untuk *loss and damage*:
 
 **Latar Belakang:**
 
-Berdasarkan proyeksi IPCC, kenaikan muka laut global diperkirakan mencapai 0,5-1 meter pada 2100. Bagi Indonesia, ini berarti ribuan pulau kecil terancam tenggelam—sebagian mungkin sudah tidak dapat dihuni pada 2050.
+Berdasarkan proyeksi IPCC, kenaikan muka laut global diperkirakan mencapai 0,5-1 meter pada 2100. Bagi Indonesia, ini berarti ribuan pulau kecil terancam tenggelamâ€”sebagian mungkin sudah tidak dapat dihuni pada 2050.
 
 Pulau Pari di Kepulauan Seribu, Jakarta, menjadi simbol ancaman ini. Beberapa warga Pulau Pari telah mengajukan gugatan terhadap Holcim, perusahaan semen Swiss, di pengadilan Swiss, menuntut kompensasi atas kerugian akibat perubahan iklim yang disebabkan emisi perusahaan tersebut.
 
@@ -460,7 +460,7 @@ Pulau Pari di Kepulauan Seribu, Jakarta, menjadi simbol ancaman ini. Beberapa wa
 **Isu Hukum:**
 
 1. Bagaimana membuktikan kausalitas antara emisi Holcim dan kerusakan di Pulau Pari?
-2. Jalur hukum mana yang dapat digunakan—domestik atau internasional?
+2. Jalur hukum mana yang dapat digunakanâ€”domestik atau internasional?
 3. Apa kewajiban pemerintah Indonesia terhadap warganya yang terdampak?
 4. Bagaimana mengkompensasi kerugian non-ekonomi (hilangnya tanah air, budaya)?
 
@@ -493,7 +493,7 @@ Pada bab ini, kita telah mempelajari:
 
 - **Paragraf 51:** Mengecualikan tanggung jawab dan kompensasi berdasarkan Pasal 8, namun tidak menutup jalur hukum lain.
 
-- **L&D Fund:** Terobosan bersejarah namun dengan kesenjangan pendanaan masif—komitmen <0,2% dari kebutuhan.
+- **L&D Fund:** Terobosan bersejarah namun dengan kesenjangan pendanaan masifâ€”komitmen <0,2% dari kebutuhan.
 
 - **Climate Mobility:** Kekosongan hukum internasional untuk "pengungsi iklim" memerlukan pengembangan kerangka baru.
 
@@ -580,7 +580,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-c, 2-b, 3-c, 4-c, 5-c, 6-S, 7-B, 8-B, 9-S, 10-B
 
@@ -592,7 +592,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-06-PerubahanIklim-16-Litigasi-06-PerubahanIklim_BAB-16|BAB 16]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -671,10 +671,11 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 **Navigasi Buku:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14: Hukum Adaptasi Sektoral Indonesia]]
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-16-Litigasi-Perubahan-Iklim_BAB-16|BAB 16: Litigasi Perubahan Iklim]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14: Hukum Adaptasi Sektoral Indonesia]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-16-Litigasi-06-PerubahanIklim_BAB-16|BAB 16: Litigasi Perubahan Iklim]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 15*
+

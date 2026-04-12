@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 dg-publish: true
 tags:
@@ -38,3 +38,4 @@ Strict liability is less common in criminal law but can be found in certain stat
 Strict liability has been the subject of much debate, with critics arguing that it is unfair to hold parties liable without fault. They contend that this approach undermines the fundamental principle of justice that one should only be held accountable for their actions if they acted with a guilty mind.
 
 On the other hand, proponents of strict liability argue that it serves important public policy objectives by promoting responsible behavior and protecting public safety. In certain circumstances, they contend that the potential harm is so significant that liability should be imposed regardless of fault to ensure that parties engaging in dangerous activities take appropriate precautions.
+

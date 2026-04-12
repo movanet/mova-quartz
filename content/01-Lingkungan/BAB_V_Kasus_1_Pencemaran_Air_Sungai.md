@@ -1,4 +1,4 @@
----
+﻿---
 title: "BAB V Kasus 1: Pencemaran Air Sungai oleh Industri"
 description: "Studi kasus penerapan konsep daya tampung, baku mutu, dan pencemaran air pada kasus pencemaran Sungai Citarum"
 tags:
@@ -18,9 +18,9 @@ publish: true
 ---
 
 **Navigasi:**
-- [[BAB_IV_Mekanisme_Hukum_Operasional|← Bagian IV: Mekanisme Hukum Operasional]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
-- [[BAB_V_Kasus_2_3_Pencemaran_Udara_Laut|Lanjut ke Kasus 2 & 3 →]]
+- [[BAB_IV_Mekanisme_Hukum_Operasional|â† Bagian IV: Mekanisme Hukum Operasional]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
+- [[BAB_V_Kasus_2_3_Pencemaran_Udara_Laut|Lanjut ke Kasus 2 & 3 â†’]]
 
 ---
 
@@ -32,31 +32,31 @@ Sungai Citarum di Jawa Barat merupakan salah satu sungai yang mengalami pencemar
 
 **Industri yang Beroperasi di Sepanjang Sungai:**
 
-1. **Industri Tekstil dan Batik** (±50 pabrik)
+1. **Industri Tekstil dan Batik** (Â±50 pabrik)
    - Proses: pemintalan, penenunan, dyeing, printing, finishing
-   - Volume limbah: 200-500 m³/hari per pabrik
+   - Volume limbah: 200-500 mÂ³/hari per pabrik
    - Karakteristik: warna tinggi, BOD/COD tinggi, mengandung logam berat
 
-2. **Industri Kelapa Sawit** (±15 pabrik)
+2. **Industri Kelapa Sawit** (Â±15 pabrik)
    - Proses: pengolahan crude palm oil (CPO)
-   - Volume limbah: 500-2000 m³/hari per pabrik
+   - Volume limbah: 500-2000 mÂ³/hari per pabrik
    - Karakteristik: BOD sangat tinggi, minyak dan lemak tinggi
 
-3. **Industri Galvanisasi dan Electroplating** (±30 pabrik)
+3. **Industri Galvanisasi dan Electroplating** (Â±30 pabrik)
    - Proses: pelapisan logam dengan kromium, nikel, seng
-   - Volume limbah: 50-200 m³/hari per pabrik
-   - Karakteristik: logam berat tinggi (Cr⁶⁺, Ni, Cu, Zn), sianida
+   - Volume limbah: 50-200 mÂ³/hari per pabrik
+   - Karakteristik: logam berat tinggi (Crâ¶âº, Ni, Cu, Zn), sianida
 
-4. **Industri Rumah Sakit** (±8 rumah sakit)
+4. **Industri Rumah Sakit** (Â±8 rumah sakit)
    - Proses: kegiatan medis, laboratorium, laundry
-   - Volume limbah: 100-800 m³/hari per rumah sakit
+   - Volume limbah: 100-800 mÂ³/hari per rumah sakit
    - Karakteristik: BOD/COD, mikrobiologi (coliform, E.coli), desinfektan
 
 ### B. Kondisi Sungai Citarum
 
 **Data Daya Tampung:**
-- Panjang sungai: ±350 km
-- Debit rata-rata: 50-120 m³/detik (tergantung musim)
+- Panjang sungai: Â±350 km
+- Debit rata-rata: 50-120 mÂ³/detik (tergantung musim)
 - Daya tampung beban pencemaran air: **telah terlampaui** sejak tahun 2010 (berdasarkan kajian daya tampung)
 - Status mutu air: **Kelas IV** (buruk) - hanya layak untuk pertanian dengan catatan
 
@@ -82,7 +82,7 @@ Berdasarkan **PP 22/2021 Pasal 1 angka 43**, Daya Tampung Beban Pencemaran Air d
 Daya tampung sungai Citarum dapat dihitung berdasarkan:
 
 1. **Faktor Fisik Sungai:**
-   - Volume air (debit × waktu)
+   - Volume air (debit Ã— waktu)
    - Kecepatan aliran
    - Kedalaman dan lebar sungai
    - Suhu air
@@ -94,13 +94,13 @@ Daya tampung sungai Citarum dapat dihitung berdasarkan:
    - Sedimentasi alami
 
 3. **Beban Pencemar yang Masuk:**
-   Total beban pencemar = Σ (Debit limbah × Konsentrasi pencemar)
+   Total beban pencemar = Î£ (Debit limbah Ã— Konsentrasi pencemar)
 
    **Contoh Perhitungan untuk BOD:**
-   - 50 pabrik tekstil × 300 m³/hari × 60 mg/L BOD = 900 kg BOD/hari
-   - 15 pabrik sawit × 1000 m³/hari × 100 mg/L BOD = 1.500 kg BOD/hari
-   - 30 pabrik electroplating × 100 m³/hari × 50 mg/L BOD = 150 kg BOD/hari
-   - 8 rumah sakit × 400 m³/hari × 75 mg/L BOD = 240 kg BOD/hari
+   - 50 pabrik tekstil Ã— 300 mÂ³/hari Ã— 60 mg/L BOD = 900 kg BOD/hari
+   - 15 pabrik sawit Ã— 1000 mÂ³/hari Ã— 100 mg/L BOD = 1.500 kg BOD/hari
+   - 30 pabrik electroplating Ã— 100 mÂ³/hari Ã— 50 mg/L BOD = 150 kg BOD/hari
+   - 8 rumah sakit Ã— 400 mÂ³/hari Ã— 75 mg/L BOD = 240 kg BOD/hari
    - **TOTAL BEBAN BOD = 2.790 kg/hari**
 
 4. **Kemampuan Sungai Menyerap:**
@@ -134,17 +134,17 @@ Dalam kasus Sungai Citarum, semua industri membuang limbahnya ke **air permukaan
 **Logika Hukum:**
 ```
 DAYA TAMPUNG BEBAN PENCEMARAN AIR
-        ↓
+        â†“
 (diterjemahkan menjadi)
-        ↓
+        â†“
 BAKU MUTU AIR LIMBAH
-        ↓
+        â†“
 (jika terlampaui)
-        ↓
+        â†“
 PENCEMARAN AIR TERJADI
-        ↓
+        â†“
 (mengakibatkan)
-        ↓
+        â†“
 DAYA DUKUNG LINGKUNGAN MENURUN
 ```
 
@@ -158,20 +158,20 @@ Berdasarkan **Lampiran II Permen LHK 5/2014 - Bagian B.1**, industri tekstil waj
 
 | No | Parameter | Satuan | Baku Mutu | Kondisi Aktual (Contoh Pabrik A) | Status |
 |----|-----------|--------|-----------|-----------------------------------|--------|
-| 1 | pH | - | 6,0 - 9,0 | 8,2 | ✓ Memenuhi |
-| 2 | **BOD₅** | mg/L | **60** | **150** | ✗ MELAMPAUI |
-| 3 | **COD** | mg/L | **150** | **380** | ✗ MELAMPAUI |
-| 4 | **TSS** | mg/L | **50** | **120** | ✗ MELAMPAUI |
-| 5 | **Warna** | - | **Pengenceran 40 kali** | **Pengenceran 15 kali** | ✗ MELAMPAUI |
-| 6 | **Kromium (Cr)** | mg/L | **0,1** | **0,35** | ✗ MELAMPAUI |
-| 7 | **Fenol** | mg/L | **0,5** | **1,2** | ✗ MELAMPAUI |
-| 8 | Temperatur | °C | 38 | 36 | ✓ Memenuhi |
+| 1 | pH | - | 6,0 - 9,0 | 8,2 | âœ“ Memenuhi |
+| 2 | **BODâ‚…** | mg/L | **60** | **150** | âœ— MELAMPAUI |
+| 3 | **COD** | mg/L | **150** | **380** | âœ— MELAMPAUI |
+| 4 | **TSS** | mg/L | **50** | **120** | âœ— MELAMPAUI |
+| 5 | **Warna** | - | **Pengenceran 40 kali** | **Pengenceran 15 kali** | âœ— MELAMPAUI |
+| 6 | **Kromium (Cr)** | mg/L | **0,1** | **0,35** | âœ— MELAMPAUI |
+| 7 | **Fenol** | mg/L | **0,5** | **1,2** | âœ— MELAMPAUI |
+| 8 | Temperatur | Â°C | 38 | 36 | âœ“ Memenuhi |
 
 **Analisis:**
 - Dari 8 parameter, 6 parameter melampaui baku mutu (tingkat kepatuhan hanya 25%)
-- BOD melampaui 2,5 kali lipat → mengindikasikan IPAL tidak berfungsi optimal
-- Kromium melampaui 3,5 kali lipat → sangat berbahaya (Cr⁶⁺ bersifat karsinogenik)
-- Warna sangat tinggi → mengganggu fotosintesis organisme air
+- BOD melampaui 2,5 kali lipat â†’ mengindikasikan IPAL tidak berfungsi optimal
+- Kromium melampaui 3,5 kali lipat â†’ sangat berbahaya (Crâ¶âº bersifat karsinogenik)
+- Warna sangat tinggi â†’ mengganggu fotosintesis organisme air
 
 **Dampak terhadap Daya Tampung:**
 Beban pencemaran organik (BOD/COD) yang tinggi mengkonsumsi oksigen terlarut dalam air sungai, menyebabkan kondisi anaerob yang mematikan ikan dan organisme air lainnya. Ini melampaui daya tampung sungai untuk menyerap beban organik.
@@ -182,12 +182,12 @@ Berdasarkan **Lampiran II Permen LHK 5/2014 - Bagian A.3**, industri kelapa sawi
 
 | No | Parameter | Satuan | Baku Mutu | Kondisi Aktual (Contoh Pabrik B) | Status |
 |----|-----------|--------|-----------|-----------------------------------|--------|
-| 1 | pH | - | 6,0 - 9,0 | 7,8 | ✓ Memenuhi |
-| 2 | **BOD₅** | mg/L | **100** | **250** | ✗ MELAMPAUI |
-| 3 | **COD** | mg/L | **350** | **720** | ✗ MELAMPAUI |
-| 4 | **TSS** | mg/L | **250** | **380** | ✗ MELAMPAUI |
-| 5 | **Minyak dan Lemak** | mg/L | **25** | **65** | ✗ MELAMPAUI |
-| 6 | Total Nitrogen (N) | mg/L | 50 | 42 | ✓ Memenuhi |
+| 1 | pH | - | 6,0 - 9,0 | 7,8 | âœ“ Memenuhi |
+| 2 | **BODâ‚…** | mg/L | **100** | **250** | âœ— MELAMPAUI |
+| 3 | **COD** | mg/L | **350** | **720** | âœ— MELAMPAUI |
+| 4 | **TSS** | mg/L | **250** | **380** | âœ— MELAMPAUI |
+| 5 | **Minyak dan Lemak** | mg/L | **25** | **65** | âœ— MELAMPAUI |
+| 6 | Total Nitrogen (N) | mg/L | 50 | 42 | âœ“ Memenuhi |
 
 **Analisis:**
 - POME (Palm Oil Mill Effluent) memiliki karakteristik BOD yang sangat tinggi
@@ -206,35 +206,35 @@ Berdasarkan **Lampiran II Permen LHK 5/2014 - Bagian D.1**, industri galvanisasi
 
 | No | Parameter | Satuan | Baku Mutu | Kondisi Aktual (Contoh Pabrik C) | Status |
 |----|-----------|--------|-----------|-----------------------------------|--------|
-| 1 | pH | - | 6,0 - 9,0 | 7,5 | ✓ Memenuhi |
-| 2 | BOD₅ | mg/L | 50 | 45 | ✓ Memenuhi |
-| 3 | COD | mg/L | 100 | 92 | ✓ Memenuhi |
-| 4 | TSS | mg/L | 50 | 38 | ✓ Memenuhi |
-| 5 | **Kromium Heksavalen (Cr⁶⁺)** | mg/L | **0,05** | **0,18** | ✗ MELAMPAUI |
-| 6 | **Nikel (Ni)** | mg/L | **0,1** | **0,35** | ✗ MELAMPAUI |
-| 7 | **Tembaga (Cu)** | mg/L | **1,0** | **2,8** | ✗ MELAMPAUI |
-| 8 | **Seng (Zn)** | mg/L | **2,0** | **4,2** | ✗ MELAMPAUI |
-| 9 | **Sianida (CN)** | mg/L | **0,02** | **0,08** | ✗ MELAMPAUI |
+| 1 | pH | - | 6,0 - 9,0 | 7,5 | âœ“ Memenuhi |
+| 2 | BODâ‚… | mg/L | 50 | 45 | âœ“ Memenuhi |
+| 3 | COD | mg/L | 100 | 92 | âœ“ Memenuhi |
+| 4 | TSS | mg/L | 50 | 38 | âœ“ Memenuhi |
+| 5 | **Kromium Heksavalen (Crâ¶âº)** | mg/L | **0,05** | **0,18** | âœ— MELAMPAUI |
+| 6 | **Nikel (Ni)** | mg/L | **0,1** | **0,35** | âœ— MELAMPAUI |
+| 7 | **Tembaga (Cu)** | mg/L | **1,0** | **2,8** | âœ— MELAMPAUI |
+| 8 | **Seng (Zn)** | mg/L | **2,0** | **4,2** | âœ— MELAMPAUI |
+| 9 | **Sianida (CN)** | mg/L | **0,02** | **0,08** | âœ— MELAMPAUI |
 
 **Analisis Kritis:**
 - Parameter organik (BOD/COD) memenuhi, tetapi logam berat SEMUA MELAMPAUI
-- Cr⁶⁺ melampaui 3,6 kali lipat → SANGAT BERBAHAYA (karsinogenik, mutagenik)
-- Sianida melampaui 4 kali lipat → SANGAT TOKSIK (mematikan dalam konsentrasi rendah)
+- Crâ¶âº melampaui 3,6 kali lipat â†’ SANGAT BERBAHAYA (karsinogenik, mutagenik)
+- Sianida melampaui 4 kali lipat â†’ SANGAT TOKSIK (mematikan dalam konsentrasi rendah)
 
 **Mengapa Baku Mutu Logam Berat Sangat Ketat?**
 
-1. **Toksisitas Tinggi:** Logam berat toksik pada konsentrasi sangat rendah (dalam skala mg/L atau bahkan μg/L)
+1. **Toksisitas Tinggi:** Logam berat toksik pada konsentrasi sangat rendah (dalam skala mg/L atau bahkan Î¼g/L)
 2. **Bioakumulasi:** Logam berat tidak dapat dimetabolisme, terakumulasi dalam rantai makanan
 3. **Persistensi:** Tidak dapat terdegradasi secara biologis
 4. **Dampak Jangka Panjang:** Menyebabkan kanker, kerusakan ginjal, gangguan neurologis
 
-**Catatan Penting tentang Cr⁶⁺:**
+**Catatan Penting tentang Crâ¶âº:**
 
 Permen LHK 5/2014 membedakan antara:
 - **Kromium Total (Cr)** dalam parameter umum: 0,5 mg/L (Lampiran I)
-- **Kromium Heksavalen (Cr⁶⁺)** untuk electroplating: 0,05 mg/L (Lampiran II)
+- **Kromium Heksavalen (Crâ¶âº)** untuk electroplating: 0,05 mg/L (Lampiran II)
 
-Cr⁶⁺ adalah bentuk kromium yang paling toksik, 10 kali lebih ketat baku mutunya. Ini menunjukkan pemahaman regulasi terhadap toksikologi dan risiko spesifik dari proses electroplating.
+Crâ¶âº adalah bentuk kromium yang paling toksik, 10 kali lebih ketat baku mutunya. Ini menunjukkan pemahaman regulasi terhadap toksikologi dan risiko spesifik dari proses electroplating.
 
 **Dampak terhadap Daya Tampung:**
 Logam berat tidak dapat diserap atau didekomposisi oleh sungai. Setiap gram logam berat yang masuk akan terakumulasi dalam sedimen dan biota. **Daya tampung untuk logam berat pada dasarnya adalah NOL** - setiap penambahan logam berat adalah pencemaran permanen.
@@ -245,17 +245,17 @@ Berdasarkan **Lampiran II Permen LHK 5/2014 - Bagian G.1**, rumah sakit wajib me
 
 | No | Parameter | Satuan | Baku Mutu | Kondisi Aktual (Contoh RS X) | Status |
 |----|-----------|--------|-----------|------------------------------|--------|
-| 1 | pH | - | 6,0 - 9,0 | 7,2 | ✓ Memenuhi |
-| 2 | **BOD₅** | mg/L | **75** | **120** | ✗ MELAMPAUI |
-| 3 | **COD** | mg/L | **150** | **280** | ✗ MELAMPAUI |
-| 4 | TSS | mg/L | 100 | 85 | ✓ Memenuhi |
-| 5 | Ammonia (NH₃-N) | mg/L | 10 | 8,5 | ✓ Memenuhi |
-| 6 | **Coliform Total** | MPN/100mL | **3.000** | **15.000** | ✗ MELAMPAUI |
-| 7 | Minyak dan Lemak | mg/L | 10 | 8 | ✓ Memenuhi |
+| 1 | pH | - | 6,0 - 9,0 | 7,2 | âœ“ Memenuhi |
+| 2 | **BODâ‚…** | mg/L | **75** | **120** | âœ— MELAMPAUI |
+| 3 | **COD** | mg/L | **150** | **280** | âœ— MELAMPAUI |
+| 4 | TSS | mg/L | 100 | 85 | âœ“ Memenuhi |
+| 5 | Ammonia (NHâ‚ƒ-N) | mg/L | 10 | 8,5 | âœ“ Memenuhi |
+| 6 | **Coliform Total** | MPN/100mL | **3.000** | **15.000** | âœ— MELAMPAUI |
+| 7 | Minyak dan Lemak | mg/L | 10 | 8 | âœ“ Memenuhi |
 
 **Analisis:**
 - BOD/COD melampaui, mengindikasikan beban organik tinggi dari kegiatan medis, laundry, dapur
-- **Coliform melampaui 5 kali lipat** → risiko penyebaran penyakit waterborne sangat tinggi
+- **Coliform melampaui 5 kali lipat** â†’ risiko penyebaran penyakit waterborne sangat tinggi
 
 **Mengapa Parameter Mikrobiologi Penting untuk Rumah Sakit?**
 
@@ -305,10 +305,10 @@ Berdasarkan kajian daya tampung yang menunjukkan bahwa Sungai Citarum telah mela
 
 | Parameter | Permen LHK 5/2014 | Pergub Jabar (Lebih Ketat) | Pengurangan |
 |-----------|-------------------|----------------------------|-------------|
-| BOD₅ | 60 mg/L | **40 mg/L** | 33% |
+| BODâ‚… | 60 mg/L | **40 mg/L** | 33% |
 | COD | 150 mg/L | **100 mg/L** | 33% |
 | TSS | 50 mg/L | **30 mg/L** | 40% |
-| Warna | Pengenceran 40× | **Pengenceran 60×** | 50% lebih ketat |
+| Warna | Pengenceran 40Ã— | **Pengenceran 60Ã—** | 50% lebih ketat |
 | Kromium (Cr) | 0,1 mg/L | **0,05 mg/L** | 50% |
 
 **Rasional:**
@@ -319,7 +319,7 @@ Berdasarkan kajian daya tampung yang menunjukkan bahwa Sungai Citarum telah mela
 **Mekanisme Penetapan:**
 1. Gubernur melakukan **kajian ilmiah daya tampung** beban pencemaran air
 2. Hasil kajian menunjukkan status mutu air dan daya tampung
-3. Jika daya tampung terlampaui → Gubernur wajib menetapkan baku mutu lebih ketat
+3. Jika daya tampung terlampaui â†’ Gubernur wajib menetapkan baku mutu lebih ketat
 4. Penetapan melalui Peraturan Gubernur
 5. Sosialisasi dan pemberian masa transisi (maksimal 2 tahun) untuk penyesuaian
 
@@ -335,13 +335,13 @@ Berdasarkan kajian daya tampung yang menunjukkan bahwa Sungai Citarum telah mela
 **Logika Keterkaitan:**
 ```
 PENCEMARAN AIR SUNGAI
-        ↓
+        â†“
 Kualitas Air Menurun (melampaui baku mutu air)
-        ↓
+        â†“
 Fungsi Ekosistem Sungai Terganggu
-        ↓
+        â†“
 Layanan Ekosistem (Ecosystem Services) Hilang
-        ↓
+        â†“
 DAYA DUKUNG LINGKUNGAN MENURUN
 ```
 
@@ -409,11 +409,11 @@ Berdasarkan berbagai indikator di atas, dapat disimpulkan:
 
 | Aspek Daya Dukung | Sebelum | Setelah | Penurunan |
 |-------------------|---------|---------|-----------|
-| Fungsi air bersih | 15 juta orang | 5 juta orang | 67% ↓ |
-| Perikanan | 5.000 keluarga | 0 | 100% ↓ |
-| Pertanian | 100.000 orang | 50.000 orang | 50% ↓ |
-| Kesehatan | Rp 10 M/tahun | Rp 45 M/tahun | 350% ↑ biaya |
-| Biodiversitas | 50 spesies ikan | 3 spesies | 94% ↓ |
+| Fungsi air bersih | 15 juta orang | 5 juta orang | 67% â†“ |
+| Perikanan | 5.000 keluarga | 0 | 100% â†“ |
+| Pertanian | 100.000 orang | 50.000 orang | 50% â†“ |
+| Kesehatan | Rp 10 M/tahun | Rp 45 M/tahun | 350% â†‘ biaya |
+| Biodiversitas | 50 spesies ikan | 3 spesies | 94% â†“ |
 
 **KESIMPULAN:** Pencemaran air sungai akibat pelampauan daya tampung menyebabkan penurunan daya dukung lingkungan rata-rata sebesar **70%**.
 
@@ -471,10 +471,10 @@ Berdasarkan berbagai indikator di atas, dapat disimpulkan:
 
 | Industri | Pelanggaran | Sanksi yang Sesuai |
 |----------|-------------|-------------------|
-| Pabrik Tekstil A | BOD 150 mg/L (baku mutu 60 mg/L) = 250% → melampaui >50% | **Pencabutan Izin** |
-| Pabrik Sawit B | BOD 250 mg/L (baku mutu 100 mg/L) = 250% → melampaui >50% | **Pencabutan Izin** |
-| Pabrik Electroplating C | Cr⁶⁺ 0,18 mg/L (baku mutu 0,05 mg/L) = 360% → melampaui >50% | **Pencabutan Izin** |
-| Rumah Sakit X | Coliform 15.000 (baku mutu 3.000) = 500% → melampaui >50% | **Pencabutan Izin** |
+| Pabrik Tekstil A | BOD 150 mg/L (baku mutu 60 mg/L) = 250% â†’ melampaui >50% | **Pencabutan Izin** |
+| Pabrik Sawit B | BOD 250 mg/L (baku mutu 100 mg/L) = 250% â†’ melampaui >50% | **Pencabutan Izin** |
+| Pabrik Electroplating C | Crâ¶âº 0,18 mg/L (baku mutu 0,05 mg/L) = 360% â†’ melampaui >50% | **Pencabutan Izin** |
+| Rumah Sakit X | Coliform 15.000 (baku mutu 3.000) = 500% â†’ melampaui >50% | **Pencabutan Izin** |
 
 #### 3. Kewajiban Pemulihan
 
@@ -510,107 +510,107 @@ Berdasarkan berbagai indikator di atas, dapat disimpulkan:
 **A. Untuk Industri Tekstil:**
 ```
 AIR LIMBAH TEKSTIL
-        ↓
+        â†“
 1. TREATMENT FISIK
    - Ekualisasi (penyeragaman kualitas)
    - Sedimentasi (pengendapan TSS)
-        ↓
+        â†“
 2. TREATMENT KIMIA
    - Koagulasi-Flokulasi (untuk warna dan TSS)
    - Presipitasi (untuk logam berat Cr, Cu)
-   - Reduksi Cr⁶⁺ → Cr³⁺ (dengan FeSO₄)
-        ↓
+   - Reduksi Crâ¶âº â†’ CrÂ³âº (dengan FeSOâ‚„)
+        â†“
 3. TREATMENT BIOLOGI
    - Extended Aeration (untuk BOD/COD)
    - Activated Sludge System
    - Nitrifikasi-Denitrifikasi
-        ↓
+        â†“
 4. TREATMENT LANJUTAN
    - Sand Filtration
    - Activated Carbon Adsorption (untuk warna tersisa)
-        ↓
+        â†“
 EFFLUENT AKHIR (memenuhi baku mutu)
 ```
 
 **B. Untuk Industri Kelapa Sawit:**
 ```
 POME (Palm Oil Mill Effluent)
-        ↓
+        â†“
 1. COOLING POND
-   - Menurunkan temperatur dari 80-90°C → 45°C
-        ↓
+   - Menurunkan temperatur dari 80-90Â°C â†’ 45Â°C
+        â†“
 2. ANAEROBIC TREATMENT
    - Covered Lagoon / Anaerobic Digester
-   - Menghilangkan BOD tinggi (BOD 25.000 → 5.000 mg/L)
-   - Menghasilkan biogas (CH₄) untuk energi
-        ↓
+   - Menghilangkan BOD tinggi (BOD 25.000 â†’ 5.000 mg/L)
+   - Menghasilkan biogas (CHâ‚„) untuk energi
+        â†“
 3. FACULTATIVE POND
-   - BOD 5.000 → 1.000 mg/L
-        ↓
+   - BOD 5.000 â†’ 1.000 mg/L
+        â†“
 4. AEROBIC POND
-   - BOD 1.000 → 100 mg/L
-        ↓
+   - BOD 1.000 â†’ 100 mg/L
+        â†“
 5. POLISHING POND
-   - BOD 100 → <100 mg/L (memenuhi baku mutu)
+   - BOD 100 â†’ <100 mg/L (memenuhi baku mutu)
    - Removal minyak dan lemak
-        ↓
+        â†“
 EFFLUENT AKHIR
 ```
 
 **C. Untuk Industri Electroplating:**
 ```
 AIR LIMBAH ELECTROPLATING
-        ↓
+        â†“
 1. SEGREGATION
-   - Pisahkan limbah Cr⁶⁺, CN⁻, dan logam lainnya
-        ↓
-2. TREATMENT KHUSUS Cr⁶⁺
-   - Reduksi: Cr⁶⁺ + FeSO₄ → Cr³⁺ (pada pH 2-3)
-   - Presipitasi: Cr³⁺ + OH⁻ → Cr(OH)₃↓ (pada pH 8-9)
-        ↓
-3. TREATMENT KHUSUS CN⁻
-   - Oksidasi: CN⁻ + OCl⁻ → CNO⁻ → CO₂ + N₂
+   - Pisahkan limbah Crâ¶âº, CNâ», dan logam lainnya
+        â†“
+2. TREATMENT KHUSUS Crâ¶âº
+   - Reduksi: Crâ¶âº + FeSOâ‚„ â†’ CrÂ³âº (pada pH 2-3)
+   - Presipitasi: CrÂ³âº + OHâ» â†’ Cr(OH)â‚ƒâ†“ (pada pH 8-9)
+        â†“
+3. TREATMENT KHUSUS CNâ»
+   - Oksidasi: CNâ» + OClâ» â†’ CNOâ» â†’ COâ‚‚ + Nâ‚‚
    - (Chlorine Oxidation atau Alkaline Chlorination)
-        ↓
+        â†“
 4. TREATMENT LOGAM LAIN (Ni, Cu, Zn)
    - Presipitasi Hydroxide: pH 9-11
-   - Me²⁺ + OH⁻ → Me(OH)₂↓
-        ↓
+   - MeÂ²âº + OHâ» â†’ Me(OH)â‚‚â†“
+        â†“
 5. NEUTRALIZATION
-   - pH adjustment → 6-9
-        ↓
+   - pH adjustment â†’ 6-9
+        â†“
 6. POLISHING (optional)
    - Ion Exchange
    - Reverse Osmosis
-        ↓
+        â†“
 EFFLUENT AKHIR
 ```
 
 **D. Untuk Rumah Sakit:**
 ```
 AIR LIMBAH RUMAH SAKIT
-        ↓
+        â†“
 1. PRELIMINARY TREATMENT
    - Screening (penyaringan sampah kasar)
    - Grease Trap (dari dapur)
-        ↓
+        â†“
 2. PRIMARY TREATMENT
    - Equalization Tank
    - Sedimentasi
-        ↓
+        â†“
 3. SECONDARY TREATMENT (Biological)
    - Extended Aeration atau SBR
    - BOD/COD removal
-        ↓
+        â†“
 4. DISINFECTION (PENTING!)
-   - Chlorination (5-10 mg/L Cl₂, kontak 30 menit)
+   - Chlorination (5-10 mg/L Clâ‚‚, kontak 30 menit)
    - UV Disinfection
    - Ozonation
-   → Target: Coliform < 3.000 MPN/100 mL
-        ↓
+   â†’ Target: Coliform < 3.000 MPN/100 mL
+        â†“
 5. DECHLORINATION
-   - Sodium Bisulfite (jika residual Cl₂ tinggi)
-        ↓
+   - Sodium Bisulfite (jika residual Clâ‚‚ tinggi)
+        â†“
 EFFLUENT AKHIR
 ```
 
@@ -623,17 +623,17 @@ EFFLUENT AKHIR
 | BOD | 500 mg/L | 60 mg/L | (500-60)/500 = **88%** |
 | COD | 1200 mg/L | 150 mg/L | (1200-150)/1200 = **87,5%** |
 | TSS | 400 mg/L | 50 mg/L | (400-50)/400 = **87,5%** |
-| Warna | Pengenceran 5× | Pengenceran 40× | **88%** |
+| Warna | Pengenceran 5Ã— | Pengenceran 40Ã— | **88%** |
 | Kromium | 3 mg/L | 0,1 mg/L | (3-0,1)/3 = **96,7%** |
 
 **Kesimpulan Teknis:**
 - IPAL harus mampu removal BOD/COD minimum 88%
 - IPAL harus mampu removal logam berat minimum 95%
-- Teknologi standar (activated sludge) TIDAK CUKUP → perlu teknologi advanced (chemical precipitation untuk logam, activated carbon untuk warna)
+- Teknologi standar (activated sludge) TIDAK CUKUP â†’ perlu teknologi advanced (chemical precipitation untuk logam, activated carbon untuk warna)
 
 #### 3. Biaya Investasi dan Operasional
 
-**Estimasi Biaya (untuk pabrik tekstil 300 m³/hari):**
+**Estimasi Biaya (untuk pabrik tekstil 300 mÂ³/hari):**
 
 | Komponen | Biaya (Rp) |
 |----------|-----------|
@@ -644,19 +644,19 @@ EFFLUENT AKHIR
 | **Total CAPEX** | **5.000.000.000** |
 | | |
 | **OPEX (Operational Expenditure per tahun):** | |
-| Listrik (100 kW × 24 jam × 365 hari × Rp 1.500/kWh) | 1.314.000.000 |
+| Listrik (100 kW Ã— 24 jam Ã— 365 hari Ã— Rp 1.500/kWh) | 1.314.000.000 |
 | Bahan kimia (koagulan, alkali, asam) | 600.000.000 |
-| Operator dan teknisi (5 orang × Rp 6 juta/bulan) | 360.000.000 |
+| Operator dan teknisi (5 orang Ã— Rp 6 juta/bulan) | 360.000.000 |
 | Maintenance dan spare parts | 300.000.000 |
-| Pengujian laboratorium (12× per tahun × Rp 10 juta) | 120.000.000 |
+| Pengujian laboratorium (12Ã— per tahun Ã— Rp 10 juta) | 120.000.000 |
 | **Total OPEX** | **2.694.000.000** |
 
-**Biaya Total 5 Tahun:** Rp 5 miliar + (Rp 2,694 miliar × 5) = **Rp 18,47 miliar**
+**Biaya Total 5 Tahun:** Rp 5 miliar + (Rp 2,694 miliar Ã— 5) = **Rp 18,47 miliar**
 
 **Pertanyaan Kritis:**
 Apakah biaya ini layak? Bandingkan dengan:
 - Biaya eksternal pencemaran: Rp 35 miliar per tahun (kesehatan, hilangnya fungsi ekosistem)
-- Denda dan sanksi: Pencabutan izin → kerugian puluhan hingga ratusan miliar
+- Denda dan sanksi: Pencabutan izin â†’ kerugian puluhan hingga ratusan miliar
 - Reputasi perusahaan: Tidak ternilai
 
 **Kesimpulan:** Investasi IPAL adalah WAJIB dan LAYAK secara ekonomi, hukum, dan etika.
@@ -679,17 +679,17 @@ Kasus pencemaran Sungai Citarum menunjukkan keterkaitan sistematis antara:
 ```
 DAYA TAMPUNG BEBAN PENCEMARAN AIR
 (Kemampuan sungai menyerap limbah: 500 kg BOD/hari)
-        ↓
+        â†“
 Beban pencemar yang masuk (2.790 kg BOD/hari) > Daya tampung
-        ↓
+        â†“
 BAKU MUTU AIR LIMBAH
 (BOD 60-150 mg/L tergantung jenis industri)
-        ↓
-Industri tidak memenuhi baku mutu → air limbah terbuang dengan BOD tinggi
-        ↓
+        â†“
+Industri tidak memenuhi baku mutu â†’ air limbah terbuang dengan BOD tinggi
+        â†“
 PENCEMARAN AIR
 (Kualitas air sungai melampaui baku mutu air)
-        ↓
+        â†“
 DAMPAK PADA DAYA DUKUNG LINGKUNGAN
 (Penurunan 70%: hilangnya fungsi air bersih, perikanan, pertanian)
 ```
@@ -702,7 +702,7 @@ DAMPAK PADA DAYA DUKUNG LINGKUNGAN
 - **Pencemaran** = Kemacetan (terjadi ketika jumlah kendaraan melampaui kapasitas)
 
 Baku mutu air limbah adalah operasionalisasi daya tampung menjadi angka-angka yang:
-1. **Terukur** (dalam mg/L, MPN/100mL, °C)
+1. **Terukur** (dalam mg/L, MPN/100mL, Â°C)
 2. **Dapat dipantau** (melalui sampling dan analisis laboratorium)
 3. **Dapat ditegakkan** (melalui sanksi administratif, perdata, pidana)
 
@@ -722,8 +722,8 @@ Permen LHK 5/2014 sangat canggih dalam membedakan baku mutu berdasarkan:
    - Polutan estetika (warna, bau): standar kualitatif
 
 3. **Risiko terhadap Ekosistem:**
-   - Parameter yang bioakumulatif (Hg, Cd, Pb) → baku mutu sangat ketat
-   - Parameter yang biodegradable (BOD) → baku mutu relatif longgar
+   - Parameter yang bioakumulatif (Hg, Cd, Pb) â†’ baku mutu sangat ketat
+   - Parameter yang biodegradable (BOD) â†’ baku mutu relatif longgar
 
 ### D. Perlunya Penegakan Hukum yang Tegas
 
@@ -733,9 +733,9 @@ Permen LHK 5/2014 sangat canggih dalam membedakan baku mutu berdasarkan:
 - **0 pabrik yang izinnya dicabut** meskipun pelanggaran berat
 
 **Masalah:**
-1. **Weak enforcement** → pabrik tidak takut melanggar
-2. **Regulatory capture** → kolusi antara industri dan pejabat
-3. **Kurangnya sumber daya** → SDM dan laboratorium pengawas terbatas
+1. **Weak enforcement** â†’ pabrik tidak takut melanggar
+2. **Regulatory capture** â†’ kolusi antara industri dan pejabat
+3. **Kurangnya sumber daya** â†’ SDM dan laboratorium pengawas terbatas
 
 **Solusi:**
 1. **Penegakan konsisten:** Setiap pelanggaran >50% wajib sanksi pencabutan izin
@@ -830,10 +830,10 @@ Hanya dengan pendekatan holistik dan konsisten, Sungai Citarum dapat dipulihkan 
 ---
 
 **Navigasi:**
-- [[BAB_IV_Mekanisme_Hukum_Operasional|← Bagian IV: Mekanisme Hukum Operasional]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
-- [[BAB_V_Kasus_2_3_Pencemaran_Udara_Laut|Lanjut ke Kasus 2 & 3: Pencemaran Udara dan Laut →]]
-- [[BAB_VI_Implikasi_Hukum_Konsekuensi|Lanjut ke Bagian VI: Implikasi Hukum →]]
+- [[BAB_IV_Mekanisme_Hukum_Operasional|â† Bagian IV: Mekanisme Hukum Operasional]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
+- [[BAB_V_Kasus_2_3_Pencemaran_Udara_Laut|Lanjut ke Kasus 2 & 3: Pencemaran Udara dan Laut â†’]]
+- [[BAB_VI_Implikasi_Hukum_Konsekuensi|Lanjut ke Bagian VI: Implikasi Hukum â†’]]
 
 ---
 
@@ -846,4 +846,5 @@ Hanya dengan pendekatan holistik dan konsisten, Sungai Citarum dapat dipulihkan 
 *The **Agentic RAG Orchestration Framework** represents a novel approach to legal education content generation, combining advanced natural language processing, regulatory database retrieval, and multi-agent coordination to produce comprehensive, well-structured, and legally sound educational materials. This framework is particularly optimized for the complexities of Indonesian environmental law, including UU 32/2009 on Environmental Protection and Management, PP 22/2021, and related ministerial regulations.*
 
 *Framework Architecture & Development: **Mohamad Mova Al'Afghani** (2025)*
-*© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+*Â© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+

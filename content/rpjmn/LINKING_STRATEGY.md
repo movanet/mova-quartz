@@ -1,10 +1,10 @@
-# RPJMN 2025-2029 Linking & Enhancement Strategy
+﻿# RPJMN 2025-2029 Linking & Enhancement Strategy
 
 ## Enhancement Plan
 
 ### Phase 1: Text Cleanup & Formatting
 - Remove excessive spaces (PDF artifacts)
-- Fix ligatures (ﬁ → fi, ﬂ → fl)
+- Fix ligatures (ï¬ â†’ fi, ï¬‚ â†’ fl)
 - Normalize line breaks
 - Clean up table formatting
 - Ensure consistent heading structure
@@ -129,9 +129,9 @@ date: "2025-10-29"
 
 **Pattern 1: Concept References**
 When text mentions a key concept, add wikilink:
-- "swasembada pangan" → `[[Swasembada_Hub#Pangan|swasembada pangan]]`
-- "hilirisasi nikel" → `[[Hilirisasi_Hub#Nikel|hilirisasi nikel]]`
-- "pembangunan SDM" → `[[SDM_Hub|pembangunan SDM]]`
+- "swasembada pangan" â†’ `[[Swasembada_Hub#Pangan|swasembada pangan]]`
+- "hilirisasi nikel" â†’ `[[Hilirisasi_Hub#Nikel|hilirisasi nikel]]`
+- "pembangunan SDM" â†’ `[[SDM_Hub|pembangunan SDM]]`
 
 **Pattern 2: Priority Cross-References**
 When a priority references another:
@@ -139,17 +139,17 @@ When a priority references another:
 
 **Pattern 3: Regional Cross-References**
 When priority mentions region:
-- "Lumbung Pangan Kalimantan" → `[[IV_Wilayah_5_Kalimantan#Lumbung-Pangan|Lumbung Pangan Kalimantan]]`
+- "Lumbung Pangan Kalimantan" â†’ `[[IV_Wilayah_5_Kalimantan#Lumbung-Pangan|Lumbung Pangan Kalimantan]]`
 
 **Pattern 4: BAB Cross-References**
 When chapter references another:
-- BAB III referencing BAB II framework → `[[II_Kebijakan_Pembangunan#Kerangka-Pikir|kerangka kebijakan]]`
+- BAB III referencing BAB II framework â†’ `[[II_Kebijakan_Pembangunan#Kerangka-Pikir|kerangka kebijakan]]`
 
 ### Phase 6: Navigation Elements
 
 **Top of each file (after frontmatter):**
 ```markdown
-> **Navigation:** [[00_INDEX|🏠 Index]] | [[README|📖 About]] | [[VALIDATION_REPORT|✅ Quality Report]]
+> **Navigation:** [[00_INDEX|ðŸ  Index]] | [[README|ðŸ“– About]] | [[VALIDATION_REPORT|âœ… Quality Report]]
 >
 > **You are here:** [Chapter/Section Name]
 >
@@ -218,10 +218,10 @@ Replace: (single space)
 
 **Pattern 2: Ligatures**
 ```regex
-Find: ﬁ
+Find: ï¬
 Replace: fi
 
-Find: ﬂ
+Find: ï¬‚
 Replace: fl
 ```
 
@@ -287,3 +287,4 @@ Ensure tables use proper markdown:
 
 **Status:** Strategy document - implementation pending
 **Created:** 2025-10-29
+

@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -42,4 +42,5 @@ Example: Construction sites that lack proper erosion control measures can releas
 Contaminants, such as heavy metals (e.g., lead, mercury), pesticides, and pathogens (e.g., bacteria, viruses), can enter water bodies through various pathways, including industrial discharges, agricultural runoff, and urban stormwater. These contaminants can pose risks to human health and the environment, depending on their concentrations and toxicity.
 
 Example: Industrial discharges containing high levels of heavy metals, like mercury or cadmium, can contaminate nearby water bodies, posing risks to aquatic life and human health. Fish and other aquatic organisms can accumulate these metals in their tissues, and when consumed by humans, can lead to health problems such as neurological damage, kidney disease, and developmental disorders. Monitoring and regulating heavy metal discharges based on water quality standards can help protect both ecosystems and public health.
+
 

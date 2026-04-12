@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hukum Lingkungan - Materi Pembelajaran"
 description: "Halaman utama materi pembelajaran Hukum Lingkungan: Buku Ajar (11 bab) dan Modul Daya Dukung, Daya Tampung, dan Pencemaran (BAB I-VI)"
 tags:
@@ -99,3 +99,4 @@ Setelah menyelesaikan mata kuliah ini, mahasiswa mampu:
 ---
 
 *Terakhir diperbarui: April 2026*
+

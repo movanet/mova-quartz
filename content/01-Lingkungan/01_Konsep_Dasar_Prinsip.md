@@ -1,4 +1,4 @@
----
+﻿---
 title: "Konsep Dasar dan Prinsip Hukum Lingkungan"
 description: "Bab pertama buku ajar Hukum Lingkungan yang membahas definisi, dasar konstitusional, 14 asas PPLH, prinsip pembangunan berkelanjutan, pencemar membayar, kehati-hatian, tanggung jawab mutlak, serta hak dan kewajiban para pihak dalam perlindungan lingkungan hidup di Indonesia."
 date: 2026-04-09
@@ -21,8 +21,8 @@ publish: true
 # Konsep Dasar dan Prinsip Hukum Lingkungan
 
 **Navigasi:**
-- [[README|↑ Index]]
-- [[02_Perubahan_Iklim|Perubahan Iklim →]]
+- [[README|â†‘ Index]]
+- [[02_Perubahan_Iklim|Perubahan Iklim â†’]]
 
 ---
 
@@ -295,7 +295,7 @@ Indonesia telah mengintegrasikan SDGs ke dalam Rencana Pembangunan Jangka Meneng
 
 ### 4.4 Keadilan Antargenerasi (*Intergenerational Equity*)
 
-Prinsip **keadilan antargenerasi** mewajibkan generasi sekarang untuk memastikan bahwa generasi mendatang memiliki akses yang setara terhadap sumber daya alam dan lingkungan hidup yang berkualitas. Edith Brown Weiss mengidentifikasi tiga prinsip turunan dari keadilan antargenerasi: (1) konservasi opsi (*conservation of options*) — menjaga keragaman sumber daya alam; (2) konservasi kualitas (*conservation of quality*) — menjaga kualitas lingkungan hidup; dan (3) konservasi akses (*conservation of access*) — menjamin akses yang adil terhadap warisan sumber daya.
+Prinsip **keadilan antargenerasi** mewajibkan generasi sekarang untuk memastikan bahwa generasi mendatang memiliki akses yang setara terhadap sumber daya alam dan lingkungan hidup yang berkualitas. Edith Brown Weiss mengidentifikasi tiga prinsip turunan dari keadilan antargenerasi: (1) konservasi opsi (*conservation of options*) â€” menjaga keragaman sumber daya alam; (2) konservasi kualitas (*conservation of quality*) â€” menjaga kualitas lingkungan hidup; dan (3) konservasi akses (*conservation of access*) â€” menjamin akses yang adil terhadap warisan sumber daya.
 
 Dalam hukum positif Indonesia, keadilan antargenerasi tercermin dalam Pasal 2 huruf b UU 32/2009 tentang asas kelestarian dan keberlanjutan, serta dalam definisi pembangunan berkelanjutan pada Pasal 1 angka 3 yang secara eksplisit menyebut "generasi masa kini dan generasi masa depan."
 
@@ -359,7 +359,7 @@ Keempat, **problematika kausalitas**: perdebatan mengenai apakah semburan lumpur
 
 Dari perspektif akademis, kasus Lapindo mengilustrasikan kesenjangan struktural antara norma hukum dan implementasinya, serta kebutuhan mendesak akan penguatan mekanisme pertanggungjawaban korporasi, perbaikan sistem eksekusi putusan pengadilan lingkungan, dan penguatan kapasitas pembuktian ilmiah dalam hukum lingkungan Indonesia.
 
-### 5.4 Studi Kasus: PT Newmont Minahasa Raya — Teluk Buyat
+### 5.4 Studi Kasus: PT Newmont Minahasa Raya â€” Teluk Buyat
 
 Kasus pencemaran Teluk Buyat oleh PT Newmont Minahasa Raya menjadi preseden penting lainnya dalam konteks prinsip pencemar membayar. Masyarakat Buyat mengeluhkan berbagai masalah kesehatan yang diduga berkaitan dengan pembuangan tailing (limbah pertambangan) ke dasar laut oleh operasi tambang emas PT Newmont. Jaksa penuntut umum mendakwa PT Newmont dan mantan direkturnya dengan pencemaran lingkungan berdasarkan UU 23/1997 (yang saat itu masih berlaku).
 
@@ -500,7 +500,7 @@ Pasal 70 UU 32/2009 mengakui hak masyarakat untuk berperan aktif dalam perlindun
 
 ### 8.5 Hak Gugat Organisasi Lingkungan Hidup
 
-Pasal 92 UU 32/2009 memberikan hak gugat kepada organisasi lingkungan hidup (*legal standing*) untuk mengajukan gugatan demi kepentingan pelestarian fungsi lingkungan hidup. Organisasi lingkungan hidup berhak mengajukan gugatan apabila memenuhi persyaratan: berbentuk badan hukum, menegaskan dalam anggaran dasarnya bahwa organisasi tersebut didirikan untuk kepentingan pelestarian fungsi lingkungan hidup, dan telah melaksanakan kegiatan nyata sesuai anggaran dasarnya paling singkat dua tahun. Hak gugat organisasi lingkungan hidup ini bersifat altruistik — organisasi tidak mengajukan gugatan untuk kepentingan dirinya sendiri melainkan untuk kepentingan lingkungan hidup dan masyarakat luas.
+Pasal 92 UU 32/2009 memberikan hak gugat kepada organisasi lingkungan hidup (*legal standing*) untuk mengajukan gugatan demi kepentingan pelestarian fungsi lingkungan hidup. Organisasi lingkungan hidup berhak mengajukan gugatan apabila memenuhi persyaratan: berbentuk badan hukum, menegaskan dalam anggaran dasarnya bahwa organisasi tersebut didirikan untuk kepentingan pelestarian fungsi lingkungan hidup, dan telah melaksanakan kegiatan nyata sesuai anggaran dasarnya paling singkat dua tahun. Hak gugat organisasi lingkungan hidup ini bersifat altruistik â€” organisasi tidak mengajukan gugatan untuk kepentingan dirinya sendiri melainkan untuk kepentingan lingkungan hidup dan masyarakat luas.
 
 Di samping hak gugat organisasi, UU 32/2009 juga mengakui mekanisme gugatan lain yang memperluas akses masyarakat terhadap keadilan lingkungan: **gugatan perwakilan kelompok** (*class action*) berdasarkan Pasal 91, **hak gugat pemerintah dan pemerintah daerah** berdasarkan Pasal 90 untuk menuntut ganti rugi dan tindakan tertentu terhadap pencemar yang menimbulkan kerugian bagi lingkungan hidup, serta ***citizen lawsuit*** yang digunakan untuk menuntut pertanggungjawaban pemerintah atas kelalaian dalam memenuhi kewajiban perlindungan lingkungan. Seluruh mekanisme ini dibahas lebih mendalam di [[08_Penegakan_Hukum|Penegakan Hukum Lingkungan]].
 
@@ -538,7 +538,7 @@ Perubahan yang dibawa oleh UU Cipta Kerja memiliki implikasi langsung terhadap p
 
 Dari perspektif asas kehati-hatian, penyederhanaan proses perizinan yang mempercepat persetujuan kegiatan usaha perlu dievaluasi secara hati-hati. Di satu sisi, efisiensi proses perizinan dapat mengurangi biaya dan waktu bagi pelaku usaha. Di sisi lain, percepatan proses tanpa diimbangi peningkatan kapasitas pengawasan berpotensi meningkatkan risiko kerusakan lingkungan, terutama dari kegiatan yang berdampak penting. Keseimbangan antara efisiensi ekonomi dan kehati-hatian lingkungan menjadi ujian utama bagi implementasi UU Cipta Kerja di bidang lingkungan hidup.
 
-Perdebatan tentang dampak UU Cipta Kerja terhadap hukum lingkungan menunjukkan bahwa prinsip-prinsip hukum lingkungan bukan sekadar konsep teoritis, melainkan memiliki implikasi praktis yang nyata terhadap kualitas perlindungan lingkungan. Pemahaman yang mendalam tentang prinsip-prinsip ini menjadi modal penting bagi praktisi hukum untuk mengevaluasi kebijakan dan membela kepentingan perlindungan lingkungan dalam berbagai forum — legislatif, yudisial, maupun publik.
+Perdebatan tentang dampak UU Cipta Kerja terhadap hukum lingkungan menunjukkan bahwa prinsip-prinsip hukum lingkungan bukan sekadar konsep teoritis, melainkan memiliki implikasi praktis yang nyata terhadap kualitas perlindungan lingkungan. Pemahaman yang mendalam tentang prinsip-prinsip ini menjadi modal penting bagi praktisi hukum untuk mengevaluasi kebijakan dan membela kepentingan perlindungan lingkungan dalam berbagai forum â€” legislatif, yudisial, maupun publik.
 
 ---
 
@@ -593,8 +593,8 @@ Peraturan pelaksana UU 32/2009 pasca UU Cipta Kerja
 - **Pasal 33 ayat (4) UUD 1945**: Perekonomian berkelanjutan dan berwawasan lingkungan
 
 ### Deklarasi Internasional
-- [[01-Traktat_Rio_Declaration_1992|Deklarasi Rio 1992]] — Prinsip pembangunan berkelanjutan
-- [[01-Traktat_Stockholm_Declaration_1972|Deklarasi Stockholm 1972]] — Konferensi pertama lingkungan hidup manusia
+- [[01-Traktat_Rio_Declaration_1992|Deklarasi Rio 1992]] â€” Prinsip pembangunan berkelanjutan
+- [[01-Traktat_Stockholm_Declaration_1972|Deklarasi Stockholm 1972]] â€” Konferensi pertama lingkungan hidup manusia
 
 ### Referensi Regulasi Lengkap
 - [[_referensi/REGULATION_INDEX|Indeks Regulasi Lingkungan]]
@@ -631,5 +631,6 @@ Peraturan pelaksana UU 32/2009 pasca UU Cipta Kerja
 ---
 
 **Navigasi:**
-- [[README|↑ Index]]
-- [[02_Perubahan_Iklim|Perubahan Iklim →]]
+- [[README|â†‘ Index]]
+- [[02_Perubahan_Iklim|Perubahan Iklim â†’]]
+

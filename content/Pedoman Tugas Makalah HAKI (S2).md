@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -71,6 +71,7 @@ Topik yang harus dibahas oleh seluruh siswa adalah sama, yakni *irisan antara Ha
 	- [Perkuliahan terakhir (pedoman mengerjakan makalah UAS)]([Perkuliahan Terakhir](https://1drv.ms/f/s!AiLjEZe0IazmorYoQxY5qkwVVbQaHw?e=RCYuM8))
 	- [[Cara Menggunakan Bing Chat untuk Menelusuri Literatur]]
 	- [[For factual information -- use Bing Chat]]
+
 
 
 

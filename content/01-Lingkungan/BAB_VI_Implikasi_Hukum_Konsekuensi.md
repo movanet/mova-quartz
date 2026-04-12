@@ -1,4 +1,4 @@
----
+﻿---
 title: "BAB VI: Implikasi Hukum dan Konsekuensi"
 description: "Konsekuensi hukum pelampauan daya dukung dan daya tampung, sanksi pencemaran (administratif, perdata, pidana), serta kewajiban pemulihan lingkungan"
 tags:
@@ -16,10 +16,10 @@ publish: true
 ---
 
 **Navigasi:**
-- [[BAB_IV_Mekanisme_Hukum_Operasional|← Bagian IV: Mekanisme Hukum Operasional]]
-- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|← Kasus 1: Pencemaran Air Sungai]]
-- [[BAB_V_Kasus_2_3_Pencemaran_Udara_Laut|← Kasus 2 & 3: Pencemaran Udara dan Laut]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
+- [[BAB_IV_Mekanisme_Hukum_Operasional|â† Bagian IV: Mekanisme Hukum Operasional]]
+- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|â† Kasus 1: Pencemaran Air Sungai]]
+- [[BAB_V_Kasus_2_3_Pencemaran_Udara_Laut|â† Kasus 2 & 3: Pencemaran Udara dan Laut]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
 
 ---
 
@@ -219,7 +219,7 @@ Dwangsom adalah instrumen yang berasal dari hukum administrasi Belanda, dirancan
 
 Jika suatu pabrik diperintahkan untuk memasang IPAL dalam waktu 90 hari dengan ancaman denda Rp 10 juta per hari keterlambatan, dan pabrik tersebut baru menyelesaikan IPAL setelah 120 hari, maka pabrik tersebut wajib membayar denda sebesar:
 
-30 hari keterlambatan × Rp 10 juta = **Rp 300 juta**
+30 hari keterlambatan Ã— Rp 10 juta = **Rp 300 juta**
 
 Denda ini bersifat akumulatif dan dapat menjadi sangat besar, sehingga menciptakan dorongan ekonomi yang kuat untuk segera compliance.
 
@@ -585,24 +585,24 @@ UU 32/2009 menerapkan sistem **preventif-responsif-restoratif** yang komprehensi
 
 ```
 Level 1: PENCEGAHAN (Preventive)
-├─ KLHS → Moratorium jika daya dukung terlampaui
-├─ AMDAL → Penolakan izin jika tidak layak
-├─ Baku Mutu → Standar operasional wajib
-└─ Perizinan → Gatekeeper compliance
+â”œâ”€ KLHS â†’ Moratorium jika daya dukung terlampaui
+â”œâ”€ AMDAL â†’ Penolakan izin jika tidak layak
+â”œâ”€ Baku Mutu â†’ Standar operasional wajib
+â””â”€ Perizinan â†’ Gatekeeper compliance
 
 Level 2: PENEGAKAN (Enforcement)
-├─ Sanksi Administratif:
-│  ├─ Teguran Tertulis
-│  ├─ Paksaan Pemerintah (7 bentuk)
-│  ├─ Pembekuan Izin
-│  └─ Pencabutan Izin
-├─ Sanksi Perdata → Ganti rugi, pemulihan
-└─ Sanksi Pidana → Penjara dan denda
+â”œâ”€ Sanksi Administratif:
+â”‚  â”œâ”€ Teguran Tertulis
+â”‚  â”œâ”€ Paksaan Pemerintah (7 bentuk)
+â”‚  â”œâ”€ Pembekuan Izin
+â”‚  â””â”€ Pencabutan Izin
+â”œâ”€ Sanksi Perdata â†’ Ganti rugi, pemulihan
+â””â”€ Sanksi Pidana â†’ Penjara dan denda
 
 Level 3: PEMULIHAN (Restorative)
-├─ Penanggulangan → Respons segera
-├─ Pemulihan Fungsi → Remediasi, rehabilitasi, restorasi
-└─ Dana Penjaminan → Jaminan finansial
+â”œâ”€ Penanggulangan â†’ Respons segera
+â”œâ”€ Pemulihan Fungsi â†’ Remediasi, rehabilitasi, restorasi
+â””â”€ Dana Penjaminan â†’ Jaminan finansial
 ```
 
 ### 2. Prinsip-Prinsip Penting
@@ -659,10 +659,10 @@ Sistem hukum yang komprehensif ini, jika ditegakkan secara konsisten, memiliki p
 ---
 
 **Navigasi:**
-- [[BAB_IV_Mekanisme_Hukum_Operasional|← Bagian IV: Mekanisme Hukum Operasional]]
-- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|← Kasus 1: Pencemaran Air Sungai]]
-- [[BAB_V_Kasus_2_3_Pencemaran_Udara_Laut|← Kasus 2 & 3: Pencemaran Udara dan Laut]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
+- [[BAB_IV_Mekanisme_Hukum_Operasional|â† Bagian IV: Mekanisme Hukum Operasional]]
+- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|â† Kasus 1: Pencemaran Air Sungai]]
+- [[BAB_V_Kasus_2_3_Pencemaran_Udara_Laut|â† Kasus 2 & 3: Pencemaran Udara dan Laut]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
 
 ---
 
@@ -677,4 +677,5 @@ Sistem hukum yang komprehensif ini, jika ditegakkan secara konsisten, memiliki p
 *The **Agentic RAG Orchestration Framework** represents a novel approach to legal education content generation, combining advanced natural language processing, regulatory database retrieval, and multi-agent coordination to produce comprehensive, well-structured, and legally sound educational materials. This framework is particularly optimized for the complexities of Indonesian environmental law, including UU 32/2009 on Environmental Protection and Management, PP 22/2021, and related ministerial regulations.*
 
 *Framework Architecture & Development: **Mohamad Mova Al'Afghani** (2025)*
-*© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+*Â© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+

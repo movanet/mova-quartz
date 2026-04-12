@@ -1,4 +1,4 @@
----
+﻿---
 title: "Outline: Daya Dukung, Daya Tampung, dan Pencemaran dalam Hukum Lingkungan Indonesia"
 description: "Ringkasan dan outline lengkap modul pembelajaran keterkaitan daya dukung, daya tampung, dan pencemaran lingkungan hidup"
 tags:
@@ -21,7 +21,7 @@ publish: true
 ---
 
 ## I. PENDAHULUAN
-📖 **[[BAB_I_Pendahuluan|Baca Materi Lengkap Bagian I]]**
+ðŸ“– **[[BAB_I_Pendahuluan|Baca Materi Lengkap Bagian I]]**
 
 ### A. Latar Belakang
 - Mengapa kita perlu memahami ketiga konsep ini?
@@ -38,7 +38,7 @@ Setelah mempelajari materi ini, mahasiswa dapat:
 ---
 
 ## II. DEFINISI DAN DASAR HUKUM
-📖 **[[BAB_II_Definisi_Dasar_Hukum|Baca Materi Lengkap Bagian II]]**
+ðŸ“– **[[BAB_II_Definisi_Dasar_Hukum|Baca Materi Lengkap Bagian II]]**
 
 ### A. Daya Dukung Lingkungan Hidup
 **Dasar Hukum:** UU 32/2009 Pasal 1 angka 7
@@ -108,7 +108,7 @@ Pencemaran terjadi ketika limbah yang masuk ke danau melebihi kemampuan danau un
 ---
 
 ## III. KETERKAITAN KONSEPTUAL
-📖 **[[BAB_III_Keterkaitan_Konseptual|Baca Materi Lengkap Bagian III]]**
+ðŸ“– **[[BAB_III_Keterkaitan_Konseptual|Baca Materi Lengkap Bagian III]]**
 
 ### A. Hubungan Daya Dukung dan Daya Tampung
 **Konsep:** Daya dukung dan daya tampung adalah dua aspek dari kapasitas lingkungan
@@ -122,7 +122,7 @@ Pencemaran terjadi ketika limbah yang masuk ke danau melebihi kemampuan danau un
 
 **Hubungan:**
 - Daya tampung adalah bagian dari daya dukung
-- Jika daya tampung terlampaui → pencemaran terjadi → daya dukung menurun
+- Jika daya tampung terlampaui â†’ pencemaran terjadi â†’ daya dukung menurun
 - Pelestarian fungsi lingkungan = memelihara daya dukung DAN daya tampung (UU 32/2009 Pasal 1 angka 6)
 
 ### B. Hubungan Daya Tampung dan Pencemaran
@@ -130,9 +130,9 @@ Pencemaran terjadi ketika limbah yang masuk ke danau melebihi kemampuan danau un
 
 **Mekanisme:**
 ```
-Beban Pencemar < Daya Tampung → Tidak Ada Pencemaran (di bawah baku mutu)
-Beban Pencemar = Daya Tampung → Batas Aman (pada baku mutu)
-Beban Pencemar > Daya Tampung → PENCEMARAN (melampaui baku mutu)
+Beban Pencemar < Daya Tampung â†’ Tidak Ada Pencemaran (di bawah baku mutu)
+Beban Pencemar = Daya Tampung â†’ Batas Aman (pada baku mutu)
+Beban Pencemar > Daya Tampung â†’ PENCEMARAN (melampaui baku mutu)
 ```
 
 **Indikator Pencemaran:**
@@ -153,8 +153,8 @@ Baku mutu adalah "terjemahan" daya tampung ke dalam angka-angka yang dapat diuku
 1. Wilayah X memiliki daya dukung untuk 10.000 penduduk
 2. Industri membuang limbah yang melampaui daya tampung sungai
 3. Terjadi pencemaran air
-4. Kualitas air menurun → tidak bisa lagi digunakan untuk air minum
-5. Daya dukung wilayah menurun → hanya mampu mendukung 7.000 penduduk
+4. Kualitas air menurun â†’ tidak bisa lagi digunakan untuk air minum
+5. Daya dukung wilayah menurun â†’ hanya mampu mendukung 7.000 penduduk
 
 **Dampak Pencemaran terhadap Daya Dukung:**
 - Menurunkan kualitas lingkungan
@@ -165,7 +165,7 @@ Baku mutu adalah "terjemahan" daya tampung ke dalam angka-angka yang dapat diuku
 ---
 
 ## IV. MEKANISME HUKUM OPERASIONAL
-📖 **[[BAB_IV_Mekanisme_Hukum_Operasional|Baca Materi Lengkap Bagian IV]]**
+ðŸ“– **[[BAB_IV_Mekanisme_Hukum_Operasional|Baca Materi Lengkap Bagian IV]]**
 
 ### A. Peran Kajian Lingkungan Hidup Strategis (KLHS)
 **Dasar Hukum:** UU 32/2009 Pasal 15-17
@@ -211,8 +211,8 @@ Gubernur sesuai kewenangannya **wajib menjamin** daya dukung dan daya tampung ti
    - **Daya tampung beban pencemaran air**
 
 2. Hasil kajian menunjukkan 2 kemungkinan:
-   - **Belum terlampaui** → Baku mutu air limbah sama dengan peraturan menteri
-   - **Telah terlampaui** → Gubernur wajib menetapkan baku mutu **lebih ketat**
+   - **Belum terlampaui** â†’ Baku mutu air limbah sama dengan peraturan menteri
+   - **Telah terlampaui** â†’ Gubernur wajib menetapkan baku mutu **lebih ketat**
 
 ### C. Baku Mutu sebagai Penghubung
 **Konsep:** Baku mutu adalah operasionalisasi daya tampung
@@ -220,11 +220,11 @@ Gubernur sesuai kewenangannya **wajib menjamin** daya dukung dan daya tampung ti
 **Hubungan:**
 ```
 Daya Tampung (Konsep Abstrak)
-        ↓
+        â†“
 Kajian Ilmiah
-        ↓
+        â†“
 Baku Mutu (Angka Konkret)
-        ↓
+        â†“
 Standar yang Wajib Dipenuhi
 ```
 
@@ -243,25 +243,25 @@ Standar yang Wajib Dipenuhi
 - Daya tampung diterjemahkan menjadi baku mutu
 - Baku mutu ditetapkan dalam peraturan
 - Usaha/kegiatan wajib memenuhi baku mutu
-- Jika tidak memenuhi → pencemaran → sanksi
+- Jika tidak memenuhi â†’ pencemaran â†’ sanksi
 
 ### D. Instrumen Perizinan
 **Dasar Hukum:** UU 32/2009 Pasal 36-41
 
 **Mekanisme Kontrol:**
-1. **Amdal/UKL-UPL** → mengkaji apakah usaha akan melampaui daya dukung/tampung
-2. **Izin Lingkungan** → diberikan jika tidak melampaui daya dukung/tampung
-3. **Izin Usaha** → baru bisa diberikan setelah ada izin lingkungan
+1. **Amdal/UKL-UPL** â†’ mengkaji apakah usaha akan melampaui daya dukung/tampung
+2. **Izin Lingkungan** â†’ diberikan jika tidak melampaui daya dukung/tampung
+3. **Izin Usaha** â†’ baru bisa diberikan setelah ada izin lingkungan
 
 **Konsekuensi:**
-- Jika dalam operasional melampaui daya dukung/tampung → pencemaran
-- Pencemaran → pelanggaran baku mutu
-- Pelanggaran baku mutu → sanksi administratif → izin dapat dicabut
+- Jika dalam operasional melampaui daya dukung/tampung â†’ pencemaran
+- Pencemaran â†’ pelanggaran baku mutu
+- Pelanggaran baku mutu â†’ sanksi administratif â†’ izin dapat dicabut
 
 ---
 
 ## V. STUDI KASUS DAN PENERAPAN
-📖 **Baca Materi Lengkap:**
+ðŸ“– **Baca Materi Lengkap:**
 - **[[BAB_V_Kasus_1_Pencemaran_Air_Sungai|Kasus 1: Pencemaran Air Sungai]]**
 - **[[BAB_V_Kasus_2_3_Pencemaran_Udara_Laut|Kasus 2 & 3: Pencemaran Udara dan Laut]]**
 
@@ -280,19 +280,19 @@ Pabrik tekstil membuang limbah ke Sungai Citarum. Air limbah mengandung BOD (Bio
    - Contoh: BOD maksimal 60 mg/L
 
 3. **Pencemaran:**
-   - Jika limbah pabrik BOD = 150 mg/L → melampaui baku mutu
+   - Jika limbah pabrik BOD = 150 mg/L â†’ melampaui baku mutu
    - Beban pencemaran melampaui daya tampung sungai
    - Terjadi pencemaran air
 
 4. **Dampak pada Daya Dukung:**
-   - Air sungai tercemar → tidak bisa digunakan untuk air bersih
-   - Ikan mati → mata pencaharian nelayan hilang
+   - Air sungai tercemar â†’ tidak bisa digunakan untuk air bersih
+   - Ikan mati â†’ mata pencaharian nelayan hilang
    - Daya dukung wilayah menurun
 
 **Solusi Hukum:**
 - Gubernur dapat menetapkan baku mutu lebih ketat (jika daya tampung terlampaui)
 - Pabrik wajib membangun IPAL (Instalasi Pengolahan Air Limbah)
-- Jika tidak memenuhi → sanksi administratif → pencabutan izin
+- Jika tidak memenuhi â†’ sanksi administratif â†’ pencabutan izin
 
 ### B. Kasus 2: Pencemaran Udara di Kawasan Industri
 **Situasi:**
@@ -319,7 +319,7 @@ Kawasan industri di Kabupaten X memiliki 50 pabrik. Kualitas udara ambien menuru
 
 **Solusi Hukum:**
 - KLHS harus dilakukan sebelum ekspansi kawasan industri
-- Jika daya tampung terlampaui → tidak boleh ada pabrik baru
+- Jika daya tampung terlampaui â†’ tidak boleh ada pabrik baru
 - Pabrik existing wajib memasang alat pengendalian emisi
 - Pemda dapat menerapkan baku mutu emisi lebih ketat
 
@@ -339,24 +339,24 @@ Kegiatan penambangan nikel membuang tailing ke laut. Terumbu karang rusak, ekosi
 
 3. **Pencemaran dan Kerusakan:**
    - Tailing melampaui daya tampung laut
-   - Kualitas air laut melampaui baku mutu → pencemaran
-   - Terumbu karang rusak → kerusakan lingkungan
+   - Kualitas air laut melampaui baku mutu â†’ pencemaran
+   - Terumbu karang rusak â†’ kerusakan lingkungan
 
 4. **Dampak pada Daya Dukung:**
    - Ekosistem laut rusak
-   - Ikan berkurang → nelayan kehilangan mata pencaharian
+   - Ikan berkurang â†’ nelayan kehilangan mata pencaharian
    - Daya dukung pesisir untuk mendukung kehidupan menurun
 
 **Solusi Hukum:**
 - Amdal wajib mengkaji daya dukung dan daya tampung laut
-- Jika melampaui → izin lingkungan tidak boleh diberikan
+- Jika melampaui â†’ izin lingkungan tidak boleh diberikan
 - Kegiatan existing wajib melakukan pemulihan (remediasi, rehabilitasi, restorasi)
 - Pemegang izin wajib menyediakan dana penjaminan pemulihan
 
 ---
 
 ## VI. IMPLIKASI HUKUM DAN KONSEKUENSI
-📖 **[[BAB_VI_Implikasi_Hukum_Konsekuensi|Baca Materi Lengkap Bagian VI]]**
+ðŸ“– **[[BAB_VI_Implikasi_Hukum_Konsekuensi|Baca Materi Lengkap Bagian VI]]**
 
 ### A. Konsekuensi Melampaui Daya Dukung dan Daya Tampung
 
@@ -372,7 +372,7 @@ Kegiatan penambangan nikel membuang tailing ke laut. Terumbu karang rusak, ekosi
 
 **3. Level Operasional**
 - Wajib memenuhi baku mutu
-- Jika melampaui baku mutu → pencemaran → sanksi administratif
+- Jika melampaui baku mutu â†’ pencemaran â†’ sanksi administratif
 - Baku mutu dapat diperketat jika daya tampung terlampaui
 
 ### B. Sanksi atas Pencemaran
@@ -422,21 +422,21 @@ Kegiatan penambangan nikel membuang tailing ke laut. Terumbu karang rusak, ekosi
 ```
 DAYA DUKUNG LINGKUNGAN HIDUP
 (Kemampuan mendukung kehidupan)
-        ↑
-        │
-        │ Jika terlampaui → Daya dukung menurun
-        │
-        ↓
+        â†‘
+        â”‚
+        â”‚ Jika terlampaui â†’ Daya dukung menurun
+        â”‚
+        â†“
 PENCEMARAN LINGKUNGAN HIDUP
 (Melampaui baku mutu)
-        ↑
-        │
-        │ Terjadi ketika beban pencemar > daya tampung
-        │
-        ↓
+        â†‘
+        â”‚
+        â”‚ Terjadi ketika beban pencemar > daya tampung
+        â”‚
+        â†“
 DAYA TAMPUNG LINGKUNGAN HIDUP
 (Kemampuan menyerap beban pencemar)
-        ↕
+        â†•
 BAKU MUTU LINGKUNGAN HIDUP
 (Operasionalisasi daya tampung dalam angka)
 ```
@@ -460,23 +460,23 @@ Hubungan antara ketiga konsep ini membentuk siklus yang dapat bersifat **regener
 **Siklus Degeneratif (Penurunan Kualitas Lingkungan):**
 ```
 Aktivitas Manusia Berlebihan
-    → Beban Pencemar Melampaui Daya Tampung
-    → Pencemaran Terjadi
-    → Kualitas Lingkungan Menurun
-    → Daya Dukung Menurun
-    → Kapasitas untuk Mendukung Kehidupan Berkurang
-    → Kesejahteraan Manusia Menurun
+    â†’ Beban Pencemar Melampaui Daya Tampung
+    â†’ Pencemaran Terjadi
+    â†’ Kualitas Lingkungan Menurun
+    â†’ Daya Dukung Menurun
+    â†’ Kapasitas untuk Mendukung Kehidupan Berkurang
+    â†’ Kesejahteraan Manusia Menurun
 ```
 
 **Siklus Regeneratif (Pemulihan Lingkungan):**
 ```
 Pengendalian Aktivitas Manusia
-    → Beban Pencemar Di Bawah Daya Tampung
-    → Tidak Ada Pencemaran
-    → Lingkungan Pulih (Self-Purification)
-    → Daya Dukung Meningkat
-    → Kapasitas Mendukung Kehidupan Meningkat
-    → Kesejahteraan Manusia Meningkat
+    â†’ Beban Pencemar Di Bawah Daya Tampung
+    â†’ Tidak Ada Pencemaran
+    â†’ Lingkungan Pulih (Self-Purification)
+    â†’ Daya Dukung Meningkat
+    â†’ Kapasitas Mendukung Kehidupan Meningkat
+    â†’ Kesejahteraan Manusia Meningkat
 ```
 
 #### 3. Operasionalisasi Melalui Instrumen Hukum Berjenjang
@@ -1275,4 +1275,5 @@ Sebagai pengajar, kita memiliki tanggung jawab bukan hanya mentransfer pengetahu
 *The **Agentic RAG Orchestration Framework** represents a novel approach to legal education content generation, combining advanced natural language processing, regulatory database retrieval, and multi-agent coordination to produce comprehensive, well-structured, and legally sound educational materials. This framework is particularly optimized for the complexities of Indonesian environmental law, including UU 32/2009 on Environmental Protection and Management, PP 22/2021, and related ministerial regulations.*
 
 *Framework Architecture & Development: **Mohamad Mova Al'Afghani** (2025)*
-*© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+*Â© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+

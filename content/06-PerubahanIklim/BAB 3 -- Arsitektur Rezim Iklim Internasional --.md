@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "3"
 judul: "Arsitektur Rezim Iklim Internasional"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "100 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - UNFCCC
   - Kyoto
   - Paris-Agreement
@@ -38,7 +38,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Bagaimana hampir 200 negara dengan kepentingan berbeda bisa bekerja sama mengatasi perubahan iklim? Jawabannya terletak pada arsitektur rezim iklim internasional yang telah dibangun selama lebih dari tiga dekade. Bab ini akan membawa Anda memahami bangunan hukum internasional iklim—dari konvensi kerangka hingga protokol dan persetujuan, dari COP tahunan hingga mekanisme NDC. Pemahaman arsitektur ini sangat penting untuk memahami hak dan kewajiban Indonesia sebagai Pihak dalam rezim iklim.
+Bagaimana hampir 200 negara dengan kepentingan berbeda bisa bekerja sama mengatasi perubahan iklim? Jawabannya terletak pada arsitektur rezim iklim internasional yang telah dibangun selama lebih dari tiga dekade. Bab ini akan membawa Anda memahami bangunan hukum internasional iklimâ€”dari konvensi kerangka hingga protokol dan persetujuan, dari COP tahunan hingga mekanisme NDC. Pemahaman arsitektur ini sangat penting untuk memahami hak dan kewajiban Indonesia sebagai Pihak dalam rezim iklim.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -51,7 +51,7 @@ graph LR
     B --> F[BAB 7: Hukum Indonesia]
 ```
 
-Bab ini merupakan kelanjutan dari [[Buku-Ajar-Hukum-Perubahan-Iklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2 tentang Prinsip-Prinsip]] dan menjadi fondasi untuk memahami kewajiban spesifik dalam [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4 (Mitigasi)]], [[Buku-Ajar-Hukum-Perubahan-Iklim-05-Hukum-Adaptasi_BAB-05|BAB 5 (Adaptasi)]], dan [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6 (Pendanaan)]].
+Bab ini merupakan kelanjutan dari [[Buku-Ajar-Hukum-06-PerubahanIklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2 tentang Prinsip-Prinsip]] dan menjadi fondasi untuk memahami kewajiban spesifik dalam [[Buku-Ajar-Hukum-06-PerubahanIklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4 (Mitigasi)]], [[Buku-Ajar-Hukum-06-PerubahanIklim-05-Hukum-Adaptasi_BAB-05|BAB 5 (Adaptasi)]], dan [[Buku-Ajar-Hukum-06-PerubahanIklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6 (Pendanaan)]].
 
 ### 5. Peta Konsep Bab
 
@@ -67,7 +67,7 @@ mindmap
       Mekanisme Fleksibilitas
       CDM, JI, ET
     Persetujuan Paris 2015
-      Tujuan 1.5/2°C
+      Tujuan 1.5/2Â°C
       NDC
       Global Stocktake
       Enhanced Transparency
@@ -83,7 +83,7 @@ mindmap
 
 ### 1. UNFCCC 1992: Konvensi Kerangka
 
-Perjalanan hukum iklim internasional dimulai secara resmi pada tahun 1992. Pada KTT Bumi di Rio de Janeiro, negara-negara mengadopsi **United Nations Framework Convention on Climate Change (UNFCCC)**—konvensi kerangka yang meletakkan fondasi bagi seluruh rezim iklim.[^1] Konvensi ini merupakan hasil negosiasi intensif yang dimulai sejak Majelis Umum PBB membentuk Intergovernmental Negotiating Committee (INC) pada tahun 1990, merespons temuan-temuan ilmiah dari Intergovernmental Panel on Climate Change (IPCC) tentang ancaman perubahan iklim global.[^2]
+Perjalanan hukum iklim internasional dimulai secara resmi pada tahun 1992. Pada KTT Bumi di Rio de Janeiro, negara-negara mengadopsi **United Nations Framework Convention on Climate Change (UNFCCC)**â€”konvensi kerangka yang meletakkan fondasi bagi seluruh rezim iklim.[^1] Konvensi ini merupakan hasil negosiasi intensif yang dimulai sejak Majelis Umum PBB membentuk Intergovernmental Negotiating Committee (INC) pada tahun 1990, merespons temuan-temuan ilmiah dari Intergovernmental Panel on Climate Change (IPCC) tentang ancaman perubahan iklim global.[^2]
 
 #### 1.1 Sifat Konvensi Kerangka
 
@@ -98,11 +98,11 @@ Pertama, Pasal 2 UNFCCC menetapkan tujuan umum konvensi yaitu stabilisasi konsen
 
 > [!quote] **Kutipan**
 > "The ultimate objective of this Convention... is to achieve... stabilization of greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system."
-> — *Pasal 2, UNFCCC 1992*
+> â€” *Pasal 2, UNFCCC 1992*
 
 Pasal 2 UNFCCC menetapkan tujuan akhir (*ultimate objective*) yang bersifat aspirasional namun secara hukum mengikat sebagai panduan bagi seluruh implementasi konvensi.[^6] Frasa "dangerous anthropogenic interference" sengaja tidak didefinisikan secara kuantitatif dalam konvensi, memberikan fleksibilitas bagi perkembangan pemahaman ilmiah di masa depan.[^7] Sands dan Peel mencatat bahwa ketidakjelasan ini mencerminkan kesulitan negosiator pada saat itu untuk mencapai konsensus tentang ambang batas yang dapat diterima secara politik.[^8]
 
-Penentuan tingkat berbahaya (*dangerous level*) ini menjadi perdebatan politik dan ilmiah yang terus berlanjut selama lebih dari dua dekade. IPCC dalam berbagai laporannya berupaya memberikan panduan ilmiah, namun penerjemahan ke dalam target hukum tetap merupakan keputusan politik.[^9] Perdebatan ini akhirnya menemukan resolusi pada Persetujuan Paris 2015 yang menetapkan batas 1,5°C dan 2°C di atas tingkat pra-industri sebagai operasionalisasi dari konsep "dangerous interference" tersebut.
+Penentuan tingkat berbahaya (*dangerous level*) ini menjadi perdebatan politik dan ilmiah yang terus berlanjut selama lebih dari dua dekade. IPCC dalam berbagai laporannya berupaya memberikan panduan ilmiah, namun penerjemahan ke dalam target hukum tetap merupakan keputusan politik.[^9] Perdebatan ini akhirnya menemukan resolusi pada Persetujuan Paris 2015 yang menetapkan batas 1,5Â°C dan 2Â°C di atas tingkat pra-industri sebagai operasionalisasi dari konsep "dangerous interference" tersebut.
 
 #### 1.3 Prinsip-Prinsip (Pasal 3)
 
@@ -142,7 +142,7 @@ Ketiga, Pasal 4.3 hingga 4.5 membebankan kewajiban pendanaan dan transfer teknol
 
 ### 2. Protokol Kyoto 1997: Eksperimen *Top-Down*
 
-Lima tahun setelah UNFCCC diadopsi, komunitas internasional menyadari bahwa komitmen "lunak" dalam konvensi kerangka tidak memadai untuk mencapai stabilisasi emisi yang diharapkan. Berlin Mandate yang dihasilkan COP1 pada tahun 1995 secara tegas menyatakan bahwa komitmen Pasal 4.2 UNFCCC "tidak memadai" dan memandatkan negosiasi protokol dengan target yang lebih tegas.[^16] Pada COP3 di Kyoto, Jepang, tanggal 11 Desember 1997, negara-negara mengadopsi **Protokol Kyoto**—instrumen hukum pertama dalam rezim iklim yang menetapkan target emisi mengikat secara kuantitatif.
+Lima tahun setelah UNFCCC diadopsi, komunitas internasional menyadari bahwa komitmen "lunak" dalam konvensi kerangka tidak memadai untuk mencapai stabilisasi emisi yang diharapkan. Berlin Mandate yang dihasilkan COP1 pada tahun 1995 secara tegas menyatakan bahwa komitmen Pasal 4.2 UNFCCC "tidak memadai" dan memandatkan negosiasi protokol dengan target yang lebih tegas.[^16] Pada COP3 di Kyoto, Jepang, tanggal 11 Desember 1997, negara-negara mengadopsi **Protokol Kyoto**â€”instrumen hukum pertama dalam rezim iklim yang menetapkan target emisi mengikat secara kuantitatif.
 
 #### 2.1 Target Mengikat untuk Negara Maju
 
@@ -188,15 +188,15 @@ Di sisi lain, Protokol Kyoto menghadapi keterbatasan struktural yang serius. Kep
 
 ### 3. Persetujuan Paris 2015: Paradigma Baru
 
-Kegagalan COP15 di Kopenhagen pada tahun 2009 untuk menghasilkan perjanjian yang mengikat secara hukum menjadi titik balik penting dalam sejarah diplomasi iklim. Copenhagen Accord yang dihasilkan, meskipun mencantumkan target 2°C untuk pertama kalinya, hanya bersifat politis dan tidak diadopsi secara formal oleh COP.[^26] Pengalaman Kopenhagen mendorong komunitas internasional untuk merancang ulang arsitektur negosiasi iklim, bergerak dari pendekatan *top-down* yang telah gagal menuju model hibrida yang lebih fleksibel. Proses ini memuncak pada COP21 di Paris, 12 Desember 2015, ketika 196 Pihak mengadopsi **Persetujuan Paris**—sebuah tonggak bersejarah dalam tata kelola iklim global yang berhasil menyatukan hampir seluruh negara di dunia dalam satu kerangka hukum iklim.[^27]
+Kegagalan COP15 di Kopenhagen pada tahun 2009 untuk menghasilkan perjanjian yang mengikat secara hukum menjadi titik balik penting dalam sejarah diplomasi iklim. Copenhagen Accord yang dihasilkan, meskipun mencantumkan target 2Â°C untuk pertama kalinya, hanya bersifat politis dan tidak diadopsi secara formal oleh COP.[^26] Pengalaman Kopenhagen mendorong komunitas internasional untuk merancang ulang arsitektur negosiasi iklim, bergerak dari pendekatan *top-down* yang telah gagal menuju model hibrida yang lebih fleksibel. Proses ini memuncak pada COP21 di Paris, 12 Desember 2015, ketika 196 Pihak mengadopsi **Persetujuan Paris**â€”sebuah tonggak bersejarah dalam tata kelola iklim global yang berhasil menyatukan hampir seluruh negara di dunia dalam satu kerangka hukum iklim.[^27]
 
 #### 3.1 Tujuan Jangka Panjang (Pasal 2)
 
 > [!quote] **Kutipan**
-> "Holding the increase in the global average temperature to **well below 2°C** above pre-industrial levels and pursuing efforts to limit the temperature increase to **1.5°C** above pre-industrial levels..."
-> — *Pasal 2.1(a), Persetujuan Paris 2015*
+> "Holding the increase in the global average temperature to **well below 2Â°C** above pre-industrial levels and pursuing efforts to limit the temperature increase to **1.5Â°C** above pre-industrial levels..."
+> â€” *Pasal 2.1(a), Persetujuan Paris 2015*
 
-Pasal 2 Persetujuan Paris merupakan ketentuan yang paling signifikan karena untuk pertama kalinya menerjemahkan tujuan abstrak "mencegah interferensi berbahaya" dalam UNFCCC menjadi batas suhu yang konkret dan terukur. Penyertaan target 1,5°C, yang diperjuangkan keras oleh negara-negara kepulauan kecil dan kelompok negara rentan, merupakan kemenangan diplomatik yang mencerminkan realitas ilmiah bahwa dampak perubahan iklim pada kenaikan 2°C akan jauh lebih parah dari yang dipahami sebelumnya.[^28]
+Pasal 2 Persetujuan Paris merupakan ketentuan yang paling signifikan karena untuk pertama kalinya menerjemahkan tujuan abstrak "mencegah interferensi berbahaya" dalam UNFCCC menjadi batas suhu yang konkret dan terukur. Penyertaan target 1,5Â°C, yang diperjuangkan keras oleh negara-negara kepulauan kecil dan kelompok negara rentan, merupakan kemenangan diplomatik yang mencerminkan realitas ilmiah bahwa dampak perubahan iklim pada kenaikan 2Â°C akan jauh lebih parah dari yang dipahami sebelumnya.[^28]
 
 Persetujuan Paris menetapkan tiga tujuan utama yang saling terkait dan tidak dapat dipisahkan. Tujuan pertama adalah tujuan mitigasi berupa pembatasan kenaikan suhu global. Tujuan kedua adalah tujuan adaptasi berupa peningkatan kapasitas adaptif, penguatan ketahanan, dan pengurangan kerentanan terhadap dampak perubahan iklim. Tujuan ketiga adalah tujuan keuangan berupa pengarahan aliran keuangan ke arah pembangunan rendah emisi dan berketahanan iklim.[^29] Ketiga tujuan ini mencerminkan pemahaman bahwa penanganan perubahan iklim memerlukan pendekatan komprehensif yang mengintegrasikan mitigasi, adaptasi, dan dukungan finansial.
 
@@ -251,7 +251,7 @@ graph LR
     E --> F[GST 2033]
 ```
 
-GST pertama dilaksanakan pada tahun 2023 dan diselesaikan di COP28 Dubai. Hasil GST pertama ini menegaskan kesenjangan yang signifikan antara trayektori emisi saat ini dengan jalur yang diperlukan untuk membatasi pemanasan pada 1,5°C. Keputusan GST menyerukan transisi yang adil dan teratur dari bahan bakar fosil dalam sistem energi, pengurangan emisi global sebesar 43% pada 2030 dibandingkan tingkat 2019, dan pencapaian net-zero emisi CO2 pada pertengahan abad.[^35]
+GST pertama dilaksanakan pada tahun 2023 dan diselesaikan di COP28 Dubai. Hasil GST pertama ini menegaskan kesenjangan yang signifikan antara trayektori emisi saat ini dengan jalur yang diperlukan untuk membatasi pemanasan pada 1,5Â°C. Keputusan GST menyerukan transisi yang adil dan teratur dari bahan bakar fosil dalam sistem energi, pengurangan emisi global sebesar 43% pada 2030 dibandingkan tingkat 2019, dan pencapaian net-zero emisi CO2 pada pertengahan abad.[^35]
 
 #### 3.4 Kerangka Transparansi yang Ditingkatkan (Pasal 13)
 
@@ -261,7 +261,7 @@ ETF mewajibkan semua Pihak untuk menyampaikan laporan *biennial transparency rep
 
 Aspek penting dari ETF adalah fleksibilitas yang diberikan kepada negara berkembang dengan kapasitas terbatas. Persetujuan Paris mengakui bahwa tidak semua negara memiliki kapasitas teknis dan kelembagaan yang sama, sehingga menyediakan fleksibilitas dalam cakupan, frekuensi, dan tingkat detail pelaporan bagi negara-negara yang membutuhkan.[^38]
 
-> [!tip] **Kotak Pengayaan: Dari Kyoto ke Paris—Pergeseran Paradigma**
+> [!tip] **Kotak Pengayaan: Dari Kyoto ke Parisâ€”Pergeseran Paradigma**
 > | Aspek | Protokol Kyoto | Persetujuan Paris |
 > |-------|----------------|-------------------|
 > | Pendekatan | Top-down | Bottom-up + ratchet |
@@ -333,7 +333,7 @@ Indonesia menempati posisi yang unik dan strategis dalam arsitektur iklim intern
 
 Indonesia telah secara konsisten menunjukkan komitmennya terhadap rezim iklim internasional melalui ratifikasi seluruh instrumen hukum utama. Indonesia meratifikasi UNFCCC melalui Undang-Undang Nomor 6 Tahun 1994, menjadikannya salah satu negara yang relatif awal mengaksesi konvensi kerangka ini. Satu dekade kemudian, Indonesia meratifikasi Protokol Kyoto melalui Undang-Undang Nomor 17 Tahun 2004, yang membuka jalan bagi partisipasi Indonesia dalam mekanisme CDM. Terakhir, Indonesia meratifikasi Persetujuan Paris melalui Undang-Undang Nomor 16 Tahun 2016, hanya beberapa bulan setelah penandatanganan perjanjian tersebut.[^47]
 
-Sebagai negara Non-Annex I dalam klasifikasi UNFCCC, Indonesia tidak memiliki kewajiban pengurangan emisi yang mengikat di bawah Protokol Kyoto. Namun di bawah Persetujuan Paris, Indonesia—seperti seluruh negara Pihak—wajib menyampaikan NDC dan melaporkan kemajuan implementasinya secara berkala.
+Sebagai negara Non-Annex I dalam klasifikasi UNFCCC, Indonesia tidak memiliki kewajiban pengurangan emisi yang mengikat di bawah Protokol Kyoto. Namun di bawah Persetujuan Paris, Indonesiaâ€”seperti seluruh negara Pihakâ€”wajib menyampaikan NDC dan melaporkan kemajuan implementasinya secara berkala.
 
 #### 5.2 Posisi Negosiasi Indonesia
 
@@ -377,7 +377,7 @@ Pasal 4.3 Persetujuan Paris menyatakan bahwa NDC setiap Pihak harus mencerminkan
 2. Target NDC Indonesia dinilai "insufficient" oleh Climate Action Tracker
 3. Indonesia berpendapat targetnya sudah ambisius mengingat status sebagai negara berkembang
 4. Beberapa LSM dan akademisi menuntut target yang lebih tinggi
-5. Laporan IPCC menyatakan perlu pengurangan 43% pada 2030 untuk jalur 1,5°C
+5. Laporan IPCC menyatakan perlu pengurangan 43% pada 2030 untuk jalur 1,5Â°C
 
 **Isu Hukum:**
 - Bagaimana menafsirkan "highest possible ambition" dalam konteks Indonesia?
@@ -465,9 +465,9 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
    - d. Removal Units
 
 3. Batas suhu yang menjadi tujuan Persetujuan Paris adalah:
-   - a. Di bawah 3°C, upaya ke 2°C
-   - b. Di bawah 2°C, upaya ke 1,5°C
-   - c. Di bawah 1,5°C, upaya ke 1°C
+   - a. Di bawah 3Â°C, upaya ke 2Â°C
+   - b. Di bawah 2Â°C, upaya ke 1,5Â°C
+   - c. Di bawah 1,5Â°C, upaya ke 1Â°C
    - d. Tidak ada batas spesifik
 
 4. Global Stocktake dilakukan setiap:
@@ -498,7 +498,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-b, 4-c, 5-c, 6-S, 7-B, 8-S, 9-B, 10-S
 
@@ -510,7 +510,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-06-PerubahanIklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -546,7 +546,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - Paris Agreement, 2015. [[01-Traktat_Paris_Agreement_2015]]
 
 **Sumber Sekunder:**
-- Bodansky, D., Brunnée, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP.
+- Bodansky, D., BrunnÃ©e, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP.
 - Falkner, R. (2016). "The Paris Agreement and the new logic of international climate politics." *International Affairs*.
 - Rajamani, L. (2016). "Ambition and differentiation in the 2015 Paris Agreement." *International & Comparative Law Quarterly*.
 
@@ -565,9 +565,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - [[03-Peraturan-Indonesia_NDC_Indonesia]] - Kontribusi nasional Indonesia
 
 **Navigasi Buku:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2: Prinsip-Prinsip Hukum Lingkungan Internasional]]
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4: Kewajiban Mitigasi dalam Hukum Internasional]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2: Prinsip-Prinsip Hukum Lingkungan Internasional]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4: Kewajiban Mitigasi dalam Hukum Internasional]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
@@ -676,3 +676,4 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 3*
+

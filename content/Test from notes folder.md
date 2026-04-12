@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 tags:
   - test
@@ -8,3 +8,4 @@ tags:
 This note is in the `notes/` folder, not `content/`.
 
 The plugin should copy it to `content/` when publishing.
+

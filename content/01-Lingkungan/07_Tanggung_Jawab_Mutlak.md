@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tanggung Jawab Mutlak (Strict Liability)"
 description: "Pembahasan komprehensif doktrin tanggung jawab mutlak dalam hukum lingkungan Indonesia, mencakup Pasal 88 UU 32/2009, perbandingan dengan liability based on fault, pengelolaan B3, pembalikan beban pembuktian, yurisprudensi, dan hubungan dengan prinsip pencemar membayar."
 tags:
@@ -18,9 +18,9 @@ publish: true
 # Tanggung Jawab Mutlak (*Strict Liability*)
 
 **Navigasi:**
-- [[06_Keadilan_Lingkungan|← Keadilan Lingkungan]]
-- [[README|↑ Index]]
-- [[08_Penegakan_Hukum|Penegakan Hukum →]]
+- [[06_Keadilan_Lingkungan|â† Keadilan Lingkungan]]
+- [[README|â†‘ Index]]
+- [[08_Penegakan_Hukum|Penegakan Hukum â†’]]
 
 ---
 
@@ -43,7 +43,7 @@ Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
 
 ### 1.1 Pengertian Tanggung Jawab Mutlak
 
-Tanggung jawab mutlak (*strict liability*) adalah suatu bentuk pertanggungjawaban hukum yang dibebankan kepada pelaku kegiatan tertentu tanpa memerlukan pembuktian unsur kesalahan — baik berupa kelalaian (*negligence*) maupun kesengajaan (*intention*). Dalam rezim ini, cukup dibuktikan adanya hubungan kausal (*causal link*) antara kegiatan tergugat dan kerugian yang diderita penggugat. Doktrin ini berangkat dari pemikiran bahwa pihak yang memperoleh keuntungan ekonomi dari kegiatan berbahaya sudah sepatutnya memikul risiko kerugian yang ditimbulkan kegiatan tersebut terhadap pihak lain.
+Tanggung jawab mutlak (*strict liability*) adalah suatu bentuk pertanggungjawaban hukum yang dibebankan kepada pelaku kegiatan tertentu tanpa memerlukan pembuktian unsur kesalahan â€” baik berupa kelalaian (*negligence*) maupun kesengajaan (*intention*). Dalam rezim ini, cukup dibuktikan adanya hubungan kausal (*causal link*) antara kegiatan tergugat dan kerugian yang diderita penggugat. Doktrin ini berangkat dari pemikiran bahwa pihak yang memperoleh keuntungan ekonomi dari kegiatan berbahaya sudah sepatutnya memikul risiko kerugian yang ditimbulkan kegiatan tersebut terhadap pihak lain.
 
 Konsep ini berbeda secara mendasar dari pertanggungjawaban berdasarkan kesalahan (*fault-based liability*) yang mensyaratkan pembuktian bahwa tergugat tidak memenuhi standar kehati-hatian yang wajar (*reasonable standard of care*). Dalam tanggung jawab mutlak, pertanyaan utamanya bukan "apakah tergugat bersalah?", melainkan "apakah kegiatan tergugat menyebabkan kerugian?".
 
@@ -65,7 +65,7 @@ Hakim Blackburn di tingkat *Court of Exchequer Chamber* merumuskan prinsip yang 
 
 > *"The person who for his own purposes brings on his lands and collects and keeps there anything likely to do mischief if it escapes, must keep it in at his peril, and, if he does not do so, is prima facie answerable for all the damage which is the natural consequence of its escape."*
 
-*House of Lords*, melalui Lord Cairns, memperkuat putusan tersebut dengan menambahkan unsur *non-natural use of land* — yakni penggunaan tanah yang bukan merupakan pemanfaatan alamiah atau biasa. Dengan demikian, tanggung jawab mutlak berlaku apabila seseorang menggunakan tanahnya secara tidak lazim (*non-natural use*) dan membawa atau menghimpun sesuatu di atasnya yang berpotensi menimbulkan bahaya apabila lepas atau lolos dari penguasaannya.
+*House of Lords*, melalui Lord Cairns, memperkuat putusan tersebut dengan menambahkan unsur *non-natural use of land* â€” yakni penggunaan tanah yang bukan merupakan pemanfaatan alamiah atau biasa. Dengan demikian, tanggung jawab mutlak berlaku apabila seseorang menggunakan tanahnya secara tidak lazim (*non-natural use*) dan membawa atau menghimpun sesuatu di atasnya yang berpotensi menimbulkan bahaya apabila lepas atau lolos dari penguasaannya.
 
 **Elemen Doktrin *Rylands v Fletcher*:**
 
@@ -73,15 +73,15 @@ Dari putusan ini dapat diturunkan empat elemen pokok: (1) tergugat membawa atau 
 
 ### 1.3 Perkembangan di Amerika Serikat: *Restatement of Torts*
 
-Di Amerika Serikat, doktrin *strict liability* berkembang lebih lanjut melalui *Restatement (Second) of Torts* § 519-520 (1977). *Restatement* ini memperkenalkan konsep *abnormally dangerous activities* sebagai dasar penerapan tanggung jawab mutlak, dengan mempertimbangkan enam faktor: (a) tinggi rendahnya risiko bahaya, (b) kemungkinan bahaya menimbulkan kerugian besar, (c) ketidakmampuan menghilangkan risiko meskipun sudah menerapkan kehati-hatian yang wajar, (d) sejauh mana kegiatan tersebut bukan kegiatan lazim (*common usage*), (e) ketidaksesuaian kegiatan dengan lokasi pelaksanaannya, dan (f) sejauh mana nilai kegiatan bagi masyarakat lebih kecil daripada risiko yang ditimbulkan.
+Di Amerika Serikat, doktrin *strict liability* berkembang lebih lanjut melalui *Restatement (Second) of Torts* Â§ 519-520 (1977). *Restatement* ini memperkenalkan konsep *abnormally dangerous activities* sebagai dasar penerapan tanggung jawab mutlak, dengan mempertimbangkan enam faktor: (a) tinggi rendahnya risiko bahaya, (b) kemungkinan bahaya menimbulkan kerugian besar, (c) ketidakmampuan menghilangkan risiko meskipun sudah menerapkan kehati-hatian yang wajar, (d) sejauh mana kegiatan tersebut bukan kegiatan lazim (*common usage*), (e) ketidaksesuaian kegiatan dengan lokasi pelaksanaannya, dan (f) sejauh mana nilai kegiatan bagi masyarakat lebih kecil daripada risiko yang ditimbulkan.
 
 Pendekatan *Restatement* ini memberikan fleksibilitas lebih besar kepada pengadilan untuk menilai secara kasuistis apakah suatu kegiatan tergolong *abnormally dangerous* sehingga layak dikenakan tanggung jawab mutlak.
 
-Penting untuk dibedakan antara *strict liability* dan *absolute liability*. Dalam *strict liability*, masih dimungkinkan beberapa pembelaan terbatas (seperti *force majeure* atau kesalahan pihak ketiga). Dalam *absolute liability*, tanggung jawab bersifat mutlak tanpa pengecualian apa pun — yakni tidak ada pembelaan yang dapat membebaskan tergugat. Sistem hukum Indonesia mengadopsi *strict liability* (bukan *absolute liability*) karena masih mengakui beberapa pembelaan terbatas, sebagaimana akan dibahas pada bagian selanjutnya.
+Penting untuk dibedakan antara *strict liability* dan *absolute liability*. Dalam *strict liability*, masih dimungkinkan beberapa pembelaan terbatas (seperti *force majeure* atau kesalahan pihak ketiga). Dalam *absolute liability*, tanggung jawab bersifat mutlak tanpa pengecualian apa pun â€” yakni tidak ada pembelaan yang dapat membebaskan tergugat. Sistem hukum Indonesia mengadopsi *strict liability* (bukan *absolute liability*) karena masih mengakui beberapa pembelaan terbatas, sebagaimana akan dibahas pada bagian selanjutnya.
 
 ### 1.4 Doktrin *Ultrahazardous Activities* dan Perkembangannya
 
-Sebelum terminologi *abnormally dangerous activities* digunakan dalam *Restatement (Second)*, doktrin ini dikenal sebagai *ultrahazardous activities* dalam *Restatement (First) of Torts* § 520 (1938). Konsep ini merujuk pada kegiatan yang: (a) secara intrinsik melibatkan risiko bahaya serius terhadap orang, tanah, atau harta benda orang lain, (b) tidak dapat dilakukan dengan aman meskipun telah menerapkan segala upaya kehati-hatian yang wajar, dan (c) bukan merupakan kegiatan yang lazim dilakukan (*not a matter of common usage*).
+Sebelum terminologi *abnormally dangerous activities* digunakan dalam *Restatement (Second)*, doktrin ini dikenal sebagai *ultrahazardous activities* dalam *Restatement (First) of Torts* Â§ 520 (1938). Konsep ini merujuk pada kegiatan yang: (a) secara intrinsik melibatkan risiko bahaya serius terhadap orang, tanah, atau harta benda orang lain, (b) tidak dapat dilakukan dengan aman meskipun telah menerapkan segala upaya kehati-hatian yang wajar, dan (c) bukan merupakan kegiatan yang lazim dilakukan (*not a matter of common usage*).
 
 Contoh klasik kegiatan yang termasuk *ultrahazardous* meliputi: pengeboran dan produksi minyak dan gas bumi, penggunaan bahan peledak, penyimpanan bahan kimia berbahaya dalam jumlah besar, pengoperasian instalasi nuklir, serta fumigasi dengan menggunakan gas beracun. Klasifikasi ini memiliki relevansi langsung dengan ketentuan Pasal 88 UU 32/2009 yang menerapkan tanggung jawab mutlak untuk kegiatan yang menggunakan atau menghasilkan B3.
 
@@ -111,7 +111,7 @@ Dari rumusan Pasal 88, dapat diidentifikasi unsur-unsur berikut:
 
 | Unsur | Penjelasan | Contoh Konkret |
 |-------|------------|----------------|
-| **Subjek hukum** | "Setiap orang" — mencakup orang perseorangan dan badan usaha (Pasal 1 angka 32) | Korporasi pertambangan, perusahaan kimia, pengelola pabrik |
+| **Subjek hukum** | "Setiap orang" â€” mencakup orang perseorangan dan badan usaha (Pasal 1 angka 32) | Korporasi pertambangan, perusahaan kimia, pengelola pabrik |
 | **Menggunakan B3** | Kegiatan usaha yang melibatkan penggunaan bahan berbahaya dan beracun | Pabrik pestisida, industri petrokimia, pengguna bahan kimia industri |
 | **Menghasilkan limbah B3** | Proses produksi yang menghasilkan residu berbahaya | Smelter, kilang minyak, industri tekstil dengan pewarnaan kimia |
 | **Mengelola limbah B3** | Pengumpulan, pengangkutan, pemanfaatan, pengolahan, dan penimbunan limbah B3 | Perusahaan pengolah limbah, transporter limbah B3 |
@@ -120,7 +120,7 @@ Dari rumusan Pasal 88, dapat diidentifikasi unsur-unsur berikut:
 
 ### 2.3 Perubahan Melalui UU 6/2023 (*Omnibus Law* Cipta Kerja)
 
-UU Nomor 6 Tahun 2023 tentang Penetapan Perppu 2/2022 tentang Cipta Kerja menjadi Undang-Undang mengubah beberapa ketentuan dalam UU 32/2009, termasuk memengaruhi konteks penerapan tanggung jawab mutlak. Perubahan signifikan terletak pada sistem perizinan yang semula berbasis izin lingkungan (*environmental permit*) kini bergeser ke persetujuan lingkungan (*environmental approval*) yang terintegrasi dalam Perizinan Berusaha melalui sistem *Online Single Submission* (OSS). Meskipun demikian, ketentuan Pasal 88 tentang tanggung jawab mutlak tidak mengalami perubahan substansial — prinsip tanggung jawab mutlak tetap berlaku untuk kegiatan yang berkaitan dengan B3, limbah B3, dan ancaman serius terhadap lingkungan.
+UU Nomor 6 Tahun 2023 tentang Penetapan Perppu 2/2022 tentang Cipta Kerja menjadi Undang-Undang mengubah beberapa ketentuan dalam UU 32/2009, termasuk memengaruhi konteks penerapan tanggung jawab mutlak. Perubahan signifikan terletak pada sistem perizinan yang semula berbasis izin lingkungan (*environmental permit*) kini bergeser ke persetujuan lingkungan (*environmental approval*) yang terintegrasi dalam Perizinan Berusaha melalui sistem *Online Single Submission* (OSS). Meskipun demikian, ketentuan Pasal 88 tentang tanggung jawab mutlak tidak mengalami perubahan substansial â€” prinsip tanggung jawab mutlak tetap berlaku untuk kegiatan yang berkaitan dengan B3, limbah B3, dan ancaman serius terhadap lingkungan.
 
 ### 2.4 Hubungan dengan Pasal 87 dan 89 UU 32/2009
 
@@ -159,7 +159,7 @@ Perbedaan paling fundamental terletak pada beban pembuktian. Dalam sistem tanggu
 
 Sebaliknya, dalam tanggung jawab mutlak, penggugat cukup membuktikan tiga unsur: bahwa kegiatan tergugat termasuk dalam kategori Pasal 88 (menggunakan B3, menghasilkan/mengelola limbah B3, atau menimbulkan ancaman serius), adanya kerugian lingkungan dan/atau kesehatan, serta adanya hubungan kausal antara kegiatan tergugat dan kerugian.
 
-**Penting untuk dicatat** bahwa tanggung jawab mutlak **bukan** pembalikan beban pembuktian (*reversal of burden of proof* / *omkering van bewijslast*). Dalam pembalikan beban pembuktian, tergugatlah yang harus membuktikan bahwa ia tidak bersalah. Dalam tanggung jawab mutlak, unsur kesalahan sama sekali tidak relevan — bukan dipindahkan kepada tergugat, melainkan dihapuskan dari elemen pembuktian. Penjelasan Pasal 88 secara tegas menyatakan bahwa unsur kesalahan "tidak perlu dibuktikan oleh pihak penggugat."
+**Penting untuk dicatat** bahwa tanggung jawab mutlak **bukan** pembalikan beban pembuktian (*reversal of burden of proof* / *omkering van bewijslast*). Dalam pembalikan beban pembuktian, tergugatlah yang harus membuktikan bahwa ia tidak bersalah. Dalam tanggung jawab mutlak, unsur kesalahan sama sekali tidak relevan â€” bukan dipindahkan kepada tergugat, melainkan dihapuskan dari elemen pembuktian. Penjelasan Pasal 88 secara tegas menyatakan bahwa unsur kesalahan "tidak perlu dibuktikan oleh pihak penggugat."
 
 ### 3.3 Diagram Perbandingan Proses Pembuktian
 
@@ -204,7 +204,7 @@ Meskipun tanggung jawab mutlak meniadakan unsur kesalahan, bukan berarti terguga
 | "Saya sudah memiliki AMDAL dan Izin Lingkungan" | **Tidak** | Perizinan tidak menghapuskan tanggung jawab mutlak |
 | *Force majeure* (keadaan kahar/memaksa) | **Ya** (terbatas) | Bencana alam di luar kendali manusia yang tidak dapat diduga dan dicegah |
 | Kesalahan pihak ketiga (*third party fault*) | **Ya** (terbatas) | Kerugian sepenuhnya disebabkan oleh tindakan pihak ketiga yang tidak dapat dikendalikan tergugat |
-| Kesalahan penggugat sendiri (*contributory negligence*) | **Ya** (terbatas) | Kerugian timbul karena tindakan penggugat sendiri — dapat mengurangi atau menghapuskan tanggung jawab |
+| Kesalahan penggugat sendiri (*contributory negligence*) | **Ya** (terbatas) | Kerugian timbul karena tindakan penggugat sendiri â€” dapat mengurangi atau menghapuskan tanggung jawab |
 | Putusnya hubungan kausal | **Ya** | Jika tergugat berhasil membuktikan tidak ada hubungan kausal antara kegiatannya dan kerugian |
 
 ### 4.3 Analisis Pembelaan *Force Majeure*
@@ -237,7 +237,7 @@ Dalam pengelolaan limbah B3, sering terdapat rantai pihak yang terlibat: penghas
 
 Pada prinsipnya, **setiap pihak dalam rantai pengelolaan limbah B3** dapat dikenakan tanggung jawab mutlak berdasarkan Pasal 88 karena masing-masing "mengelola limbah B3." Namun dalam praktik, penghasil limbah B3 memegang tanggung jawab utama (*primary liability*) karena dialah yang menciptakan limbah tersebut. Penyerahan limbah B3 kepada pihak ketiga yang berizin tidak serta-merta membebaskan penghasil dari tanggung jawab, terutama apabila penghasil mengetahui atau seharusnya mengetahui bahwa pihak ketiga tidak mampu mengelola limbah dengan aman.
 
-Konsep ini disebut *cradle-to-grave responsibility* — tanggung jawab penghasil limbah B3 berlangsung dari saat limbah dihasilkan hingga limbah tersebut aman diolah atau ditimbun secara final.
+Konsep ini disebut *cradle-to-grave responsibility* â€” tanggung jawab penghasil limbah B3 berlangsung dari saat limbah dihasilkan hingga limbah tersebut aman diolah atau ditimbun secara final.
 
 ---
 
@@ -259,7 +259,7 @@ Berdasarkan PP 22/2021, B3 diklasifikasikan menurut karakteristiknya:
 | **Mudah menyala** (*flammable*) | Dapat terbakar pada suhu relatif rendah | Bensin, minyak tanah, aseton, alkohol |
 | **Reaktif** (*reactive*) | Bereaksi hebat dengan air atau udara, atau tidak stabil secara kimiawi | Natrium logam, kalium, peroksida organik |
 | **Beracun** (*toxic*) | Dapat menyebabkan keracunan, penyakit, atau kematian | Sianida, arsenik, merkuri, pestisida organoklorin |
-| **Korosif** (*corrosive*) | Dapat merusak jaringan hidup dan mengikis logam | Asam sulfat (H₂SO₄), asam klorida (HCl), natrium hidroksida (NaOH) |
+| **Korosif** (*corrosive*) | Dapat merusak jaringan hidup dan mengikis logam | Asam sulfat (Hâ‚‚SOâ‚„), asam klorida (HCl), natrium hidroksida (NaOH) |
 | **Karsinogenik** | Dapat memicu pertumbuhan sel kanker | Benzena, asbes, vinil klorida, formaldehida |
 | **Mutagenik** | Dapat mengubah struktur DNA organisme | Radiasi ionisasi, etilena oksida |
 | **Teratogenik** | Dapat menyebabkan cacat pada janin | Thalidomide, merkuri organik |
@@ -307,7 +307,7 @@ Setiap orang yang menghasilkan limbah B3 wajib melakukan pengelolaan limbah B3 y
 
 ### 5.6 Sistem Manifes dan Pelacakan Limbah B3
 
-Salah satu instrumen penting dalam pengelolaan limbah B3 adalah sistem manifes — dokumen pengangkutan limbah B3 yang berfungsi sebagai alat pelacakan (*tracking*) perpindahan limbah dari penghasil ke pengelola akhir. Setiap perpindahan limbah B3 harus disertai dokumen manifes yang memuat informasi mengenai: identitas penghasil, pengangkut, dan penerima limbah; jenis, karakteristik, dan jumlah limbah; tanggal pengiriman dan penerimaan; serta tanda tangan pihak-pihak yang bertanggung jawab pada setiap tahap.
+Salah satu instrumen penting dalam pengelolaan limbah B3 adalah sistem manifes â€” dokumen pengangkutan limbah B3 yang berfungsi sebagai alat pelacakan (*tracking*) perpindahan limbah dari penghasil ke pengelola akhir. Setiap perpindahan limbah B3 harus disertai dokumen manifes yang memuat informasi mengenai: identitas penghasil, pengangkut, dan penerima limbah; jenis, karakteristik, dan jumlah limbah; tanggal pengiriman dan penerimaan; serta tanda tangan pihak-pihak yang bertanggung jawab pada setiap tahap.
 
 Sistem manifes memiliki fungsi ganda dalam konteks tanggung jawab mutlak. Pertama, sebagai alat pembuktian: manifes dapat digunakan untuk melacak asal-usul limbah dan membuktikan hubungan kausal antara penghasil limbah dan pencemaran yang terjadi. Kedua, sebagai alat pencegahan: kewajiban pencatatan mendorong transparansi dan akuntabilitas dalam rantai pengelolaan limbah B3. Kegagalan mematuhi kewajiban manifes merupakan pelanggaran administratif tersendiri dan dapat menjadi bukti pendukung dalam gugatan tanggung jawab mutlak.
 
@@ -379,7 +379,7 @@ Meskipun demikian, beberapa sektor telah menerapkan mekanisme serupa. Dalam sekt
 
 Di negara-negara maju, asuransi lingkungan telah berkembang menjadi instrumen yang matang. Di Amerika Serikat, *Environmental Impairment Liability* (EIL) insurance dan *Pollution Legal Liability* (PLL) insurance menjadi produk standar yang ditawarkan oleh perusahaan asuransi besar. Polis asuransi ini meliputi: biaya pembersihan lokasi tercemar (*cleanup costs*), tanggung jawab terhadap pihak ketiga (*third-party liability*), biaya pembelaan hukum (*defense costs*), dan kerugian akibat gangguan operasional (*business interruption*).
 
-Di Eropa, beberapa negara telah mewajibkan asuransi lingkungan untuk sektor-sektor tertentu. Misalnya, Jerman mewajibkan asuransi tanggung jawab lingkungan untuk instalasi yang beroperasi berdasarkan *Umwelthaftungsgesetz* (UmweltHG) — Undang-Undang Tanggung Jawab Lingkungan Jerman. Spanyol melalui *Ley de Responsabilidad Medioambiental* mewajibkan jaminan finansial (*financial guarantee*) yang dapat berupa asuransi, jaminan bank, atau penyisihan dana internal (*self-insurance*).
+Di Eropa, beberapa negara telah mewajibkan asuransi lingkungan untuk sektor-sektor tertentu. Misalnya, Jerman mewajibkan asuransi tanggung jawab lingkungan untuk instalasi yang beroperasi berdasarkan *Umwelthaftungsgesetz* (UmweltHG) â€” Undang-Undang Tanggung Jawab Lingkungan Jerman. Spanyol melalui *Ley de Responsabilidad Medioambiental* mewajibkan jaminan finansial (*financial guarantee*) yang dapat berupa asuransi, jaminan bank, atau penyisihan dana internal (*self-insurance*).
 
 Pelajaran dari praktik internasional menunjukkan bahwa pengembangan asuransi lingkungan memerlukan: kerangka regulasi yang jelas dan mewajibkan asuransi untuk kegiatan berisiko tinggi, ketersediaan data aktuaria mengenai kerugian lingkungan historis, pengembangan kapasitas teknis perusahaan asuransi dalam menilai risiko lingkungan, serta standar penghitungan kerugian lingkungan yang terukur dan dapat diprediksi.
 
@@ -391,7 +391,7 @@ Kewajiban asuransi dan dana jaminan merupakan perwujudan konkret dari prinsip pe
 
 ## 8. Yurisprudensi Tanggung Jawab Mutlak di Indonesia
 
-### 8.1 Putusan MA No. 1794 K/Pdt/2004 — Kasus Mandalawangi
+### 8.1 Putusan MA No. 1794 K/Pdt/2004 â€” Kasus Mandalawangi
 
 **Para Pihak:**
 - **Penggugat**: Dedi dkk., mewakili sekitar 1.200 Kepala Keluarga masyarakat Mandalawangi, Kecamatan Kadungora, Kabupaten Garut
@@ -411,7 +411,7 @@ Perhutani dihukum untuk membayar ganti rugi kepada para penggugat dan melakukan 
 **Signifikansi:**
 Putusan Mandalawangi merupakan salah satu yurisprudensi paling penting dalam hukum lingkungan Indonesia karena: pertama kalinya Mahkamah Agung secara eksplisit mengaitkan *strict liability* dengan *precautionary principle*; memperkuat legitimasi gugatan *class action* dalam perkara lingkungan; dan menetapkan preseden bahwa pengelola kawasan yang mengetahui adanya risiko lingkungan tetapi tidak mengambil tindakan dapat dikenakan tanggung jawab mutlak.
 
-### 8.2 Kasus Buyat Bay — PT Newmont Minahasa Raya
+### 8.2 Kasus Buyat Bay â€” PT Newmont Minahasa Raya
 
 **Fakta Perkara:**
 
@@ -425,7 +425,7 @@ Kasus ini melibatkan dua jalur penyelesaian: pidana dan perdata. Dalam jalur pid
 
 Kasus Buyat Bay menunjukkan bahwa putusan bebas dalam perkara pidana tidak menghalangi penerapan tanggung jawab mutlak secara perdata. Kegiatan pertambangan emas yang menghasilkan dan membuang limbah tailing termasuk dalam kategori kegiatan yang menghasilkan dan mengelola limbah B3 sehingga Pasal 88 dapat diterapkan. Lepas dari pertanyaan apakah PT NMR bersalah atau tidak, perusahaan tetap bertanggung jawab secara mutlak atas kerugian yang timbul dari kegiatan pengelolaan limbah B3-nya.
 
-### 8.3 Kasus Lapindo Brantas — Semburan Lumpur Sidoarjo
+### 8.3 Kasus Lapindo Brantas â€” Semburan Lumpur Sidoarjo
 
 **Fakta Perkara:**
 
@@ -443,7 +443,7 @@ Putusan Mahkamah Agung Nomor 2710 K/Pdt/2008 menolak gugatan perdata masyarakat 
 
 Kasus ini menjadi ilustrasi penting mengenai hubungan antara kausalitas dan tanggung jawab mutlak. Meskipun Pasal 88 meniadakan unsur kesalahan, penggugat tetap harus membuktikan hubungan kausal. Apabila terbukti bahwa semburan disebabkan oleh aktivitas pengeboran (yang melibatkan penggunaan lumpur pengeboran B3 dan menimbulkan ancaman serius), maka tanggung jawab mutlak seharusnya dapat diterapkan tanpa perlu membuktikan bahwa Lapindo lalai. Namun, pertanyaan apakah ada hubungan kausal antara kegiatan pengeboran dan semburan lumpur menjadi titik sentral sengketa.
 
-### 8.4 Kasus PT Kumai Sentosa — Kebakaran Lahan Perkebunan Kelapa Sawit
+### 8.4 Kasus PT Kumai Sentosa â€” Kebakaran Lahan Perkebunan Kelapa Sawit
 
 Mahkamah Agung dalam perkara peninjauan kembali terhadap PT Kumai Sentosa mempertimbangkan bahwa tanggung jawab mutlak berdasarkan UU 32/2009 mengesampingkan unsur kesalahan dalam penerapan pertanggungjawaban perdata. Dalam kasus ini, meskipun terdapat putusan pidana yang membebaskan atau tidak menetapkan kesalahan korporasi, secara perdata perusahaan tetap dapat dimintai pertanggungjawaban berdasarkan prinsip *strict liability* mengingat sifat kegiatan usahanya yang melibatkan pengelolaan lahan dan berpotensi menimbulkan ancaman serius (kebakaran hutan dan lahan).
 
@@ -504,11 +504,11 @@ Tanggung jawab mutlak mendorong pelaku usaha untuk menginternalisasi biaya lingk
 
 ### 11.1 Tren Yurisprudensi 2015-2025
 
-Sepanjang satu dekade terakhir, yurisprudensi Indonesia menunjukkan tren peningkatan penerapan tanggung jawab mutlak dalam perkara lingkungan, khususnya terkait kebakaran hutan dan lahan. Beberapa pola yang dapat diamati: pertama, pengadilan semakin berani menerapkan *strict liability* untuk menghukum perusahaan perkebunan yang lahannya terbakar, meskipun perusahaan membantah bahwa mereka yang membakar lahan; kedua, besaran ganti rugi yang dikabulkan pengadilan menunjukkan tren peningkatan yang signifikan — dari puluhan miliar rupiah menjadi ratusan miliar hingga triliunan rupiah; ketiga, Kementerian LHK sebagai penggugat mewakili negara dalam menuntut ganti rugi kerugian lingkungan semakin aktif menggunakan dalil tanggung jawab mutlak.
+Sepanjang satu dekade terakhir, yurisprudensi Indonesia menunjukkan tren peningkatan penerapan tanggung jawab mutlak dalam perkara lingkungan, khususnya terkait kebakaran hutan dan lahan. Beberapa pola yang dapat diamati: pertama, pengadilan semakin berani menerapkan *strict liability* untuk menghukum perusahaan perkebunan yang lahannya terbakar, meskipun perusahaan membantah bahwa mereka yang membakar lahan; kedua, besaran ganti rugi yang dikabulkan pengadilan menunjukkan tren peningkatan yang signifikan â€” dari puluhan miliar rupiah menjadi ratusan miliar hingga triliunan rupiah; ketiga, Kementerian LHK sebagai penggugat mewakili negara dalam menuntut ganti rugi kerugian lingkungan semakin aktif menggunakan dalil tanggung jawab mutlak.
 
 ### 11.2 Hubungan antara Putusan Pidana dan Tanggung Jawab Perdata
 
-Salah satu perkembangan doktrin yang penting adalah pengakuan bahwa putusan bebas (*vrijspraak*) dalam perkara pidana tidak menghalangi penerapan tanggung jawab mutlak secara perdata. Hal ini ditegaskan dalam beberapa putusan Mahkamah Agung yang menyatakan bahwa: pertama, hukum pidana dan hukum perdata memiliki standar pembuktian yang berbeda — pidana mensyaratkan pembuktian "di luar keraguan yang wajar" (*beyond reasonable doubt*), sedangkan perdata hanya mensyaratkan pembuktian berdasarkan "keseimbangan probabilitas" (*balance of probabilities*); kedua, tanggung jawab mutlak perdata bahkan tidak mensyaratkan pembuktian kesalahan, sehingga tidak bergantung pada ada atau tidaknya kesalahan pidana; ketiga, fungsi hukum pidana (penjeraan) berbeda dari fungsi hukum perdata (kompensasi), sehingga keduanya berjalan secara independen.
+Salah satu perkembangan doktrin yang penting adalah pengakuan bahwa putusan bebas (*vrijspraak*) dalam perkara pidana tidak menghalangi penerapan tanggung jawab mutlak secara perdata. Hal ini ditegaskan dalam beberapa putusan Mahkamah Agung yang menyatakan bahwa: pertama, hukum pidana dan hukum perdata memiliki standar pembuktian yang berbeda â€” pidana mensyaratkan pembuktian "di luar keraguan yang wajar" (*beyond reasonable doubt*), sedangkan perdata hanya mensyaratkan pembuktian berdasarkan "keseimbangan probabilitas" (*balance of probabilities*); kedua, tanggung jawab mutlak perdata bahkan tidak mensyaratkan pembuktian kesalahan, sehingga tidak bergantung pada ada atau tidaknya kesalahan pidana; ketiga, fungsi hukum pidana (penjeraan) berbeda dari fungsi hukum perdata (kompensasi), sehingga keduanya berjalan secara independen.
 
 Prinsip ini menjadi sangat relevan dalam kasus seperti Buyat Bay, di mana PT Newmont Minahasa Raya dibebaskan dari dakwaan pidana tetapi tetap dimintai pertanggungjawaban perdata melalui mekanisme penyelesaian di luar pengadilan (*settlement*).
 
@@ -516,11 +516,11 @@ Prinsip ini menjadi sangat relevan dalam kasus seperti Buyat Bay, di mana PT New
 
 Meskipun tanggung jawab mutlak menghilangkan unsur kesalahan, pembuktian kausalitas tetap merupakan tantangan besar. Pengadilan Indonesia secara bertahap mengadopsi beberapa metode pembuktian kausalitas yang berkembang dalam praktik internasional:
 
-*Teori Kondisi* (*conditio sine qua non* / *but-for test*) — menguji apakah kerugian akan tetap terjadi apabila kegiatan tergugat tidak ada. Jika jawabannya tidak (kerugian tidak akan terjadi tanpa kegiatan tergugat), maka kausalitas terbukti.
+*Teori Kondisi* (*conditio sine qua non* / *but-for test*) â€” menguji apakah kerugian akan tetap terjadi apabila kegiatan tergugat tidak ada. Jika jawabannya tidak (kerugian tidak akan terjadi tanpa kegiatan tergugat), maka kausalitas terbukti.
 
-*Teori Penyebab yang Cukup* (*adequate cause theory*) — menilai apakah menurut pengalaman umum, kegiatan tergugat secara wajar dapat menyebabkan jenis kerugian yang terjadi. Teori ini memberikan batasan pada tanggung jawab sehingga tergugat tidak bertanggung jawab atas kerugian yang sangat tidak terduga atau terlalu jauh dari kegiatannya.
+*Teori Penyebab yang Cukup* (*adequate cause theory*) â€” menilai apakah menurut pengalaman umum, kegiatan tergugat secara wajar dapat menyebabkan jenis kerugian yang terjadi. Teori ini memberikan batasan pada tanggung jawab sehingga tergugat tidak bertanggung jawab atas kerugian yang sangat tidak terduga atau terlalu jauh dari kegiatannya.
 
-*Pendekatan Probabilistik* — dalam kasus di mana kausalitas tidak dapat dibuktikan secara pasti (misalnya pencemaran udara yang menyebabkan penyakit pernapasan), beberapa yurisdiksi menerima pembuktian berdasarkan probabilitas atau peningkatan risiko. Meskipun pendekatan ini belum diadopsi secara formal di Indonesia, beberapa putusan mulai menunjukkan keterbukaan terhadap bukti epidemiologis dan statistik.
+*Pendekatan Probabilistik* â€” dalam kasus di mana kausalitas tidak dapat dibuktikan secara pasti (misalnya pencemaran udara yang menyebabkan penyakit pernapasan), beberapa yurisdiksi menerima pembuktian berdasarkan probabilitas atau peningkatan risiko. Meskipun pendekatan ini belum diadopsi secara formal di Indonesia, beberapa putusan mulai menunjukkan keterbukaan terhadap bukti epidemiologis dan statistik.
 
 ---
 
@@ -534,13 +534,13 @@ Penerapan tanggung jawab mutlak di Indonesia menghadapi beberapa tantangan struk
 
 Beberapa langkah ke depan yang dapat memperkuat penerapan tanggung jawab mutlak:
 
-Pertama, **penyusunan pedoman** (*guideline*) mengenai kriteria "ancaman serius" untuk memberikan kepastian hukum — pedoman ini idealnya memuat parameter kuantitatif dan kualitatif yang dapat digunakan oleh hakim dan pihak yang bersengketa.
+Pertama, **penyusunan pedoman** (*guideline*) mengenai kriteria "ancaman serius" untuk memberikan kepastian hukum â€” pedoman ini idealnya memuat parameter kuantitatif dan kualitatif yang dapat digunakan oleh hakim dan pihak yang bersengketa.
 
 Kedua, **pengembangan kapasitas hakim lingkungan** melalui program sertifikasi hakim lingkungan hidup sebagaimana telah diinisiasi oleh Mahkamah Agung melalui SK KMA No. 134/KMA/SK/IX/2011. Program ini perlu diperluas cakupannya dan dilengkapi dengan pelatihan berkala mengenai perkembangan terbaru dalam hukum dan ilmu lingkungan.
 
-Ketiga, **penguatan mekanisme asuransi lingkungan wajib** untuk kegiatan berisiko tinggi — dengan menetapkan sektor-sektor yang wajib memiliki polis asuransi lingkungan dan standar minimum pertanggungan.
+Ketiga, **penguatan mekanisme asuransi lingkungan wajib** untuk kegiatan berisiko tinggi â€” dengan menetapkan sektor-sektor yang wajib memiliki polis asuransi lingkungan dan standar minimum pertanggungan.
 
-Keempat, **pengembangan metode penghitungan kerugian lingkungan** yang terstandarisasi dan dapat diterapkan secara konsisten oleh pengadilan di seluruh Indonesia — termasuk pelatihan bagi penilai kerugian lingkungan dan pembentukan panel ahli independen.
+Keempat, **pengembangan metode penghitungan kerugian lingkungan** yang terstandarisasi dan dapat diterapkan secara konsisten oleh pengadilan di seluruh Indonesia â€” termasuk pelatihan bagi penilai kerugian lingkungan dan pembentukan panel ahli independen.
 
 Kelima, **pembentukan pengadilan khusus lingkungan hidup** (*green bench* atau *environmental court*) yang dilengkapi dengan tenaga ahli lingkungan, sebagaimana telah dilakukan di beberapa negara seperti Australia (Land and Environment Court of New South Wales) dan India (National Green Tribunal).
 
@@ -564,7 +564,7 @@ Sejak tahun 2011, Mahkamah Agung telah mengembangkan program sertifikasi hakim l
 
 ### 13.3 Kedaluwarsa Gugatan
 
-Pasal 89 UU 32/2009 mengatur mengenai kedaluwarsa (*statute of limitations*) gugatan lingkungan. Ketentuan ini penting karena dampak pencemaran lingkungan sering kali baru terdeteksi setelah jangka waktu yang lama — misalnya pencemaran air tanah oleh logam berat atau dampak karsinogenik dari paparan bahan kimia yang baru muncul setelah bertahun-tahun.
+Pasal 89 UU 32/2009 mengatur mengenai kedaluwarsa (*statute of limitations*) gugatan lingkungan. Ketentuan ini penting karena dampak pencemaran lingkungan sering kali baru terdeteksi setelah jangka waktu yang lama â€” misalnya pencemaran air tanah oleh logam berat atau dampak karsinogenik dari paparan bahan kimia yang baru muncul setelah bertahun-tahun.
 
 Dalam konteks pencemaran B3, terdapat argumentasi kuat bahwa kedaluwarsa seharusnya dihitung sejak dampak pencemaran **diketahui atau seharusnya diketahui** oleh korban (*discovery rule*), bukan sejak saat pencemaran terjadi. Pendekatan ini telah diadopsi di beberapa yurisdiksi untuk melindungi korban pencemaran yang dampaknya bersifat laten (*latent injury*).
 
@@ -661,7 +661,7 @@ Path: `regulationvault/05_ACTIVE/UU/2009/UU_32_2009/`
 
 ### PP 22/2021 tentang Penyelenggaraan PPLH
 
-**BAB VII: Pengelolaan Limbah B3** (Pasal 274-470) — Klasifikasi limbah B3, perizinan, daftar limbah B3, standar TCLP.
+**BAB VII: Pengelolaan Limbah B3** (Pasal 274-470) â€” Klasifikasi limbah B3, perizinan, daftar limbah B3, standar TCLP.
 
 Path: `regulationvault/05_ACTIVE/PP/2021/PP_22_2021/`
 
@@ -695,6 +695,7 @@ Perubahan terhadap UU 32/2009, khususnya terkait sistem perizinan lingkungan.
 ---
 
 **Navigasi:**
-- [[06_Keadilan_Lingkungan|← Keadilan Lingkungan]]
-- [[README|↑ Index]]
-- [[08_Penegakan_Hukum|Penegakan Hukum →]]
+- [[06_Keadilan_Lingkungan|â† Keadilan Lingkungan]]
+- [[README|â†‘ Index]]
+- [[08_Penegakan_Hukum|Penegakan Hukum â†’]]
+

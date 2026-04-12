@@ -1,4 +1,4 @@
----
+﻿---
 title: "BAB V Kasus 2 dan 3: Pencemaran Udara dan Laut"
 description: "Studi kasus pencemaran udara di kawasan industri dan pencemaran laut oleh aktivitas pertambangan beserta analisis daya tampung dan pemulihan lingkungan"
 tags:
@@ -18,9 +18,9 @@ publish: true
 ---
 
 **Navigasi:**
-- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|← Kasus 1: Pencemaran Air Sungai]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
-- [[BAB_VI_Implikasi_Hukum_Konsekuensi|Lanjut ke Bagian VI →]]
+- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|â† Kasus 1: Pencemaran Air Sungai]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
+- [[BAB_VI_Implikasi_Hukum_Konsekuensi|Lanjut ke Bagian VI â†’]]
 
 ---
 
@@ -31,11 +31,11 @@ publish: true
 Kawasan Industri Tangerang memiliki 50 pabrik yang beroperasi di lahan seluas 500 hektare. Sejak tahun 2018, kawasan ini mengalami pertumbuhan pesat dengan penambahan 15 pabrik baru dari berbagai sektor: tekstil, kimia, logam, dan makanan. Pemantauan kualitas udara ambien yang dilakukan oleh Dinas Lingkungan Hidup Provinsi Banten pada Januari 2024 menunjukkan hasil mengkhawatirkan:
 
 **Data Pemantauan Udara Ambien (Rata-rata 24 jam):**
-- PM2.5 (Particulate Matter 2.5): 78 μg/m³
-- PM10 (Particulate Matter 10): 125 μg/m³
-- SO₂ (Sulfur Dioksida): 125 μg/m³
-- NO₂ (Nitrogen Dioksida): 95 μg/m³
-- CO (Karbon Monoksida): 18.000 μg/m³
+- PM2.5 (Particulate Matter 2.5): 78 Î¼g/mÂ³
+- PM10 (Particulate Matter 10): 125 Î¼g/mÂ³
+- SOâ‚‚ (Sulfur Dioksida): 125 Î¼g/mÂ³
+- NOâ‚‚ (Nitrogen Dioksida): 95 Î¼g/mÂ³
+- CO (Karbon Monoksida): 18.000 Î¼g/mÂ³
 
 Kondisi ini menimbulkan keluhan masyarakat sekitar berupa peningkatan kasus ISPA (Infeksi Saluran Pernapasan Akut) sebesar 45% dalam 6 bulan terakhir, terutama pada kelompok rentan (anak-anak dan lansia).
 
@@ -85,11 +85,11 @@ Berdasarkan perbandingan dengan Baku Mutu Udara Ambien Nasional (umumnya mengacu
 
 | Parameter | Hasil Pengukuran | Baku Mutu (24 jam)* | Status |
 |-----------|------------------|---------------------|--------|
-| PM2.5 | 78 μg/m³ | 55 μg/m³ | **MELAMPAUI** (+42%) |
-| PM10 | 125 μg/m³ | 100 μg/m³ | **MELAMPAUI** (+25%) |
-| SO₂ | 125 μg/m³ | 900 μg/m³ | Memenuhi |
-| NO₂ | 95 μg/m³ | 200 μg/m³ | Memenuhi |
-| CO | 18.000 μg/m³ | 30.000 μg/m³ | Memenuhi |
+| PM2.5 | 78 Î¼g/mÂ³ | 55 Î¼g/mÂ³ | **MELAMPAUI** (+42%) |
+| PM10 | 125 Î¼g/mÂ³ | 100 Î¼g/mÂ³ | **MELAMPAUI** (+25%) |
+| SOâ‚‚ | 125 Î¼g/mÂ³ | 900 Î¼g/mÂ³ | Memenuhi |
+| NOâ‚‚ | 95 Î¼g/mÂ³ | 200 Î¼g/mÂ³ | Memenuhi |
+| CO | 18.000 Î¼g/mÂ³ | 30.000 Î¼g/mÂ³ | Memenuhi |
 
 *Catatan: Angka baku mutu mengacu pada standar umum yang berlaku
 
@@ -101,14 +101,14 @@ Terdapat **pencemaran udara** karena konsentrasi PM2.5 dan PM10 melampaui baku m
 **Mekanisme Terjadinya Pencemaran:**
 
 ```
-50 Pabrik → Menghasilkan Emisi Total (ton/tahun)
-         ↓
+50 Pabrik â†’ Menghasilkan Emisi Total (ton/tahun)
+         â†“
 Beban Emisi Total > Daya Tampung Udara Ambien
-         ↓
+         â†“
 Konsentrasi Polutan di Udara Ambien Meningkat
-         ↓
-PM2.5 = 78 μg/m³ > Baku Mutu (55 μg/m³)
-         ↓
+         â†“
+PM2.5 = 78 Î¼g/mÂ³ > Baku Mutu (55 Î¼g/mÂ³)
+         â†“
 PENCEMARAN UDARA TERJADI
 ```
 
@@ -118,7 +118,7 @@ Berdasarkan **PP 22/2021 Pasal 1 angka 53**:
 > "Beban Emisi adalah jumlah Emisi yang dikeluarkan dari Sumber Pencemar Udara."
 
 Jika rata-rata setiap pabrik melepaskan 50 ton PM2.5/tahun:
-- **Total beban emisi PM2.5** = 50 pabrik × 50 ton/tahun = **2.500 ton/tahun**
+- **Total beban emisi PM2.5** = 50 pabrik Ã— 50 ton/tahun = **2.500 ton/tahun**
 - **Daya tampung kawasan** (estimasi): 1.800 ton/tahun
 - **Selisih**: +700 ton/tahun (39% di atas daya tampung)
 
@@ -128,12 +128,12 @@ Jika rata-rata setiap pabrik melepaskan 50 ton PM2.5/tahun:
 
 **Rantai Dampak:**
 
-1. **Pencemaran Udara** (PM2.5 = 78 μg/m³)
-   ↓
+1. **Pencemaran Udara** (PM2.5 = 78 Î¼g/mÂ³)
+   â†“
 2. **Kualitas Udara Menurun** (tidak layak untuk dihirup)
-   ↓
-3. **Kesehatan Masyarakat Terganggu** (ISPA ↑ 45%)
-   ↓
+   â†“
+3. **Kesehatan Masyarakat Terganggu** (ISPA â†‘ 45%)
+   â†“
 4. **Daya Dukung Wilayah Menurun**
 
 **Penjelasan Dampak terhadap Daya Dukung:**
@@ -161,9 +161,9 @@ Berdasarkan **PP 22/2021 Pasal 1 angka 52**:
 > "Baku Mutu Emisi adalah ukuran batas atau kadar Pencemar Udara yang diperbolehkan masuk atau dimasukkan ke dalam Udara Ambien."
 
 **Contoh Baku Mutu Emisi untuk Industri Tekstil:**
-- PM (Partikulat): 50 mg/Nm³
-- SO₂: 800 mg/Nm³
-- NO₂: 1.000 mg/Nm³
+- PM (Partikulat): 50 mg/NmÂ³
+- SOâ‚‚: 800 mg/NmÂ³
+- NOâ‚‚: 1.000 mg/NmÂ³
 
 **Kewajiban Pelaku Usaha:**
 1. Memasang alat pengendalian emisi (scrubber, cyclone, bag filter)
@@ -207,8 +207,8 @@ Gubernur memiliki kewenangan untuk menetapkan baku mutu emisi yang **lebih ketat
 
 3. **Tindakan Gubernur:**
    - Menetapkan baku mutu emisi **lebih ketat**:
-     - Baku Mutu Emisi PM (sebelumnya): 50 mg/Nm³
-     - Baku Mutu Emisi PM (baru): **30 mg/Nm³** (pengurangan 40%)
+     - Baku Mutu Emisi PM (sebelumnya): 50 mg/NmÂ³
+     - Baku Mutu Emisi PM (baru): **30 mg/NmÂ³** (pengurangan 40%)
    - Mewajibkan seluruh pabrik menyesuaikan dalam jangka waktu tertentu (misal: 2 tahun)
 
 ### E. Sanksi dan Konsekuensi Hukum
@@ -225,11 +225,11 @@ Jika pabrik tidak memenuhi baku mutu emisi:
    - Pemaksaan untuk memasang alat pengendalian emisi
    - Denda paksaan (uang paksa)
 3. **Pembekuan izin lingkungan**
-4. **Pencabutan izin lingkungan** → Izin usaha otomatis dibatalkan
+4. **Pencabutan izin lingkungan** â†’ Izin usaha otomatis dibatalkan
 
 #### 2. Kewajiban Penanggulangan
 
-Jika terjadi **episod pencemaran akut** (misalnya PM2.5 mencapai 150 μg/m³):
+Jika terjadi **episod pencemaran akut** (misalnya PM2.5 mencapai 150 Î¼g/mÂ³):
 
 **Kewajiban Pemerintah:**
 - Memberikan informasi peringatan kepada masyarakat
@@ -286,10 +286,10 @@ Jika terjadi **episod pencemaran akut** (misalnya PM2.5 mencapai 150 μg/m³):
 
 Kasus Kawasan Industri Tangerang menunjukkan dengan jelas keterkaitan antara:
 
-1. **Daya Tampung** → Kemampuan udara ambien menerima emisi terbatas (1.800 ton/tahun)
-2. **Beban Emisi Aktual** → Total emisi dari 50 pabrik melampaui daya tampung (2.500 ton/tahun)
-3. **Pencemaran Udara** → PM2.5 melampaui baku mutu (78 vs 55 μg/m³)
-4. **Penurunan Daya Dukung** → Wilayah tidak lagi mampu mendukung kehidupan sehat
+1. **Daya Tampung** â†’ Kemampuan udara ambien menerima emisi terbatas (1.800 ton/tahun)
+2. **Beban Emisi Aktual** â†’ Total emisi dari 50 pabrik melampaui daya tampung (2.500 ton/tahun)
+3. **Pencemaran Udara** â†’ PM2.5 melampaui baku mutu (78 vs 55 Î¼g/mÂ³)
+4. **Penurunan Daya Dukung** â†’ Wilayah tidak lagi mampu mendukung kehidupan sehat
 
 **Pesan Kunci:**
 - Baku mutu udara ambien adalah operasionalisasi daya tampung dalam bentuk angka
@@ -333,7 +333,7 @@ PT Nikel Sejahtera Indonesia mengoperasikan tambang nikel di Kabupaten Morowali 
    - Tingkat mortalitas pohon mangrove: 30%
 
 3. **Padang Lamun:**
-   - Penurunan kerapatan lamun dari 750 shoots/m² menjadi 200 shoots/m²
+   - Penurunan kerapatan lamun dari 750 shoots/mÂ² menjadi 200 shoots/mÂ²
    - Hilangnya 70% biomassa lamun
 
 **Dampak Sosial-Ekonomi:**
@@ -355,10 +355,10 @@ Berdasarkan **PP 22/2021 Pasal 1 angka 60**:
 - **Kriteria**: kualitas air laut tidak sesuai baku mutu
 
 **Analisis Kasus:**
-- TSS = 85 mg/L >> Baku Mutu (20 mg/L) → **Melampaui 325%**
-- Ni = 0.25 mg/L >> Baku Mutu (0.05 mg/L) → **Melampaui 400%**
-- Co = 0.08 mg/L >> Baku Mutu (0.01 mg/L) → **Melampaui 700%**
-- pH = 6.2 < Baku Mutu (7-8.5) → **Tidak memenuhi**
+- TSS = 85 mg/L >> Baku Mutu (20 mg/L) â†’ **Melampaui 325%**
+- Ni = 0.25 mg/L >> Baku Mutu (0.05 mg/L) â†’ **Melampaui 400%**
+- Co = 0.08 mg/L >> Baku Mutu (0.01 mg/L) â†’ **Melampaui 700%**
+- pH = 6.2 < Baku Mutu (7-8.5) â†’ **Tidak memenuhi**
 
 **Kesimpulan:** Terjadi **pencemaran laut** yang signifikan.
 
@@ -380,7 +380,7 @@ Meskipun PP 22/2021 tidak mendefinisikan "daya tampung laut" secara eksplisit se
 
 **Masalah di Teluk Morowali:**
 - Teluk **semi-tertutup** (daya tampung terbatas)
-- Arus laut **lemah** (0.2 m/detik) → dispersi lambat
+- Arus laut **lemah** (0.2 m/detik) â†’ dispersi lambat
 - Beban tailing **2 juta ton/tahun** >> daya tampung teluk
 
 #### 3. Baku Mutu Air Laut
@@ -400,27 +400,27 @@ Fungsi Baku Mutu Air Laut:
 
 ```
 PERTAMBANGAN NIKEL
-         ↓
+         â†“
 Menghasilkan Tailing 2 juta ton/tahun
-         ↓
+         â†“
 Dibuang ke Teluk Morowali (STD)
-         ↓
+         â†“
 Beban Pencemar >> Daya Tampung Teluk
-         ↓
+         â†“
 [PENCEMARAN LAUT]
 - TSS: 85 mg/L (Baku Mutu: 20 mg/L)
 - Ni: 0.25 mg/L (Baku Mutu: 0.05 mg/L)
-         ↓
+         â†“
 Sedimentasi Berlebihan pada Ekosistem
-         ↓
+         â†“
 [KERUSAKAN LINGKUNGAN]
 - Terumbu Karang: 15% (was 65%)
 - Mangrove: 45 ha rusak
 - Padang Lamun: -70% biomassa
-         ↓
+         â†“
 [PENURUNAN DAYA DUKUNG]
-- Tangkapan Ikan ↓ 60%
-- Penghasilan Nelayan ↓ 60%
+- Tangkapan Ikan â†“ 60%
+- Penghasilan Nelayan â†“ 60%
 - Laut tidak mampu mendukung kehidupan
 ```
 
@@ -453,9 +453,9 @@ Status: **RUSAK** (30% mortalitas, 45 ha rusak)
 
 | Kriteria | Nilai | Status Kasus |
 |----------|-------|--------------|
-| Kerapatan lamun | < 200 shoots/m² = Rusak | **200 shoots/m² = RUSAK** |
-| Kerapatan lamun | 200-400 shoots/m² = Sedang | (Di batas) |
-| Kerapatan lamun | > 400 shoots/m² = Baik | (Sebelumnya 750) |
+| Kerapatan lamun | < 200 shoots/mÂ² = Rusak | **200 shoots/mÂ² = RUSAK** |
+| Kerapatan lamun | 200-400 shoots/mÂ² = Sedang | (Di batas) |
+| Kerapatan lamun | > 400 shoots/mÂ² = Baik | (Sebelumnya 750) |
 
 **Kesimpulan:** Terjadi **kerusakan lingkungan hidup** pada ketiga ekosistem pesisir.
 
@@ -472,9 +472,9 @@ Status: **RUSAK** (30% mortalitas, 45 ha rusak)
 - Indikator: tutupan karang, kerapatan mangrove, kerapatan lamun
 
 **Hubungan:**
-- Pencemaran air laut → Menyebabkan kerusakan ekosistem
-- Kerusakan ekosistem → Menurunkan daya tampung laut
-- Daya tampung menurun → Pencemaran semakin parah (siklus negatif)
+- Pencemaran air laut â†’ Menyebabkan kerusakan ekosistem
+- Kerusakan ekosistem â†’ Menurunkan daya tampung laut
+- Daya tampung menurun â†’ Pencemaran semakin parah (siklus negatif)
 
 #### 4. Dampak pada Daya Dukung Pesisir
 
@@ -486,7 +486,7 @@ Status: **RUSAK** (30% mortalitas, 45 ha rusak)
 **Penurunan Daya Dukung:**
 
 1. **Aspek Ekonomi:**
-   - Produktivitas perikanan ↓ 60%
+   - Produktivitas perikanan â†“ 60%
    - Mata pencaharian 350 KK terancam
    - Hilangnya potensi wisata bahari
 
@@ -527,7 +527,7 @@ Berdasarkan **UU 32/2009 Pasal 15-16**, Amdal wajib memuat:
 Berdasarkan **UU 32/2009 Pasal 17 ayat (2)**, maka:
 - Usaha tidak diperbolehkan
 - Izin lingkungan **tidak boleh diberikan**
-- Jika sudah beroperasi → izin dapat dicabut
+- Jika sudah beroperasi â†’ izin dapat dicabut
 
 #### 2. Larangan Dumping Limbah B3
 
@@ -634,7 +634,7 @@ PT Nikel Sejahtera wajib menyediakan dana penjaminan minimal **Rp 75 miliar** (s
 **Penerapan:**
 - PT Nikel Sejahtera wajib **menanggung seluruh biaya** pemulihan (Rp 75 miliar)
 - Tidak boleh dibebankan kepada APBN/APBD
-- Jika perusahaan bangkrut → dana penjaminan digunakan
+- Jika perusahaan bangkrut â†’ dana penjaminan digunakan
 
 #### 3. Prinsip Tanggung Jawab Negara (State Responsibility)
 
@@ -658,13 +658,13 @@ Berdasarkan **PP 22/2021 Pasal 427**:
    - Kewajiban membangun fasilitas pengelolaan tailing di darat (dry stacking)
    - Uang paksa (misal: Rp 100 juta/hari keterlambatan)
 3. **Pembekuan izin lingkungan**
-4. **Pencabutan izin lingkungan** → operasi tambang dihentikan
+4. **Pencabutan izin lingkungan** â†’ operasi tambang dihentikan
 
 #### 2. Sanksi Perdata
 
 **Ganti Rugi kepada Nelayan:**
 - Dasar gugatan: Perbuatan Melawan Hukum (PMH)
-- Kerugian materil: 350 KK × Rp 1,5 juta/bulan × 24 bulan = **Rp 12,6 miliar**
+- Kerugian materil: 350 KK Ã— Rp 1,5 juta/bulan Ã— 24 bulan = **Rp 12,6 miliar**
 - Kerugian immateril: hilangnya mata pencaharian, stres psikologis
 
 **Pemulihan Fungsi Lingkungan:**
@@ -705,7 +705,7 @@ Jika karena **kelalaian**:
 
 **B. Pemulihan Ekosistem:**
 - **Rehabilitasi Mangrove:**
-  - Penanaman 450.000 bibit mangrove (45 ha × 10.000 bibit/ha)
+  - Penanaman 450.000 bibit mangrove (45 ha Ã— 10.000 bibit/ha)
   - Pelibatan masyarakat pesisir
   - Target: 70% survival rate dalam 2 tahun
 
@@ -717,7 +717,7 @@ Jika karena **kelalaian**:
 - **Restorasi Padang Lamun:**
   - Transplantasi lamun: 50 ha
   - Pengendalian sedimentasi
-  - Target: kerapatan 400 shoots/m² dalam 2 tahun
+  - Target: kerapatan 400 shoots/mÂ² dalam 2 tahun
 
 #### 3. Solusi Jangka Panjang (> 2 tahun)
 
@@ -744,19 +744,19 @@ Kasus PT Nikel Sejahtera menunjukkan:
 
 #### 1. Keterkaitan Konsep
 
-**Daya Tampung Laut** (terbatas) ← **Beban Tailing** (2 juta ton/tahun) → **MELAMPAUI**
-         ↓
+**Daya Tampung Laut** (terbatas) â† **Beban Tailing** (2 juta ton/tahun) â†’ **MELAMPAUI**
+         â†“
 **PENCEMARAN LAUT**
-- TSS: 85 mg/L (↑325% dari baku mutu)
-- Ni: 0.25 mg/L (↑400% dari baku mutu)
-         ↓
+- TSS: 85 mg/L (â†‘325% dari baku mutu)
+- Ni: 0.25 mg/L (â†‘400% dari baku mutu)
+         â†“
 **KERUSAKAN LINGKUNGAN**
 - Terumbu Karang: 15% tutupan (rusak)
 - Mangrove: 45 ha rusak (30% mortalitas)
-- Padang Lamun: 200 shoots/m² (rusak)
-         ↓
+- Padang Lamun: 200 shoots/mÂ² (rusak)
+         â†“
 **PENURUNAN DAYA DUKUNG**
-- Produktivitas perikanan ↓ 60%
+- Produktivitas perikanan â†“ 60%
 - 350 KK nelayan terdampak
 - Laut tidak mampu mendukung kehidupan
 
@@ -779,7 +779,7 @@ Kasus PT Nikel Sejahtera menunjukkan:
 PP 22/2021 menyediakan kriteria objektif untuk menentukan kerusakan:
 - **Terumbu Karang**: tutupan < 25% = rusak
 - **Mangrove**: mortalitas tinggi, kerapatan rendah = rusak
-- **Padang Lamun**: kerapatan < 200 shoots/m² = rusak
+- **Padang Lamun**: kerapatan < 200 shoots/mÂ² = rusak
 
 #### 4. Pesan Kunci untuk Mahasiswa
 
@@ -819,8 +819,8 @@ PP 22/2021 menyediakan kriteria objektif untuk menentukan kerusakan:
 | **Definisi Pencemaran (PP 22/2021)** | Pasal 1 angka 49 | Pasal 1 angka 60 |
 | **Daya Tampung** | Daya Tampung Beban Pencemaran Udara (Pasal 1 angka 54) | Daya tampung laut (konsep implisit) |
 | **Indikator Pencemaran** | PM2.5, PM10 melampaui baku mutu | TSS, Ni, Co melampaui baku mutu |
-| **Dampak Kesehatan/Ekologi** | ISPA ↑ 45% | Terumbu karang, mangrove, lamun rusak |
-| **Dampak Ekonomi** | Biaya kesehatan meningkat | Tangkapan ikan ↓ 60%, pendapatan nelayan ↓ 60% |
+| **Dampak Kesehatan/Ekologi** | ISPA â†‘ 45% | Terumbu karang, mangrove, lamun rusak |
+| **Dampak Ekonomi** | Biaya kesehatan meningkat | Tangkapan ikan â†“ 60%, pendapatan nelayan â†“ 60% |
 | **Baku Mutu Relevan** | Baku Mutu Udara Ambien, Baku Mutu Emisi | Baku Mutu Air Laut |
 | **Kriteria Baku Kerusakan** | - | Terumbu karang, mangrove, padang lamun (Pasal 231, 232, 272) |
 | **Instrumen Preventif** | KLHS, baku mutu emisi lebih ketat | Amdal kajian daya tampung, larangan dumping |
@@ -869,9 +869,9 @@ PP 22/2021 menyediakan kriteria objektif untuk menentukan kerusakan:
 ---
 
 **Navigasi:**
-- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|← Kasus 1: Pencemaran Air Sungai]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
-- [[BAB_VI_Implikasi_Hukum_Konsekuensi|Lanjut ke Bagian VI: Implikasi Hukum dan Konsekuensi →]]
+- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|â† Kasus 1: Pencemaran Air Sungai]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
+- [[BAB_VI_Implikasi_Hukum_Konsekuensi|Lanjut ke Bagian VI: Implikasi Hukum dan Konsekuensi â†’]]
 
 ---
 
@@ -890,4 +890,5 @@ PP 22/2021 menyediakan kriteria objektif untuk menentukan kerusakan:
 *The **Agentic RAG Orchestration Framework** represents a novel approach to legal education content generation, combining advanced natural language processing, regulatory database retrieval, and multi-agent coordination to produce comprehensive, well-structured, and legally sound educational materials. This framework is particularly optimized for the complexities of Indonesian environmental law, including UU 32/2009 on Environmental Protection and Management, PP 22/2021, and related ministerial regulations.*
 
 *Framework Architecture & Development: **Mohamad Mova Al'Afghani** (2025)*
-*© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+*Â© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+

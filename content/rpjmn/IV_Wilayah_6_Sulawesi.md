@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "Wilayah Sulawesi"
 chapter: "BAB IV"
@@ -20,7 +20,7 @@ status: "validated"
 date: "2025-10-29"
 ---
 
-> **Navigation:** [[00_INDEX|🏠 Index]] | [[README|📖 About]]
+> **Navigation:** [[00_INDEX|ðŸ  Index]] | [[README|ðŸ“– About]]
 >
 > **You are here:** Wilayah Sulawesi
 
@@ -74,16 +74,16 @@ Wilayah Sulawesi diarahkan menjadi "Penunjang Superhub Ekonomi Nusantara dan Ind
 
 | Indikator | 2025 | 2029 | Target |
 |-----------|------|------|--------|
-| Laju Pertumbuhan Ekonomi (LPE) | - | 8,6 (Rata-rata 2025–2029) | 9,9 (2029) |
+| Laju Pertumbuhan Ekonomi (LPE) | - | 8,6 (Rata-rata 2025â€“2029) | 9,9 (2029) |
 | Produk Domestik Regional Bruto (PDRB) | 7,3 | 7,8 | - |
-| Target Lainnya | 83,1 | 3,32–3,75 | 8,34–9,34 |
-| Indikator 2 | 128,5 | 2,86–3,47 | 4,63–5,63 |
+| Target Lainnya | 83,1 | 3,32â€“3,75 | 8,34â€“9,34 |
+| Indikator 2 | 128,5 | 2,86â€“3,47 | 4,63â€“5,63 |
 
 *Keterangan: LPE = Laju Pertumbuhan Ekonomi; PDRB = Produk Domestik Regional Bruto; TPT = Tingkat Pengangguran Terbuka*
 
 ### Sasaran Pembangunan Provinsi di Wilayah Sulawesi
 
-| Provinsi | LPE (%) 2025–2029 | LPE (%) 2029 | PDRB per kapita (Rp. Juta) 2025 | PDRB per kapita (Rp. Juta) 2029 | Kontribusi PDRB Provinsi (%) 2025 | Kontribusi PDRB Provinsi (%) 2029 |
+| Provinsi | LPE (%) 2025â€“2029 | LPE (%) 2029 | PDRB per kapita (Rp. Juta) 2025 | PDRB per kapita (Rp. Juta) 2029 | Kontribusi PDRB Provinsi (%) 2025 | Kontribusi PDRB Provinsi (%) 2029 |
 |----------|------------------|-------------|--------------------------------|--------------------------------|-----------------------------------|-----------------------------------|
 | Sulawesi Utara | 7,4 | 8,5 | 74,4 | 109,2 | 0,8 | 0,8 |
 | Sulawesi Tengah | 12,9 | 14,2 | 141,8 | 258,7 | 1,9 | 2,4 |
@@ -96,23 +96,23 @@ Wilayah Sulawesi diarahkan menjadi "Penunjang Superhub Ekonomi Nusantara dan Ind
 
 | Provinsi | 2025 | 2029 |
 |----------|------|------|
-| Sulawesi Utara | 5,59–6,19 | 2,30–3,30 |
-| Sulawesi Tengah | 11,06–11,56 | 6,20–7,20 |
-| Sulawesi Selatan | 7,30–7,89 | 3,49–4,49 |
-| Sulawesi Tenggara | 10,04–10,54 | 6,60–7,60 |
-| Gorontalo | 14,21–14,50 | 9,50–10,50 |
-| Sulawesi Barat | 9,00–9,73 | 4,97–5,97 |
+| Sulawesi Utara | 5,59â€“6,19 | 2,30â€“3,30 |
+| Sulawesi Tengah | 11,06â€“11,56 | 6,20â€“7,20 |
+| Sulawesi Selatan | 7,30â€“7,89 | 3,49â€“4,49 |
+| Sulawesi Tenggara | 10,04â€“10,54 | 6,60â€“7,60 |
+| Gorontalo | 14,21â€“14,50 | 9,50â€“10,50 |
+| Sulawesi Barat | 9,00â€“9,73 | 4,97â€“5,97 |
 
 **Rasio Gini:**
 
 | Provinsi | 2025 | 2029 |
 |----------|------|------|
-| Sulawesi Utara | 0,339–0,352 | 0,332–0,336 |
-| Sulawesi Tengah | 0,298–0,302 | 0,280–0,284 |
-| Sulawesi Selatan | 0,371–0,376 | 0,320–0,324 |
-| Sulawesi Tenggara | 0,365–0,371 | 0,343–0,347 |
-| Gorontalo | 0,394–0,400 | 0,384–0,393 |
-| Sulawesi Barat | 0,345–0,349 | 0,332–0,336 |
+| Sulawesi Utara | 0,339â€“0,352 | 0,332â€“0,336 |
+| Sulawesi Tengah | 0,298â€“0,302 | 0,280â€“0,284 |
+| Sulawesi Selatan | 0,371â€“0,376 | 0,320â€“0,324 |
+| Sulawesi Tenggara | 0,365â€“0,371 | 0,343â€“0,347 |
+| Gorontalo | 0,394â€“0,400 | 0,384â€“0,393 |
+| Sulawesi Barat | 0,345â€“0,349 | 0,332â€“0,336 |
 
 **Indeks Modal Manusia:**
 
@@ -151,12 +151,12 @@ Wilayah Sulawesi diarahkan menjadi "Penunjang Superhub Ekonomi Nusantara dan Ind
 
 | Provinsi | 2025 | 2029 |
 |----------|------|------|
-| Sulawesi Utara | 5,01–5,56 | 4,66–5,14 |
-| Sulawesi Tengah | 2,25–2,94 | 2,09–2,72 |
-| Sulawesi Selatan | 3,80–4,10 | 3,18–3,83 |
-| Sulawesi Tenggara | 2,54–3,04 | 2,32–2,80 |
-| Gorontalo | 2,87–3,08 | 2,00–2,74 |
-| Sulawesi Barat | 1,41–2,00 | 1,07–1,76 |
+| Sulawesi Utara | 5,01â€“5,56 | 4,66â€“5,14 |
+| Sulawesi Tengah | 2,25â€“2,94 | 2,09â€“2,72 |
+| Sulawesi Selatan | 3,80â€“4,10 | 3,18â€“3,83 |
+| Sulawesi Tenggara | 2,54â€“3,04 | 2,32â€“2,80 |
+| Gorontalo | 2,87â€“3,08 | 2,00â€“2,74 |
+| Sulawesi Barat | 1,41â€“2,00 | 1,07â€“1,76 |
 
 ## Arah Pembangunan Wilayah Sulawesi
 
@@ -166,4 +166,4 @@ Wilayah Sulawesi diarahkan menjadi "Penunjang Superhub Ekonomi Nusantara dan Ind
 
 **Penurunan Tingkat Kemiskinan dan Peningkatan Kualitas SDM**
 
-### Highlight Lokasi Prioritas Pembangunan 2025–2029 Wilayah Sulawesi
+### Highlight Lokasi Prioritas Pembangunan 2025â€“2029 Wilayah Sulawesi

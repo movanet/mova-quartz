@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 dg-publish: true
 permalink: published-menggunakan-chat-gpt-untuk-membantu-mengerjakan-tugas-kuliah-atau-skripsi

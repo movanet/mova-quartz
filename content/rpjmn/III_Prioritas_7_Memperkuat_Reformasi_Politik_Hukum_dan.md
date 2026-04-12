@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "Prioritas Nasional 7: Memperkuat Reformasi Politik, Hukum, dan Birokrasi"
 chapter: "BAB III"
@@ -25,7 +25,7 @@ date: "2025-10-29"
 
 
 
-> **Navigation:** [[00_INDEX|🏠 Index]] | [[README|📖 About]]
+> **Navigation:** [[00_INDEX|ðŸ  Index]] | [[README|ðŸ“– About]]
 >
 > **You are here:** Prioritas Nasional 7: Memperkuat Reformasi Politik, Hukum, dan Birokrasi
 
@@ -35,15 +35,15 @@ date: "2025-10-29"
 ---
 3.7 Prioritas Nasional 7: Memperkuat Reformasi Politik, Hukum, dan Birokrasi, serta Memperkuat Pencegahan dan Pemberantasan Korupsi, Narkoba, Judi, dan Penyelundupan Reformasi dalam bidang politik, hukum, dan untuk birokrasi merupakan krusial aspek Langkah-langkah reformasi ini diharapkan dapat menjamin terciptanya situasi yang kondusif bagi menciptakan pemerintahan yang transparan, jalannya pembangunan dalam berbagai bidang.
 
-ini efektif, dan bertanggung bertujuan untuk mencegah dan menanggulangi jawab. Reformasi jangka Oleh karena menengah nasional tahun 2025–2029, Pemerintah itu, pada pembangunan tindakan-tindakan yang merugikan masyarakat, berkomitmen untuk memperkuat reformasi politik, seperti korupsi, pemakaian narkoba, judi, dan hukum, dan birokrasi, serta memperkuat penyelundupan.
+ini efektif, dan bertanggung bertujuan untuk mencegah dan menanggulangi jawab. Reformasi jangka Oleh karena menengah nasional tahun 2025â€“2029, Pemerintah itu, pada pembangunan tindakan-tindakan yang merugikan masyarakat, berkomitmen untuk memperkuat reformasi politik, seperti korupsi, pemakaian narkoba, judi, dan hukum, dan birokrasi, serta memperkuat penyelundupan.
 
 Upaya pencegahan dan penanggulangan korupsi, pencegahan dan pemberantasan korupsi, narkoba, judi, dan penyelundupan.
 
 narkoba, judi, dan penyelundupan harus Sasaran Utama pada Prioritas Nasional 7 dilaksanakan dengan kebijakan yang kuat dan konsisten. Kebijakan tersebut mencerminkan keseriusan pemerintah dalam menjunjung nilai integritas dan keadilan, serta melindungi potensi yang dimiliki oleh generasi penerus dari berbagai hambatan dan ancaman.
 
-Untuk mengawal keberhasilan proses memperkuat reformasi politik, hukum, dan birokrasi serta memperkuat pencegahan dan pemberantasan korupsi, narkoba, judi, dan penyelundupan, telah dirumuskan sasaran dan indikator pembangunan pada tahun 2025–2029 sebagai berikut.
+Untuk mengawal keberhasilan proses memperkuat reformasi politik, hukum, dan birokrasi serta memperkuat pencegahan dan pemberantasan korupsi, narkoba, judi, dan penyelundupan, telah dirumuskan sasaran dan indikator pembangunan pada tahun 2025â€“2029 sebagai berikut.
 
-Sasaran Utama pada Prioritas Nasional 7 No Sasaran dan Indikator Baseline 2024 Target 2025 Target 2029 Terwujudnya supremasi hukum yang transparan, adil, dan tidak memihak serta sistem politik yang fungsional 1 2 3 4 5 Indeks Pembangunan Hukum Indeks Persepsi Korupsi Indeks Materi Hukum Indeks Integritas Nasional 0,68 (2023) 34 (2023) 0,60 (2023) 70,97 (2023) 0,69 38 0,51 74,52 0,73 43,7 0,55 77,57 Indeks Integritas Partai Politik 62,83 63,00—64,99 71,00—72,99 Terwujudnya birokrasi pemerintahan yang adaptif dan melayani 6 Indeks Reformasi Birokrasi 69,98 Nasional 7 8 9 Indeks Pelayanan Publik 3,78 (2023) Indeks Berbasis Elektronik Sistem Pemerintahan 2,79 (2023) Indeks Pelayanan dan Pelindungan WNI di Luar Negeri 93 Terwujudnya masyarakat yang bebas dari penyalahgunaan narkoba 71,38 3,68a) 3,00 93,5 77,26 3,80 2,00 b) 95,5 10 Angka Prevalensi Penyalahguna Narkotika 1,73 (2023) 1,70 1,60 Terwujudnya tata kelola BUMN yang baik untuk meningkatkan kontribusi Badan Usaha Milik Negara sebagai agen pembangunan 11 Return on Asset (ROA) BUMN (%) 3,14 (2023) 3,21 3,42 175 No Sasaran dan Indikator Baseline 2024 Target 2025 Target 2029 Tercapainya peningkatan pendapatan negara yang optimal sesuai potensi perekonomian dengan tetap menjaga iklim investasi, didukung upaya untuk mewujudkan reformasi fiskal secara komprehensif melalui optimalisasi belanja negara, serta perluasan sumber dan pengembangan inovasi pembiayaan 12 Rasio Pendapatan Negara terhadap PDB (%) 13 Rasio Penerimaan Perpajakan terhadap PDB (%) 12,82 10,07 12,36 13,75—18,00 10,24 11,52—15,00 Tercapainya tingkat inflasi yang rendah dan stabil untuk mendukung stabilitas serta pertumbuhan ekonomi yang inklusif dan berkelanjutan 14 Tingkat Inflasi (%) Sumber: Kementerian PPN/Bappenas, 2024 (diolah) 1,57 2,5±1,0 2,5±1,0 Keterangan: a) Instrumen evaluasi akan mengalami perubahan sehingga target nasional disesuaikan, b) instrumen evaluasi akan mengalami perubahan menjadi Indeks Pemerintah Digital sehingga target nasional disesuaikan.
+Sasaran Utama pada Prioritas Nasional 7 No Sasaran dan Indikator Baseline 2024 Target 2025 Target 2029 Terwujudnya supremasi hukum yang transparan, adil, dan tidak memihak serta sistem politik yang fungsional 1 2 3 4 5 Indeks Pembangunan Hukum Indeks Persepsi Korupsi Indeks Materi Hukum Indeks Integritas Nasional 0,68 (2023) 34 (2023) 0,60 (2023) 70,97 (2023) 0,69 38 0,51 74,52 0,73 43,7 0,55 77,57 Indeks Integritas Partai Politik 62,83 63,00â€”64,99 71,00â€”72,99 Terwujudnya birokrasi pemerintahan yang adaptif dan melayani 6 Indeks Reformasi Birokrasi 69,98 Nasional 7 8 9 Indeks Pelayanan Publik 3,78 (2023) Indeks Berbasis Elektronik Sistem Pemerintahan 2,79 (2023) Indeks Pelayanan dan Pelindungan WNI di Luar Negeri 93 Terwujudnya masyarakat yang bebas dari penyalahgunaan narkoba 71,38 3,68a) 3,00 93,5 77,26 3,80 2,00 b) 95,5 10 Angka Prevalensi Penyalahguna Narkotika 1,73 (2023) 1,70 1,60 Terwujudnya tata kelola BUMN yang baik untuk meningkatkan kontribusi Badan Usaha Milik Negara sebagai agen pembangunan 11 Return on Asset (ROA) BUMN (%) 3,14 (2023) 3,21 3,42 175 No Sasaran dan Indikator Baseline 2024 Target 2025 Target 2029 Tercapainya peningkatan pendapatan negara yang optimal sesuai potensi perekonomian dengan tetap menjaga iklim investasi, didukung upaya untuk mewujudkan reformasi fiskal secara komprehensif melalui optimalisasi belanja negara, serta perluasan sumber dan pengembangan inovasi pembiayaan 12 Rasio Pendapatan Negara terhadap PDB (%) 13 Rasio Penerimaan Perpajakan terhadap PDB (%) 12,82 10,07 12,36 13,75â€”18,00 10,24 11,52â€”15,00 Tercapainya tingkat inflasi yang rendah dan stabil untuk mendukung stabilitas serta pertumbuhan ekonomi yang inklusif dan berkelanjutan 14 Tingkat Inflasi (%) Sumber: Kementerian PPN/Bappenas, 2024 (diolah) 1,57 2,5Â±1,0 2,5Â±1,0 Keterangan: a) Instrumen evaluasi akan mengalami perubahan sehingga target nasional disesuaikan, b) instrumen evaluasi akan mengalami perubahan menjadi Indeks Pemerintah Digital sehingga target nasional disesuaikan.
 
 Arah Kebijakan Dalam rangka mewujudkan sasaran-sasaran pembangunan Prioritas Nasional 7, dilaksanakan arah kebijakan sebagai berikut:
 
@@ -137,7 +137,7 @@ pemantauan dan evaluasi regulasi melalui self assessment oleh kementerian/lembag
 
 (c) penguatan tata kelola peraturan menteri, peraturan lembaga, dan sejenisnya; serta (d) pengaturan komprehensif mengenai metode omnibus.
 
-Kerangka Kelembagaan Regulasi dan Kerangka Kebutuhan regulasi pada Prioritas Nasional 7 “Memperkuat Reformasi Politik, Hukum, dan Birokrasi, serta Memperkuat Pencegahan dan Judi, dan Pemberantasan Korupsi, Narkoba, Penyelundupan” sebagai berikut:
+Kerangka Kelembagaan Regulasi dan Kerangka Kebutuhan regulasi pada Prioritas Nasional 7 â€œMemperkuat Reformasi Politik, Hukum, dan Birokrasi, serta Memperkuat Pencegahan dan Judi, dan Pemberantasan Korupsi, Narkoba, Penyelundupanâ€ sebagai berikut:
 
 (1) Rancangan tentang Perubahan atas Undang-Undang Nomor 37 Undang-Undang Tahun 2004 tentang Kepailitan dan Penundaan Kewajiban Pembayaran Utang Perubahan Undang-Undang tentang Kepailitan dan Penundaan Kewajiban Rancangan Pembayaran Utang akan mengatur terkait pembaharuan substansi terhadap proses bisnis pailit khususnya penataan terhadap aspek-aspek hubungan perikatan dalam hal kepailitan dan penundaan kewajiban pembayaran utang. Rancangan Undang- Undang ini mendukung sasaran pembangunan guna meningkatkan kepercayaan investor.
 
@@ -149,7 +149,7 @@ urgensi Undang perubahan diantaranya: (a) masih terdapat ketentuan United Nation
 
 Kebutuhan kelembagaan pada Prioritas Nasional 7 tantangan global di masyarakat secara efektif.
 
-“Memperkuat Reformasi Politik, Hukum, dan Rancangan Undang- Undang ini akan Birokrasi, serta Memperkuat Pencegahan dan mencakup program pembinaan hukum nasional yang komprehensif, baik pada tahap Pemberantasan Korupsi, Narkoba, Penyelundupan” sebagai berikut:
+â€œMemperkuat Reformasi Politik, Hukum, dan Rancangan Undang- Undang ini akan Birokrasi, serta Memperkuat Pencegahan dan mencakup program pembinaan hukum nasional yang komprehensif, baik pada tahap Pemberantasan Korupsi, Narkoba, Penyelundupanâ€ sebagai berikut:
 
 Judi, dan pembentukan maupun pelaksanaan hukum, bertujuan untuk meningkatkan serta kepatuhan setiap individu, badan hukum, atau badan publik yang melakukan usaha dan/atau kegiatan terhadap peraturan perundang- undangan atau hukum yang berlaku.
 
@@ -158,3 +158,4 @@ Judi, dan pembentukan maupun pelaksanaan hukum, bertujuan untuk meningkatkan ser
 tentang Perubahan atas Undang-Undang serta (c) mencegah terjadinya over regulasi Nomor 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa diperlukan akibat pembentukan regulasi di tiap sektor tanpa penajaman yang memadai.
 
 untuk perbaikan regulasi dan tata kelola 185
+

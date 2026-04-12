@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "Daftar Isi RPJMN 2025-2029"
 chapter: "Daftar Isi"
@@ -16,9 +16,9 @@ date: "2025-10-29"
 
 iii BAB I Evaluasi dan Tantangan Pembangunan
 
-1.1 Kilas Balik Pembangunan Tahun 2020–2024 dan Perkembangan Global ............
+1.1 Kilas Balik Pembangunan Tahun 2020â€“2024 dan Perkembangan Global ............
 
-1.2 Evaluasi Pembangunan Tahun 2020–2024 ..................................................................
+1.2 Evaluasi Pembangunan Tahun 2020â€“2024 ..................................................................
 
 4 6
 
@@ -32,7 +32,7 @@ iii BAB I Evaluasi dan Tantangan Pembangunan
 
 2.1 Prioritas Pembangunan Nasional ..................................................................................
 
-2.2 Kerangka Pikir dan Kebijakan RPJMN Tahun 2025–2029 ..........................................
+2.2 Kerangka Pikir dan Kebijakan RPJMN Tahun 2025â€“2029 ..........................................
 
 44 51
 
@@ -83,7 +83,7 @@ iii BAB I Evaluasi dan Tantangan Pembangunan
 
 4.3 Wilayah Jawa .......................................................................................................................
 
-4.4 Wilayah Bali–Nusa Tenggara ...........................................................................................
+4.4 Wilayah Baliâ€“Nusa Tenggara ...........................................................................................
 
 4.5 Wilayah Kalimantan ...........................................................................................................
 
@@ -118,4 +118,5 @@ iii BAB I Evaluasi dan Tantangan Pembangunan
 267 DAFTAR KEGIATAN PRIORITAS UTAMA ...............................................................................................
 
 270
+
 

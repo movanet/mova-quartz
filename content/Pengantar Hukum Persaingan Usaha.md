@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 tags: #competition #lawtalk 
 ---
@@ -63,3 +63,4 @@ Hukum persaingan usaha memiliki dampak positif yang signifikan terhadap ekonomi 
 ## B. Dampak Negatif Pelanggaran Hukum Persaingan Usaha
 
 Pelanggaran hukum persaingan usaha dapat memiliki dampak negatif yang serius terhadap ekonomi Indonesia. Praktek seperti monopoli, kartel, dan persaingan usaha tidak sehat dapat menghambat persaingan, mengurangi inovasi, dan merugikan konsumen melalui harga yang lebih tinggi dan kualitas yang lebih rendah. Selain itu, pelanggaran hukum persaingan usaha juga dapat merusak reputasi Indonesia di mata investor internasional dan menghambat pertumbuhan dan pembangunan ekonomi jangka panjang.
+

@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 tags: #vertical #integration #competition #law
 ---
@@ -63,3 +63,4 @@ Perusahaan yang memiliki posisi dominan harus berhati-hati dalam menjalankan usa
 # V. Kesimpulan
 
 Posisi dominan dalam persaingan usaha bukanlah hal yang salah selama tidak disalahgunakan. Penyalahgunaan posisi dominan dapat merugikan pesaing dan konsumen, serta menghambat persaingan usaha yang sehat. Oleh karena itu, peran KPPU sangat penting dalam menjaga keseimbangan persaingan usaha di Indonesia. Bagi perusahaan, penting untuk selalu menjaga etika bisnis dan menjalankan usaha dengan cara yang sehat dan adil.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Organisasi Internasional"
 tags:
   - hukum-internasional
@@ -39,7 +39,7 @@ Pada saat bersamaan, muncul kebutuhan praktis untuk koordinasi internasional dal
 
 ### Komisi Rhen (Rhine Commission) 1815
 
-Komisi Rhen didirikan sebagai bagian dari Akta Final Kongres Wina dan merupakan organisasi internasional tertua yang masih ada hingga hari ini. Organisasi ini didirikan untuk mengatur navigasi di Sungai Rhen, yang merupakan jalur perdagangan vital bagi beberapa negara Eropa. Komisi Rhen menetapkan prinsip-prinsip fundamental yang kemudian menjadi dasar hukum internasional maritim, termasuk konsep kebebasan navigasi, nondiskriminasi, dan pembagian tanggung jawab pengelolaan sumber daya bersama. Struktur organisasinya yang sederhana—terdiri dari representan dari negara-negara riparian—mendemonstrasikan bahwa koordinasi internasional dapat dicapai melalui mekanisme institusional yang relatif minimal namun efektif.
+Komisi Rhen didirikan sebagai bagian dari Akta Final Kongres Wina dan merupakan organisasi internasional tertua yang masih ada hingga hari ini. Organisasi ini didirikan untuk mengatur navigasi di Sungai Rhen, yang merupakan jalur perdagangan vital bagi beberapa negara Eropa. Komisi Rhen menetapkan prinsip-prinsip fundamental yang kemudian menjadi dasar hukum internasional maritim, termasuk konsep kebebasan navigasi, nondiskriminasi, dan pembagian tanggung jawab pengelolaan sumber daya bersama. Struktur organisasinya yang sederhanaâ€”terdiri dari representan dari negara-negara riparianâ€”mendemonstrasikan bahwa koordinasi internasional dapat dicapai melalui mekanisme institusional yang relatif minimal namun efektif.
 
 ### Serikat Administratif Internasional: ITU (1865) dan UPU (1874)
 
@@ -91,7 +91,7 @@ Penting untuk membedakan antara organisasi internasional pemerintah (Intergovern
 
 **Organisasi Internasional Pemerintah (IGO)** adalah organisasi yang dibentuk oleh perjanjian internasional antara negara-negara, dengan anggota-anggotanya adalah negara-negara atau entitas yang diakui sebagai subjek hukum internasional. IGO memiliki status yang lebih tinggi dalam hierarki hukum internasional dan keputusan-keputusannya dapat memiliki dampak langsung pada negara-negara anggota. Contoh IGO termasuk Perserikatan Bangsa-Bangsa, Organisasi Perdagangan Dunia, dan Organisasi Negara-Negara Afrika.
 
-**Organisasi Internasional Non-Pemerintah (NGO)** adalah organisasi yang dibentuk oleh individu-individu atau kelompok-kelompok yang bukan negara. Meskipun NGO dapat bermitra dengan organisasi pemerintah atau antar negara, mereka secara fundamental adalah entitas privat atau masyarakat sipil. NGO tidak memiliki status subjektivitas hukum internasional yang sama dengan IGO, meskipun mereka dapat memiliki beberapa peran yang diakui dalam sistem hukum internasional modern. Contoh NGO termasuk Amnesty International, Médecins Sans Frontières, dan Greenpeace.
+**Organisasi Internasional Non-Pemerintah (NGO)** adalah organisasi yang dibentuk oleh individu-individu atau kelompok-kelompok yang bukan negara. Meskipun NGO dapat bermitra dengan organisasi pemerintah atau antar negara, mereka secara fundamental adalah entitas privat atau masyarakat sipil. NGO tidak memiliki status subjektivitas hukum internasional yang sama dengan IGO, meskipun mereka dapat memiliki beberapa peran yang diakui dalam sistem hukum internasional modern. Contoh NGO termasuk Amnesty International, MÃ©decins Sans FrontiÃ¨res, dan Greenpeace.
 
 ### Kepribadian Hukum Internasional Organisasi: Kasus Reparation for Injuries (1949)
 
@@ -395,14 +395,14 @@ Peran Sekretaris-Jenderal telah berkembang jauh melampaui peran administratif mu
 | Nomor | Nama | Negara | Periode |
 |---|---|---|---|
 | 1 | Trygve Lie | Norwegia | 1946-1953 |
-| 2 | Dag Hammarskjöld | Swedia | 1953-1961 |
+| 2 | Dag HammarskjÃ¶ld | Swedia | 1953-1961 |
 | 3 | U Thant | Myanmar | 1961-1971 |
 | 4 | Kurt Waldheim | Austria | 1971-1981 |
-| 5 | Javier Pérez de Cuéllar | Peru | 1982-1991 |
+| 5 | Javier PÃ©rez de CuÃ©llar | Peru | 1982-1991 |
 | 6 | Boutros Boutros-Ghali | Mesir | 1992-1996 |
 | 7 | Kofi Annan | Ghana | 1997-2006 |
 | 8 | Ban Ki-moon | Korea Selatan | 2007-2016 |
-| 9 | António Guterres | Portugal | 2017-Sekarang |
+| 9 | AntÃ³nio Guterres | Portugal | 2017-Sekarang |
 
 ## 10. Badan-Badan Khusus (Specialized Agencies) PBB
 
@@ -708,4 +708,5 @@ Haryomataram. (2012). *Hukum Organisasi Internasional*. Jakarta: Universitas Ter
 - [[11-HAM|Hukum Hak Asasi Manusia Internasional]]
 
 **Catatan Pengajaran:** Materi ini dirancang untuk memberikan pemahaman komprehensif mengenai organisasi-organisasi internasional dari perspektif hukum internasional publik. Mahasiswa disarankan untuk melengkapi pembelajaran ini dengan membaca sumber-sumber primer seperti Piagam PBB, ASEAN Charter, dan putusan-putusan penting dari Mahkamah Internasional. Diskusi kelas dapat difokuskan pada analisis kritis terhadap efektivitas organisasi-organisasi internasional dalam mengatasi tantangan-tantangan kontemporer seperti perubahan iklim, keamanan siber, dan krisis kemanusiaan.
+
 

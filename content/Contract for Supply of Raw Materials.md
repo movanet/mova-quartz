@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 dg-publish: true
 tags:
@@ -40,7 +40,7 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements containe
 
 2.1 The Supplier agrees to supply, and the Buyer agrees to purchase, 100 tons of aluminum each month.
 
-2.2 The deliveries shall be made to the Buyer’s manufacturing facility located at Jl. Industri No. 12, Jakarta, Indonesia, no later than the 10th day of each month.
+2.2 The deliveries shall be made to the Buyerâ€™s manufacturing facility located at Jl. Industri No. 12, Jakarta, Indonesia, no later than the 10th day of each month.
 
 **3. Contract Duration and Termination**
 
@@ -54,7 +54,7 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements containe
 
 4.1 The Buyer shall pay the Supplier IDR 50,000,000 per ton of aluminum delivered.
 
-4.2 Payment shall be made within thirty (30) days of the receipt of the Supplier’s invoice by the Buyer.
+4.2 Payment shall be made within thirty (30) days of the receipt of the Supplierâ€™s invoice by the Buyer.
 
 4.3 In case of any adjustment in price, both parties shall negotiate in good faith to agree upon the new price terms.
 
@@ -94,7 +94,7 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements containe
 
 9.1 The Supplier warrants that the aluminum supplied under this Contract shall be of satisfactory quality and fit for the purpose for which it is intended.
 
-9.2 The Supplier shall indemnify and hold harmless the Buyer from and against any and all claims, damages, losses, and expenses arising out of or in connection with the Supplier’s breach of this Contract or any negligent act or omission by the Supplier.
+9.2 The Supplier shall indemnify and hold harmless the Buyer from and against any and all claims, damages, losses, and expenses arising out of or in connection with the Supplierâ€™s breach of this Contract or any negligent act or omission by the Supplier.
 
 **10. Limitation of Liability**
 

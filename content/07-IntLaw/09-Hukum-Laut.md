@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hukum Laut Internasional"
 tags:
   - hukum-internasional
@@ -371,4 +371,5 @@ Menghadapi tantangan-tantangan global yang semakin kompleks, hukum laut internas
 5. Peningkatan kapasitas negara-negara berkembang dalam mengimplementasikan norma-norma hukum laut internasional.
 
 Pengembangan hukum laut internasional di masa depan akan memerlukan komitmen dari komunitas internasional untuk terus berdialog dan bernegosiasi, serta kesediaan untuk mengadaptasi norma-norma hukum laut terhadap kebutuhan-kebutuhan global yang terus berubah.
+
 

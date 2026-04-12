@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -33,4 +33,5 @@ Manufacturers, suppliers, and retailers of products containing hazardous materia
 Strict liability offers several benefits in the context of hazardous materials. It simplifies the process of establishing liability, as proving fault or intent is often difficult and time-consuming. By holding parties accountable for the consequences of their actions, it promotes responsible behavior and discourages activities that pose significant risks.
 
 However, strict liability also presents challenges. Critics argue that it is unfair to hold parties liable without fault, as it undermines the fundamental principle of justice that one should only be held accountable for their actions if they acted with a guilty mind. Additionally, strict liability may result in increased costs for businesses, which could be passed on to consumers or discourage investment in certain industries.
+
 

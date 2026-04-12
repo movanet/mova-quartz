@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "10"
 judul: "Hukum Iklim Sektoral"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "90 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - sektoral
   - energi
   - kehutanan
@@ -37,7 +37,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Target NDC Indonesia tidak dapat dicapai tanpa aksi sektoral yang terkoordinasi. Bab ini mengkaji regulasi iklim di empat sektor utama—energi, kehutanan/lahan (FOLU), transportasi, dan industri—yang bersama-sama menyumbang lebih dari 90% emisi GRK Indonesia. Setiap sektor memiliki tantangan hukum spesifik yang memerlukan pendekatan berbeda.
+Target NDC Indonesia tidak dapat dicapai tanpa aksi sektoral yang terkoordinasi. Bab ini mengkaji regulasi iklim di empat sektor utamaâ€”energi, kehutanan/lahan (FOLU), transportasi, dan industriâ€”yang bersama-sama menyumbang lebih dari 90% emisi GRK Indonesia. Setiap sektor memiliki tantangan hukum spesifik yang memerlukan pendekatan berbeda.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -49,7 +49,7 @@ graph LR
     B --> E[BAB 14: Adaptasi Sektoral]
 ```
 
-Bab ini memperdalam [[Buku-Ajar-Hukum-Perubahan-Iklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7]] dengan fokus pada regulasi sektor-sektor utama. Untuk pembahasan adaptasi sektoral (bukan mitigasi), lihat [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14]].
+Bab ini memperdalam [[Buku-Ajar-Hukum-06-PerubahanIklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7]] dengan fokus pada regulasi sektor-sektor utama. Untuk pembahasan adaptasi sektoral (bukan mitigasi), lihat [[Buku-Ajar-Hukum-06-PerubahanIklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14]].
 
 ### 5. Peta Konsep Bab
 
@@ -80,7 +80,7 @@ mindmap
 
 ### 1. Sektor Energi: Transisi ke Ekonomi Rendah Karbon
 
-Sektor energi adalah kontributor terbesar kedua emisi GRK Indonesia setelah FOLU, dengan proporsi sekitar 35% dari total emisi nasional.[^1] Pembangkitan listrik berbasis batubara, penggunaan minyak bumi untuk transportasi, dan konsumsi gas untuk industri menjadi sumber utama emisi sektor ini. Dengan demikian, transisi energi—pergeseran sistematis dari energi berbasis fosil ke energi terbarukan—adalah prasyarat mutlak pencapaian target NDC Indonesia.
+Sektor energi adalah kontributor terbesar kedua emisi GRK Indonesia setelah FOLU, dengan proporsi sekitar 35% dari total emisi nasional.[^1] Pembangkitan listrik berbasis batubara, penggunaan minyak bumi untuk transportasi, dan konsumsi gas untuk industri menjadi sumber utama emisi sektor ini. Dengan demikian, transisi energiâ€”pergeseran sistematis dari energi berbasis fosil ke energi terbarukanâ€”adalah prasyarat mutlak pencapaian target NDC Indonesia.
 
 Kerangka hukum transisi energi Indonesia berkembang pesat dalam beberapa tahun terakhir, dengan serangkaian regulasi yang bertujuan mempercepat penetrasi energi baru terbarukan (EBT) sekaligus mengelola penurunan peran batubara secara terencana. Namun demikian, berbagai tantangan hukum masih menghambat transisi ini, dari kontrak jangka panjang yang mengunci pembangkit fosil hingga inkonsistensi kebijakan yang menciptakan sinyal campuran bagi investor.
 
@@ -88,13 +88,13 @@ Kerangka hukum transisi energi Indonesia berkembang pesat dalam beberapa tahun t
 
 #### 1.1 Arsitektur Regulasi Transisi Energi
 
-**Rencana Umum Energi Nasional (RUEN)** yang ditetapkan melalui Peraturan Presiden Nomor 22 Tahun 2017 menjadi dokumen perencanaan energi jangka panjang yang menetapkan target bauran energi primer nasional. RUEN menargetkan bauran energi baru terbarukan (EBT) minimal 23% pada 2025 dan 31% pada 2050—meskipun angka ini kini dipandang terlalu konservatif dan sedang dalam proses revisi.[^2]
+**Rencana Umum Energi Nasional (RUEN)** yang ditetapkan melalui Peraturan Presiden Nomor 22 Tahun 2017 menjadi dokumen perencanaan energi jangka panjang yang menetapkan target bauran energi primer nasional. RUEN menargetkan bauran energi baru terbarukan (EBT) minimal 23% pada 2025 dan 31% pada 2050â€”meskipun angka ini kini dipandang terlalu konservatif dan sedang dalam proses revisi.[^2]
 
 **Peraturan Presiden Nomor 112 Tahun 2022 tentang Percepatan Pengembangan Energi Terbarukan untuk Penyediaan Tenaga Listrik** menjadi regulasi paling komprehensif untuk percepatan EBT. Perpres ini mengatur berbagai aspek krusial: harga pembelian listrik EBT oleh PLN, mekanisme tender proyek, kewajiban pembelian (*off-take guarantee*), dan insentif fiskal. Perpres 112/2022 juga menetapkan prinsip bahwa pembangkit EBT harus diprioritaskan dalam *dispatch order* sistem kelistrikan.[^3]
 
 Beberapa ketentuan penting Perpres 112/2022:
 
-**Pertama, harga pembelian listrik EBT** ditetapkan berdasarkan formula yang memperhitungkan biaya pembangkitan rata-rata PLN (Biaya Pokok Penyediaan/BPP) di wilayah setempat. Untuk wilayah dengan BPP di atas rata-rata nasional, harga pembelian EBT dapat mencapai 100% BPP—memberikan insentif signifikan.[^4]
+**Pertama, harga pembelian listrik EBT** ditetapkan berdasarkan formula yang memperhitungkan biaya pembangkitan rata-rata PLN (Biaya Pokok Penyediaan/BPP) di wilayah setempat. Untuk wilayah dengan BPP di atas rata-rata nasional, harga pembelian EBT dapat mencapai 100% BPPâ€”memberikan insentif signifikan.[^4]
 
 **Kedua, kewajiban PLN** untuk membeli seluruh listrik yang dihasilkan pembangkit EBT yang sudah memiliki kontrak (*take-or-pay*), mengurangi risiko pasar bagi investor.
 
@@ -111,17 +111,17 @@ Beberapa ketentuan penting Perpres 112/2022:
 
 Meskipun kerangka regulasi terus diperkuat, transisi energi Indonesia menghadapi berbagai hambatan hukum yang kompleks:
 
-**Pertama, kontrak PPA jangka panjang.** Indonesia memiliki sekitar 21 GW kapasitas PLTU batubara yang beroperasi dengan kontrak *Power Purchase Agreement* (PPA) berdurasi 20-30 tahun. Kontrak-kontrak ini umumnya berisi klausul *take-or-pay* yang mewajibkan PLN membayar kapasitas yang tersedia terlepas dari apakah listriknya digunakan. Ini menciptakan **lock-in effect**—PLN terikat membeli listrik batubara bahkan ketika listrik EBT tersedia dengan harga lebih murah.[^6]
+**Pertama, kontrak PPA jangka panjang.** Indonesia memiliki sekitar 21 GW kapasitas PLTU batubara yang beroperasi dengan kontrak *Power Purchase Agreement* (PPA) berdurasi 20-30 tahun. Kontrak-kontrak ini umumnya berisi klausul *take-or-pay* yang mewajibkan PLN membayar kapasitas yang tersedia terlepas dari apakah listriknya digunakan. Ini menciptakan **lock-in effect**â€”PLN terikat membeli listrik batubara bahkan ketika listrik EBT tersedia dengan harga lebih murah.[^6]
 
 Pensiun dini PLTU sebelum berakhirnya kontrak PPA menimbulkan isu hukum kompleks: siapa yang menanggung biaya terminasi dini? Bagaimana kompensasi untuk *stranded assets*? Apakah kontrak dapat dinegosiasi ulang secara sepihak? Tanpa kerangka hukum yang jelas untuk *early retirement*, investor dan developer PLTU menghadapi ketidakpastian yang signifikan.
 
-**Kedua, risiko stranded assets.** *Stranded assets* merujuk pada aset-aset—dalam konteks ini PLTU batubara—yang kehilangan nilai ekonomi lebih cepat dari proyeksi karena perubahan kebijakan, teknologi, atau preferensi pasar terkait transisi rendah karbon.[^7] Dengan komitmen Indonesia untuk peak emisi sektor listrik pada 2030 (di bawah JETP) dan net zero 2060, banyak PLTU yang masih relatif muda mungkin harus pensiun sebelum masa ekonomisnya berakhir.
+**Kedua, risiko stranded assets.** *Stranded assets* merujuk pada aset-asetâ€”dalam konteks ini PLTU batubaraâ€”yang kehilangan nilai ekonomi lebih cepat dari proyeksi karena perubahan kebijakan, teknologi, atau preferensi pasar terkait transisi rendah karbon.[^7] Dengan komitmen Indonesia untuk peak emisi sektor listrik pada 2030 (di bawah JETP) dan net zero 2060, banyak PLTU yang masih relatif muda mungkin harus pensiun sebelum masa ekonomisnya berakhir.
 
-Pertanyaan hukum kunci: apakah pemilik PLTU berhak atas kompensasi jika kebijakan pemerintah mempercepat pensiun? Berdasarkan prinsip hukum investasi, perubahan kebijakan yang berdampak signifikan pada nilai investasi dapat menimbulkan klaim—terutama jika investor asing dilindungi oleh *Bilateral Investment Treaty* (BIT).[^8]
+Pertanyaan hukum kunci: apakah pemilik PLTU berhak atas kompensasi jika kebijakan pemerintah mempercepat pensiun? Berdasarkan prinsip hukum investasi, perubahan kebijakan yang berdampak signifikan pada nilai investasi dapat menimbulkan klaimâ€”terutama jika investor asing dilindungi oleh *Bilateral Investment Treaty* (BIT).[^8]
 
 **Ketiga, inkonsistensi kebijakan.** Di satu sisi, Indonesia mendorong transisi energi melalui insentif EBT. Di sisi lain, kebijakan Domestic Market Obligation (DMO) untuk batubara memastikan pasokan batubara murah untuk pembangkit domestik, mengurangi tekanan biaya untuk beralih ke EBT. Subsidi listrik juga menjaga harga listrik tetap rendah, mengurangi insentif untuk efisiensi energi.[^9]
 
-**Keempat, kapasitas jaringan dan intermittency.** Integrasi EBT dalam skala besar—terutama solar dan angin yang bersifat intermittent—memerlukan penguatan jaringan transmisi dan penyimpanan energi (*energy storage*). Regulasi tentang *grid code* untuk EBT, standar teknis penyimpanan, dan mekanisme pengelolaan intermittency masih dalam pengembangan.[^10]
+**Keempat, kapasitas jaringan dan intermittency.** Integrasi EBT dalam skala besarâ€”terutama solar dan angin yang bersifat intermittentâ€”memerlukan penguatan jaringan transmisi dan penyimpanan energi (*energy storage*). Regulasi tentang *grid code* untuk EBT, standar teknis penyimpanan, dan mekanisme pengelolaan intermittency masih dalam pengembangan.[^10]
 
 [^6]: IESR, *Indonesia Energy Transition Outlook 2024* (IESR 2024) 45-50.
 [^7]: Carbon Tracker Initiative, *Stranded Assets and Thermal Coal* (2015) 5-10.
@@ -133,9 +133,9 @@ Pertanyaan hukum kunci: apakah pemilik PLTU berhak atas kompensasi jika kebijaka
 
 ### 2. Sektor Kehutanan dan Lahan (FOLU)
 
-Sektor kehutanan dan penggunaan lahan lainnya (*Forestry and Other Land Use*/FOLU) memiliki posisi unik dalam profil emisi Indonesia. Secara historis, FOLU adalah sumber emisi terbesar—terutama dari deforestasi, degradasi hutan, dan kebakaran lahan gambut. Namun, sektor ini juga memiliki potensi besar sebagai penyerap karbon (*carbon sink*) jika dikelola dengan tepat.[^11]
+Sektor kehutanan dan penggunaan lahan lainnya (*Forestry and Other Land Use*/FOLU) memiliki posisi unik dalam profil emisi Indonesia. Secara historis, FOLU adalah sumber emisi terbesarâ€”terutama dari deforestasi, degradasi hutan, dan kebakaran lahan gambut. Namun, sektor ini juga memiliki potensi besar sebagai penyerap karbon (*carbon sink*) jika dikelola dengan tepat.[^11]
 
-Target **FOLU Net Sink 2030**—yang bermakna bahwa sektor kehutanan akan menjadi penyerap bersih karbon pada 2030—adalah salah satu komitmen paling ambisius Indonesia dalam Enhanced NDC. Pencapaiannya memerlukan transformasi fundamental dalam tata kelola hutan dan lahan, didukung oleh kerangka hukum yang kuat.
+Target **FOLU Net Sink 2030**â€”yang bermakna bahwa sektor kehutanan akan menjadi penyerap bersih karbon pada 2030â€”adalah salah satu komitmen paling ambisius Indonesia dalam Enhanced NDC. Pencapaiannya memerlukan transformasi fundamental dalam tata kelola hutan dan lahan, didukung oleh kerangka hukum yang kuat.
 
 [^11]: KLHK, *Indonesia FOLU Net Sink 2030: Operational Plan* (2022) 10-15.
 
@@ -157,7 +157,7 @@ Indonesia telah menerima RBP dari beberapa sumber. Perjanjian dengan **Norwegia*
 
 #### 2.2 Moratorium Hutan Primer dan Gambut
 
-Salah satu instrumen hukum paling signifikan untuk perlindungan hutan Indonesia adalah kebijakan **moratorium**—larangan sementara penerbitan izin baru di hutan primer dan lahan gambut. Kebijakan ini dimulai melalui Instruksi Presiden Nomor 10 Tahun 2011 dan telah diperpanjang beberapa kali, hingga akhirnya dijadikan permanen melalui Instruksi Presiden Nomor 5 Tahun 2019.[^15]
+Salah satu instrumen hukum paling signifikan untuk perlindungan hutan Indonesia adalah kebijakan **moratorium**â€”larangan sementara penerbitan izin baru di hutan primer dan lahan gambut. Kebijakan ini dimulai melalui Instruksi Presiden Nomor 10 Tahun 2011 dan telah diperpanjang beberapa kali, hingga akhirnya dijadikan permanen melalui Instruksi Presiden Nomor 5 Tahun 2019.[^15]
 
 Substansi moratorium mencakup:
 - Penghentian penerbitan izin baru (Izin Usaha Pemanfaatan Hasil Hutan Kayu, Izin Usaha Perkebunan, dll.) di hutan primer dan lahan gambut
@@ -176,13 +176,13 @@ Target **FOLU Net Sink 2030** mensyaratkan bahwa emisi dari sektor kehutanan dan
 
 Pencapaian target ini memerlukan intervensi simultan di beberapa area:
 
-**Penghentian deforestasi bersih** (*zero net deforestation*): Laju deforestasi harus ditekan mendekati nol. Indonesia telah menunjukkan kemajuan—deforestasi turun dari 0,6 juta hektar per tahun (2015-2016) menjadi 0,1 juta hektar (2020-2021).[^18] Namun, mempertahankan dan memperdalam penurunan ini memerlukan penegakan hukum yang konsisten dan penyelesaian konflik tenurial.
+**Penghentian deforestasi bersih** (*zero net deforestation*): Laju deforestasi harus ditekan mendekati nol. Indonesia telah menunjukkan kemajuanâ€”deforestasi turun dari 0,6 juta hektar per tahun (2015-2016) menjadi 0,1 juta hektar (2020-2021).[^18] Namun, mempertahankan dan memperdalam penurunan ini memerlukan penegakan hukum yang konsisten dan penyelesaian konflik tenurial.
 
 **Rehabilitasi lahan kritis**: Target rehabilitasi 12 juta hektar lahan kritis mensyaratkan program penanaman dan restorasi dalam skala yang belum pernah terjadi. Tantangan hukum meliputi kejelasan tenurial, mekanisme insentif untuk petani dan masyarakat, serta pendanaan jangka panjang.
 
 **Pengelolaan gambut**: Restorasi 2 juta hektar gambut terdegradasi memerlukan pembasahan kembali (*rewetting*) gambut yang telah dikeringkan, yang seringkali berkonflik dengan kepentingan perkebunan dan pertanian.
 
-**Perhutanan sosial**: Program perhutanan sosial yang memberikan akses kelola hutan kepada masyarakat mencakup target 12,7 juta hektar. Skema ini—Hutan Desa, Hutan Kemasyarakatan, Hutan Tanaman Rakyat, Kemitraan Kehutanan—memberikan insentif bagi masyarakat untuk menjaga hutan.[^19]
+**Perhutanan sosial**: Program perhutanan sosial yang memberikan akses kelola hutan kepada masyarakat mencakup target 12,7 juta hektar. Skema iniâ€”Hutan Desa, Hutan Kemasyarakatan, Hutan Tanaman Rakyat, Kemitraan Kehutananâ€”memberikan insentif bagi masyarakat untuk menjaga hutan.[^19]
 
 [^17]: KLHK (n 11) 20-25.
 [^18]: KLHK, *Deforestation of Indonesia's Forest 2020-2021* (2022) 5.
@@ -192,13 +192,13 @@ Pencapaian target ini memerlukan intervensi simultan di beberapa area:
 
 ### 3. Sektor Transportasi
 
-Sektor transportasi menyumbang sekitar 27% dari konsumsi energi final Indonesia dan proporsi signifikan emisi GRK sektor energi.[^20] Dengan pertumbuhan kepemilikan kendaraan bermotor yang pesat—Indonesia memiliki lebih dari 150 juta kendaraan bermotor pada 2023—dekarbonisasi transportasi menjadi prioritas kritis. Dua strategi utama adalah elektrifikasi kendaraan dan pengembangan transportasi publik massal.
+Sektor transportasi menyumbang sekitar 27% dari konsumsi energi final Indonesia dan proporsi signifikan emisi GRK sektor energi.[^20] Dengan pertumbuhan kepemilikan kendaraan bermotor yang pesatâ€”Indonesia memiliki lebih dari 150 juta kendaraan bermotor pada 2023â€”dekarbonisasi transportasi menjadi prioritas kritis. Dua strategi utama adalah elektrifikasi kendaraan dan pengembangan transportasi publik massal.
 
 [^20]: Kementerian ESDM, *Handbook of Energy & Economic Statistics of Indonesia 2023* (2023) 45.
 
 #### 3.1 Elektrifikasi Kendaraan Bermotor
 
-**Peraturan Presiden Nomor 55 Tahun 2019 tentang Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai (KBLBB) untuk Transportasi Jalan** menjadi regulasi utama yang mendorong transisi ke kendaraan listrik. Perpres ini menetapkan roadmap percepatan adopsi KBLBB dengan target yang ambisius—meskipun capaiannya masih jauh dari ekspektasi.[^21]
+**Peraturan Presiden Nomor 55 Tahun 2019 tentang Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai (KBLBB) untuk Transportasi Jalan** menjadi regulasi utama yang mendorong transisi ke kendaraan listrik. Perpres ini menetapkan roadmap percepatan adopsi KBLBB dengan target yang ambisiusâ€”meskipun capaiannya masih jauh dari ekspektasi.[^21]
 
 Elemen kunci Perpres 55/2019:
 
@@ -223,7 +223,7 @@ Strategi kedua untuk dekarbonisasi transportasi adalah pergeseran moda (*modal s
 
 **Bus Rapid Transit (BRT)** seperti TransJakarta menjadi tulang punggung transportasi publik dengan jalur khusus dan armada yang semakin banyak menggunakan bus listrik atau berbahan bakar gas.
 
-Konsep **Transit-Oriented Development (TOD)**—pengembangan kawasan padat terintegrasi di sekitar stasiun transit—didorong sebagai strategi untuk mengurangi kebutuhan perjalanan dan meningkatkan penggunaan transportasi publik. Beberapa regulasi mendukung TOD, termasuk dalam revisi Rencana Tata Ruang Wilayah kota-kota besar.[^24]
+Konsep **Transit-Oriented Development (TOD)**â€”pengembangan kawasan padat terintegrasi di sekitar stasiun transitâ€”didorong sebagai strategi untuk mengurangi kebutuhan perjalanan dan meningkatkan penggunaan transportasi publik. Beberapa regulasi mendukung TOD, termasuk dalam revisi Rencana Tata Ruang Wilayah kota-kota besar.[^24]
 
 Hambatan dalam pengembangan transportasi publik meliputi fragmentasi kewenangan antara pemerintah pusat dan daerah, pembiayaan yang besar untuk infrastruktur, dan perlunya integrasi antarmoda yang belum optimal.
 
@@ -234,13 +234,13 @@ Hambatan dalam pengembangan transportasi publik meliputi fragmentasi kewenangan 
 
 ### 4. Sektor Industri
 
-Sektor industri—termasuk manufaktur, konstruksi, dan pertambangan non-energi—menyumbang sekitar 21% emisi GRK Indonesia, terutama dari penggunaan energi (listrik dan bahan bakar) serta proses industri tertentu yang melepaskan GRK.[^25] Dekarbonisasi industri menghadapi tantangan khusus karena banyak proses industri memerlukan panas tinggi yang sulit dielektrifikasi.
+Sektor industriâ€”termasuk manufaktur, konstruksi, dan pertambangan non-energiâ€”menyumbang sekitar 21% emisi GRK Indonesia, terutama dari penggunaan energi (listrik dan bahan bakar) serta proses industri tertentu yang melepaskan GRK.[^25] Dekarbonisasi industri menghadapi tantangan khusus karena banyak proses industri memerlukan panas tinggi yang sulit dielektrifikasi.
 
 [^25]: KLHK (n 1) 35-40.
 
 #### 4.1 Efisiensi Energi Industri
 
-**Peraturan Pemerintah Nomor 70 Tahun 2009 tentang Konservasi Energi** menjadi landasan utama kebijakan efisiensi energi di Indonesia. PP ini mewajibkan pengguna energi besar—termasuk industri dengan konsumsi di atas 6.000 TOE (Ton Oil Equivalent) per tahun—untuk melakukan program konservasi energi yang mencakup:[^26]
+**Peraturan Pemerintah Nomor 70 Tahun 2009 tentang Konservasi Energi** menjadi landasan utama kebijakan efisiensi energi di Indonesia. PP ini mewajibkan pengguna energi besarâ€”termasuk industri dengan konsumsi di atas 6.000 TOE (Ton Oil Equivalent) per tahunâ€”untuk melakukan program konservasi energi yang mencakup:[^26]
 
 **Audit energi berkala** untuk mengidentifikasi potensi penghematan. Industri wajib melakukan audit setiap tiga tahun dan melaporkan hasilnya ke Kementerian ESDM.
 
@@ -248,20 +248,20 @@ Sektor industri—termasuk manufaktur, konstruksi, dan pertambangan non-energi�
 
 **Pelaporan intensitas energi** yang memungkinkan benchmarking dan pemantauan kemajuan.
 
-Standar kinerja energi minimum untuk peralatan industri—seperti motor listrik, boiler, dan AC—juga ditetapkan melalui Standar Nasional Indonesia (SNI) yang wajib diterapkan.
+Standar kinerja energi minimum untuk peralatan industriâ€”seperti motor listrik, boiler, dan ACâ€”juga ditetapkan melalui Standar Nasional Indonesia (SNI) yang wajib diterapkan.
 
-Efektivitas PP 70/2009 masih terbatas. Banyak industri melakukan compliance minimal—melakukan audit tetapi tidak mengimplementasikan rekomendasi penghematan karena tidak ada mekanisme penegakan yang efektif. Revisi PP atau regulasi tambahan diperlukan untuk memperkuat insentif dan sanksi.[^27]
+Efektivitas PP 70/2009 masih terbatas. Banyak industri melakukan compliance minimalâ€”melakukan audit tetapi tidak mengimplementasikan rekomendasi penghematan karena tidak ada mekanisme penegakan yang efektif. Revisi PP atau regulasi tambahan diperlukan untuk memperkuat insentif dan sanksi.[^27]
 
 [^26]: Peraturan Pemerintah Nomor 70 Tahun 2009 tentang Konservasi Energi, ps 10-20.
 [^27]: Nugroho H dan Widodo P, 'Evaluasi Implementasi Kebijakan Konservasi Energi di Indonesia' (2021) 15 Jurnal Energi dan Lingkungan 25, 30-35.
 
 #### 4.2 Dekarbonisasi Industri Berat: Tantangan dan Pathway
 
-Industri berat—semen, baja, petrokimia, aluminium—menghadapi tantangan dekarbonisasi yang lebih kompleks dibanding sektor lain. Proses produksinya memerlukan panas tinggi (>1.000°C) yang sulit dipenuhi oleh listrik atau energi terbarukan konvensional. Selain itu, beberapa proses industri—seperti kalsinasi limestone dalam produksi semen—melepaskan CO₂ sebagai bagian dari reaksi kimia, bukan dari pembakaran bahan bakar.[^28]
+Industri beratâ€”semen, baja, petrokimia, aluminiumâ€”menghadapi tantangan dekarbonisasi yang lebih kompleks dibanding sektor lain. Proses produksinya memerlukan panas tinggi (>1.000Â°C) yang sulit dipenuhi oleh listrik atau energi terbarukan konvensional. Selain itu, beberapa proses industriâ€”seperti kalsinasi limestone dalam produksi semenâ€”melepaskan COâ‚‚ sebagai bagian dari reaksi kimia, bukan dari pembakaran bahan bakar.[^28]
 
 Pathway dekarbonisasi industri berat mencakup beberapa teknologi dan strategi:
 
-**Carbon Capture, Utilization, and Storage (CCUS)**: Teknologi untuk menangkap CO₂ dari proses industri, memanfaatkannya (misalnya untuk Enhanced Oil Recovery) atau menyimpannya secara permanen di formasi geologi. Indonesia memiliki potensi penyimpanan karbon yang besar di depleted oil and gas fields dan formasi saline aquifer. Beberapa proyek pilot CCUS sedang dikembangkan oleh perusahaan minyak dan gas.[^29]
+**Carbon Capture, Utilization, and Storage (CCUS)**: Teknologi untuk menangkap COâ‚‚ dari proses industri, memanfaatkannya (misalnya untuk Enhanced Oil Recovery) atau menyimpannya secara permanen di formasi geologi. Indonesia memiliki potensi penyimpanan karbon yang besar di depleted oil and gas fields dan formasi saline aquifer. Beberapa proyek pilot CCUS sedang dikembangkan oleh perusahaan minyak dan gas.[^29]
 
 **Hidrogen hijau**: Hidrogen yang diproduksi dari elektrolisis air menggunakan listrik EBT dapat menjadi bahan bakar atau bahan baku industri tanpa emisi karbon. Namun, saat ini hidrogen hijau masih jauh lebih mahal dari hidrogen konvensional (dari gas alam) dan infrastruktur produksi/distribusi belum ada.
 
@@ -269,7 +269,7 @@ Pathway dekarbonisasi industri berat mencakup beberapa teknologi dan strategi:
 
 **Material substitution dan circular economy**: Penggunaan material alternatif dengan footprint karbon lebih rendah dan peningkatan daur ulang dapat mengurangi kebutuhan produksi primer.
 
-Kerangka regulasi untuk dekarbonisasi industri berat masih dalam tahap awal. Perpres 98/2021 menyediakan kerangka NEK yang mencakup industri, namun implementasi spesifik—seperti cap emisi per sektor industri atau standar emisi untuk produk industri—belum sepenuhnya ditetapkan.[^30]
+Kerangka regulasi untuk dekarbonisasi industri berat masih dalam tahap awal. Perpres 98/2021 menyediakan kerangka NEK yang mencakup industri, namun implementasi spesifikâ€”seperti cap emisi per sektor industri atau standar emisi untuk produk industriâ€”belum sepenuhnya ditetapkan.[^30]
 
 [^28]: IEA, *Iron and Steel Technology Roadmap* (IEA 2020) 15-25.
 [^29]: Kementerian ESDM, *CCUS Roadmap Indonesia* (2024) 10-20.
@@ -385,7 +385,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-b, 3-b, 4-a, 5-b, 6-B, 7-S, 8-B, 9-B, 10-B
 
@@ -397,7 +397,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|BAB 11]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-06-PerubahanIklim-11-Litigasi-06-PerubahanIklim_BAB-11|BAB 11]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -452,10 +452,11 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - [[03-Peraturan-Indonesia_NDC_Indonesia]] - Dokumen NDC Indonesia
 
 **Navigasi Buku:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-09-Perbandingan-Hukum-Iklim_BAB-09|BAB 9: Studi Perbandingan Hukum Iklim]]
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|BAB 11: Litigasi Perubahan Iklim]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-09-Perbandingan-Hukum-Iklim_BAB-09|BAB 9: Studi Perbandingan Hukum Iklim]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-11-Litigasi-06-PerubahanIklim_BAB-11|BAB 11: Litigasi Perubahan Iklim]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 10*
+

@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "Mova's Notes"
 ---
@@ -20,3 +20,4 @@ This site is still under development as I transition from other blogging platfor
 ## Content
 
 - [[01-Lingkungan/README_Navigation|Environmental Law Course Materials]]
+

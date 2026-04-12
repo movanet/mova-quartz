@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hukum Internasional - Bahan Ajar"
 tags:
   - hukum-internasional
@@ -8,7 +8,7 @@ tags:
 publish: true
 ---
 
-# Hukum Internasional — Bahan Ajar
+# Hukum Internasional â€” Bahan Ajar
 
 ## Pengantar
 
@@ -18,7 +18,7 @@ Setiap bab dilengkapi dengan tujuan pembelajaran, diagram konseptual, tabel perb
 
 ## Daftar Isi
 
-### Bagian I: Fondasi (Bab 01–04)
+### Bagian I: Fondasi (Bab 01â€“04)
 
 | Bab | Judul | Deskripsi |
 |-----|-------|-----------|
@@ -27,7 +27,7 @@ Setiap bab dilengkapi dengan tujuan pembelajaran, diagram konseptual, tabel perb
 | 03 | [[03-Subjek]] | Subjek hukum internasional: negara, organisasi internasional, individu, dan entitas lainnya |
 | 04 | [[04-HI-Nasional]] | Hubungan hukum internasional dan hukum nasional: monisme, dualisme, dan praktik Indonesia |
 
-### Bagian II: Inti (Bab 05–08)
+### Bagian II: Inti (Bab 05â€“08)
 
 | Bab | Judul | Deskripsi |
 |-----|-------|-----------|
@@ -36,7 +36,7 @@ Setiap bab dilengkapi dengan tujuan pembelajaran, diagram konseptual, tabel perb
 | 07 | [[07-Tanggung-Jawab]] | Tanggung jawab negara berdasarkan ILC Articles 2001: atribusi, pelanggaran, reparasi |
 | 08 | [[08-Sengketa]] | Penyelesaian sengketa internasional: negosiasi, mediasi, arbitrase, ICJ, WTO DSB |
 
-### Bagian III: Topik Khusus (Bab 09–12)
+### Bagian III: Topik Khusus (Bab 09â€“12)
 
 | Bab | Judul | Deskripsi |
 |-----|-------|-----------|
@@ -70,3 +70,4 @@ Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
 5. Parthiana, I Wayan. *Pengantar Hukum Internasional*. Bandung: Mandar Maju, 2003.
 
 Untuk panduan navigasi terperinci, lihat [[README_Navigation]].
+

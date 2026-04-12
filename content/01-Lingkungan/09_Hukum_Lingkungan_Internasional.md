@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hukum Lingkungan Internasional"
 description: "Pembahasan komprehensif hukum lingkungan internasional: perkembangan historis dari Trail Smelter hingga Paris Agreement, prinsip-prinsip CBDR dan precautionary, konvensi lingkungan global (UNFCCC, CBD, Basel, UNCLOS), yurisprudensi ICJ, serta transformasi hukum internasional ke sistem hukum nasional Indonesia."
 date: 2026-04-09
@@ -21,9 +21,9 @@ publish: true
 # Hukum Lingkungan Internasional
 
 **Navigasi:**
-- [[08_Penegakan_Hukum|← Penegakan Hukum]]
-- [[README|↑ Index]]
-- [[10_Isu_Kontemporer|Isu Kontemporer →]]
+- [[08_Penegakan_Hukum|â† Penegakan Hukum]]
+- [[README|â†‘ Index]]
+- [[10_Isu_Kontemporer|Isu Kontemporer â†’]]
 
 ---
 
@@ -47,7 +47,7 @@ Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
 
 Hukum lingkungan internasional sebagai cabang hukum yang mandiri baru berkembang pada paruh kedua abad ke-20, namun fondasi prinsipnya telah diletakkan jauh lebih awal melalui yurisprudensi dan praktik negara. Dua putusan yang menjadi tonggak awal adalah *Trail Smelter Arbitration* (1941) dan *Corfu Channel Case* (1949).
 
-**Trail Smelter Arbitration (Amerika Serikat v. Kanada, 1941)** merupakan kasus arbitrase pertama yang secara eksplisit menetapkan prinsip tanggung jawab negara atas kerusakan lingkungan lintas batas. Kasus ini bermula dari operasi pabrik peleburan di Trail, British Columbia, Kanada, yang menghasilkan emisi sulfur dioksida (SO₂) dalam jumlah besar. Emisi tersebut terbawa angin melintasi perbatasan internasional dan menyebabkan kerusakan pada lahan pertanian serta hutan di negara bagian Washington, Amerika Serikat. Tribunal arbitrase menetapkan prinsip yang sangat berpengaruh:
+**Trail Smelter Arbitration (Amerika Serikat v. Kanada, 1941)** merupakan kasus arbitrase pertama yang secara eksplisit menetapkan prinsip tanggung jawab negara atas kerusakan lingkungan lintas batas. Kasus ini bermula dari operasi pabrik peleburan di Trail, British Columbia, Kanada, yang menghasilkan emisi sulfur dioksida (SOâ‚‚) dalam jumlah besar. Emisi tersebut terbawa angin melintasi perbatasan internasional dan menyebabkan kerusakan pada lahan pertanian serta hutan di negara bagian Washington, Amerika Serikat. Tribunal arbitrase menetapkan prinsip yang sangat berpengaruh:
 
 > "No State has the right to use or permit the use of its territory in such a manner as to cause injury by fumes in or to the territory of another or the properties or persons therein, when the case is of serious consequence and the injury is established by clear and convincing evidence."
 
@@ -104,7 +104,7 @@ timeline
     2013 : Konvensi Minamata
          : Merkuri
     2015 : Persetujuan Paris
-         : NDC, 1.5°C/2°C
+         : NDC, 1.5Â°C/2Â°C
     2022 : Kunming-Montreal GBF
          : 30x30 Target
 ```
@@ -135,7 +135,7 @@ Prinsip ini mengakui bahwa meskipun semua negara memiliki tanggung jawab bersama
 
 > "Environmental issues are best handled with the participation of all concerned citizens, at the relevant level. At the national level, each individual shall have appropriate access to information concerning the environment that is held by public authorities, including information on hazardous materials and activities in their communities, and the opportunity to participate in decision-making processes. States shall facilitate and encourage public awareness and participation by making information widely available. Effective access to judicial and administrative proceedings, including redress and remedy, shall be provided."
 
-Ketiga pilar ini — akses informasi, partisipasi publik, dan akses keadilan — diadopsi dalam UU 32/2009 khususnya melalui Pasal 65 tentang hak setiap orang atas lingkungan hidup yang baik dan sehat, Pasal 62 tentang keterbukaan informasi, dan Pasal 66 tentang perlindungan bagi pejuang lingkungan, sebagaimana dibahas dalam [[06_Keadilan_Lingkungan|Bab 6: Keadilan Lingkungan]].
+Ketiga pilar ini â€” akses informasi, partisipasi publik, dan akses keadilan â€” diadopsi dalam UU 32/2009 khususnya melalui Pasal 65 tentang hak setiap orang atas lingkungan hidup yang baik dan sehat, Pasal 62 tentang keterbukaan informasi, dan Pasal 66 tentang perlindungan bagi pejuang lingkungan, sebagaimana dibahas dalam [[06_Keadilan_Lingkungan|Bab 6: Keadilan Lingkungan]].
 
 **Prinsip 15** merumuskan asas kehati-hatian (*precautionary principle*) yang menjadi salah satu prinsip paling berpengaruh dalam hukum lingkungan modern:
 
@@ -183,7 +183,7 @@ Indonesia meratifikasi Protokol Kyoto melalui **Undang-Undang Nomor 17 Tahun 200
 
 Persetujuan Paris (*Paris Agreement*), yang diadopsi pada COP ke-21 di Paris pada 12 Desember 2015 dan mulai berlaku pada 4 November 2016, merupakan pergeseran paradigma fundamental dalam rezim hukum perubahan iklim. Berbeda dengan Protokol Kyoto yang bersifat *top-down*, Persetujuan Paris menggunakan pendekatan *bottom-up* melalui mekanisme *Nationally Determined Contribution* (NDC) di mana setiap negara pihak menentukan sendiri kontribusinya terhadap upaya mitigasi dan adaptasi perubahan iklim.
 
-Pasal 2 Persetujuan Paris menetapkan tiga tujuan utama: pertama, menahan kenaikan suhu rata-rata global jauh di bawah 2°C di atas tingkat pra-industri dan mengupayakan pembatasan pada 1,5°C; kedua, meningkatkan kemampuan adaptasi terhadap dampak perubahan iklim dan membangun ketahanan iklim; dan ketiga, menyelaraskan aliran keuangan dengan jalur menuju pembangunan rendah emisi dan berketahanan iklim.
+Pasal 2 Persetujuan Paris menetapkan tiga tujuan utama: pertama, menahan kenaikan suhu rata-rata global jauh di bawah 2Â°C di atas tingkat pra-industri dan mengupayakan pembatasan pada 1,5Â°C; kedua, meningkatkan kemampuan adaptasi terhadap dampak perubahan iklim dan membangun ketahanan iklim; dan ketiga, menyelaraskan aliran keuangan dengan jalur menuju pembangunan rendah emisi dan berketahanan iklim.
 
 Pasal 6 Persetujuan Paris mengatur mekanisme pasar karbon internasional yang menggantikan mekanisme Protokol Kyoto, termasuk mekanisme perdagangan hasil mitigasi yang ditransfer secara internasional (*Internationally Transferred Mitigation Outcomes*/ITMO) berdasarkan Pasal 6.2, mekanisme baru yang menggantikan CDM berdasarkan Pasal 6.4, serta pendekatan non-pasar berdasarkan Pasal 6.8.
 
@@ -193,7 +193,7 @@ Indonesia meratifikasi Persetujuan Paris melalui **Undang-Undang Nomor 16 Tahun 
 |-------|----------------------|--------------------------|
 | **Pendekatan** | *Top-down* (target ditetapkan) | *Bottom-up* (NDC ditentukan sendiri) |
 | **Cakupan negara** | Hanya Annex I (negara maju) | Seluruh negara pihak |
-| **Target** | Pengurangan 5% dari 1990 | Menahan kenaikan 1,5°C/2°C |
+| **Target** | Pengurangan 5% dari 1990 | Menahan kenaikan 1,5Â°C/2Â°C |
 | **Mekanisme pasar** | CDM, JI, Emissions Trading | Pasal 6.2, 6.4, 6.8 |
 | **Sifat komitmen** | Mengikat secara hukum | NDC bersifat sukarela, pelaporan wajib |
 | **Transparansi** | Terbatas | Enhanced Transparency Framework |
@@ -590,13 +590,14 @@ Namun demikian, proses transformasi seringkali menghadapi kesenjangan waktu (*ti
 - Mayer, Benoit. (2018). *The International Law on Climate Change*. Cambridge University Press.
 - Brown Weiss, Edith. (1989). *In Fairness to Future Generations: International Law, Common Patrimony, and Intergenerational Equity*. Transnational Publishers.
 - Kiss, Alexandre & Shelton, Dinah. (2007). *Guide to International Environmental Law*. Martinus Nijhoff.
-- Bodansky, Daniel, Brunnée, Jutta & Hey, Ellen (eds.). (2007). *The Oxford Handbook of International Environmental Law*. Oxford University Press.
+- Bodansky, Daniel, BrunnÃ©e, Jutta & Hey, Ellen (eds.). (2007). *The Oxford Handbook of International Environmental Law*. Oxford University Press.
 - Takdir Rahmadi. (2019). *Hukum Lingkungan di Indonesia*. Edisi ke-3. Rajawali Pers.
 - Koesnadi Hardjasoemantri. (2012). *Hukum Tata Lingkungan*. Edisi ke-8. Gadjah Mada University Press.
 
 ---
 
 **Navigasi:**
-- [[08_Penegakan_Hukum|← Penegakan Hukum]]
-- [[README|↑ Index]]
-- [[10_Isu_Kontemporer|Isu Kontemporer →]]
+- [[08_Penegakan_Hukum|â† Penegakan Hukum]]
+- [[README|â†‘ Index]]
+- [[10_Isu_Kontemporer|Isu Kontemporer â†’]]
+

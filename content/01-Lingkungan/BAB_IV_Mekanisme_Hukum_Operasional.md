@@ -1,4 +1,4 @@
----
+﻿---
 title: "BAB IV: Mekanisme Hukum Operasional"
 description: "KLHS, penetapan baku mutu lingkungan hidup, dan mekanisme perizinan lingkungan sebagai instrumen operasional hukum lingkungan"
 tags:
@@ -16,9 +16,9 @@ publish: true
 ---
 
 **Navigasi:**
-- [[BAB_III_Keterkaitan_Konseptual|← Bagian III: Keterkaitan Konseptual]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
-- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|Lanjut ke Bagian V: Studi Kasus →]]
+- [[BAB_III_Keterkaitan_Konseptual|â† Bagian III: Keterkaitan Konseptual]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
+- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|Lanjut ke Bagian V: Studi Kasus â†’]]
 
 ---
 
@@ -28,7 +28,7 @@ Setelah memahami keterkaitan konseptual antara daya dukung, daya tampung, dan pe
 
 ### 1. Pengertian dan Kedudukan KLHS
 
-KLHS merupakan instrumen pencegahan yang bekerja pada level strategis—level kebijakan, rencana, dan program pembangunan. Berbeda dengan AMDAL yang diterapkan pada level proyek atau usaha/kegiatan individual, KLHS beroperasi pada tahap yang lebih hulu, memastikan bahwa sejak awal perencanaan, pertimbangan lingkungan hidup—khususnya daya dukung dan daya tampung—telah terintegrasi dalam pengambilan keputusan pembangunan.
+KLHS merupakan instrumen pencegahan yang bekerja pada level strategisâ€”level kebijakan, rencana, dan program pembangunan. Berbeda dengan AMDAL yang diterapkan pada level proyek atau usaha/kegiatan individual, KLHS beroperasi pada tahap yang lebih hulu, memastikan bahwa sejak awal perencanaan, pertimbangan lingkungan hidupâ€”khususnya daya dukung dan daya tampungâ€”telah terintegrasi dalam pengambilan keputusan pembangunan.
 
 Pasal 14 UU 32/2009 menempatkan KLHS sebagai instrumen pertama dari 13 instrumen pencegahan pencemaran dan/atau kerusakan lingkungan hidup. Prioritas ini menunjukkan filosofi hukum lingkungan Indonesia yang mengutamakan pendekatan preventif sejak dini (upstream approach) dibandingkan pendekatan reaktif di hilir.
 
@@ -56,7 +56,7 @@ Ketentuan ini memiliki beberapa implikasi penting:
 
 **Kedua**, KLHS wajib dilaksanakan untuk dokumen-dokumen perencanaan strategis seperti RTRW, RPJP, dan RPJM. Dokumen-dokumen ini adalah fondasi dari seluruh pembangunan di suatu wilayah. Dengan mengintegrasikan KLHS dalam tahap penyusunan dokumen-dokumen ini, hukum memastikan bahwa pertimbangan daya dukung dan daya tampung menjadi parameter sejak awal, bukan hanya pertimbangan tambahan di akhir.
 
-**Ketiga**, KLHS juga wajib dilakukan untuk kebijakan, rencana, dan program sektoral yang berpotensi menimbulkan dampak lingkungan. Misalnya, kebijakan pengembangan kawasan industri, rencana pembangunan infrastruktur energi, atau program intensifikasi pertanian—semuanya berpotensi mempengaruhi daya dukung dan daya tampung, sehingga wajib didahului dengan KLHS.
+**Ketiga**, KLHS juga wajib dilakukan untuk kebijakan, rencana, dan program sektoral yang berpotensi menimbulkan dampak lingkungan. Misalnya, kebijakan pengembangan kawasan industri, rencana pembangunan infrastruktur energi, atau program intensifikasi pertanianâ€”semuanya berpotensi mempengaruhi daya dukung dan daya tampung, sehingga wajib didahului dengan KLHS.
 
 Pasal 15 ayat (3) menjelaskan mekanisme pelaksanaan KLHS:
 
@@ -83,7 +83,7 @@ Pasal 16 UU 32/2009 secara eksplisit mewajibkan KLHS memuat kajian tentang daya 
 > e. tingkat kerentanan dan kapasitas adaptasi terhadap perubahan iklim; dan
 > f. tingkat ketahanan dan potensi keanekaragaman hayati.
 
-Muatan pertama yang wajib dikaji dalam KLHS adalah **"kapasitas daya dukung dan daya tampung lingkungan hidup untuk pembangunan"**. Penempatan muatan ini di urutan pertama bukan kebetulan—ia menunjukkan prioritas legislatif bahwa daya dukung dan daya tampung adalah parameter fundamental yang harus dikaji sebelum parameter-parameter lainnya.
+Muatan pertama yang wajib dikaji dalam KLHS adalah **"kapasitas daya dukung dan daya tampung lingkungan hidup untuk pembangunan"**. Penempatan muatan ini di urutan pertama bukan kebetulanâ€”ia menunjukkan prioritas legislatif bahwa daya dukung dan daya tampung adalah parameter fundamental yang harus dikaji sebelum parameter-parameter lainnya.
 
 Ketentuan ini mengoperasionalisasikan konsep daya dukung dan daya tampung yang sebelumnya bersifat abstrak menjadi variabel yang wajib dikaji secara konkret dalam setiap KLHS. KLHS harus menjawab pertanyaan-pertanyaan mendasar:
 
@@ -95,9 +95,9 @@ Ketentuan ini mengoperasionalisasikan konsep daya dukung dan daya tampung yang s
 Muatan-muatan lain dalam Pasal 16 juga saling berkaitan dengan daya dukung dan daya tampung:
 
 - **Perkiraan dampak dan risiko lingkungan** (huruf b) berkaitan dengan bagaimana pembangunan akan mempengaruhi lingkungan dan apakah akan melampaui daya tampung.
-- **Kinerja layanan ekosistem** (huruf c) adalah salah satu manifestasi dari daya dukung—lingkungan yang daya dukungnya terjaga akan mampu menyediakan layanan ekosistem yang optimal.
+- **Kinerja layanan ekosistem** (huruf c) adalah salah satu manifestasi dari daya dukungâ€”lingkungan yang daya dukungnya terjaga akan mampu menyediakan layanan ekosistem yang optimal.
 - **Efisiensi pemanfaatan sumber daya alam** (huruf d) terkait dengan menjaga agar pemanfaatan tidak melebihi kapasitas regenerasi (daya dukung).
-- **Kerentanan terhadap perubahan iklim** (huruf e) mempengaruhi daya tampung—wilayah yang rentan terhadap banjir atau kekeringan memiliki daya tampung yang lebih rendah terhadap pencemaran.
+- **Kerentanan terhadap perubahan iklim** (huruf e) mempengaruhi daya tampungâ€”wilayah yang rentan terhadap banjir atau kekeringan memiliki daya tampung yang lebih rendah terhadap pencemaran.
 
 ### 4. Konsekuensi Hukum KLHS: Kekuatan Mengikat
 
@@ -112,11 +112,11 @@ Pasal 17 UU 32/2009 memberikan kekuatan hukum yang sangat kuat pada hasil KLHS:
 > a. kebijakan, rencana, dan/atau program pembangunan tersebut wajib diperbaiki sesuai dengan rekomendasi KLHS; dan
 > b. segala usaha dan/atau kegiatan yang telah melampaui daya dukung dan daya tampung lingkungan hidup tidak diperbolehkan lagi.
 
-Pasal 17 ayat (1) menegaskan bahwa hasil KLHS "menjadi dasar"—bukan hanya "menjadi pertimbangan"—bagi kebijakan, rencana, dan program pembangunan. Frasa "menjadi dasar" memiliki implikasi hukum yang lebih kuat: hasil KLHS mengikat dan wajib ditindaklanjuti.
+Pasal 17 ayat (1) menegaskan bahwa hasil KLHS "menjadi dasar"â€”bukan hanya "menjadi pertimbangan"â€”bagi kebijakan, rencana, dan program pembangunan. Frasa "menjadi dasar" memiliki implikasi hukum yang lebih kuat: hasil KLHS mengikat dan wajib ditindaklanjuti.
 
 Pasal 17 ayat (2) adalah ketentuan yang sangat revolusioner dalam hukum lingkungan Indonesia. Ketentuan ini memberikan konsekuensi hukum yang tegas apabila KLHS menyatakan bahwa daya dukung dan daya tampung sudah terlampaui:
 
-**Pertama**, kebijakan, rencana, dan/atau program pembangunan yang telah disusun **wajib diperbaiki** sesuai rekomendasi KLHS (huruf a). Ini berarti bahwa hasil KLHS dapat memaksa pemerintah untuk mengubah atau bahkan membatalkan kebijakan/rencana/program yang telah disusun jika terbukti akan melampaui daya dukung dan daya tampung. Tidak ada pilihan—kata "wajib" menunjukkan imperatif hukum.
+**Pertama**, kebijakan, rencana, dan/atau program pembangunan yang telah disusun **wajib diperbaiki** sesuai rekomendasi KLHS (huruf a). Ini berarti bahwa hasil KLHS dapat memaksa pemerintah untuk mengubah atau bahkan membatalkan kebijakan/rencana/program yang telah disusun jika terbukti akan melampaui daya dukung dan daya tampung. Tidak ada pilihanâ€”kata "wajib" menunjukkan imperatif hukum.
 
 **Kedua**, dan ini yang paling krusial, Pasal 17 ayat (2) huruf b menyatakan: "segala usaha dan/atau kegiatan yang telah melampaui daya dukung dan daya tampung lingkungan hidup **tidak diperbolehkan lagi**." Ini adalah moratorium hukum. Jika KLHS menunjukkan bahwa suatu wilayah telah melampaui daya dukung dan daya tampungnya, maka:
 
@@ -132,10 +132,10 @@ KLHS berfungsi sebagai **early warning system** dan **gate keeper** dalam sistem
 
 Namun, efektivitas KLHS sangat bergantung pada beberapa faktor:
 
-1. **Kualitas metodologi kajian** daya dukung dan daya tampung—apakah menggunakan data yang akurat dan metode ilmiah yang sahih?
-2. **Independensi pelaksana KLHS**—apakah tim KLHS bebas dari tekanan kepentingan politik dan ekonomi?
-3. **Konsistensi implementasi**—apakah hasil KLHS benar-benar dipatuhi dalam pengambilan keputusan, ataukah hanya menjadi dokumen formalitas?
-4. **Penegakan hukum**—apakah ada sanksi bagi pejabat yang mengabaikan hasil KLHS?
+1. **Kualitas metodologi kajian** daya dukung dan daya tampungâ€”apakah menggunakan data yang akurat dan metode ilmiah yang sahih?
+2. **Independensi pelaksana KLHS**â€”apakah tim KLHS bebas dari tekanan kepentingan politik dan ekonomi?
+3. **Konsistensi implementasi**â€”apakah hasil KLHS benar-benar dipatuhi dalam pengambilan keputusan, ataukah hanya menjadi dokumen formalitas?
+4. **Penegakan hukum**â€”apakah ada sanksi bagi pejabat yang mengabaikan hasil KLHS?
 
 ## B. Baku Mutu Lingkungan Hidup: Operasionalisasi Daya Tampung
 
@@ -148,13 +148,13 @@ Hubungan konseptual antara daya tampung dan baku mutu dapat digambarkan sebagai 
 ```
 DAYA TAMPUNG
 (Konsep ekologis: kemampuan lingkungan menyerap beban pencemar)
-              ↓
+              â†“
        Kajian Ilmiah
    (Penelitian, pemodelan, monitoring)
-              ↓
+              â†“
          BAKU MUTU
 (Parameter numerik: angka batas maksimal yang boleh ada di lingkungan)
-              ↓
+              â†“
      Standar Hukum yang Mengikat
 (Wajib dipenuhi, jika dilanggar = pencemaran = sanksi)
 ```
@@ -192,11 +192,11 @@ Dari Pasal 20 ayat (2), jenis-jenis baku mutu dapat dikelompokkan menjadi dua ka
 
 #### a. Baku Mutu Lingkungan (Environmental Quality Standards)
 
-Baku mutu lingkungan mengatur kualitas media lingkungan itu sendiri—air sungai, udara ambien, air laut—terlepas dari sumber pencemarnya. Baku mutu ini menjawab pertanyaan: "Seberapa baik kualitas lingkungan yang harus dijaga?"
+Baku mutu lingkungan mengatur kualitas media lingkungan itu sendiriâ€”air sungai, udara ambien, air lautâ€”terlepas dari sumber pencemarnya. Baku mutu ini menjawab pertanyaan: "Seberapa baik kualitas lingkungan yang harus dijaga?"
 
 - **Baku Mutu Air** (huruf a): Mengatur kualitas air di badan air (sungai, danau, waduk) berdasarkan kelas peruntukannya (Kelas I untuk air minum, Kelas II untuk rekreasi dan perikanan, dst.). Contoh parameter: pH, BOD, COD, logam berat.
 
-- **Baku Mutu Udara Ambien** (huruf d): Mengatur kualitas udara di atmosfer yang dapat dihirup manusia. Contoh parameter: PM2.5, PM10, SO₂, NO₂, O₃, CO.
+- **Baku Mutu Udara Ambien** (huruf d): Mengatur kualitas udara di atmosfer yang dapat dihirup manusia. Contoh parameter: PM2.5, PM10, SOâ‚‚, NOâ‚‚, Oâ‚ƒ, CO.
 
 - **Baku Mutu Air Laut** (huruf c): Mengatur kualitas air laut berdasarkan peruntukannya (wisata bahari, biota laut, pelabuhan). Contoh parameter: salinitas, pH, logam berat, minyak dan lemak.
 
@@ -208,7 +208,7 @@ Baku mutu limbah mengatur kualitas buangan yang boleh dilepas dari sumber pencem
 
 - **Baku Mutu Air Limbah** (huruf b): Mengatur kualitas air limbah yang boleh dibuang dari outlet instalasi pengolahan air limbah (IPAL) ke badan air. Baku mutu dapat bersifat umum (berlaku untuk semua industri) atau spesifik per jenis industri (tekstil, kelapa sawit, rumah sakit, dll.).
 
-- **Baku Mutu Emisi** (huruf e): Mengatur kualitas emisi gas buang yang boleh dikeluarkan dari cerobong industri atau knalpot kendaraan ke udara. Contoh parameter: partikulat, SO₂, NOₓ, opacity.
+- **Baku Mutu Emisi** (huruf e): Mengatur kualitas emisi gas buang yang boleh dikeluarkan dari cerobong industri atau knalpot kendaraan ke udara. Contoh parameter: partikulat, SOâ‚‚, NOâ‚“, opacity.
 
 - **Baku Mutu Gangguan** (huruf f): Mengatur tingkat gangguan yang boleh ditimbulkan, seperti kebisingan, getaran, dan bau.
 
@@ -226,11 +226,11 @@ Jawabannya adalah: **Pemerintah daerah (gubernur) wajib menetapkan baku mutu air
 
 Pasal 20 ayat (3) memberikan dua syarat kumulatif bagi setiap orang yang ingin membuang limbah ke lingkungan:
 
-**Syarat pertama** (huruf a): **Memenuhi baku mutu lingkungan hidup**. Ini adalah syarat materiil—limbah yang dibuang harus memenuhi standar kualitas yang ditetapkan.
+**Syarat pertama** (huruf a): **Memenuhi baku mutu lingkungan hidup**. Ini adalah syarat materiilâ€”limbah yang dibuang harus memenuhi standar kualitas yang ditetapkan.
 
-**Syarat kedua** (huruf b): **Mendapat izin dari pejabat berwenang**. Ini adalah syarat formil—meskipun limbah memenuhi baku mutu, tetap harus ada izin. Izin ini mencakup izin lingkungan (Pasal 36), izin pembuangan air limbah, atau izin emisi.
+**Syarat kedua** (huruf b): **Mendapat izin dari pejabat berwenang**. Ini adalah syarat formilâ€”meskipun limbah memenuhi baku mutu, tetap harus ada izin. Izin ini mencakup izin lingkungan (Pasal 36), izin pembuangan air limbah, atau izin emisi.
 
-Dua syarat ini bekerja secara bersama-sama. Pemenuhan baku mutu saja tidak cukup—harus ada izin. Sebaliknya, izin tidak dapat diberikan jika limbah tidak memenuhi baku mutu. Ini adalah sistem kontrol ganda (double control mechanism).
+Dua syarat ini bekerja secara bersama-sama. Pemenuhan baku mutu saja tidak cukupâ€”harus ada izin. Sebaliknya, izin tidak dapat diberikan jika limbah tidak memenuhi baku mutu. Ini adalah sistem kontrol ganda (double control mechanism).
 
 ### 6. Penetapan Baku Mutu dan Daya Tampung
 
@@ -259,9 +259,9 @@ Dengan demikian, baku mutu bukan sekadar angka yang ditetapkan secara arbitrer, 
 
 ### 1. Perizinan Sebagai Gerbang Kontrol
 
-Setelah KLHS memastikan bahwa pembangunan tidak melampaui daya dukung dan daya tampung di level strategis, dan setelah baku mutu menetapkan standar kualitas di level operasional, mekanisme perizinan berfungsi sebagai **gerbang kontrol administratif** di level usaha/kegiatan individual. Perizinan adalah mekanisme ex-ante control—kontrol yang dilakukan sebelum usaha/kegiatan dimulai—untuk memastikan bahwa setiap usaha/kegiatan telah memenuhi persyaratan lingkungan.
+Setelah KLHS memastikan bahwa pembangunan tidak melampaui daya dukung dan daya tampung di level strategis, dan setelah baku mutu menetapkan standar kualitas di level operasional, mekanisme perizinan berfungsi sebagai **gerbang kontrol administratif** di level usaha/kegiatan individual. Perizinan adalah mekanisme ex-ante controlâ€”kontrol yang dilakukan sebelum usaha/kegiatan dimulaiâ€”untuk memastikan bahwa setiap usaha/kegiatan telah memenuhi persyaratan lingkungan.
 
-Sistem perizinan lingkungan di Indonesia didasarkan pada prinsip **"no permit, no operation"** dan **"environmental permit as prerequisite for business permit"**—tanpa izin lingkungan, usaha/kegiatan tidak boleh beroperasi, dan izin usaha tidak dapat diperoleh tanpa izin lingkungan.
+Sistem perizinan lingkungan di Indonesia didasarkan pada prinsip **"no permit, no operation"** dan **"environmental permit as prerequisite for business permit"**â€”tanpa izin lingkungan, usaha/kegiatan tidak boleh beroperasi, dan izin usaha tidak dapat diperoleh tanpa izin lingkungan.
 
 ### 2. Izin Lingkungan Sebagai Izin Kunci
 
@@ -328,7 +328,7 @@ Pasal 37 ayat (2) huruf a mengatur pembatalan izin karena **cacat administrasi a
 
 Pasal 37 ayat (2) huruf b mengatur pembatalan izin karena **tidak memenuhi syarat kelayakan**. Misalnya, keputusan kelayakan lingkungan mensyaratkan bahwa pemrakarsa harus membangun IPAL dengan kapasitas tertentu sebelum operasi, tetapi izin lingkungan diterbitkan tanpa memverifikasi bahwa IPAL tersebut telah dibangun. Dalam kasus ini, izin dapat dibatalkan.
 
-Pasal 37 ayat (2) huruf c adalah yang paling relevan untuk penegakan kepatuhan operasional. Jika dalam operasionalnya, pemrakarsa **tidak melaksanakan kewajiban** yang tercantum dalam dokumen AMDAL atau UKL-UPL—misalnya tidak mengoperasikan IPAL, tidak memenuhi baku mutu air limbah, tidak melakukan monitoring, atau tidak menyediakan dana penjaminan—izin lingkungan dapat dibatalkan.
+Pasal 37 ayat (2) huruf c adalah yang paling relevan untuk penegakan kepatuhan operasional. Jika dalam operasionalnya, pemrakarsa **tidak melaksanakan kewajiban** yang tercantum dalam dokumen AMDAL atau UKL-UPLâ€”misalnya tidak mengoperasikan IPAL, tidak memenuhi baku mutu air limbah, tidak melakukan monitoring, atau tidak menyediakan dana penjaminanâ€”izin lingkungan dapat dibatalkan.
 
 Pembatalan izin lingkungan bukan hanya sanksi administratif biasa. Mengingat bahwa izin lingkungan adalah prasyarat izin usaha (seperti yang diatur dalam Pasal 40), pembatalan izin lingkungan berarti usaha/kegiatan harus dihentikan.
 
@@ -348,7 +348,7 @@ Pasal 40 ayat (1) menempatkan izin lingkungan sebagai **prasyarat** (prerequisit
 - **Secara kronologis**: Izin lingkungan harus diperoleh terlebih dahulu sebelum izin usaha dapat dimohonkan.
 - **Secara substantif**: Izin usaha tidak dapat diberikan jika izin lingkungan tidak ada atau telah dicabut.
 
-Ketentuan ini adalah inovasi penting dalam hukum lingkungan Indonesia. Sebelum UU 32/2009, izin lingkungan sering kali dianggap hanya sebagai salah satu dari sekian banyak izin yang harus dipenuhi, dan kadang diabaikan. Dengan menjadikan izin lingkungan sebagai prasyarat izin usaha, UU 32/2009 menempatkan pertimbangan lingkungan sebagai conditio sine qua non—syarat mutlak yang tidak dapat diabaikan.
+Ketentuan ini adalah inovasi penting dalam hukum lingkungan Indonesia. Sebelum UU 32/2009, izin lingkungan sering kali dianggap hanya sebagai salah satu dari sekian banyak izin yang harus dipenuhi, dan kadang diabaikan. Dengan menjadikan izin lingkungan sebagai prasyarat izin usaha, UU 32/2009 menempatkan pertimbangan lingkungan sebagai conditio sine qua nonâ€”syarat mutlak yang tidak dapat diabaikan.
 
 Pasal 40 ayat (2) memberikan konsekuensi hukum yang tegas: **"Dalam hal izin lingkungan dicabut, izin usaha dan/atau kegiatan dibatalkan."** Ini adalah mekanisme domino effect. Pencabutan izin lingkungan secara otomatis membatalkan izin usaha. Dengan kata lain, pelanggaran lingkungan yang mengakibatkan pencabutan izin lingkungan akan berakibat pada penutupan usaha/kegiatan secara keseluruhan.
 
@@ -380,7 +380,7 @@ Dengan demikian, perizinan bukan sekadar formalitas administratif, melainkan ins
 
 ## D. Integrasi Tiga Mekanisme: KLHS, Baku Mutu, dan Perizinan
 
-Ketiga mekanisme operasional—KLHS, baku mutu, dan perizinan—tidak bekerja secara terpisah, melainkan terintegrasi dalam suatu sistem pengendalian yang koheren:
+Ketiga mekanisme operasionalâ€”KLHS, baku mutu, dan perizinanâ€”tidak bekerja secara terpisah, melainkan terintegrasi dalam suatu sistem pengendalian yang koheren:
 
 ### 1. Level Strategis: KLHS
 
@@ -439,7 +439,7 @@ Meskipun kerangka hukum telah komprehensif, implementasi ketiga mekanisme ini me
 
 ## F. Kesimpulan
 
-Mekanisme hukum operasional yang diatur dalam UU 32/2009—KLHS, baku mutu, dan perizinan—membentuk suatu sistem pengendalian pencemaran dan kerusakan lingkungan yang komprehensif dan berjenjang. KLHS bekerja di level strategis untuk memastikan bahwa kebijakan dan rencana pembangunan tidak melampaui daya dukung dan daya tampung. Baku mutu menerjemahkan daya tampung menjadi standar kualitas yang konkret dan dapat ditegakkan. Perizinan berfungsi sebagai gerbang kontrol untuk memastikan bahwa setiap usaha/kegiatan memenuhi persyaratan lingkungan dan dapat dihentikan jika melanggar.
+Mekanisme hukum operasional yang diatur dalam UU 32/2009â€”KLHS, baku mutu, dan perizinanâ€”membentuk suatu sistem pengendalian pencemaran dan kerusakan lingkungan yang komprehensif dan berjenjang. KLHS bekerja di level strategis untuk memastikan bahwa kebijakan dan rencana pembangunan tidak melampaui daya dukung dan daya tampung. Baku mutu menerjemahkan daya tampung menjadi standar kualitas yang konkret dan dapat ditegakkan. Perizinan berfungsi sebagai gerbang kontrol untuk memastikan bahwa setiap usaha/kegiatan memenuhi persyaratan lingkungan dan dapat dihentikan jika melanggar.
 
 Ketiga mekanisme ini saling terkait dan harus bekerja secara terintegrasi. KLHS memberikan arahan strategis, baku mutu memberikan standar normatif, dan perizinan memberikan kontrol implementatif. Jika ketiga mekanisme ini dilaksanakan dengan baik dan konsisten, seharusnya daya dukung dan daya tampung lingkungan dapat terjaga, dan pencemaran dapat dicegah atau diminimalisir.
 
@@ -455,10 +455,10 @@ Dengan memahami mekanisme hukum operasional ini, mahasiswa hukum lingkungan diha
 ---
 
 **Navigasi:**
-- [[BAB_III_Keterkaitan_Konseptual|← Bagian III: Keterkaitan Konseptual]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
-- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|Lanjut ke Bagian V: Studi Kasus (Kasus 1) →]]
-- [[BAB_VI_Implikasi_Hukum_Konsekuensi|Lanjut ke Bagian VI: Implikasi Hukum →]]
+- [[BAB_III_Keterkaitan_Konseptual|â† Bagian III: Keterkaitan Konseptual]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
+- [[BAB_V_Kasus_1_Pencemaran_Air_Sungai|Lanjut ke Bagian V: Studi Kasus (Kasus 1) â†’]]
+- [[BAB_VI_Implikasi_Hukum_Konsekuensi|Lanjut ke Bagian VI: Implikasi Hukum â†’]]
 
 ---
 
@@ -471,4 +471,5 @@ Dengan memahami mekanisme hukum operasional ini, mahasiswa hukum lingkungan diha
 *The **Agentic RAG Orchestration Framework** represents a novel approach to legal education content generation, combining advanced natural language processing, regulatory database retrieval, and multi-agent coordination to produce comprehensive, well-structured, and legally sound educational materials. This framework is particularly optimized for the complexities of Indonesian environmental law, including UU 32/2009 on Environmental Protection and Management, PP 22/2021, and related ministerial regulations.*
 
 *Framework Architecture & Development: **Mohamad Mova Al'Afghani** (2025)*
-*© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+*Â© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "AMDAL dan Perizinan Lingkungan"
 description: "Kajian komprehensif tentang Analisis Mengenai Dampak Lingkungan (AMDAL), instrumen perizinan lingkungan, dan transformasi rezim persetujuan lingkungan pasca UU Cipta Kerja dalam sistem hukum lingkungan Indonesia"
 tags:
@@ -19,9 +19,9 @@ publish: true
 # AMDAL dan Perizinan Lingkungan
 
 **Navigasi:**
-- [[04_Pengendalian_Pencemaran|← Sebelumnya]]
-- [[README|↑ Index]]
-- [[06_Keadilan_Lingkungan|Lanjut →]]
+- [[04_Pengendalian_Pencemaran|â† Sebelumnya]]
+- [[README|â†‘ Index]]
+- [[06_Keadilan_Lingkungan|Lanjut â†’]]
 
 ---
 
@@ -52,12 +52,12 @@ Sejak diperkenalkan pada 1982, pengaturan AMDAL di Indonesia telah mengalami beb
 
 | Periode | Dasar Hukum | Karakteristik Utama |
 |---------|-------------|---------------------|
-| **1982–1993** | UU 4/1982 → PP 29/1986 | Pengenalan pertama AMDAL; penilaian terpusat di Komisi AMDAL Pusat; hanya berlaku untuk proyek berskala besar |
-| **1993–1999** | PP 51/1993 | Revisi pertama; mulai membedakan AMDAL, UKL-UPL; desentralisasi sebagian ke daerah |
-| **1999–2009** | UU 23/1997 → PP 27/1999 | Desentralisasi penilaian ke pemerintah daerah; pembentukan Komisi Penilai AMDAL di tingkat pusat, provinsi, dan kabupaten/kota |
-| **2009–2012** | UU 32/2009 (UUPPLH) | Paradigma baru: AMDAL sebagai dasar "Izin Lingkungan"; penguatan partisipasi masyarakat; sanksi pidana yang lebih tegas |
-| **2012–2021** | PP 27/2012 | Pelaksanaan UU 32/2009; Komisi Penilai AMDAL sebagai lembaga struktural; integrasi izin lingkungan dengan izin usaha |
-| **2021–sekarang** | UU 11/2020 jo. UU 6/2023 → PP 22/2021 | Transformasi "Izin Lingkungan" menjadi "Persetujuan Lingkungan"; Tim Uji Kelayakan menggantikan Komisi Penilai AMDAL; integrasi dengan OSS-RBA |
+| **1982â€“1993** | UU 4/1982 â†’ PP 29/1986 | Pengenalan pertama AMDAL; penilaian terpusat di Komisi AMDAL Pusat; hanya berlaku untuk proyek berskala besar |
+| **1993â€“1999** | PP 51/1993 | Revisi pertama; mulai membedakan AMDAL, UKL-UPL; desentralisasi sebagian ke daerah |
+| **1999â€“2009** | UU 23/1997 â†’ PP 27/1999 | Desentralisasi penilaian ke pemerintah daerah; pembentukan Komisi Penilai AMDAL di tingkat pusat, provinsi, dan kabupaten/kota |
+| **2009â€“2012** | UU 32/2009 (UUPPLH) | Paradigma baru: AMDAL sebagai dasar "Izin Lingkungan"; penguatan partisipasi masyarakat; sanksi pidana yang lebih tegas |
+| **2012â€“2021** | PP 27/2012 | Pelaksanaan UU 32/2009; Komisi Penilai AMDAL sebagai lembaga struktural; integrasi izin lingkungan dengan izin usaha |
+| **2021â€“sekarang** | UU 11/2020 jo. UU 6/2023 â†’ PP 22/2021 | Transformasi "Izin Lingkungan" menjadi "Persetujuan Lingkungan"; Tim Uji Kelayakan menggantikan Komisi Penilai AMDAL; integrasi dengan OSS-RBA |
 
 ### 1.3 Pergeseran Paradigma
 
@@ -67,7 +67,7 @@ Pergeseran paradigma ini memunculkan perdebatan akademik mengenai apakah simplif
 
 ### 1.4 Filosofi AMDAL: Pencegahan vs Penanggulangan
 
-AMDAL didasarkan pada filosofi **pencegahan** (*prevention principle*) — bahwa lebih baik mencegah kerusakan lingkungan sebelum terjadi daripada berusaha memulihkannya setelah kerusakan terjadi. Prinsip ini berkaitan erat dengan **prinsip kehati-hatian** (*precautionary principle*) yang menyatakan bahwa ketidakpastian ilmiah tidak boleh dijadikan alasan untuk menunda tindakan pencegahan.
+AMDAL didasarkan pada filosofi **pencegahan** (*prevention principle*) â€” bahwa lebih baik mencegah kerusakan lingkungan sebelum terjadi daripada berusaha memulihkannya setelah kerusakan terjadi. Prinsip ini berkaitan erat dengan **prinsip kehati-hatian** (*precautionary principle*) yang menyatakan bahwa ketidakpastian ilmiah tidak boleh dijadikan alasan untuk menunda tindakan pencegahan.
 
 Dalam konteks AMDAL, implikasi prinsip pencegahan adalah bahwa kajian dampak lingkungan harus dilakukan **sebelum** (*ex ante*) kegiatan dimulai, bukan sesudahnya (*ex post*). Hal ini membedakan AMDAL dari audit lingkungan (Pasal 48-51 UU 32/2009) yang bersifat evaluatif terhadap kegiatan yang sudah berjalan.
 
@@ -75,9 +75,9 @@ Dalam konteks AMDAL, implikasi prinsip pencegahan adalah bahwa kajian dampak lin
 
 ### 1.5 AMDAL dalam Konteks Pembangunan Berkelanjutan
 
-AMDAL tidak boleh dipahami sebagai instrumen yang bertujuan menghambat pembangunan. Sebaliknya, AMDAL merupakan instrumen untuk memastikan bahwa pembangunan dilaksanakan secara berkelanjutan (*sustainable development*) — yaitu pembangunan yang memenuhi kebutuhan generasi sekarang tanpa mengorbankan kemampuan generasi mendatang untuk memenuhi kebutuhannya sendiri (definisi Brundtland, 1987).
+AMDAL tidak boleh dipahami sebagai instrumen yang bertujuan menghambat pembangunan. Sebaliknya, AMDAL merupakan instrumen untuk memastikan bahwa pembangunan dilaksanakan secara berkelanjutan (*sustainable development*) â€” yaitu pembangunan yang memenuhi kebutuhan generasi sekarang tanpa mengorbankan kemampuan generasi mendatang untuk memenuhi kebutuhannya sendiri (definisi Brundtland, 1987).
 
-Dalam konteks ini, AMDAL berfungsi sebagai *balancing tool* — menyeimbangkan kepentingan pembangunan ekonomi dengan perlindungan lingkungan dan kesejahteraan sosial. AMDAL yang baik tidak mengatakan "tidak boleh membangun," melainkan memberikan rekomendasi mengenai "bagaimana membangun dengan dampak lingkungan yang dapat diterima."
+Dalam konteks ini, AMDAL berfungsi sebagai *balancing tool* â€” menyeimbangkan kepentingan pembangunan ekonomi dengan perlindungan lingkungan dan kesejahteraan sosial. AMDAL yang baik tidak mengatakan "tidak boleh membangun," melainkan memberikan rekomendasi mengenai "bagaimana membangun dengan dampak lingkungan yang dapat diterima."
 
 ---
 
@@ -85,13 +85,13 @@ Dalam konteks ini, AMDAL berfungsi sebagai *balancing tool* — menyeimbangkan k
 
 ### 2.1 Dasar Hukum dan Definisi
 
-Pengaturan AMDAL diatur dalam **Pasal 22–35 UU 32/2009** tentang Perlindungan dan Pengelolaan Lingkungan Hidup (sebagaimana telah diubah melalui UU 11/2020 tentang Cipta Kerja, yang kemudian ditetapkan sebagai undang-undang melalui UU 6/2023), serta dijabarkan lebih lanjut dalam **PP 22/2021** tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup.
+Pengaturan AMDAL diatur dalam **Pasal 22â€“35 UU 32/2009** tentang Perlindungan dan Pengelolaan Lingkungan Hidup (sebagaimana telah diubah melalui UU 11/2020 tentang Cipta Kerja, yang kemudian ditetapkan sebagai undang-undang melalui UU 6/2023), serta dijabarkan lebih lanjut dalam **PP 22/2021** tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup.
 
 **Pasal 1 angka 11 UU 32/2009** mendefinisikan AMDAL sebagai berikut:
 
 > "Analisis mengenai dampak lingkungan hidup, yang selanjutnya disebut Amdal, adalah kajian mengenai dampak penting suatu usaha dan/atau kegiatan yang direncanakan pada lingkungan hidup yang diperlukan bagi proses pengambilan keputusan tentang penyelenggaraan usaha dan/atau kegiatan."
 
-Dari definisi tersebut, terdapat beberapa elemen pokok AMDAL. Pertama, AMDAL merupakan suatu *kajian* (bukan sekadar dokumen administratif), yang menuntut pendekatan ilmiah dan metodologis. Kedua, objek kajiannya adalah *dampak penting* — bukan sembarang dampak, melainkan dampak yang memenuhi kriteria tertentu. Ketiga, AMDAL bersifat *prediktif*, karena dilakukan terhadap usaha/kegiatan yang *direncanakan* (belum dilaksanakan). Keempat, AMDAL berfungsi sebagai instrumen *pengambilan keputusan*, yang menentukan layak atau tidaknya suatu rencana usaha/kegiatan dari perspektif lingkungan.
+Dari definisi tersebut, terdapat beberapa elemen pokok AMDAL. Pertama, AMDAL merupakan suatu *kajian* (bukan sekadar dokumen administratif), yang menuntut pendekatan ilmiah dan metodologis. Kedua, objek kajiannya adalah *dampak penting* â€” bukan sembarang dampak, melainkan dampak yang memenuhi kriteria tertentu. Ketiga, AMDAL bersifat *prediktif*, karena dilakukan terhadap usaha/kegiatan yang *direncanakan* (belum dilaksanakan). Keempat, AMDAL berfungsi sebagai instrumen *pengambilan keputusan*, yang menentukan layak atau tidaknya suatu rencana usaha/kegiatan dari perspektif lingkungan.
 
 ### 2.2 Penapisan (*Screening*): Kriteria Usaha/Kegiatan Wajib AMDAL
 
@@ -218,11 +218,11 @@ Apabila hasil uji kelayakan menyatakan bahwa rencana usaha/kegiatan tidak layak 
 
 ---
 
-## 3. UKL-UPL (Upaya Pengelolaan Lingkungan Hidup – Upaya Pemantauan Lingkungan Hidup)
+## 3. UKL-UPL (Upaya Pengelolaan Lingkungan Hidup â€“ Upaya Pemantauan Lingkungan Hidup)
 
 ### 3.1 Kedudukan UKL-UPL dalam Sistem Perizinan
 
-UKL-UPL merupakan instrumen pengelolaan lingkungan hidup untuk usaha/kegiatan yang **tidak wajib AMDAL** namun **tetap berpotensi menimbulkan dampak** terhadap lingkungan hidup. UKL-UPL diatur dalam **Pasal 34–35 UU 32/2009** dan dijabarkan lebih lanjut dalam **PP 22/2021**.
+UKL-UPL merupakan instrumen pengelolaan lingkungan hidup untuk usaha/kegiatan yang **tidak wajib AMDAL** namun **tetap berpotensi menimbulkan dampak** terhadap lingkungan hidup. UKL-UPL diatur dalam **Pasal 34â€“35 UU 32/2009** dan dijabarkan lebih lanjut dalam **PP 22/2021**.
 
 Berbeda dengan AMDAL yang merupakan kajian ilmiah mendalam, UKL-UPL lebih bersifat sebagai formulir standar yang memuat upaya-upaya pengelolaan dan pemantauan lingkungan yang akan dilakukan oleh pemrakarsa. Meskipun demikian, UKL-UPL tetap merupakan instrumen penting karena mayoritas usaha/kegiatan di Indonesia termasuk dalam kategori wajib UKL-UPL.
 
@@ -285,7 +285,7 @@ SPPL tidak memerlukan proses penilaian atau pemeriksaan substansial. Penerbitan 
 
 ### 4.3 Perbandingan Tiga Instrumen Dokumen Lingkungan
 
-Ketiga instrumen dokumen lingkungan — AMDAL, UKL-UPL, dan SPPL — membentuk suatu hierarki berdasarkan tingkat dampak lingkungan yang diperkirakan:
+Ketiga instrumen dokumen lingkungan â€” AMDAL, UKL-UPL, dan SPPL â€” membentuk suatu hierarki berdasarkan tingkat dampak lingkungan yang diperkirakan:
 
 | Aspek | AMDAL | UKL-UPL | SPPL |
 |-------|-------|---------|------|
@@ -298,7 +298,7 @@ Ketiga instrumen dokumen lingkungan — AMDAL, UKL-UPL, dan SPPL — membentuk s
 | **Partisipasi publik** | Wajib ada konsultasi publik | Tidak wajib konsultasi publik formal | Tidak ada |
 | **Contoh kegiatan** | Pembangunan PLTU, tambang besar, pembangunan bandara | Hotel menengah, industri kecil, gedung perkantoran | Warung, bengkel kecil, usaha rumah tangga |
 
-Sistem tiga tingkat ini dirancang agar proporsional — semakin besar potensi dampak lingkungan, semakin ketat persyaratan kajian dan penilaiannya. Pendekatan ini mencerminkan prinsip proporsionalitas dalam hukum administrasi, di mana beban regulasi harus seimbang dengan risiko yang dihadapi.
+Sistem tiga tingkat ini dirancang agar proporsional â€” semakin besar potensi dampak lingkungan, semakin ketat persyaratan kajian dan penilaiannya. Pendekatan ini mencerminkan prinsip proporsionalitas dalam hukum administrasi, di mana beban regulasi harus seimbang dengan risiko yang dihadapi.
 
 ---
 
@@ -318,7 +318,7 @@ Perubahan paling mendasar yang dibawa oleh UU Cipta Kerja (UU 11/2020, kemudian 
 | **Lembaga Penilai** | Komisi Penilai AMDAL (multistakeholder) | Tim Uji Kelayakan LH (bersertifikat kompetensi) |
 | **Objek Gugatan TUN** | Izin Lingkungan dapat langsung digugat ke PTUN sebagai KTUN | Status sebagai KTUN yang dapat digugat menjadi perdebatan; sebagian pendapat menyatakan Persetujuan Lingkungan bukan KTUN mandiri |
 | **Partisipasi Publik** | Masyarakat terkena dampak duduk sebagai anggota Komisi Penilai | Partisipasi melalui mekanisme tersendiri, bukan sebagai bagian Tim Uji Kelayakan |
-| **Kaitan dengan Izin Usaha** | Prasyarat izin usaha; pencabutan izin lingkungan → pembatalan izin usaha | Prasyarat perizinan berusaha; persyaratan dalam Persetujuan Lingkungan melekat pada perizinan berusaha |
+| **Kaitan dengan Izin Usaha** | Prasyarat izin usaha; pencabutan izin lingkungan â†’ pembatalan izin usaha | Prasyarat perizinan berusaha; persyaratan dalam Persetujuan Lingkungan melekat pada perizinan berusaha |
 | **Sistem Pengajuan** | Manual / sebagian elektronik | Sepenuhnya elektronik melalui Amdalnet-OSS |
 
 ### 5.3 Kritik terhadap Perubahan Rezim
@@ -368,11 +368,11 @@ Berdasarkan **Pasal 36 ayat (3) UU 32/2009** (sebagaimana diubah), Persetujuan L
 
 Salah satu inovasi dari sistem perizinan berusaha berbasis risiko adalah penyelarasan antara tingkat risiko kegiatan dengan jenis dokumen lingkungan yang dipersyaratkan. Penyelarasan ini dilakukan melalui mekanisme penapisan otomatis yang mengklasifikasikan setiap jenis usaha/kegiatan ke dalam empat kategori risiko berdasarkan parameter bahaya (*hazard*) dan potensi terjadinya bahaya (*probability*).
 
-**Risiko rendah** meliputi usaha/kegiatan berskala mikro dan kecil dengan dampak lingkungan minimal — misalnya warung makan kecil, usaha menjahit, atau bengkel sepeda. Kegiatan ini umumnya cukup dengan SPPL atau bahkan tidak memerlukan dokumen lingkungan sama sekali. **Risiko menengah rendah** mencakup usaha/kegiatan berskala kecil hingga menengah dengan dampak lingkungan terbatas — misalnya restoran menengah, usaha pencucian mobil, atau gudang penyimpanan. Kegiatan ini umumnya memerlukan UKL-UPL.
+**Risiko rendah** meliputi usaha/kegiatan berskala mikro dan kecil dengan dampak lingkungan minimal â€” misalnya warung makan kecil, usaha menjahit, atau bengkel sepeda. Kegiatan ini umumnya cukup dengan SPPL atau bahkan tidak memerlukan dokumen lingkungan sama sekali. **Risiko menengah rendah** mencakup usaha/kegiatan berskala kecil hingga menengah dengan dampak lingkungan terbatas â€” misalnya restoran menengah, usaha pencucian mobil, atau gudang penyimpanan. Kegiatan ini umumnya memerlukan UKL-UPL.
 
-**Risiko menengah tinggi** meliputi usaha/kegiatan berskala menengah hingga besar dengan dampak lingkungan yang signifikan — misalnya hotel besar, rumah sakit, atau pabrik makanan. Kegiatan ini memerlukan UKL-UPL atau AMDAL tergantung pada skala dan sifat dampaknya. **Risiko tinggi** mencakup usaha/kegiatan berskala besar dengan dampak lingkungan yang sangat signifikan — misalnya pertambangan, pembangkit listrik tenaga batu bara, industri kimia besar, atau pembangunan infrastruktur berskala besar. Kegiatan ini wajib AMDAL dan Persetujuan Lingkungan.
+**Risiko menengah tinggi** meliputi usaha/kegiatan berskala menengah hingga besar dengan dampak lingkungan yang signifikan â€” misalnya hotel besar, rumah sakit, atau pabrik makanan. Kegiatan ini memerlukan UKL-UPL atau AMDAL tergantung pada skala dan sifat dampaknya. **Risiko tinggi** mencakup usaha/kegiatan berskala besar dengan dampak lingkungan yang sangat signifikan â€” misalnya pertambangan, pembangkit listrik tenaga batu bara, industri kimia besar, atau pembangunan infrastruktur berskala besar. Kegiatan ini wajib AMDAL dan Persetujuan Lingkungan.
 
-Sistem klasifikasi ini bertujuan agar beban regulasi proporsional dengan risiko yang ditimbulkan — kegiatan berisiko rendah tidak dibebankan dengan persyaratan dokumen lingkungan yang berlebihan, sementara kegiatan berisiko tinggi tetap tunduk pada persyaratan AMDAL yang ketat.
+Sistem klasifikasi ini bertujuan agar beban regulasi proporsional dengan risiko yang ditimbulkan â€” kegiatan berisiko rendah tidak dibebankan dengan persyaratan dokumen lingkungan yang berlebihan, sementara kegiatan berisiko tinggi tetap tunduk pada persyaratan AMDAL yang ketat.
 
 ### 6.3 Integrasi Amdalnet dengan OSS-RBA
 
@@ -382,7 +382,7 @@ Alur proses integrasi Amdalnet-OSS adalah sebagai berikut: pemrakarsa mengajukan
 
 ### 6.3 Pembaruan 2025: PP 28/2025
 
-**PP Nomor 28 Tahun 2025** tentang Perizinan Berusaha Berbasis Risiko membawa reformasi lebih lanjut terhadap sistem OSS, dengan penyempurnaan mekanisme berbasis risiko dan peningkatan interoperabilitas antar-sistem kementerian/lembaga. PP ini memperkuat prinsip bahwa jenis dan tingkat kompleksitas izin yang diperlukan pelaku usaha disesuaikan dengan tingkat risiko usaha — rendah, menengah, atau tinggi.
+**PP Nomor 28 Tahun 2025** tentang Perizinan Berusaha Berbasis Risiko membawa reformasi lebih lanjut terhadap sistem OSS, dengan penyempurnaan mekanisme berbasis risiko dan peningkatan interoperabilitas antar-sistem kementerian/lembaga. PP ini memperkuat prinsip bahwa jenis dan tingkat kompleksitas izin yang diperlukan pelaku usaha disesuaikan dengan tingkat risiko usaha â€” rendah, menengah, atau tinggi.
 
 ---
 
@@ -430,7 +430,7 @@ Pelibatan masyarakat dilakukan berdasarkan prinsip pemberian informasi yang tran
 
 ### 8.2 Bentuk Partisipasi
 
-Pasca UU Cipta Kerja, bentuk partisipasi masyarakat dalam AMDAL mengalami perubahan. Dalam rezim lama, masyarakat terlibat melalui dua jalur: sebagai pemberi saran/pendapat/tanggapan dalam konsultasi publik, dan sebagai anggota Komisi Penilai AMDAL. Dalam rezim baru, jalur kedua dihapus — masyarakat tidak lagi duduk sebagai anggota Tim Uji Kelayakan. Partisipasi masyarakat dilakukan melalui mekanisme konsultasi publik yang diatur secara terpisah.
+Pasca UU Cipta Kerja, bentuk partisipasi masyarakat dalam AMDAL mengalami perubahan. Dalam rezim lama, masyarakat terlibat melalui dua jalur: sebagai pemberi saran/pendapat/tanggapan dalam konsultasi publik, dan sebagai anggota Komisi Penilai AMDAL. Dalam rezim baru, jalur kedua dihapus â€” masyarakat tidak lagi duduk sebagai anggota Tim Uji Kelayakan. Partisipasi masyarakat dilakukan melalui mekanisme konsultasi publik yang diatur secara terpisah.
 
 **Mekanisme konsultasi publik** meliputi: pengumuman rencana kegiatan oleh pemrakarsa (melalui media massa dan/atau papan pengumuman), penerimaan saran, pendapat, dan tanggapan dari masyarakat, serta pengakomodasian masukan masyarakat dalam dokumen AMDAL.
 
@@ -442,9 +442,9 @@ Masyarakat berhak mengajukan keberatan pada berbagai tahap, yaitu terhadap renca
 
 Perubahan dari Komisi Penilai AMDAL (di mana wakil masyarakat duduk sebagai anggota) ke Tim Uji Kelayakan (yang seluruhnya terdiri dari tenaga ahli bersertifikat) menuai kritik tajam dari organisasi masyarakat sipil. Indonesian Center for Environmental Law (ICEL) dan berbagai organisasi lingkungan mencatat bahwa perubahan ini merupakan **kemunduran** (*regression*) dalam hak partisipasi publik, karena menghilangkan jalur keterlibatan langsung masyarakat dalam proses penilaian substansi dokumen AMDAL.
 
-Dalam sistem lama, wakil masyarakat terkena dampak yang duduk di Komisi Penilai AMDAL dapat secara langsung mempertanyakan kualitas data, metodologi, dan kesimpulan dokumen AMDAL. Mereka juga dapat menyampaikan pengetahuan lokal (*local knowledge*) yang mungkin tidak tertangkap oleh penyusun AMDAL. Dalam sistem baru, partisipasi masyarakat terbatas pada tahap konsultasi publik yang dilakukan sebelum penilaian — artinya, masyarakat memberikan masukan tetapi tidak hadir saat proses penilaian berlangsung.
+Dalam sistem lama, wakil masyarakat terkena dampak yang duduk di Komisi Penilai AMDAL dapat secara langsung mempertanyakan kualitas data, metodologi, dan kesimpulan dokumen AMDAL. Mereka juga dapat menyampaikan pengetahuan lokal (*local knowledge*) yang mungkin tidak tertangkap oleh penyusun AMDAL. Dalam sistem baru, partisipasi masyarakat terbatas pada tahap konsultasi publik yang dilakukan sebelum penilaian â€” artinya, masyarakat memberikan masukan tetapi tidak hadir saat proses penilaian berlangsung.
 
-Pemerintah berargumen bahwa perubahan ini diperlukan untuk meningkatkan **objektivitas** dan **kompetensi teknis** penilaian AMDAL — bahwa penilaian harus dilakukan oleh ahli yang kompeten, bukan oleh pihak-pihak yang mungkin memiliki kepentingan subjektif. Namun, kritikus membalas bahwa objektivitas dan partisipasi tidaklah saling bertentangan — keduanya dapat diwujudkan secara bersamaan melalui desain kelembagaan yang tepat.
+Pemerintah berargumen bahwa perubahan ini diperlukan untuk meningkatkan **objektivitas** dan **kompetensi teknis** penilaian AMDAL â€” bahwa penilaian harus dilakukan oleh ahli yang kompeten, bukan oleh pihak-pihak yang mungkin memiliki kepentingan subjektif. Namun, kritikus membalas bahwa objektivitas dan partisipasi tidaklah saling bertentangan â€” keduanya dapat diwujudkan secara bersamaan melalui desain kelembagaan yang tepat.
 
 Perdebatan ini pada hakikatnya mencerminkan **ketegangan fundamental** dalam hukum lingkungan: antara efisiensi administratif dan demokrasi partisipatif, antara keahlian teknis dan pengetahuan lokal, dan antara kemudahan berusaha dan perlindungan lingkungan. Keseimbangan yang tepat di antara nilai-nilai ini merupakan tantangan kebijakan yang terus berkembang.
 
@@ -454,7 +454,7 @@ Perdebatan ini pada hakikatnya mencerminkan **ketegangan fundamental** dalam huk
 
 ### 9.1 Pengertian dan Dasar Hukum
 
-Audit lingkungan hidup merupakan instrumen evaluasi yang dilakukan terhadap usaha/kegiatan yang **sudah beroperasi**, berbeda dengan AMDAL yang bersifat prediktif (dilakukan sebelum kegiatan dimulai). Audit lingkungan diatur dalam **Pasal 48–51 UU 32/2009**.
+Audit lingkungan hidup merupakan instrumen evaluasi yang dilakukan terhadap usaha/kegiatan yang **sudah beroperasi**, berbeda dengan AMDAL yang bersifat prediktif (dilakukan sebelum kegiatan dimulai). Audit lingkungan diatur dalam **Pasal 48â€“51 UU 32/2009**.
 
 ### 9.2 Jenis Audit Lingkungan
 
@@ -472,7 +472,7 @@ Hasil audit lingkungan digunakan sebagai dasar untuk: penyusunan kebijakan penge
 
 Program Penilaian Peringkat Kinerja Perusahaan dalam Pengelolaan Lingkungan Hidup (**PROPER**) yang diselenggarakan oleh Kementerian LHK merupakan instrumen pelengkap audit lingkungan yang menggunakan pendekatan berbasis insentif (*incentive-based approach*). PROPER memberikan peringkat kinerja lingkungan perusahaan dengan skala lima warna: emas (terbaik), hijau (lebih dari yang dipersyaratkan), biru (memenuhi persyaratan), merah (belum memenuhi), dan hitam (terburuk/melanggar berat).
 
-PROPER berfungsi sebagai instrumen transparansi publik — hasil penilaian dipublikasikan sehingga masyarakat, investor, dan konsumen dapat mengetahui kinerja lingkungan perusahaan. Perusahaan dengan peringkat merah atau hitam menghadapi tekanan publik dan kemungkinan sanksi administratif, sementara perusahaan dengan peringkat emas atau hijau mendapatkan pengakuan dan reputasi positif.
+PROPER berfungsi sebagai instrumen transparansi publik â€” hasil penilaian dipublikasikan sehingga masyarakat, investor, dan konsumen dapat mengetahui kinerja lingkungan perusahaan. Perusahaan dengan peringkat merah atau hitam menghadapi tekanan publik dan kemungkinan sanksi administratif, sementara perusahaan dengan peringkat emas atau hijau mendapatkan pengakuan dan reputasi positif.
 
 Kombinasi antara audit lingkungan wajib (Pasal 49 UU 32/2009) dan PROPER menciptakan **sistem ganda** (*dual system*) untuk mengevaluasi dan mendorong kinerja lingkungan: audit lingkungan bersifat teknis-legal dan hasilnya dapat menjadi dasar penegakan hukum, sedangkan PROPER bersifat insentif-reputasional dan mendorong kepatuhan sukarela (*voluntary compliance*).
 
@@ -497,7 +497,7 @@ Berdasarkan **Pasal 17 ayat (2) UU 32/2009**, apabila hasil Kajian Lingkungan Hi
 | **Penerbitan izin** | Persetujuan Lingkungan | Menetapkan persyaratan baku mutu dan kewajiban pengelolaan |
 | **Operasional** | Monitoring & pelaporan berkala | Memastikan kepatuhan terhadap persyaratan |
 | **Evaluasi** | Audit lingkungan | Mengevaluasi kinerja lingkungan secara menyeluruh |
-| **Pelanggaran** | Sanksi administratif → pencabutan izin | Menghentikan sumber pencemar yang melanggar |
+| **Pelanggaran** | Sanksi administratif â†’ pencabutan izin | Menghentikan sumber pencemar yang melanggar |
 
 ---
 
@@ -505,11 +505,11 @@ Berdasarkan **Pasal 17 ayat (2) UU 32/2009**, apabila hasil Kajian Lingkungan Hi
 
 ### 11.1 Kasus Kendeng: Pabrik Semen di Pegunungan Karst
 
-**Latar Belakang:** Pegunungan Kendeng di Jawa Tengah merupakan kawasan pegunungan karst yang memiliki fungsi ekologis vital sebagai penyimpan dan penyedia air tanah bagi ratusan ribu penduduk di sekitarnya. Rencana pembangunan pabrik semen oleh PT Semen Indonesia (Persero) Tbk di Kabupaten Rembang memicu konflik berkepanjangan antara masyarakat lokal — khususnya petani yang menggantungkan hidupnya pada sumber air dari kawasan karst — dengan perusahaan dan pemerintah daerah.
+**Latar Belakang:** Pegunungan Kendeng di Jawa Tengah merupakan kawasan pegunungan karst yang memiliki fungsi ekologis vital sebagai penyimpan dan penyedia air tanah bagi ratusan ribu penduduk di sekitarnya. Rencana pembangunan pabrik semen oleh PT Semen Indonesia (Persero) Tbk di Kabupaten Rembang memicu konflik berkepanjangan antara masyarakat lokal â€” khususnya petani yang menggantungkan hidupnya pada sumber air dari kawasan karst â€” dengan perusahaan dan pemerintah daerah.
 
 **Kronologi Hukum:**
 
-1. **PTUN Semarang (2015):** Pengadilan Tata Usaha Negara Semarang mengabulkan gugatan warga dan menyatakan izin lingkungan yang diterbitkan Gubernur Jawa Tengah tidak sah karena AMDAL dinilai bermasalah — tidak sepenuhnya mempertimbangkan fungsi kawasan karst sebagai Cekungan Air Tanah (CAT).
+1. **PTUN Semarang (2015):** Pengadilan Tata Usaha Negara Semarang mengabulkan gugatan warga dan menyatakan izin lingkungan yang diterbitkan Gubernur Jawa Tengah tidak sah karena AMDAL dinilai bermasalah â€” tidak sepenuhnya mempertimbangkan fungsi kawasan karst sebagai Cekungan Air Tanah (CAT).
 
 2. **Banding dan Kasasi:** Pemerintah Provinsi dan perusahaan mengajukan upaya hukum. Kasus mengalami perjalanan panjang melalui berbagai tingkat peradilan.
 
@@ -527,15 +527,15 @@ Kasus Kendeng mengilustrasikan beberapa isu penting dalam hukum AMDAL. Pertama, 
 
 **Putusan PTUN Jakarta (2016-2017):**
 
-Koalisi Selamatkan Teluk Jakarta — yang terdiri dari Kesatuan Nelayan Tradisional Indonesia (KNTI), Wahana Lingkungan Hidup Indonesia (WALHI), Koalisi Rakyat untuk Keadilan Perikanan (KIARA), dan Lembaga Bantuan Hukum Jakarta — mengajukan gugatan ke PTUN Jakarta terhadap izin reklamasi yang diterbitkan oleh Gubernur DKI Jakarta.
+Koalisi Selamatkan Teluk Jakarta â€” yang terdiri dari Kesatuan Nelayan Tradisional Indonesia (KNTI), Wahana Lingkungan Hidup Indonesia (WALHI), Koalisi Rakyat untuk Keadilan Perikanan (KIARA), dan Lembaga Bantuan Hukum Jakarta â€” mengajukan gugatan ke PTUN Jakarta terhadap izin reklamasi yang diterbitkan oleh Gubernur DKI Jakarta.
 
 Pada 31 Mei 2016, PTUN Jakarta mengabulkan gugatan terkait Pulau G dan memerintahkan penghentian reklamasi. Pertimbangan hukum utama hakim adalah bahwa proses penilaian AMDAL melanggar **Pasal 31 dan 39 UU 32/2009** karena tidak melibatkan masyarakat (khususnya nelayan) dan organisasi lingkungan hidup secara memadai. Pada 2017, PTUN Jakarta kembali membatalkan izin reklamasi Pulau F, I, dan K dengan pertimbangan serupa mengenai pelanggaran hak partisipasi publik dalam proses AMDAL.
 
 **Pelajaran Hukum:**
 
-Kasus Reklamasi Teluk Jakarta menegaskan beberapa prinsip penting. Pertama, **partisipasi publik bukan formalitas** — pelibatan masyarakat terkena dampak (termasuk nelayan tradisional) merupakan syarat substansial yang pelanggarannya dapat membatalkan AMDAL dan izin lingkungan. Kedua, **PTUN memiliki peran krusial** dalam menguji keabsahan keputusan perizinan lingkungan (*judicial review*). Ketiga, **organisasi lingkungan hidup memiliki *legal standing*** yang efektif untuk memperjuangkan kepentingan pelestarian lingkungan di pengadilan. Keempat, **keterkaitan AMDAL dengan perencanaan tata ruang**: izin reklamasi harus sejalan dengan rencana tata ruang yang telah mempertimbangkan aspek lingkungan, sosial, dan budaya.
+Kasus Reklamasi Teluk Jakarta menegaskan beberapa prinsip penting. Pertama, **partisipasi publik bukan formalitas** â€” pelibatan masyarakat terkena dampak (termasuk nelayan tradisional) merupakan syarat substansial yang pelanggarannya dapat membatalkan AMDAL dan izin lingkungan. Kedua, **PTUN memiliki peran krusial** dalam menguji keabsahan keputusan perizinan lingkungan (*judicial review*). Ketiga, **organisasi lingkungan hidup memiliki *legal standing*** yang efektif untuk memperjuangkan kepentingan pelestarian lingkungan di pengadilan. Keempat, **keterkaitan AMDAL dengan perencanaan tata ruang**: izin reklamasi harus sejalan dengan rencana tata ruang yang telah mempertimbangkan aspek lingkungan, sosial, dan budaya.
 
-Kasus ini juga mengilustrasikan fenomena **koalisi lintas sektor** dalam advokasi lingkungan — nelayan tradisional (KNTI), organisasi lingkungan (WALHI), organisasi perikanan (KIARA), dan bantuan hukum (LBH Jakarta) bergabung dalam satu koalisi untuk memperjuangkan kepentingan yang sama, menunjukkan bahwa keadilan lingkungan tidak dapat diperjuangkan secara terpisah-pisah (lihat [[06_Keadilan_Lingkungan|Keadilan Lingkungan]]).
+Kasus ini juga mengilustrasikan fenomena **koalisi lintas sektor** dalam advokasi lingkungan â€” nelayan tradisional (KNTI), organisasi lingkungan (WALHI), organisasi perikanan (KIARA), dan bantuan hukum (LBH Jakarta) bergabung dalam satu koalisi untuk memperjuangkan kepentingan yang sama, menunjukkan bahwa keadilan lingkungan tidak dapat diperjuangkan secara terpisah-pisah (lihat [[06_Keadilan_Lingkungan|Keadilan Lingkungan]]).
 
 ---
 
@@ -551,7 +551,7 @@ Dalam praktik, kualitas dokumen AMDAL di Indonesia masih menjadi permasalahan se
 
 **Data *baseline* yang tidak akurat:** Kajian kondisi awal lingkungan (*baseline study*) sering kali tidak dilakukan secara menyeluruh. Data flora, fauna, kualitas air, udara, dan tanah yang digunakan sebagai dasar prakiraan dampak tidak jarang menggunakan data sekunder yang sudah usang, bukan data primer hasil survei lapangan terkini.
 
-**Minimnya kajian dampak kumulatif:** Dampak kumulatif — yaitu dampak gabungan dari beberapa usaha/kegiatan di suatu wilayah — sering kali tidak dikaji secara memadai. Padahal, dampak individual suatu kegiatan mungkin masih dalam batas toleransi, tetapi secara kumulatif dengan kegiatan lain dapat melampaui daya tampung lingkungan.
+**Minimnya kajian dampak kumulatif:** Dampak kumulatif â€” yaitu dampak gabungan dari beberapa usaha/kegiatan di suatu wilayah â€” sering kali tidak dikaji secara memadai. Padahal, dampak individual suatu kegiatan mungkin masih dalam batas toleransi, tetapi secara kumulatif dengan kegiatan lain dapat melampaui daya tampung lingkungan.
 
 ### 12.2 Tantangan Pengawasan dan Kepatuhan
 
@@ -581,7 +581,7 @@ Untuk memberikan gambaran utuh mengenai transformasi yang terjadi, berikut perba
 
 ### 14.1 Sanksi Administratif
 
-Pelanggaran terhadap ketentuan perizinan lingkungan dapat dikenai sanksi administratif sebagaimana diatur dalam **Pasal 76–83 UU 32/2009**. Sanksi administratif dijatuhkan secara bertahap (*graduated sanctions*), dimulai dari **teguran tertulis** sebagai peringatan pertama, dilanjutkan dengan **paksaan pemerintah** (*bestuursdwang*) berupa perintah untuk menghentikan kegiatan dan/atau melakukan pemulihan, kemudian **pembekuan izin** yang bersifat sementara hingga pelanggaran diperbaiki, dan terakhir **pencabutan izin** yang merupakan sanksi terberat yang mengakibatkan penghentian seluruh kegiatan.
+Pelanggaran terhadap ketentuan perizinan lingkungan dapat dikenai sanksi administratif sebagaimana diatur dalam **Pasal 76â€“83 UU 32/2009**. Sanksi administratif dijatuhkan secara bertahap (*graduated sanctions*), dimulai dari **teguran tertulis** sebagai peringatan pertama, dilanjutkan dengan **paksaan pemerintah** (*bestuursdwang*) berupa perintah untuk menghentikan kegiatan dan/atau melakukan pemulihan, kemudian **pembekuan izin** yang bersifat sementara hingga pelanggaran diperbaiki, dan terakhir **pencabutan izin** yang merupakan sanksi terberat yang mengakibatkan penghentian seluruh kegiatan.
 
 **Paksaan pemerintah** merupakan instrumen yang sangat penting dalam penegakan hukum administrasi lingkungan. Berdasarkan **Pasal 80 UU 32/2009**, paksaan pemerintah dapat berupa: penghentian sementara kegiatan produksi, pemindahan sarana produksi, penutupan saluran pembuangan air limbah atau emisi, pembongkaran, penyitaan terhadap barang atau alat yang berpotensi menimbulkan pelanggaran, penghentian sementara seluruh kegiatan, dan/atau tindakan lain yang bertujuan untuk menghentikan pelanggaran dan tindakan memulihkan fungsi lingkungan hidup.
 
@@ -614,9 +614,9 @@ Untuk memberikan perspektif komparatif, berikut perbandingan sistem EIA Indonesi
 | **Dampak Kumulatif** | Diatur tapi implementasi lemah | Wajib dikaji (*cumulative impacts*) | Wajib dikaji | Wajib dikaji |
 | **Judicial Review** | PTUN untuk izin; PN untuk gugatan perdata | Federal courts | Pengadilan nasional | Federal Court of Australia |
 
-Perbandingan ini menunjukkan bahwa sistem AMDAL Indonesia memiliki kerangka hukum yang relatif komprehensif, namun terdapat beberapa kelemahan dibandingkan sistem di negara-negara maju — khususnya dalam hal kajian alternatif, kajian dampak kumulatif, dan kekuatan partisipasi publik.
+Perbandingan ini menunjukkan bahwa sistem AMDAL Indonesia memiliki kerangka hukum yang relatif komprehensif, namun terdapat beberapa kelemahan dibandingkan sistem di negara-negara maju â€” khususnya dalam hal kajian alternatif, kajian dampak kumulatif, dan kekuatan partisipasi publik.
 
-Salah satu perbedaan paling mencolok adalah kewajiban **kajian alternatif** (*alternatives analysis*). Dalam sistem NEPA (AS) dan Direktif EIA (UE), penyusun dokumen lingkungan wajib mengkaji berbagai alternatif rencana usaha/kegiatan — termasuk alternatif "tidak melakukan apa-apa" (*no-action alternative*), alternatif lokasi, alternatif teknologi, dan alternatif desain — serta membandingkan dampak lingkungan dari masing-masing alternatif. Pendekatan ini memaksa pengambil keputusan untuk mempertimbangkan opsi-opsi yang secara lingkungan lebih baik, bukan sekadar melegitimasi rencana yang sudah ada.
+Salah satu perbedaan paling mencolok adalah kewajiban **kajian alternatif** (*alternatives analysis*). Dalam sistem NEPA (AS) dan Direktif EIA (UE), penyusun dokumen lingkungan wajib mengkaji berbagai alternatif rencana usaha/kegiatan â€” termasuk alternatif "tidak melakukan apa-apa" (*no-action alternative*), alternatif lokasi, alternatif teknologi, dan alternatif desain â€” serta membandingkan dampak lingkungan dari masing-masing alternatif. Pendekatan ini memaksa pengambil keputusan untuk mempertimbangkan opsi-opsi yang secara lingkungan lebih baik, bukan sekadar melegitimasi rencana yang sudah ada.
 
 Dalam sistem AMDAL Indonesia, kewajiban kajian alternatif tidak diatur secara eksplisit dan tegas. Meskipun dalam praktik beberapa dokumen AMDAL memuat kajian alternatif, tidak ada kewajiban hukum yang jelas untuk melakukannya. Akibatnya, AMDAL di Indonesia sering kali hanya berfungsi sebagai justifikasi (*post hoc rationalization*) terhadap rencana yang sudah diputuskan, bukan sebagai instrumen untuk memilih alternatif terbaik dari perspektif lingkungan.
 
@@ -667,7 +667,7 @@ Path: `regulationvault/05_ACTIVE/UU/2009/UU_32_2009/`
 
 **UU Nomor 6 Tahun 2023** tentang Penetapan Perppu 2/2022 tentang Cipta Kerja menjadi Undang-Undang:
 
-- Perubahan "Izin Lingkungan" → "Persetujuan Lingkungan"
+- Perubahan "Izin Lingkungan" â†’ "Persetujuan Lingkungan"
 - Perubahan kelembagaan penilai AMDAL
 - Integrasi dengan perizinan berusaha
 
@@ -675,7 +675,7 @@ Path: `regulationvault/05_ACTIVE/UU/2009/UU_32_2009/`
 
 **PP Nomor 22 Tahun 2021** tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup:
 
-- **BAB II**: Persetujuan Lingkungan (Pasal 2–273)
+- **BAB II**: Persetujuan Lingkungan (Pasal 2â€“273)
 - **Pasal 106**: Pembentukan LUKLH dan Tim Uji Kelayakan
 - **Lampiran I**: Kriteria kawasan lindung dan penapisan AMDAL
 - **Lampiran II**: Formulir Kerangka Acuan
@@ -715,6 +715,7 @@ Path: `regulationvault/05_ACTIVE/PERMENLHK/2021/PERMENLHK_5_2021/`
 ---
 
 **Navigasi:**
-- [[04_Pengendalian_Pencemaran|← Pengendalian Pencemaran]]
-- [[README|↑ Index]]
-- [[06_Keadilan_Lingkungan|Keadilan Lingkungan →]]
+- [[04_Pengendalian_Pencemaran|â† Pengendalian Pencemaran]]
+- [[README|â†‘ Index]]
+- [[06_Keadilan_Lingkungan|Keadilan Lingkungan â†’]]
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "BAB III: Keterkaitan Konseptual - Hubungan Daya Dukung, Daya Tampung, dan Pencemaran"
 description: "Kerangka teoritis keterkaitan konsep daya dukung, daya tampung, dan pencemaran lingkungan hidup serta studi kasus ilustratif"
 tags:
@@ -18,15 +18,15 @@ publish: true
 ---
 
 **Navigasi:**
-- [[BAB_II_Definisi_Dasar_Hukum|← Bagian II: Definisi dan Dasar Hukum]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
-- [[BAB_IV_Mekanisme_Hukum_Operasional|Lanjut ke Bagian IV →]]
+- [[BAB_II_Definisi_Dasar_Hukum|â† Bagian II: Definisi dan Dasar Hukum]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
+- [[BAB_IV_Mekanisme_Hukum_Operasional|Lanjut ke Bagian IV â†’]]
 
 ---
 
 ## A. KERANGKA TEORITIS KETERKAITAN
 
-Ketiga konsep—daya dukung, daya tampung, dan pencemaran lingkungan hidup—membentuk sistem yang saling terkait dalam pengelolaan lingkungan hidup. Untuk memahami keterkaitan ini, kita perlu melihatnya sebagai bagian dari satu kesatuan sistem ekologi-hukum.
+Ketiga konsepâ€”daya dukung, daya tampung, dan pencemaran lingkungan hidupâ€”membentuk sistem yang saling terkait dalam pengelolaan lingkungan hidup. Untuk memahami keterkaitan ini, kita perlu melihatnya sebagai bagian dari satu kesatuan sistem ekologi-hukum.
 
 ### 1. Model Konseptual Keterkaitan
 
@@ -62,22 +62,22 @@ graph TD
 Ketiga konsep ini dapat dipahami dalam hierarki berikut:
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│         DAYA DUKUNG LINGKUNGAN HIDUP (LEVEL 1)              │
-│  (Kemampuan mendukung kehidupan secara menyeluruh)          │
-│                                                             │
-│  ┌───────────────────────────────────────────────────────┐ │
-│  │    DAYA TAMPUNG LINGKUNGAN HIDUP (LEVEL 2)            │ │
-│  │   (Kemampuan menyerap beban pencemar)                 │ │
-│  │                                                       │ │
-│  │   ┌───────────────────────────────────────────────┐  │ │
-│  │   │  BAKU MUTU LINGKUNGAN HIDUP (LEVEL 3)        │  │ │
-│  │   │  (Standar numerik yang dapat diukur)         │  │ │
-│  │   │                                              │  │ │
-│  │   │  Jika terlampaui = PENCEMARAN                │  │ │
-│  │   └───────────────────────────────────────────────┘  │ │
-│  └───────────────────────────────────────────────────────┘ │
-└─────────────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚         DAYA DUKUNG LINGKUNGAN HIDUP (LEVEL 1)              â”‚
+â”‚  (Kemampuan mendukung kehidupan secara menyeluruh)          â”‚
+â”‚                                                             â”‚
+â”‚  â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â” â”‚
+â”‚  â”‚    DAYA TAMPUNG LINGKUNGAN HIDUP (LEVEL 2)            â”‚ â”‚
+â”‚  â”‚   (Kemampuan menyerap beban pencemar)                 â”‚ â”‚
+â”‚  â”‚                                                       â”‚ â”‚
+â”‚  â”‚   â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”  â”‚ â”‚
+â”‚  â”‚   â”‚  BAKU MUTU LINGKUNGAN HIDUP (LEVEL 3)        â”‚  â”‚ â”‚
+â”‚  â”‚   â”‚  (Standar numerik yang dapat diukur)         â”‚  â”‚ â”‚
+â”‚  â”‚   â”‚                                              â”‚  â”‚ â”‚
+â”‚  â”‚   â”‚  Jika terlampaui = PENCEMARAN                â”‚  â”‚ â”‚
+â”‚  â”‚   â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜  â”‚ â”‚
+â”‚  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜ â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 **Penjelasan Hierarki:**
@@ -111,7 +111,7 @@ Meskipun sering digunakan secara bersamaan, daya dukung dan daya tampung memilik
 
 **a. Daya Tampung sebagai Bagian dari Daya Dukung**
 
-Secara konseptual, daya tampung adalah komponen dari daya dukung. Lingkungan yang memiliki daya dukung tinggi pasti memiliki daya tampung yang memadai, tetapi tidak sebaliknya—lingkungan dengan daya tampung tinggi belum tentu memiliki daya dukung yang baik secara keseluruhan.
+Secara konseptual, daya tampung adalah komponen dari daya dukung. Lingkungan yang memiliki daya dukung tinggi pasti memiliki daya tampung yang memadai, tetapi tidak sebaliknyaâ€”lingkungan dengan daya tampung tinggi belum tentu memiliki daya dukung yang baik secara keseluruhan.
 
 ```
 DAYA DUKUNG = f(Daya Tampung + Ketersediaan SDA + Kualitas Ekosistem + Jasa Ekosistem + Faktor Sosial-Ekonomi)
@@ -150,7 +150,7 @@ Mari kita gunakan Danau Toba sebagai contoh konkret:
 - Kemampuan memulihkan diri (self-purification) dari polutan
 
 **Hubungan:**
-Jika keramba ikan terlalu banyak → limbah pakan berlebih → daya tampung terlampaui → eutrofikasi terjadi → kualitas air menurun → ikan mati → pariwisata terganggu → daya dukung danau menurun → kesejahteraan masyarakat turun.
+Jika keramba ikan terlalu banyak â†’ limbah pakan berlebih â†’ daya tampung terlampaui â†’ eutrofikasi terjadi â†’ kualitas air menurun â†’ ikan mati â†’ pariwisata terganggu â†’ daya dukung danau menurun â†’ kesejahteraan masyarakat turun.
 
 ### 3. Dasar Hukum Pelestarian Fungsi Lingkungan
 
@@ -177,26 +177,26 @@ Rumusan ini menunjukkan bahwa:
 Daya tampung berfungsi sebagai **ambang batas (threshold)** yang memisahkan kondisi "aman" dari kondisi "tercemar". Pencemaran terjadi ketika beban pencemar melampaui daya tampung lingkungan.
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                    SPEKTRUM KUALITAS                    │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  ├──────────┤──────────┤──────────┤──────────┤         │
-│  0%        25%        50%        75%       100%        │
-│  │          │          │          │          │         │
-│  │  AMAN    │  MODERAT │ TERCEMAR │  RUSAK   │         │
-│  │          │          │ (RINGAN) │  PARAH   │         │
-│  │          │          │          │          │         │
-│  └──────────┴─── ▲ ────┴──────────┴──────────┘         │
-│                  │                                      │
-│          DAYA TAMPUNG                                   │
-│     (Batas Maksimum Aman)                              │
-│                                                         │
-│  Beban < Daya Tampung = TIDAK TERCEMAR                 │
-│  Beban = Daya Tampung = BATAS KRITIS                   │
-│  Beban > Daya Tampung = TERCEMAR                       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                    SPEKTRUM KUALITAS                    â”‚
+â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+â”‚                                                         â”‚
+â”‚  â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤         â”‚
+â”‚  0%        25%        50%        75%       100%        â”‚
+â”‚  â”‚          â”‚          â”‚          â”‚          â”‚         â”‚
+â”‚  â”‚  AMAN    â”‚  MODERAT â”‚ TERCEMAR â”‚  RUSAK   â”‚         â”‚
+â”‚  â”‚          â”‚          â”‚ (RINGAN) â”‚  PARAH   â”‚         â”‚
+â”‚  â”‚          â”‚          â”‚          â”‚          â”‚         â”‚
+â”‚  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€ â–² â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜         â”‚
+â”‚                  â”‚                                      â”‚
+â”‚          DAYA TAMPUNG                                   â”‚
+â”‚     (Batas Maksimum Aman)                              â”‚
+â”‚                                                         â”‚
+â”‚  Beban < Daya Tampung = TIDAK TERCEMAR                 â”‚
+â”‚  Beban = Daya Tampung = BATAS KRITIS                   â”‚
+â”‚  Beban > Daya Tampung = TERCEMAR                       â”‚
+â”‚                                                         â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 ### 2. Mekanisme Terjadinya Pencemaran
@@ -204,12 +204,12 @@ Daya tampung berfungsi sebagai **ambang batas (threshold)** yang memisahkan kond
 **a. Model Matematika Sederhana**
 
 ```
-Status Lingkungan = Beban Pencemar ÷ Daya Tampung
+Status Lingkungan = Beban Pencemar Ã· Daya Tampung
 
 Jika:
-- Rasio < 1,0  → Tidak Tercemar (di bawah daya tampung)
-- Rasio = 1,0  → Batas Kritis (pada daya tampung)
-- Rasio > 1,0  → Tercemar (melampaui daya tampung)
+- Rasio < 1,0  â†’ Tidak Tercemar (di bawah daya tampung)
+- Rasio = 1,0  â†’ Batas Kritis (pada daya tampung)
+- Rasio > 1,0  â†’ Tercemar (melampaui daya tampung)
 ```
 
 **b. Proses Bertahap**
@@ -242,17 +242,17 @@ Daya tampung adalah konsep ekologis yang abstrak. Baku mutu adalah terjemahan hu
 
 ```
 DAYA TAMPUNG (Konsep Ekologis)
-         ↓
+         â†“
     Kajian Ilmiah
     (Modeling, Monitoring, Analysis)
-         ↓
+         â†“
 BAKU MUTU LINGKUNGAN HIDUP (Standar Hukum)
-         ↓
+         â†“
     Angka Terukur & Mengikat
-    (mg/L, µg/m³, dB)
-         ↓
+    (mg/L, Âµg/mÂ³, dB)
+         â†“
 COMPLIANCE (Pemenuhan)
-         ↓
+         â†“
     Pencegahan Pencemaran
 ```
 
@@ -262,24 +262,24 @@ COMPLIANCE (Pemenuhan)
 |---------------------|------------|---------------|-----------------|
 | **Baku Mutu Air** | Menetapkan kualitas air yang harus dipertahankan pada badan air | pH, BOD, COD, TSS, DO, Logam Berat | PP 22/2021 |
 | **Baku Mutu Air Limbah** | Menetapkan kualitas maksimum limbah yang boleh dibuang ke badan air | BOD, COD, TSS per jenis industri | Permen LHK No. 68/2016 |
-| **Baku Mutu Udara Ambien** | Menetapkan kualitas udara yang harus dijaga | PM2.5, PM10, SO₂, NO₂, O₃, CO | PP 22/2021 |
-| **Baku Mutu Emisi** | Menetapkan kualitas maksimum gas buang yang boleh dilepaskan | Partikulat, SO₂, NO₂, Opasitas | Permen LHK |
+| **Baku Mutu Udara Ambien** | Menetapkan kualitas udara yang harus dijaga | PM2.5, PM10, SOâ‚‚, NOâ‚‚, Oâ‚ƒ, CO | PP 22/2021 |
+| **Baku Mutu Emisi** | Menetapkan kualitas maksimum gas buang yang boleh dilepaskan | Partikulat, SOâ‚‚, NOâ‚‚, Opasitas | Permen LHK |
 | **Baku Mutu Air Laut** | Menetapkan kualitas air laut berdasarkan peruntukan | Salinitas, TSS, pH, Logam Berat, Minyak & Lemak | Kepmen LH No. 51/2004 |
 
 **c. Logika Hukum**
 
 ```
 1. Pemerintah menetapkan DAYA TAMPUNG berdasarkan kajian ilmiah
-        ↓
+        â†“
 2. Daya tampung diterjemahkan menjadi BAKU MUTU
-        ↓
+        â†“
 3. Baku mutu ditetapkan dalam PERATURAN (mengikat)
-        ↓
+        â†“
 4. Pelaku usaha WAJIB mematuhi baku mutu
-        ↓
-5. Jika baku mutu tidak dipenuhi → PENCEMARAN terjadi
-        ↓
-6. Pencemaran → PELANGGARAN HUKUM → SANKSI
+        â†“
+5. Jika baku mutu tidak dipenuhi â†’ PENCEMARAN terjadi
+        â†“
+6. Pencemaran â†’ PELANGGARAN HUKUM â†’ SANKSI
 ```
 
 ### 4. Contoh Konkret: Pencemaran Sungai Citarum
@@ -300,21 +300,21 @@ Misalkan hasil kajian: Daya Tampung = 50 ton BOD/hari
 - 5 Pabrik Tekstil    : 30 ton BOD/hari
 - 200 Industri Kecil  : 25 ton BOD/hari
 - Limbah Domestik     : 40 ton BOD/hari
-  ───────────────────────────────────
+  â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   TOTAL               : 95 ton BOD/hari
 ```
 
 **3. Perbandingan:**
 ```
-Rasio = 95 ton ÷ 50 ton = 1,9
+Rasio = 95 ton Ã· 50 ton = 1,9
 
-Rasio > 1,0 → TERCEMAR (melampaui daya tampung hampir 2x lipat)
+Rasio > 1,0 â†’ TERCEMAR (melampaui daya tampung hampir 2x lipat)
 ```
 
 **4. Indikator Pencemaran:**
 - Monitoring kualitas air menunjukkan BOD = 20 mg/L
 - Baku Mutu Air Kelas II (untuk Citarum) = 3 mg/L
-- 20 mg/L > 3 mg/L → Melampaui baku mutu → STATUS: TERCEMAR
+- 20 mg/L > 3 mg/L â†’ Melampaui baku mutu â†’ STATUS: TERCEMAR
 
 **5. Dampak:**
 - Air tidak dapat digunakan untuk air baku air minum
@@ -364,22 +364,22 @@ graph TD
 
 | **Jenis Pencemaran** | **Dampak pada Daya Dukung** | **Contoh Konkret** |
 |----------------------|-----------------------------|--------------------|
-| **Pencemaran Air** | - Mengurangi ketersediaan air bersih<br>- Mematikan biota air<br>- Mengurangi sumber pangan | Pencemaran Sungai Citarum → 5 juta orang kesulitan air bersih |
-| **Pencemaran Udara** | - Mengganggu kesehatan manusia<br>- Menurunkan produktivitas pertanian<br>- Merusak bangunan | Polusi Jakarta → ISPA meningkat 40%, produktivitas kerja turun |
-| **Pencemaran Tanah** | - Mengurangi lahan produktif<br>- Kontaminasi pangan<br>- Menurunkan nilai properti | Kontaminasi logam berat → lahan pertanian tidak bisa digunakan |
-| **Pencemaran Laut** | - Merusak terumbu karang<br>- Mengurangi stok ikan<br>- Menghancurkan pariwisata | Teluk Jakarta → nelayan kehilangan 60% pendapatan |
+| **Pencemaran Air** | - Mengurangi ketersediaan air bersih<br>- Mematikan biota air<br>- Mengurangi sumber pangan | Pencemaran Sungai Citarum â†’ 5 juta orang kesulitan air bersih |
+| **Pencemaran Udara** | - Mengganggu kesehatan manusia<br>- Menurunkan produktivitas pertanian<br>- Merusak bangunan | Polusi Jakarta â†’ ISPA meningkat 40%, produktivitas kerja turun |
+| **Pencemaran Tanah** | - Mengurangi lahan produktif<br>- Kontaminasi pangan<br>- Menurunkan nilai properti | Kontaminasi logam berat â†’ lahan pertanian tidak bisa digunakan |
+| **Pencemaran Laut** | - Merusak terumbu karang<br>- Mengurangi stok ikan<br>- Menghancurkan pariwisata | Teluk Jakarta â†’ nelayan kehilangan 60% pendapatan |
 
 **b. Efek Cascade (Berantai)**
 
 ```
 Pencemaran Air
-    ↓
+    â†“
 Ikan Mati
-    ↓
+    â†“
 Nelayan Kehilangan Mata Pencaharian
-    ↓
+    â†“
 Migrasi Penduduk
-    ↓
+    â†“
 Daya Dukung Wilayah Turun (Populasi yang Dapat Didukung Berkurang)
 ```
 
@@ -403,20 +403,20 @@ Daya Dukung Wilayah Turun (Populasi yang Dapat Didukung Berkurang)
 ```
 Beban Pencemar yang Masuk ke Teluk Jakarta:
 
-┌─────────────────────────────────────────────┐
-│ Sumber Pencemar          │ Beban (ton/hari) │
-├─────────────────────────────────────────────┤
-│ 13 Sungai (limbah domestik)  │     200      │
-│ Industri (13.000 pabrik)     │     150      │
-│ Pelabuhan (minyak, logam)    │      30      │
-│ Aktivitas di teluk           │      20      │
-├─────────────────────────────────────────────┤
-│ TOTAL                        │     400      │
-└─────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚ Sumber Pencemar          â”‚ Beban (ton/hari) â”‚
+â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+â”‚ 13 Sungai (limbah domestik)  â”‚     200      â”‚
+â”‚ Industri (13.000 pabrik)     â”‚     150      â”‚
+â”‚ Pelabuhan (minyak, logam)    â”‚      30      â”‚
+â”‚ Aktivitas di teluk           â”‚      20      â”‚
+â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+â”‚ TOTAL                        â”‚     400      â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 
 Daya Tampung: 100 ton/hari
 Beban Aktual: 400 ton/hari
-Rasio: 4,0 → Tercemar Berat (4x lipat)
+Rasio: 4,0 â†’ Tercemar Berat (4x lipat)
 ```
 
 **C. Kondisi Terkini (2020-an)**
@@ -452,38 +452,38 @@ Pencemaran Masif + Waktu Lama = Degradasi Daya Dukung yang Parah
 Tidak semua degradasi dapat dipulihkan. Ada tingkatan reversibilitas:
 
 ```
-┌───────────────────────────────────────────────────────┐
-│              TINGKAT REVERSIBILITAS                   │
-├───────────────────────────────────────────────────────┤
-│                                                       │
-│  REVERSIBLE (Dapat Dipulihkan)                       │
-│  ├─ Pencemaran Ringan (Rasio 1,0 - 1,5)             │
-│  ├─ Durasi Pendek (< 5 tahun)                       │
-│  └─ Ekosistem Masih Berfungsi                       │
-│     Contoh: Sungai tercemar limbah organik →        │
-│     Jika sumber dihentikan, pulih dalam 2-3 tahun   │
-│                                                       │
-│  PARTIALLY REVERSIBLE (Dapat Dipulihkan Sebagian)   │
-│  ├─ Pencemaran Sedang (Rasio 1,5 - 3,0)            │
-│  ├─ Durasi Menengah (5-15 tahun)                    │
-│  └─ Ekosistem Rusak Parsial                         │
-│     Contoh: Danau eutrofikasi → Butuh dekade +      │
-│     investasi besar untuk pemulihan parsial         │
-│                                                       │
-│  IRREVERSIBLE (Tidak Dapat Dipulihkan)              │
-│  ├─ Pencemaran Berat (Rasio > 3,0)                  │
-│  ├─ Durasi Panjang (> 15 tahun)                     │
-│  └─ Ekosistem Collapse                              │
-│     Contoh: Kontaminasi radioaktif, Logam berat     │
-│     di sedimen → Pemulihan nyaris mustahil          │
-│                                                       │
-└───────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚              TINGKAT REVERSIBILITAS                   â”‚
+â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+â”‚                                                       â”‚
+â”‚  REVERSIBLE (Dapat Dipulihkan)                       â”‚
+â”‚  â”œâ”€ Pencemaran Ringan (Rasio 1,0 - 1,5)             â”‚
+â”‚  â”œâ”€ Durasi Pendek (< 5 tahun)                       â”‚
+â”‚  â””â”€ Ekosistem Masih Berfungsi                       â”‚
+â”‚     Contoh: Sungai tercemar limbah organik â†’        â”‚
+â”‚     Jika sumber dihentikan, pulih dalam 2-3 tahun   â”‚
+â”‚                                                       â”‚
+â”‚  PARTIALLY REVERSIBLE (Dapat Dipulihkan Sebagian)   â”‚
+â”‚  â”œâ”€ Pencemaran Sedang (Rasio 1,5 - 3,0)            â”‚
+â”‚  â”œâ”€ Durasi Menengah (5-15 tahun)                    â”‚
+â”‚  â””â”€ Ekosistem Rusak Parsial                         â”‚
+â”‚     Contoh: Danau eutrofikasi â†’ Butuh dekade +      â”‚
+â”‚     investasi besar untuk pemulihan parsial         â”‚
+â”‚                                                       â”‚
+â”‚  IRREVERSIBLE (Tidak Dapat Dipulihkan)              â”‚
+â”‚  â”œâ”€ Pencemaran Berat (Rasio > 3,0)                  â”‚
+â”‚  â”œâ”€ Durasi Panjang (> 15 tahun)                     â”‚
+â”‚  â””â”€ Ekosistem Collapse                              â”‚
+â”‚     Contoh: Kontaminasi radioaktif, Logam berat     â”‚
+â”‚     di sedimen â†’ Pemulihan nyaris mustahil          â”‚
+â”‚                                                       â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 **Implikasi Hukum:**
 - UU 32/2009 mengutamakan **pencegahan** (preventif) daripada pemulihan
 - Pemulihan sangat mahal dan sering tidak sempurna
-- Prinsip "Polluter Pays" → Pencemar wajib menanggung biaya pemulihan
+- Prinsip "Polluter Pays" â†’ Pencemar wajib menanggung biaya pemulihan
 - Dana jaminan pemulihan wajib disediakan (Pasal 55)
 
 ---
@@ -564,34 +564,34 @@ graph TD
 Sistem hukum lingkungan Indonesia dirancang untuk memutus siklus degradasi melalui berbagai instrumen:
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│           INSTRUMEN HUKUM PENCEGAHAN                    │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  LEVEL STRATEGIS (Pencegahan Dini)                     │
-│  ├─ KLHS (Pasal 15-17 UU 32/2009)                      │
-│  │   → Memastikan kebijakan/rencana tidak melampaui    │
-│  │      daya dukung dan daya tampung                   │
-│  └─ Tata Ruang (UU 26/2007)                            │
-│      → Mengalokasikan ruang sesuai daya dukung         │
-│                                                         │
-│  LEVEL PROYEK (Pencegahan Operasional)                 │
-│  ├─ AMDAL/UKL-UPL (Pasal 22-33)                        │
-│  │   → Mengkaji dampak terhadap daya dukung/tampung    │
-│  ├─ Izin Lingkungan (Pasal 36-40)                      │
-│  │   → Syarat untuk beroperasi                         │
-│  └─ Izin PPLH (Pasal 41)                               │
-│      → Mengatur pembuangan limbah                      │
-│                                                         │
-│  LEVEL OPERASIONAL (Pengendalian Berkelanjutan)        │
-│  ├─ Baku Mutu (Pasal 20)                               │
-│  │   → Standar yang wajib dipenuhi                     │
-│  ├─ Pemantauan (Pasal 63)                              │
-│  │   → Monitoring compliance                           │
-│  └─ Penegakan Hukum (Pasal 76-119)                     │
-│      → Sanksi administratif, perdata, pidana           │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚           INSTRUMEN HUKUM PENCEGAHAN                    â”‚
+â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+â”‚                                                         â”‚
+â”‚  LEVEL STRATEGIS (Pencegahan Dini)                     â”‚
+â”‚  â”œâ”€ KLHS (Pasal 15-17 UU 32/2009)                      â”‚
+â”‚  â”‚   â†’ Memastikan kebijakan/rencana tidak melampaui    â”‚
+â”‚  â”‚      daya dukung dan daya tampung                   â”‚
+â”‚  â””â”€ Tata Ruang (UU 26/2007)                            â”‚
+â”‚      â†’ Mengalokasikan ruang sesuai daya dukung         â”‚
+â”‚                                                         â”‚
+â”‚  LEVEL PROYEK (Pencegahan Operasional)                 â”‚
+â”‚  â”œâ”€ AMDAL/UKL-UPL (Pasal 22-33)                        â”‚
+â”‚  â”‚   â†’ Mengkaji dampak terhadap daya dukung/tampung    â”‚
+â”‚  â”œâ”€ Izin Lingkungan (Pasal 36-40)                      â”‚
+â”‚  â”‚   â†’ Syarat untuk beroperasi                         â”‚
+â”‚  â””â”€ Izin PPLH (Pasal 41)                               â”‚
+â”‚      â†’ Mengatur pembuangan limbah                      â”‚
+â”‚                                                         â”‚
+â”‚  LEVEL OPERASIONAL (Pengendalian Berkelanjutan)        â”‚
+â”‚  â”œâ”€ Baku Mutu (Pasal 20)                               â”‚
+â”‚  â”‚   â†’ Standar yang wajib dipenuhi                     â”‚
+â”‚  â”œâ”€ Pemantauan (Pasal 63)                              â”‚
+â”‚  â”‚   â†’ Monitoring compliance                           â”‚
+â”‚  â””â”€ Penegakan Hukum (Pasal 76-119)                     â”‚
+â”‚      â†’ Sanksi administratif, perdata, pidana           â”‚
+â”‚                                                         â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 ---
@@ -628,7 +628,7 @@ Cikarang memiliki 1.500 industri manufaktur yang beroperasi di area 9.000 hektar
 
 **1. Daya Dukung Awal:**
 - Wilayah mampu mendukung 100.000 penduduk
-- Ketersediaan air tanah: 50 juta m³/tahun
+- Ketersediaan air tanah: 50 juta mÂ³/tahun
 - Lahan pertanian produktif: 5.000 hektar
 
 **2. Daya Tampung:**
@@ -636,8 +636,8 @@ Cikarang memiliki 1.500 industri manufaktur yang beroperasi di area 9.000 hektar
 - Udara ambien: kapasitas dispersi PM2.5 terbatas (wilayah relatif tertutup)
 
 **3. Beban Pencemar Aktual:**
-- Limbah cair industri: 200 ton BOD/hari → 2,5x daya tampung air
-- Emisi udara: PM2.5 80 µg/m³ → 2x baku mutu (65 µg/m³)
+- Limbah cair industri: 200 ton BOD/hari â†’ 2,5x daya tampung air
+- Emisi udara: PM2.5 80 Âµg/mÂ³ â†’ 2x baku mutu (65 Âµg/mÂ³)
 
 **4. Pencemaran yang Terjadi:**
 - **Air:** Sungai tercemar berat, warna hitam, bau menyengat
@@ -648,7 +648,7 @@ Cikarang memiliki 1.500 industri manufaktur yang beroperasi di area 9.000 hektar
 - Ketersediaan air bersih menurun 70%
 - Lahan pertanian menyusut 80% (tidak produktif)
 - Masalah kesehatan: ISPA naik 200%
-- Daya dukung turun → hanya mampu mendukung 80.000 penduduk dengan kualitas hidup rendah
+- Daya dukung turun â†’ hanya mampu mendukung 80.000 penduduk dengan kualitas hidup rendah
 
 **6. Respons Hukum:**
 - Gubernur Jawa Barat menetapkan baku mutu air limbah lebih ketat (50% dari standar nasional)
@@ -677,12 +677,12 @@ Pekanbaru dan sekitarnya mengalami kabut asap hampir setiap tahun akibat kebakar
 - Daya tampung PM10: sekitar 50 ton/hari (dalam kondisi normal)
 
 **3. Beban Pencemar saat Kabut Asap:**
-- Kebakaran hutan → Emisi PM10: 500 ton/hari → 10x daya tampung
-- Emisi PM2.5: 300 ton/hari → 15x daya tampung
+- Kebakaran hutan â†’ Emisi PM10: 500 ton/hari â†’ 10x daya tampung
+- Emisi PM2.5: 300 ton/hari â†’ 15x daya tampung
 
 **4. Pencemaran:**
-- PM10 mencapai 600 µg/m³ (baku mutu: 150 µg/m³)
-- PM2.5 mencapai 250 µg/m³ (baku mutu: 55 µg/m³)
+- PM10 mencapai 600 Âµg/mÂ³ (baku mutu: 150 Âµg/mÂ³)
+- PM2.5 mencapai 250 Âµg/mÂ³ (baku mutu: 55 Âµg/mÂ³)
 - Indeks Standar Pencemar Udara (ISPU): 300+ (Berbahaya)
 
 **5. Dampak pada Daya Dukung:**
@@ -692,7 +692,7 @@ Pekanbaru dan sekitarnya mengalami kabut asap hampir setiap tahun akibat kebakar
 - **Transportasi:** Bandara ditutup, jalan raya berbahaya
 - **Migrasi:** 100.000 orang mengungsi ke daerah lain
 
-**Daya dukung turun drastis sementara** → Kota tidak mampu mendukung kehidupan normal
+**Daya dukung turun drastis sementara** â†’ Kota tidak mampu mendukung kehidupan normal
 
 **6. Respons Hukum:**
 - Status Tanggap Darurat Bencana Asap
@@ -775,7 +775,7 @@ Danau Maninjau (Sumatera Barat) dengan luas 9.950 ha adalah danau vulkanik tertu
 
 **3. Beban Pencemar:**
 - KJA pada puncaknya (2015): 18.000 unit
-- Limbah pakan ikan → 40 ton BOD/hari → 2,7x daya tampung
+- Limbah pakan ikan â†’ 40 ton BOD/hari â†’ 2,7x daya tampung
 - Nutrient loading (N dan P) berlebihan
 
 **4. Pencemaran yang Terjadi:**
@@ -783,7 +783,7 @@ Danau Maninjau (Sumatera Barat) dengan luas 9.950 ha adalah danau vulkanik tertu
 - Eutrofikasi parah
 - Blooming alga (HABs - Harmful Algal Blooms)
 - Kadar oksigen rendah (anoxic event)
-- **2016:** Kematian ikan massal (tubo lakusta) → 2.000 ton ikan mati
+- **2016:** Kematian ikan massal (tubo lakusta) â†’ 2.000 ton ikan mati
 
 **5. Dampak pada Daya Dukung:**
 - Kerugian ekonomi: Rp 200 miliar
@@ -793,7 +793,7 @@ Danau Maninjau (Sumatera Barat) dengan luas 9.950 ha adalah danau vulkanik tertu
 - Daya dukung danau menurun signifikan
 
 **6. Respons Hukum:**
-- **2017:** Pemerintah daerah mengurangi KJA secara paksa dari 18.000 → 6.000 unit (sesuai daya tampung)
+- **2017:** Pemerintah daerah mengurangi KJA secara paksa dari 18.000 â†’ 6.000 unit (sesuai daya tampung)
 - Penetapan zonasi ketat
 - Larangan KJA di zona inti
 - Monitoring ketat kualitas air
@@ -926,9 +926,9 @@ Sistem hukum lingkungan Indonesia mengatur ketiga konsep ini dengan:
 ---
 
 **Navigasi:**
-- [[BAB_II_Definisi_Dasar_Hukum|← Bagian II: Definisi dan Dasar Hukum]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
-- [[BAB_IV_Mekanisme_Hukum_Operasional|Lanjut ke Bagian IV: Mekanisme Hukum Operasional →]]
+- [[BAB_II_Definisi_Dasar_Hukum|â† Bagian II: Definisi dan Dasar Hukum]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
+- [[BAB_IV_Mekanisme_Hukum_Operasional|Lanjut ke Bagian IV: Mekanisme Hukum Operasional â†’]]
 
 ---
 
@@ -954,4 +954,5 @@ Gunakan section ini sebagai materi inti untuk sesi 2-3 pertemuan (4-6 jam), deng
 *The **Agentic RAG Orchestration Framework** represents a novel approach to legal education content generation, combining advanced natural language processing, regulatory database retrieval, and multi-agent coordination to produce comprehensive, well-structured, and legally sound educational materials. This framework is particularly optimized for the complexities of Indonesian environmental law, including UU 32/2009 on Environmental Protection and Management, PP 22/2021, and related ministerial regulations.*
 
 *Framework Architecture & Development: **Mohamad Mova Al'Afghani** (2025)*
-*© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+*Â© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+

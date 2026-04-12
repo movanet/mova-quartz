@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -117,4 +117,5 @@ Itulah akhir dari catatan kuliah ini. Terima kasih telah mengikuti sampai selesa
 7. Oodles, 'Intellectual Property Rights Management with Blockchain' (Oodles Blog, 2023) <https://blockchain.oodles.io/blog/intellectual-property-rights-management-blockchain/> accessed 17 June 2023
 
 8. Mondaq, 'Blockchain and Intellectual Property Rights' (Mondaq, 2023) <https://www.mondaq.com/fin-tech/1279238/blockchain-and-intellectual-property-rights> accessed 17 June 2023
+
 

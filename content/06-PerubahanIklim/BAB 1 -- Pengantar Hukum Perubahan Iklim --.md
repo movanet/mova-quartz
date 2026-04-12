@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "1"
 judul: "Pengantar Hukum Perubahan Iklim"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "90 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - pengantar
   - climate-science
   - climate-justice
@@ -36,7 +36,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Perubahan iklim merupakan tantangan eksistensial terbesar yang dihadapi umat manusia pada abad ke-21. Dampaknya tidak mengenal batas negara dan mempengaruhi seluruh aspek kehidupan—dari ketahanan pangan hingga keamanan nasional. Bab ini akan mengajak Anda memahami bagaimana ilmu pengetahuan tentang perubahan iklim berkembang, mengapa keadilan iklim menjadi isu sentral, dan bagaimana hukum berperan dalam upaya global mengatasi krisis ini.
+Perubahan iklim merupakan tantangan eksistensial terbesar yang dihadapi umat manusia pada abad ke-21. Dampaknya tidak mengenal batas negara dan mempengaruhi seluruh aspek kehidupanâ€”dari ketahanan pangan hingga keamanan nasional. Bab ini akan mengajak Anda memahami bagaimana ilmu pengetahuan tentang perubahan iklim berkembang, mengapa keadilan iklim menjadi isu sentral, dan bagaimana hukum berperan dalam upaya global mengatasi krisis ini.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -48,7 +48,7 @@ graph LR
     C --> D
 ```
 
-Bab ini merupakan fondasi untuk seluruh materi dalam buku ini. Pemahaman tentang basis ilmiah dan keadilan iklim akan mempermudah Anda memahami [[Buku-Ajar-Hukum-Perubahan-Iklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|prinsip-prinsip hukum lingkungan]] dan [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|arsitektur rezim iklim internasional]] di bab-bab selanjutnya.
+Bab ini merupakan fondasi untuk seluruh materi dalam buku ini. Pemahaman tentang basis ilmiah dan keadilan iklim akan mempermudah Anda memahami [[Buku-Ajar-Hukum-06-PerubahanIklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|prinsip-prinsip hukum lingkungan]] dan [[Buku-Ajar-Hukum-06-PerubahanIklim-03-Arsitektur-Rezim-Iklim_BAB-03|arsitektur rezim iklim internasional]] di bab-bab selanjutnya.
 
 ### 5. Peta Konsep Bab
 
@@ -77,19 +77,19 @@ mindmap
 
 ### 1. Ilmu Perubahan Iklim: Dari Laboratorium ke Ruang Sidang
 
-Apakah Anda pernah bertanya-tanya kapan manusia pertama kali menyadari bahwa aktivitas mereka dapat mengubah iklim bumi? Jawabannya mungkin akan mengejutkan Anda—pengetahuan ini sudah ada sejak lebih dari satu abad yang lalu. Pemahaman ilmiah tentang perubahan iklim telah berkembang secara bertahap selama hampir dua abad, dimulai dari eksperimen laboratorium sederhana hingga menjadi konsensus ilmiah global yang tak terbantahkan.[^1] Perjalanan dari penemuan ilmiah menuju pembentukan rezim hukum internasional merupakan salah satu contoh paling dramatis tentang bagaimana sains dapat mempengaruhi tata kelola global.[^2]
+Apakah Anda pernah bertanya-tanya kapan manusia pertama kali menyadari bahwa aktivitas mereka dapat mengubah iklim bumi? Jawabannya mungkin akan mengejutkan Andaâ€”pengetahuan ini sudah ada sejak lebih dari satu abad yang lalu. Pemahaman ilmiah tentang perubahan iklim telah berkembang secara bertahap selama hampir dua abad, dimulai dari eksperimen laboratorium sederhana hingga menjadi konsensus ilmiah global yang tak terbantahkan.[^1] Perjalanan dari penemuan ilmiah menuju pembentukan rezim hukum internasional merupakan salah satu contoh paling dramatis tentang bagaimana sains dapat mempengaruhi tata kelola global.[^2]
 
 #### 1.1 Sejarah Penemuan Efek Rumah Kaca
 
-Pada tahun 1896, ilmuwan Swedia Svante Arrhenius pertama kali menghitung bahwa pembakaran bahan bakar fosil dapat meningkatkan suhu bumi.[^3] Arrhenius, yang kemudian meraih Nobel Kimia pada 1903, mengestimasi bahwa pelipatgandaan konsentrasi CO₂ akan menyebabkan kenaikan suhu global sekitar 5-6 derajat Celsius—estimasi yang terbukti cukup mendekati proyeksi modern.[^4] Namun, baru pada pertengahan abad ke-20, komunitas ilmiah mulai serius meneliti fenomena ini. Roger Revelle dan Hans Suess pada tahun 1957 mempublikasikan penelitian mereka yang menunjukkan bahwa lautan tidak mampu menyerap seluruh CO₂ yang dilepaskan manusia, sehingga gas tersebut akan terakumulasi di atmosfer.[^5]
+Pada tahun 1896, ilmuwan Swedia Svante Arrhenius pertama kali menghitung bahwa pembakaran bahan bakar fosil dapat meningkatkan suhu bumi.[^3] Arrhenius, yang kemudian meraih Nobel Kimia pada 1903, mengestimasi bahwa pelipatgandaan konsentrasi COâ‚‚ akan menyebabkan kenaikan suhu global sekitar 5-6 derajat Celsiusâ€”estimasi yang terbukti cukup mendekati proyeksi modern.[^4] Namun, baru pada pertengahan abad ke-20, komunitas ilmiah mulai serius meneliti fenomena ini. Roger Revelle dan Hans Suess pada tahun 1957 mempublikasikan penelitian mereka yang menunjukkan bahwa lautan tidak mampu menyerap seluruh COâ‚‚ yang dilepaskan manusia, sehingga gas tersebut akan terakumulasi di atmosfer.[^5]
 
 > [!info] **Definisi**
-> **Efek rumah kaca** (*greenhouse effect*): Proses alami di mana gas-gas tertentu di atmosfer (CO₂, CH₄, N₂O, dan lainnya) menyerap dan memancarkan kembali radiasi inframerah, sehingga menghangatkan permukaan bumi.
+> **Efek rumah kaca** (*greenhouse effect*): Proses alami di mana gas-gas tertentu di atmosfer (COâ‚‚, CHâ‚„, Nâ‚‚O, dan lainnya) menyerap dan memancarkan kembali radiasi inframerah, sehingga menghangatkan permukaan bumi.
 
-Tahun 1958 menjadi titik balik ketika Charles David Keeling mulai mengukur konsentrasi CO₂ di atmosfer dari Observatorium Mauna Loa, Hawaii.[^6] Data yang dikumpulkannya—kini dikenal sebagai "Kurva Keeling"—menunjukkan peningkatan konsentrasi CO₂ yang konsisten dari tahun ke tahun. Pengukuran Keeling memberikan bukti empiris pertama yang tak terbantahkan bahwa konsentrasi CO₂ atmosfer terus meningkat sebagai akibat langsung dari aktivitas manusia, khususnya pembakaran bahan bakar fosil.[^7] Kurva Keeling telah menjadi salah satu ikon terpenting dalam sejarah ilmu iklim dan kerap dijadikan bukti dalam berbagai litigasi iklim di seluruh dunia.[^8]
+Tahun 1958 menjadi titik balik ketika Charles David Keeling mulai mengukur konsentrasi COâ‚‚ di atmosfer dari Observatorium Mauna Loa, Hawaii.[^6] Data yang dikumpulkannyaâ€”kini dikenal sebagai "Kurva Keeling"â€”menunjukkan peningkatan konsentrasi COâ‚‚ yang konsisten dari tahun ke tahun. Pengukuran Keeling memberikan bukti empiris pertama yang tak terbantahkan bahwa konsentrasi COâ‚‚ atmosfer terus meningkat sebagai akibat langsung dari aktivitas manusia, khususnya pembakaran bahan bakar fosil.[^7] Kurva Keeling telah menjadi salah satu ikon terpenting dalam sejarah ilmu iklim dan kerap dijadikan bukti dalam berbagai litigasi iklim di seluruh dunia.[^8]
 
 ```
-Konsentrasi CO₂ Atmosfer (ppm):
+Konsentrasi COâ‚‚ Atmosfer (ppm):
 - 1958: 315 ppm
 - 1990: 354 ppm
 - 2015: 400 ppm
@@ -97,7 +97,7 @@ Konsentrasi CO₂ Atmosfer (ppm):
 ```
 
 > [!tip] **Kotak Pengayaan: Industri Fosil Sudah Tahu Sejak 1982**
-> Dokumen internal Exxon Corporation yang bocor ke publik menunjukkan bahwa perusahaan minyak terbesar di dunia telah mengetahui dampak perubahan iklim sejak awal 1980-an. Para ilmuwan Exxon bahkan membuat proyeksi pemanasan global yang terbukti sangat akurat. Namun, alih-alih mengambil tindakan, industri fosil justru mendanai kampanye penyangkalan iklim selama puluhan tahun. Dokumen ini kini menjadi bukti kunci dalam berbagai [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|litigasi iklim]] di seluruh dunia.
+> Dokumen internal Exxon Corporation yang bocor ke publik menunjukkan bahwa perusahaan minyak terbesar di dunia telah mengetahui dampak perubahan iklim sejak awal 1980-an. Para ilmuwan Exxon bahkan membuat proyeksi pemanasan global yang terbukti sangat akurat. Namun, alih-alih mengambil tindakan, industri fosil justru mendanai kampanye penyangkalan iklim selama puluhan tahun. Dokumen ini kini menjadi bukti kunci dalam berbagai [[Buku-Ajar-Hukum-06-PerubahanIklim-11-Litigasi-06-PerubahanIklim_BAB-11|litigasi iklim]] di seluruh dunia.
 >
 > Lihat: [[05-Laporan_Exxon_Climate_Report_1982]] dan [[05-Laporan_Shell_Greenhouse_Report]]
 
@@ -118,15 +118,15 @@ IPCC tidak melakukan penelitian sendiri, melainkan mengkompilasi dan mengevaluas
 
 **Tabel 1.1.** Evolusi kepastian ilmiah dalam laporan-laporan IPCC
 
-Laporan Sintesis AR6 yang dirilis pada 2023 menyimpulkan beberapa temuan yang memiliki implikasi hukum sangat signifikan. Pertama, pemanasan global telah mencapai 1,1 derajat Celsius di atas tingkat pra-industri, menandakan bahwa separuh dari "anggaran karbon" untuk membatasi pemanasan pada 1,5 derajat Celsius sudah terpakai. Kedua, aktivitas manusia secara "tidak dapat disangkal" (*unequivocally*) menjadi penyebab utama pemanasan tersebut—sebuah pernyataan dengan tingkat kepastian ilmiah tertinggi yang pernah dikeluarkan IPCC.[^13] Ketiga, batas 1,5 derajat Celsius kemungkinan akan terlampaui pada dekade 2030-an kecuali ada pengurangan emisi yang drastis dan segera. Keempat, pengurangan emisi sebesar 43 persen pada tahun 2030 diperlukan untuk tetap berada pada jalur 1,5 derajat Celsius, yang berarti transformasi fundamental terhadap sistem energi, transportasi, dan industri global harus terjadi dalam waktu yang sangat singkat.[^14]
+Laporan Sintesis AR6 yang dirilis pada 2023 menyimpulkan beberapa temuan yang memiliki implikasi hukum sangat signifikan. Pertama, pemanasan global telah mencapai 1,1 derajat Celsius di atas tingkat pra-industri, menandakan bahwa separuh dari "anggaran karbon" untuk membatasi pemanasan pada 1,5 derajat Celsius sudah terpakai. Kedua, aktivitas manusia secara "tidak dapat disangkal" (*unequivocally*) menjadi penyebab utama pemanasan tersebutâ€”sebuah pernyataan dengan tingkat kepastian ilmiah tertinggi yang pernah dikeluarkan IPCC.[^13] Ketiga, batas 1,5 derajat Celsius kemungkinan akan terlampaui pada dekade 2030-an kecuali ada pengurangan emisi yang drastis dan segera. Keempat, pengurangan emisi sebesar 43 persen pada tahun 2030 diperlukan untuk tetap berada pada jalur 1,5 derajat Celsius, yang berarti transformasi fundamental terhadap sistem energi, transportasi, dan industri global harus terjadi dalam waktu yang sangat singkat.[^14]
 
 > [!quote] **Kutipan**
 > "It is unequivocal that human influence has warmed the atmosphere, ocean and land."
-> — *IPCC AR6 Synthesis Report, 2023*
+> â€” *IPCC AR6 Synthesis Report, 2023*
 
 #### 1.3 Dampak dan Risiko Global
 
-Perubahan iklim bukan lagi ancaman masa depan—dampaknya sudah terasa di seluruh dunia saat ini dan akan semakin intensif seiring dengan meningkatnya suhu global. IPCC telah mengidentifikasi bahwa setiap kenaikan suhu tambahan akan mengakibatkan peningkatan frekuensi dan intensitas peristiwa cuaca ekstrem, termasuk gelombang panas, banjir, kekeringan, dan siklon tropis.[^15] Indonesia, sebagai negara kepulauan tropis dengan garis pantai sepanjang lebih dari 80.000 kilometer, sangat rentan terhadap berbagai dampak ini. Studi Bank Dunia memproyeksikan bahwa tanpa tindakan adaptasi yang memadai, Indonesia dapat mengalami kerugian ekonomi mencapai 2,5 persen dari PDB per tahun pada pertengahan abad ini akibat dampak perubahan iklim.[^16]
+Perubahan iklim bukan lagi ancaman masa depanâ€”dampaknya sudah terasa di seluruh dunia saat ini dan akan semakin intensif seiring dengan meningkatnya suhu global. IPCC telah mengidentifikasi bahwa setiap kenaikan suhu tambahan akan mengakibatkan peningkatan frekuensi dan intensitas peristiwa cuaca ekstrem, termasuk gelombang panas, banjir, kekeringan, dan siklon tropis.[^15] Indonesia, sebagai negara kepulauan tropis dengan garis pantai sepanjang lebih dari 80.000 kilometer, sangat rentan terhadap berbagai dampak ini. Studi Bank Dunia memproyeksikan bahwa tanpa tindakan adaptasi yang memadai, Indonesia dapat mengalami kerugian ekonomi mencapai 2,5 persen dari PDB per tahun pada pertengahan abad ini akibat dampak perubahan iklim.[^16]
 
 | Dampak | Manifestasi di Indonesia | Risiko Hukum |
 |--------|--------------------------|--------------|
@@ -142,12 +142,12 @@ Perubahan iklim bukan lagi ancaman masa depan—dampaknya sudah terasa di seluru
 
 ### 2. Keadilan Iklim (*Climate Justice*)
 
-Perubahan iklim bukan sekadar masalah lingkungan—ia adalah masalah keadilan yang mendalam dan multidimensional. Negara-negara dan kelompok masyarakat yang paling sedikit menyumbang emisi gas rumah kaca justru yang paling menderita akibat dampaknya, menciptakan apa yang oleh para sarjana disebut sebagai "ketidakadilan iklim ganda" (*double climate injustice*).[^17] Konsep **keadilan iklim** (*climate justice*) berupaya mengatasi ketidakadilan struktural ini dengan memadukan perspektif hak asasi manusia, keadilan sosial, dan keadilan lingkungan dalam penanganan perubahan iklim. Gerakan keadilan iklim, yang dimulai dari organisasi-organisasi akar rumput di negara-negara Selatan Global pada awal 2000-an, kini telah menjadi kerangka analitis yang diadopsi secara luas dalam wacana akademis dan kebijakan internasional.[^18]
+Perubahan iklim bukan sekadar masalah lingkunganâ€”ia adalah masalah keadilan yang mendalam dan multidimensional. Negara-negara dan kelompok masyarakat yang paling sedikit menyumbang emisi gas rumah kaca justru yang paling menderita akibat dampaknya, menciptakan apa yang oleh para sarjana disebut sebagai "ketidakadilan iklim ganda" (*double climate injustice*).[^17] Konsep **keadilan iklim** (*climate justice*) berupaya mengatasi ketidakadilan struktural ini dengan memadukan perspektif hak asasi manusia, keadilan sosial, dan keadilan lingkungan dalam penanganan perubahan iklim. Gerakan keadilan iklim, yang dimulai dari organisasi-organisasi akar rumput di negara-negara Selatan Global pada awal 2000-an, kini telah menjadi kerangka analitis yang diadopsi secara luas dalam wacana akademis dan kebijakan internasional.[^18]
 
 #### 2.1 Dimensi-Dimensi Keadilan Iklim
 
 > [!info] **Definisi**
-> **Keadilan iklim** (*climate justice*): Pendekatan yang memandang perubahan iklim tidak hanya sebagai masalah lingkungan atau teknis, tetapi sebagai masalah etis dan politis yang menyangkut keadilan distributif, prosedural, dan korektif—baik antarnegara, antargenerasi, maupun antarkelompok dalam masyarakat.
+> **Keadilan iklim** (*climate justice*): Pendekatan yang memandang perubahan iklim tidak hanya sebagai masalah lingkungan atau teknis, tetapi sebagai masalah etis dan politis yang menyangkut keadilan distributif, prosedural, dan korektifâ€”baik antarnegara, antargenerasi, maupun antarkelompok dalam masyarakat.
 
 **a. Keadilan Distributif (*Distributive Justice*)**
 
@@ -165,7 +165,7 @@ Keadilan korektif fokus pada perbaikan atas kerugian yang telah terjadi akibat p
 
 **d. Keadilan Antargenerasi (*Intergenerational Justice*)**
 
-Dimensi keadilan antargenerasi mungkin merupakan aspek paling fundamental dan filosofis dari keadilan iklim. Sebagaimana dikemukakan oleh Edith Brown Weiss dalam konsep *intergenerational equity*, generasi saat ini mewarisi planet dari generasi sebelumnya dan memiliki kewajiban fidusia untuk mewariskannya dalam kondisi yang tidak lebih buruk kepada generasi mendatang.[^26] Perubahan iklim menimbulkan tantangan etis yang unik karena keputusan yang diambil hari ini—atau kegagalan untuk mengambil tindakan—akan berdampak pada generasi yang belum lahir dan tidak memiliki suara dalam proses pengambilan keputusan kontemporer. Konsep ini telah memperoleh pengakuan dalam berbagai instrumen hukum internasional, termasuk Preambul UNFCCC yang menyatakan pentingnya melindungi sistem iklim "for present and future generations."
+Dimensi keadilan antargenerasi mungkin merupakan aspek paling fundamental dan filosofis dari keadilan iklim. Sebagaimana dikemukakan oleh Edith Brown Weiss dalam konsep *intergenerational equity*, generasi saat ini mewarisi planet dari generasi sebelumnya dan memiliki kewajiban fidusia untuk mewariskannya dalam kondisi yang tidak lebih buruk kepada generasi mendatang.[^26] Perubahan iklim menimbulkan tantangan etis yang unik karena keputusan yang diambil hari iniâ€”atau kegagalan untuk mengambil tindakanâ€”akan berdampak pada generasi yang belum lahir dan tidak memiliki suara dalam proses pengambilan keputusan kontemporer. Konsep ini telah memperoleh pengakuan dalam berbagai instrumen hukum internasional, termasuk Preambul UNFCCC yang menyatakan pentingnya melindungi sistem iklim "for present and future generations."
 
 > [!example] **Contoh: Litigasi Pemuda untuk Keadilan Antargenerasi**
 > Kasus *Neubauer et al. v. Germany* (2021) di Mahkamah Konstitusi Jerman mengabulkan gugatan sekelompok pemuda yang menuntut pemerintah memperkuat target iklim. Mahkamah menyatakan bahwa undang-undang iklim Jerman melanggar kebebasan generasi muda karena membebankan pengurangan emisi yang tidak proporsional ke masa depan.
@@ -174,7 +174,7 @@ Dimensi keadilan antargenerasi mungkin merupakan aspek paling fundamental dan fi
 
 #### 2.2 Keadilan Iklim dalam Konteks Indonesia
 
-Indonesia menghadapi dilema keadilan iklim yang sangat kompleks dan berlapis-lapis, yang mencerminkan posisi uniknya dalam tata kelola iklim global. Sebagai negara berkembang dengan sejarah kolonialisme yang panjang, Indonesia memiliki klaim yang sah untuk menuntut keadilan historis—bahwa negara-negara maju yang telah memanfaatkan ruang atmosfer selama era industrialisasi harus memimpin upaya mitigasi dan menyediakan pendanaan yang memadai bagi negara berkembang untuk transisi menuju ekonomi rendah karbon.[^27]
+Indonesia menghadapi dilema keadilan iklim yang sangat kompleks dan berlapis-lapis, yang mencerminkan posisi uniknya dalam tata kelola iklim global. Sebagai negara berkembang dengan sejarah kolonialisme yang panjang, Indonesia memiliki klaim yang sah untuk menuntut keadilan historisâ€”bahwa negara-negara maju yang telah memanfaatkan ruang atmosfer selama era industrialisasi harus memimpin upaya mitigasi dan menyediakan pendanaan yang memadai bagi negara berkembang untuk transisi menuju ekonomi rendah karbon.[^27]
 
 Namun di sisi lain, Indonesia juga merupakan salah satu emitter gas rumah kaca terbesar di dunia, terutama dari sektor kehutanan dan lahan gambut. Data menunjukkan bahwa emisi dari perubahan penggunaan lahan dan kebakaran hutan dapat menempatkan Indonesia dalam sepuluh besar negara penghasil emisi global pada tahun-tahun tertentu. Kondisi ini menciptakan ketegangan internal antara tuntutan untuk keadilan global dan tanggung jawab domestik untuk mengurangi emisi.
 
@@ -190,7 +190,7 @@ Mengapa kita memerlukan hukum untuk mengatasi perubahan iklim? Bukankah cukup de
 
 #### 3.1 Karakteristik Perubahan Iklim sebagai Masalah Hukum
 
-Perubahan iklim memiliki karakteristik unik yang menjadikannya tantangan hukum yang luar biasa kompleks. Para ahli hukum lingkungan internasional sering menyebut perubahan iklim sebagai "super wicked problem"—masalah yang tidak hanya rumit secara teknis, tetapi juga melibatkan dinamika politik, ekonomi, dan sosial yang saling bertautan dan sulit diurai.[^30] Karakteristik-karakteristik ini memiliki implikasi langsung terhadap desain dan efektivitas respons hukum:
+Perubahan iklim memiliki karakteristik unik yang menjadikannya tantangan hukum yang luar biasa kompleks. Para ahli hukum lingkungan internasional sering menyebut perubahan iklim sebagai "super wicked problem"â€”masalah yang tidak hanya rumit secara teknis, tetapi juga melibatkan dinamika politik, ekonomi, dan sosial yang saling bertautan dan sulit diurai.[^30] Karakteristik-karakteristik ini memiliki implikasi langsung terhadap desain dan efektivitas respons hukum:
 
 | Karakteristik | Implikasi Hukum |
 |---------------|-----------------|
@@ -212,7 +212,7 @@ Hukum menjalankan beberapa fungsi krusial:
 Hukum menetapkan batasan-batasan yang mengikat dan memaksa: target emisi nasional dan sektoral, standar efisiensi energi untuk bangunan dan kendaraan, serta larangan terhadap zat-zat perusak ozon dan gas rumah kaca tertentu. Tanpa kekuatan hukum yang memaksa, komitmen politik hanya menjadi janji kosong yang dapat dengan mudah diabaikan ketika kepentingan jangka pendek berbenturan dengan tujuan perlindungan iklim jangka panjang. Pengalaman dari Protokol Montreal 1987 tentang zat perusak ozon menunjukkan bahwa regulasi yang mengikat secara hukum dapat secara efektif mengubah perilaku industri dan konsumen dalam skala global.[^31]
 
 > [!example] **Contoh**
-> Perpres No. 98 Tahun 2021 tentang Nilai Ekonomi Karbon ([[03-Peraturan-Indonesia_Perpres_98_2021_NEK]]) menetapkan kerangka hukum untuk perdagangan karbon di Indonesia—sesuatu yang tidak mungkin berjalan tanpa dasar hukum yang jelas.
+> Perpres No. 98 Tahun 2021 tentang Nilai Ekonomi Karbon ([[03-Peraturan-Indonesia_Perpres_98_2021_NEK]]) menetapkan kerangka hukum untuk perdagangan karbon di Indonesiaâ€”sesuatu yang tidak mungkin berjalan tanpa dasar hukum yang jelas.
 
 **b. Fungsi Koordinasi**
 
@@ -224,7 +224,7 @@ Hukum dapat menciptakan instrumen ekonomi yang mengarahkan perilaku ke arah yang
 
 **d. Fungsi Penegakan dan Akuntabilitas**
 
-Hukum menyediakan mekanisme untuk meminta pertanggungjawaban—baik melalui litigasi di pengadilan nasional dan internasional, mekanisme kepatuhan (*compliance*) dalam perjanjian internasional, maupun pengawasan publik melalui ketentuan transparansi dan pelaporan. Gelombang litigasi iklim yang melanda dunia dalam dekade terakhir menunjukkan bahwa pengadilan semakin berperan sebagai arena penting untuk akuntabilitas iklim, melengkapi proses legislatif dan eksekutif yang seringkali terhambat oleh kepentingan politik jangka pendek.[^34]
+Hukum menyediakan mekanisme untuk meminta pertanggungjawabanâ€”baik melalui litigasi di pengadilan nasional dan internasional, mekanisme kepatuhan (*compliance*) dalam perjanjian internasional, maupun pengawasan publik melalui ketentuan transparansi dan pelaporan. Gelombang litigasi iklim yang melanda dunia dalam dekade terakhir menunjukkan bahwa pengadilan semakin berperan sebagai arena penting untuk akuntabilitas iklim, melengkapi proses legislatif dan eksekutif yang seringkali terhambat oleh kepentingan politik jangka pendek.[^34]
 
 > [!warning] **Perhatian: Keterbatasan Hukum**
 > Hukum bukanlah obat mujarab. Tanpa kemauan politik, kapasitas kelembagaan, dan dukungan masyarakat, undang-undang terbaik pun akan menjadi "macan kertas". Implementasi dan penegakan sama pentingnya dengan substansi norma itu sendiri.
@@ -284,7 +284,7 @@ Ruang lingkup hukum perubahan iklim mencakup lima area utama yang saling berkait
 
 Bagi mahasiswa hukum Indonesia, ada beberapa alasan mendasar mengapa hukum perubahan iklim menjadi semakin penting dan relevan untuk dipelajari secara mendalam.
 
-Pertama, dari segi relevansi nasional, Indonesia menempati posisi unik sebagai negara yang rentan terhadap dampak iklim sekaligus kontributor emisi yang signifikan. Kebijakan iklim, baik internasional maupun domestik, secara langsung mempengaruhi kehidupan rakyat Indonesia—dari petani yang menghadapi perubahan pola musim hingga nelayan yang bergantung pada ekosistem laut yang sehat.
+Pertama, dari segi relevansi nasional, Indonesia menempati posisi unik sebagai negara yang rentan terhadap dampak iklim sekaligus kontributor emisi yang signifikan. Kebijakan iklim, baik internasional maupun domestik, secara langsung mempengaruhi kehidupan rakyat Indonesiaâ€”dari petani yang menghadapi perubahan pola musim hingga nelayan yang bergantung pada ekosistem laut yang sehat.
 
 Kedua, Indonesia tengah membangun kerangka hukum iklim yang semakin komprehensif, mulai dari komitmen Nationally Determined Contribution (NDC) hingga pembangunan bursa karbon nasional. Perkembangan ini membuka peluang karir baru bagi lulusan hukum yang memahami dimensi teknis dan normatif dari regulasi iklim.
 
@@ -302,7 +302,7 @@ Kelima, hukum iklim merupakan arena strategis untuk memperjuangkan keadilan bagi
 
 **Latar Belakang:**
 
-Pada tahun 2015, jurnalis dari *InsideClimate News* dan *Los Angeles Times* mengungkapkan dokumen-dokumen internal Exxon Corporation dari tahun 1977-1982. Dokumen-dokumen ini menunjukkan bahwa para ilmuwan Exxon telah memahami dengan baik mekanisme perubahan iklim dan dampaknya—puluhan tahun sebelum isu ini menjadi perhatian publik.
+Pada tahun 2015, jurnalis dari *InsideClimate News* dan *Los Angeles Times* mengungkapkan dokumen-dokumen internal Exxon Corporation dari tahun 1977-1982. Dokumen-dokumen ini menunjukkan bahwa para ilmuwan Exxon telah memahami dengan baik mekanisme perubahan iklim dan dampaknyaâ€”puluhan tahun sebelum isu ini menjadi perhatian publik.
 
 **Fakta Kunci:**
 1. Para ilmuwan Exxon membuat proyeksi pemanasan global yang sangat akurat
@@ -367,7 +367,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 **Pilihan Ganda:**
 
-1. Ilmuwan yang pertama kali menghitung pengaruh CO₂ terhadap suhu bumi adalah:
+1. Ilmuwan yang pertama kali menghitung pengaruh COâ‚‚ terhadap suhu bumi adalah:
    - a. Charles Keeling
    - b. Svante Arrhenius
    - c. James Hansen
@@ -391,7 +391,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
    - c. Fungsi eliminasi emisi total
    - d. Fungsi penegakan
 
-5. Konsentrasi CO₂ di atmosfer saat ini (2024) telah mencapai sekitar:
+5. Konsentrasi COâ‚‚ di atmosfer saat ini (2024) telah mencapai sekitar:
    - a. 315 ppm
    - b. 350 ppm
    - c. 400 ppm
@@ -413,7 +413,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-b, 4-c, 5-d, 6-S, 7-B, 8-S, 9-S, 10-S
 
@@ -425,7 +425,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-06-PerubahanIklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -451,12 +451,12 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - IPCC. (2023). *AR6 Synthesis Report: Climate Change 2023*. Geneva: IPCC. [[05-Laporan_IPCC_AR6_2023]]
 
 **Sumber Sekunder:**
-- Bodansky, D., Brunnée, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP. [[04-Akademik-Buku_Bodansky_2017_IntlClimateLaw]]
+- Bodansky, D., BrunnÃ©e, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP. [[04-Akademik-Buku_Bodansky_2017_IntlClimateLaw]]
 - Coplan, K. S. et al. (2021). *Climate Change Law: An Introduction*. Cheltenham: Edward Elgar. [[04-Akademik-Buku_Coplan_2021_ClimateChangeLaw]]
 
 **Sumber Pendukung:**
-- Exxon Corporation. (1982). *CO₂ Greenhouse Effect*. Internal Report. [[05-Laporan_Exxon_Climate_Report_1982]]
-- Ekwurzel, B. et al. (2017). "The rise in global atmospheric CO₂, surface temperature, and sea level from emissions traced to major carbon producers." *Climatic Change*. [[04-Akademik-Artikel_Ekwurzel_2017_CarbonProducers]]
+- Exxon Corporation. (1982). *COâ‚‚ Greenhouse Effect*. Internal Report. [[05-Laporan_Exxon_Climate_Report_1982]]
+- Ekwurzel, B. et al. (2017). "The rise in global atmospheric COâ‚‚, surface temperature, and sea level from emissions traced to major carbon producers." *Climatic Change*. [[04-Akademik-Artikel_Ekwurzel_2017_CarbonProducers]]
 
 ---
 
@@ -469,8 +469,8 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - [[04-Akademik-Buku_Coplan_2021_ClimateChangeLaw]] - Buku teks referensi
 
 **Navigasi Buku:**
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2: Prinsip-Prinsip Hukum Lingkungan Internasional]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-02-Prinsip-Hukum-Lingkungan-Internasional_BAB-02|BAB 2: Prinsip-Prinsip Hukum Lingkungan Internasional]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
@@ -555,3 +555,4 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 1*
+

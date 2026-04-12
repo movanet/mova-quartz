@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sumber-Sumber Hukum Internasional"
 tags:
   - hukum-internasional
@@ -293,7 +293,7 @@ Pasal 32 VCLT memungkinkan penggunaan "alat-alat pelengkap interpretasi" (supple
 - Mengidentifikasi interpretasi yang akan menghasilkan hasil yang secara manifiesto absurd atau tidak masuk akal.
 
 Alat-alat pelengkap ini mencakup:
-- Persiapan perjanjian (travaux préparatoires), yaitu catatan-catatan negosiasi, protokol, dan dokumen-dokumen yang menunjukkan maksud para pembuat perjanjian.
+- Persiapan perjanjian (travaux prÃ©paratoires), yaitu catatan-catatan negosiasi, protokol, dan dokumen-dokumen yang menunjukkan maksud para pembuat perjanjian.
 - Keadaan-keadaan pada saat perjanjian disimpulkan.
 
 #### 2.6.3 Aturan Interpretasi Khusus (Pasal 33): Perjanjian Multibahasa
@@ -582,7 +582,7 @@ Mahkamah memutuskan bahwa:
 #### 3.9.4 Kasus Asylum (Colombia v. Peru) (1950)
 
 **Latar Belakang:**
-Kasus ini melibatkan permintaan Peru untuk ekstradisi seorang politisi Peruvian, Victor Raúl Haya de la Torre, yang mencari suaka di kedutaan Colombia di Lima. Colombia bersikeras bahwa hak suaka adalah hukum kebiasaan yang mengikat Peru.
+Kasus ini melibatkan permintaan Peru untuk ekstradisi seorang politisi Peruvian, Victor RaÃºl Haya de la Torre, yang mencari suaka di kedutaan Colombia di Lima. Colombia bersikeras bahwa hak suaka adalah hukum kebiasaan yang mengikat Peru.
 
 **Isu Hukum Utama:**
 - Apakah ada hukum kebiasaan tentang hak negara untuk memberikan suaka di kedutaan mereka?
@@ -660,7 +660,7 @@ Mayoritas pengadilan internasional cenderung menggunakan pendekatan kombinasi: m
 
 ### 4.5 Contoh Kasus: Penerapan Prinsip-Prinsip Umum Hukum
 
-#### 4.5.1 Chorzów Factory Case (Kasus Pabrik Chorzów) (1927)
+#### 4.5.1 ChorzÃ³w Factory Case (Kasus Pabrik ChorzÃ³w) (1927)
 
 Dalam kasus ini antara Jerman dan Polandia, Mahkamah Permanen mempertimbangkan apakah Polandia diwajibkan untuk mengembalikan pabrik (factory) yang telah disita kepada Jerman atau memberikan kompensasi finansial. Mahkamah menerapkan prinsip-prinsip umum hukum, khususnya prinsip bahwa pengambilan properti tanpa kompensasi yang adil adalah melanggar hukum.
 
@@ -1180,7 +1180,8 @@ Indonesia's engagement dengan hukum internasional sangat erat terkait dengan kon
 
 **Catatan Akhir:**
 
-Materi pembelajaran ini dirancang untuk memberikan pemahaman komprehensif tentang sumber-sumber hukum internasional sebagaimana diatur dalam Pasal 38(1) Statuta ICJ. Sumber-sumber ini—perjanjian internasional, hukum kebiasaan, prinsip-prinsip umum hukum, dan alat-alat pembantu—membentuk fondasi dari seluruh sistem hukum internasional modern.
+Materi pembelajaran ini dirancang untuk memberikan pemahaman komprehensif tentang sumber-sumber hukum internasional sebagaimana diatur dalam Pasal 38(1) Statuta ICJ. Sumber-sumber iniâ€”perjanjian internasional, hukum kebiasaan, prinsip-prinsip umum hukum, dan alat-alat pembantuâ€”membentuk fondasi dari seluruh sistem hukum internasional modern.
 
 Pemahaman yang mendalam tentang sumber-sumber ini penting tidak hanya untuk akademisi dan praktisi hukum, tetapi juga untuk diplomat, pejabat pemerintah, dan siapa pun yang terlibat dalam hubungan-hubungan internasional. Di era globalisasi ini, di mana masalah-masalah lintas batas semakin kompleks dan saling tergantung, kemampuan untuk mengidentifikasi, menginterpretasi, dan menerapkan norma-norma hukum internasional adalah keterampilan yang sangat penting.
+
 

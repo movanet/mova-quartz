@@ -1,4 +1,4 @@
-
+﻿
 ---
 publish: true
 tags: #ai #race #impact #brain #transparency 
@@ -52,4 +52,4 @@ Finally, if AI manage to displace entry and mid level knowledge workers, the pol
 
 The current presidential race needs to discuss these issues. We need safety net and universal basic income if AI manage to displace entry level knowledge workers. While some of our children are still crossing rivers in order to get to school, our educational system will need to cope with this AI race. The changes that AI bring will be exponential. This means that our existing values and institutions including our legal system will have tremendous challenges to be able to cope with frequent disruptions. The future is coming too fast.
 
-·       Lecturer at Universitas Ibn Khaldun Bogor
+Â·Â Â Â Â Â Â  Lecturer at Universitas Ibn Khaldun Bogor

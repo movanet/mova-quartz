@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 dg-publish: true
 permalink: published-legal-english-s1

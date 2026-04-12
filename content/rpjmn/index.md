@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "RPJMN 2025-2029 - Rencana Pembangunan Jangka Menengah Nasional"
 type: index
@@ -16,7 +16,7 @@ categories:
 description: "Indeks lengkap Rencana Pembangunan Jangka Menengah Nasional (RPJMN) Tahun 2025-2029 - Dokumen perencanaan strategis pembangunan Indonesia"
 ---
 
-# 📚 RPJMN 2025-2029
+# ðŸ“š RPJMN 2025-2029
 
 ## Rencana Pembangunan Jangka Menengah Nasional Tahun 2025-2029
 
@@ -24,11 +24,11 @@ description: "Indeks lengkap Rencana Pembangunan Jangka Menengah Nasional (RPJMN
 
 ---
 
-## 📖 Struktur Dokumen
+## ðŸ“– Struktur Dokumen
 
-### 🏛️ BAB I: Evaluasi dan Tantangan Pembangunan
+### ðŸ›ï¸ BAB I: Evaluasi dan Tantangan Pembangunan
 
-[[I_Evaluasi_dan_Tantangan_Pembangunan|📊 BAB I - Evaluasi dan Tantangan Pembangunan]]
+[[I_Evaluasi_dan_Tantangan_Pembangunan|ðŸ“Š BAB I - Evaluasi dan Tantangan Pembangunan]]
 
 Evaluasi capaian pembangunan periode sebelumnya dan identifikasi tantangan pembangunan nasional yang dihadapi Indonesia menuju 2029.
 
@@ -40,9 +40,9 @@ Evaluasi capaian pembangunan periode sebelumnya dan identifikasi tantangan pemba
 
 ---
 
-### 🎯 BAB II: Kebijakan Pembangunan
+### ðŸŽ¯ BAB II: Kebijakan Pembangunan
 
-[[II_Kebijakan_Pembangunan|🎯 BAB II - Kebijakan Pembangunan]]
+[[II_Kebijakan_Pembangunan|ðŸŽ¯ BAB II - Kebijakan Pembangunan]]
 
 Kerangka kebijakan makro pembangunan nasional untuk periode 2025-2029, meliputi visi, misi, dan arah kebijakan strategis.
 
@@ -54,17 +54,17 @@ Kerangka kebijakan makro pembangunan nasional untuk periode 2025-2029, meliputi 
 
 ---
 
-## 🔑 BAB III: Prioritas Nasional
+## ðŸ”‘ BAB III: Prioritas Nasional
 
 Delapan prioritas nasional pembangunan 2025-2029:
 
-### [[III_Prioritas_Nasional|📋 Ringkasan Prioritas Nasional]]
+### [[III_Prioritas_Nasional|ðŸ“‹ Ringkasan Prioritas Nasional]]
 
 ---
 
 ### Prioritas 1: Ideologi, Demokrasi & Tata Kelola
 
-[[III_Prioritas_1_Memperkokoh_Ideologi_Pancasila_Demokrasi_dan|🏛️ PN 1 - Memperkokoh Ideologi Pancasila, Demokrasi, dan HAM]]
+[[III_Prioritas_1_Memperkokoh_Ideologi_Pancasila_Demokrasi_dan|ðŸ›ï¸ PN 1 - Memperkokoh Ideologi Pancasila, Demokrasi, dan HAM]]
 
 **Fokus Utama:**
 - Penguatan ideologi Pancasila
@@ -76,7 +76,7 @@ Delapan prioritas nasional pembangunan 2025-2029:
 
 ### Prioritas 2: Pertahanan & Keamanan
 
-[[III_Prioritas_2_Memantapkan_Sistem_Pertahanan_Keamanan|🛡️ PN 2 - Memantapkan Sistem Pertahanan dan Keamanan]]
+[[III_Prioritas_2_Memantapkan_Sistem_Pertahanan_Keamanan|ðŸ›¡ï¸ PN 2 - Memantapkan Sistem Pertahanan dan Keamanan]]
 
 **Fokus Utama:**
 - Modernisasi alutsista (alat utama sistem persenjataan)
@@ -88,7 +88,7 @@ Delapan prioritas nasional pembangunan 2025-2029:
 
 ### Prioritas 3: Infrastruktur & Konektivitas
 
-[[III_Prioritas_3_Melanjutkan_Pengembangan_Infrastruktur_dan|🏗️ PN 3 - Melanjutkan Pengembangan Infrastruktur dan Konektivitas]]
+[[III_Prioritas_3_Melanjutkan_Pengembangan_Infrastruktur_dan|ðŸ—ï¸ PN 3 - Melanjutkan Pengembangan Infrastruktur dan Konektivitas]]
 
 **Fokus Utama:**
 - Infrastruktur transportasi (jalan, kereta, pelabuhan, bandara)
@@ -100,7 +100,7 @@ Delapan prioritas nasional pembangunan 2025-2029:
 
 ### Prioritas 4: Sumber Daya Manusia
 
-[[III_Prioritas_4_Memperkuat_Pembangunan_Sumber_Daya_Manusia|👥 PN 4 - Memperkuat Pembangunan Sumber Daya Manusia]]
+[[III_Prioritas_4_Memperkuat_Pembangunan_Sumber_Daya_Manusia|ðŸ‘¥ PN 4 - Memperkuat Pembangunan Sumber Daya Manusia]]
 
 **Fokus Utama:**
 - Pendidikan berkualitas dan inklusif
@@ -112,7 +112,7 @@ Delapan prioritas nasional pembangunan 2025-2029:
 
 ### Prioritas 5: Hilirisasi & Ekonomi Digital
 
-[[III_Prioritas_5_Melanjutkan_Hilirisasi_dan_Mengembangkan|🏭 PN 5 - Melanjutkan Hilirisasi dan Mengembangkan Ekonomi Digital]]
+[[III_Prioritas_5_Melanjutkan_Hilirisasi_dan_Mengembangkan|ðŸ­ PN 5 - Melanjutkan Hilirisasi dan Mengembangkan Ekonomi Digital]]
 
 **Fokus Utama:**
 - Hilirisasi industri (nikel, sawit, tambang)
@@ -124,7 +124,7 @@ Delapan prioritas nasional pembangunan 2025-2029:
 
 ### Prioritas 6: Pembangunan Desa & Pemerataan
 
-[[III_Prioritas_6_Membangun_dari_Desa_dan_dari_Bawah_untuk|🏘️ PN 6 - Membangun dari Desa dan dari Bawah untuk Pemerataan]]
+[[III_Prioritas_6_Membangun_dari_Desa_dan_dari_Bawah_untuk|ðŸ˜ï¸ PN 6 - Membangun dari Desa dan dari Bawah untuk Pemerataan]]
 
 **Fokus Utama:**
 - Pembangunan desa dan kawasan perdesaan
@@ -136,7 +136,7 @@ Delapan prioritas nasional pembangunan 2025-2029:
 
 ### Prioritas 7: Reformasi Hukum & Birokrasi
 
-[[III_Prioritas_7_Memperkuat_Reformasi_Politik_Hukum_dan|⚖️ PN 7 - Memperkuat Reformasi Politik, Hukum, dan Birokrasi]]
+[[III_Prioritas_7_Memperkuat_Reformasi_Politik_Hukum_dan|âš–ï¸ PN 7 - Memperkuat Reformasi Politik, Hukum, dan Birokrasi]]
 
 **Fokus Utama:**
 - Reformasi sistem hukum dan peradilan
@@ -148,7 +148,7 @@ Delapan prioritas nasional pembangunan 2025-2029:
 
 ### Prioritas 8: Lingkungan Hidup & Kebencanaan
 
-[[III_Prioritas_8_Memperkuat_Penyelarasan_Kehidupan_yang|🌱 PN 8 - Memperkuat Penyelarasan Kehidupan yang Berkelanjutan]]
+[[III_Prioritas_8_Memperkuat_Penyelarasan_Kehidupan_yang|ðŸŒ± PN 8 - Memperkuat Penyelarasan Kehidupan yang Berkelanjutan]]
 
 **Fokus Utama:**
 - Mitigasi dan adaptasi perubahan iklim
@@ -158,9 +158,9 @@ Delapan prioritas nasional pembangunan 2025-2029:
 
 ---
 
-## 🗺️ BAB IV: Arah Pembangunan Wilayah
+## ðŸ—ºï¸ BAB IV: Arah Pembangunan Wilayah
 
-### [[IV_Arah_Pembangunan_Wilayah|🌏 Ringkasan Arah Pembangunan Wilayah]]
+### [[IV_Arah_Pembangunan_Wilayah|ðŸŒ Ringkasan Arah Pembangunan Wilayah]]
 
 Strategi pembangunan berbasis karakteristik dan potensi wilayah:
 
@@ -168,7 +168,7 @@ Strategi pembangunan berbasis karakteristik dan potensi wilayah:
 
 ### Wilayah 2: Sumatera
 
-[[IV_Wilayah_2_Sumatera|🏝️ Wilayah Sumatera]]
+[[IV_Wilayah_2_Sumatera|ðŸï¸ Wilayah Sumatera]]
 
 **Tema Wilayah:** Lumbung Energi dan Pangan Nasional
 
@@ -184,7 +184,7 @@ Strategi pembangunan berbasis karakteristik dan potensi wilayah:
 
 ### Wilayah 3: Jawa
 
-[[IV_Wilayah_3_Jawa|🏙️ Wilayah Jawa]]
+[[IV_Wilayah_3_Jawa|ðŸ™ï¸ Wilayah Jawa]]
 
 **Tema Wilayah:** Pusat Ekonomi, Industri, dan Jasa Nasional
 
@@ -200,7 +200,7 @@ Strategi pembangunan berbasis karakteristik dan potensi wilayah:
 
 ### Wilayah 4: Bali dan Nusa Tenggara
 
-[[IV_Wilayah_4_BaliNusa_Tenggara|🏖️ Wilayah Bali dan Nusa Tenggara]]
+[[IV_Wilayah_4_BaliNusa_Tenggara|ðŸ–ï¸ Wilayah Bali dan Nusa Tenggara]]
 
 **Tema Wilayah:** Pariwisata Berkelanjutan dan Peternakan
 
@@ -216,7 +216,7 @@ Strategi pembangunan berbasis karakteristik dan potensi wilayah:
 
 ### Wilayah 5: Kalimantan
 
-[[IV_Wilayah_5_Kalimantan|🌳 Wilayah Kalimantan]]
+[[IV_Wilayah_5_Kalimantan|ðŸŒ³ Wilayah Kalimantan]]
 
 **Tema Wilayah:** Ibu Kota Negara Baru dan Hutan Lestari
 
@@ -232,7 +232,7 @@ Strategi pembangunan berbasis karakteristik dan potensi wilayah:
 
 ### Wilayah 6: Sulawesi
 
-[[IV_Wilayah_6_Sulawesi|🦐 Wilayah Sulawesi]]
+[[IV_Wilayah_6_Sulawesi|ðŸ¦ Wilayah Sulawesi]]
 
 **Tema Wilayah:** Lumbung Perikanan dan Pertanian Nasional
 
@@ -248,7 +248,7 @@ Strategi pembangunan berbasis karakteristik dan potensi wilayah:
 
 ### Wilayah 7: Maluku
 
-[[IV_Wilayah_7_Maluku|🐠 Wilayah Maluku]]
+[[IV_Wilayah_7_Maluku|ðŸ  Wilayah Maluku]]
 
 **Tema Wilayah:** Lumbung Ikan dan Pusat Ekonomi Maritim
 
@@ -264,7 +264,7 @@ Strategi pembangunan berbasis karakteristik dan potensi wilayah:
 
 ### Wilayah 8: Papua
 
-[[IV_Wilayah_8_Papua|⛰️ Wilayah Papua]]
+[[IV_Wilayah_8_Papua|â›°ï¸ Wilayah Papua]]
 
 **Tema Wilayah:** Lumbung Energi dan Pangan Masa Depan
 
@@ -278,9 +278,9 @@ Strategi pembangunan berbasis karakteristik dan potensi wilayah:
 
 ---
 
-## 💰 BAB V: Pendanaan Pembangunan
+## ðŸ’° BAB V: Pendanaan Pembangunan
 
-[[V_Pendanaan_Pembangunan|💰 BAB V - Pendanaan Pembangunan]]
+[[V_Pendanaan_Pembangunan|ðŸ’° BAB V - Pendanaan Pembangunan]]
 
 Strategi pembiayaan pembangunan nasional 2025-2029:
 
@@ -293,9 +293,9 @@ Strategi pembiayaan pembangunan nasional 2025-2029:
 
 ---
 
-## 📊 BAB VI: Pengendalian, Evaluasi & Tata Kelola Data
+## ðŸ“Š BAB VI: Pengendalian, Evaluasi & Tata Kelola Data
 
-[[VI_Pengendalian_Evaluasi_dan_Tata_Kelola_Data_Pembangunan|📊 BAB VI - Pengendalian, Evaluasi, dan Tata Kelola Data Pembangunan]]
+[[VI_Pengendalian_Evaluasi_dan_Tata_Kelola_Data_Pembangunan|ðŸ“Š BAB VI - Pengendalian, Evaluasi, dan Tata Kelola Data Pembangunan]]
 
 Sistem monitoring, evaluasi, dan pelaporan pelaksanaan RPJMN:
 
@@ -308,38 +308,38 @@ Sistem monitoring, evaluasi, dan pelaporan pelaksanaan RPJMN:
 
 ---
 
-## 🔍 Navigasi Cepat
+## ðŸ” Navigasi Cepat
 
 ### Berdasarkan Tema
 
-#### 🏭 Ekonomi & Industri
+#### ðŸ­ Ekonomi & Industri
 - [[III_Prioritas_5_Melanjutkan_Hilirisasi_dan_Mengembangkan|Hilirisasi & Ekonomi Digital]]
 - [[III_Prioritas_6_Membangun_dari_Desa_dan_dari_Bawah_untuk|Ekonomi Kerakyatan & Desa]]
 - [[V_Pendanaan_Pembangunan|Pendanaan Pembangunan]]
 
-#### 👥 Sosial & SDM
+#### ðŸ‘¥ Sosial & SDM
 - [[III_Prioritas_4_Memperkuat_Pembangunan_Sumber_Daya_Manusia|Pendidikan & Kesehatan]]
 - [[III_Prioritas_6_Membangun_dari_Desa_dan_dari_Bawah_untuk|Pemerataan & Kesejahteraan]]
 
-#### 🏗️ Infrastruktur & Konektivitas
+#### ðŸ—ï¸ Infrastruktur & Konektivitas
 - [[III_Prioritas_3_Melanjutkan_Pengembangan_Infrastruktur_dan|Infrastruktur Nasional]]
 - [[IV_Arah_Pembangunan_Wilayah|Pembangunan Wilayah]]
 
-#### ⚖️ Tata Kelola & Hukum
+#### âš–ï¸ Tata Kelola & Hukum
 - [[III_Prioritas_1_Memperkokoh_Ideologi_Pancasila_Demokrasi_dan|Demokrasi & HAM]]
 - [[III_Prioritas_7_Memperkuat_Reformasi_Politik_Hukum_dan|Reformasi Hukum & Birokrasi]]
 
-#### 🌱 Lingkungan & Keberlanjutan
+#### ðŸŒ± Lingkungan & Keberlanjutan
 - [[III_Prioritas_8_Memperkuat_Penyelarasan_Kehidupan_yang|Lingkungan Hidup & Kebencanaan]]
 - [[IV_Wilayah_5_Kalimantan|Konservasi Hutan Kalimantan]]
 - [[IV_Wilayah_8_Papua|Keanekaragaman Hayati Papua]]
 
-#### 🛡️ Pertahanan & Keamanan
+#### ðŸ›¡ï¸ Pertahanan & Keamanan
 - [[III_Prioritas_2_Memantapkan_Sistem_Pertahanan_Keamanan|Pertahanan & Keamanan Nasional]]
 
 ---
 
-## 📈 Indikator Utama RPJMN 2025-2029
+## ðŸ“ˆ Indikator Utama RPJMN 2025-2029
 
 ### Target Makro Ekonomi
 - Pertumbuhan ekonomi: 5.7% - 6.3% per tahun
@@ -362,7 +362,7 @@ Sistem monitoring, evaluasi, dan pelaporan pelaksanaan RPJMN:
 
 ---
 
-## 🔗 Tautan Terkait
+## ðŸ”— Tautan Terkait
 
 ### Dokumen Perencanaan Lainnya
 - RPJPN 2005-2025 (Rencana Pembangunan Jangka Panjang Nasional)
@@ -377,7 +377,7 @@ Sistem monitoring, evaluasi, dan pelaporan pelaksanaan RPJMN:
 
 ---
 
-## 📝 Metadata Dokumen
+## ðŸ“ Metadata Dokumen
 
 **Periode Perencanaan:** 2025-2029
 **Dasar Hukum:** Perpres tentang RPJMN 2025-2029
@@ -387,23 +387,24 @@ Sistem monitoring, evaluasi, dan pelaporan pelaksanaan RPJMN:
 
 ---
 
-## ℹ️ Catatan
+## â„¹ï¸ Catatan
 
 Dokumen ini merupakan hasil rekonstruksi dan perbaikan format dari dokumen RPJMN 2025-2029 yang telah diperbaiki menggunakan sistem multi-agent. Semua konten substantif tetap dipertahankan sesuai dokumen resmi.
 
 **Perbaikan yang dilakukan:**
-- ✅ Perbaikan kalimat yang terpotong
-- ✅ Penggabungan paragraf yang terpisah
-- ✅ Penghapusan spasi berlebih
-- ✅ Penyesuaian format markdown
-- ✅ Pembuatan struktur navigasi yang konsisten
+- âœ… Perbaikan kalimat yang terpotong
+- âœ… Penggabungan paragraf yang terpisah
+- âœ… Penghapusan spasi berlebih
+- âœ… Penyesuaian format markdown
+- âœ… Pembuatan struktur navigasi yang konsisten
 
 ---
 
 **Navigasi:**
-- 🏠 [[index|Kembali ke Index Utama]]
-- 📖 [[README|Tentang Koleksi Ini]]
+- ðŸ  [[index|Kembali ke Index Utama]]
+- ðŸ“– [[README|Tentang Koleksi Ini]]
 
 ---
 
 *Dokumen perencanaan strategis pembangunan Indonesia untuk periode 2025-2029*
+

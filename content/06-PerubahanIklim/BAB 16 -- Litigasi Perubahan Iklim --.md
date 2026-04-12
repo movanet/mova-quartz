@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "16"
 judul: "Litigasi Perubahan Iklim"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "120 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - litigasi
   - Urgenda
   - ICJ
@@ -38,7 +38,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Pengadilan telah menjadi arena penting dalam perjuangan iklim. Dari Belanda hingga Jerman, dari Shell hingga pemerintah, litigasi iklim meningkat pesat dengan lebih dari 3.000 kasus di seluruh dunia. Bab ini akan memandu Anda memahami lanskap litigasi iklim global, menganalisis putusan-putusan landmark, dan mengeksplorasi potensi serta tantangan litigasi iklim di Indonesia—termasuk implikasi Advisory Opinion ICJ yang bersejarah.
+Pengadilan telah menjadi arena penting dalam perjuangan iklim. Dari Belanda hingga Jerman, dari Shell hingga pemerintah, litigasi iklim meningkat pesat dengan lebih dari 3.000 kasus di seluruh dunia. Bab ini akan memandu Anda memahami lanskap litigasi iklim global, menganalisis putusan-putusan landmark, dan mengeksplorasi potensi serta tantangan litigasi iklim di Indonesiaâ€”termasuk implikasi Advisory Opinion ICJ yang bersejarah.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -50,7 +50,7 @@ graph LR
     B --> E[Seluruh BAB]
 ```
 
-Bab ini memperdalam dan memperbarui pembahasan litigasi di [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|BAB 11]] dengan perkembangan terbaru termasuk ICJ Advisory Opinion 2025. Pemahaman tentang litigasi iklim juga terhubung dengan [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15]] (kompensasi *loss and damage* melalui pengadilan) dan [[Buku-Ajar-Hukum-Perubahan-Iklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3]] (interpretasi kewajiban dalam traktat iklim).
+Bab ini memperdalam dan memperbarui pembahasan litigasi di [[Buku-Ajar-Hukum-06-PerubahanIklim-11-Litigasi-06-PerubahanIklim_BAB-11|BAB 11]] dengan perkembangan terbaru termasuk ICJ Advisory Opinion 2025. Pemahaman tentang litigasi iklim juga terhubung dengan [[Buku-Ajar-Hukum-06-PerubahanIklim-15-Loss-and-Damage_BAB-15|BAB 15]] (kompensasi *loss and damage* melalui pengadilan) dan [[Buku-Ajar-Hukum-06-PerubahanIklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3]] (interpretasi kewajiban dalam traktat iklim).
 
 ### 5. Peta Konsep Bab
 
@@ -192,7 +192,7 @@ Meski AS mendominasi jumlah kasus, litigasi iklim kini menyebar ke seluruh dunia
 | Temuan | Implikasi |
 |--------|-----------|
 | **Paris Agreement creates binding obligations** | Bukan sekadar political commitment |
-| **1.5°C as primary temperature goal** | Target mengikat, bukan aspirasional |
+| **1.5Â°C as primary temperature goal** | Target mengikat, bukan aspirasional |
 | **Due diligence obligation** | Negara wajib menggunakan semua sarana yang tersedia |
 | **NDC not purely discretionary** | Diskresi dalam menyusun NDC tidak tak terbatas |
 | **Human rights link** | Hak lingkungan sebagai prasyarat hak fundamental |
@@ -202,7 +202,7 @@ Meski AS mendominasi jumlah kasus, litigasi iklim kini menyebar ke seluruh dunia
 
 > [!quote] **Kutipan**
 > "States must act with due diligence and do their utmost to mitigate climate change, including through action on fossil fuel production and consumption."
-> — *ICJ Advisory Opinion, 2025*[^4]
+> â€” *ICJ Advisory Opinion, 2025*[^4]
 
 **Signifikansi:**
 - Pertama kali pengadilan internasional tertinggi menyatakan pendapat tentang kewajiban iklim
@@ -227,7 +227,7 @@ International Tribunal for the Law of the Sea (ITLOS) mengeluarkan pendapat yang
 
 > [!quote] **Kutipan**
 > "The absorption of anthropogenic greenhouse gas emissions by the marine environment constitutes pollution of the marine environment within the meaning of UNCLOS."
-> — *ITLOS Advisory Opinion, 2024*[^6]
+> â€” *ITLOS Advisory Opinion, 2024*[^6]
 
 #### 3.3 Inter-American Court of Human Rights (IACtHR) Advisory Opinion (Mei 2025)
 
@@ -247,7 +247,7 @@ IACtHR mengeluarkan Advisory Opinion atas permintaan Kolombia dan Chili yang men
 
 > [!quote] **Kutipan**
 > "Climate change constitutes an urgent threat to human rights, and States have an immediate obligation to prevent foreseeable harm to present and future generations."
-> — *IACtHR Advisory Opinion OC-31/25, 2025*[^16]
+> â€” *IACtHR Advisory Opinion OC-31/25, 2025*[^16]
 
 ---
 
@@ -267,7 +267,7 @@ IACtHR mengeluarkan Advisory Opinion atas permintaan Kolombia dan Chili yang men
 
 | Tingkat | Tahun | Putusan |
 |---------|-------|---------|
-| District Court | 2015 | Mengabulkan—25% reduksi |
+| District Court | 2015 | Mengabulkanâ€”25% reduksi |
 | Court of Appeal | 2018 | Menguatkan |
 | Supreme Court | 2019 | Menguatkan |
 
@@ -284,7 +284,7 @@ IACtHR mengeluarkan Advisory Opinion atas permintaan Kolombia dan Chili yang men
 
 > [!quote] **Kutipan**
 > "There is a legal obligation on the State to reduce greenhouse gas emissions... The Netherlands must reduce emissions by at least 25% by the end of 2020."
-> — *Hoge Raad der Nederlanden, 2019*[^8]
+> â€” *Hoge Raad der Nederlanden, 2019*[^8]
 
 **Impact:**
 - Model untuk "Urgenda-style cases" di seluruh dunia
@@ -307,8 +307,8 @@ UU Iklim Jerman dinyatakan **sebagian inkonstitusional** karena:
 **Konsep Revolusioner: Kebebasan Antargenerasi (*Intertemporal Freedom*):**
 
 > [!quote] **Kutipan**
-> "Fundamental rights—as intertemporal guarantees of freedom—afford protection against greenhouse gas reduction burdens being unilaterally offloaded onto the future."
-> — *Bundesverfassungsgericht, 2021*[^10]
+> "Fundamental rightsâ€”as intertemporal guarantees of freedomâ€”afford protection against greenhouse gas reduction burdens being unilaterally offloaded onto the future."
+> â€” *Bundesverfassungsgericht, 2021*[^10]
 
 **Impact:**
 - Jerman merevisi target: 65% reduksi 2030, net zero 2045 (maju dari 2050)
@@ -686,7 +686,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-d, 2-b, 3-b, 4-b, 5-c, 6-S, 7-B, 8-B, 9-S, 10-B
 
@@ -791,8 +791,8 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 **Navigasi Buku:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
@@ -804,8 +804,9 @@ Terima kasih telah mempelajari Hukum Perubahan Iklim. Semoga pengetahuan ini ber
 1. Kerjakan semua tes formatif dan latihan
 2. Diskusikan studi kasus dengan dosen dan teman
 3. Ikuti perkembangan terkini melalui sumber-sumber yang dirujuk
-4. Pertimbangkan untuk terlibat dalam aksi iklim—melalui karir hukum, advokasi, penelitian, atau warga aktif
+4. Pertimbangkan untuk terlibat dalam aksi iklimâ€”melalui karir hukum, advokasi, penelitian, atau warga aktif
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 16 | Universitas Ibn Khaldun Bogor | 2026*
+

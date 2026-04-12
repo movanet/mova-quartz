@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "9"
 judul: "Studi Perbandingan Hukum Iklim"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "90 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - perbandingan-hukum
   - EU
   - USA
@@ -49,7 +49,7 @@ graph LR
     B --> E[BAB 12: Masa Depan]
 ```
 
-Bab ini melengkapi [[Buku-Ajar-Hukum-Perubahan-Iklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7]] dan [[Buku-Ajar-Hukum-Perubahan-Iklim-08-Nilai-Ekonomi-Karbon_BAB-08|BAB 8]] dengan perspektif komparatif dari yurisdiksi lain untuk memberikan konteks global bagi perkembangan hukum iklim Indonesia.
+Bab ini melengkapi [[Buku-Ajar-Hukum-06-PerubahanIklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7]] dan [[Buku-Ajar-Hukum-06-PerubahanIklim-08-Nilai-Ekonomi-Karbon_BAB-08|BAB 8]] dengan perspektif komparatif dari yurisdiksi lain untuk memberikan konteks global bagi perkembangan hukum iklim Indonesia.
 
 ### 5. Peta Konsep Bab
 
@@ -77,11 +77,11 @@ mindmap
 
 ### 1. Uni Eropa: Model Regulasi Komprehensif
 
-Uni Eropa adalah yurisdiksi yang paling maju dalam pengembangan hukum iklim. Dengan populasi 450 juta jiwa dan PDB gabungan terbesar kedua di dunia, kebijakan iklim EU memiliki dampak global—baik sebagai contoh bagi negara lain maupun melalui mekanisme seperti Carbon Border Adjustment Mechanism yang secara langsung mempengaruhi mitra dagang termasuk Indonesia.[^1]
+Uni Eropa adalah yurisdiksi yang paling maju dalam pengembangan hukum iklim. Dengan populasi 450 juta jiwa dan PDB gabungan terbesar kedua di dunia, kebijakan iklim EU memiliki dampak globalâ€”baik sebagai contoh bagi negara lain maupun melalui mekanisme seperti Carbon Border Adjustment Mechanism yang secara langsung mempengaruhi mitra dagang termasuk Indonesia.[^1]
 
 Pendekatan EU dapat dikarakterisasi sebagai **model regulasi komprehensif**: target-target yang mengikat secara hukum, dikombinasikan dengan berbagai instrumen ekonomi dan regulasi sektoral yang terintegrasi. Model ini mencerminkan tradisi hukum Eropa yang menekankan kepastian hukum dan peran aktif negara dalam mengarahkan ekonomi.
 
-[^1]: Oberthür S dan Pallemaerts M (eds), *The New Climate Policies of the European Union* (VUB Press 2010) 15-30.
+[^1]: OberthÃ¼r S dan Pallemaerts M (eds), *The New Climate Policies of the European Union* (VUB Press 2010) 15-30.
 
 #### 1.1 European Climate Law (2021): Target Mengikat dalam Hukum
 
@@ -89,11 +89,11 @@ Pendekatan EU dapat dikarakterisasi sebagai **model regulasi komprehensif**: tar
 
 Elemen-elemen kunci European Climate Law:
 
-**Target 2030**: Pengurangan emisi GRK netto minimal 55% dibandingkan tingkat 1990. Target ini merupakan peningkatan signifikan dari target sebelumnya (40%) dan mencerminkan ambisi yang diperlukan untuk jalur 1,5°C.[^3]
+**Target 2030**: Pengurangan emisi GRK netto minimal 55% dibandingkan tingkat 1990. Target ini merupakan peningkatan signifikan dari target sebelumnya (40%) dan mencerminkan ambisi yang diperlukan untuk jalur 1,5Â°C.[^3]
 
-**Target 2050**: Netralitas iklim (*climate neutrality*)—yaitu keseimbangan antara emisi dan penyerapan GRK sehingga emisi netto menjadi nol. Setelah 2050, EU bertujuan mencapai emisi negatif.
+**Target 2050**: Netralitas iklim (*climate neutrality*)â€”yaitu keseimbangan antara emisi dan penyerapan GRK sehingga emisi netto menjadi nol. Setelah 2050, EU bertujuan mencapai emisi negatif.
 
-**Mekanisme akuntabilitas**: European Climate Law mewajibkan Komisi Eropa mengevaluasi kemajuan setiap lima tahun dan, jika perlu, mengajukan langkah-langkah tambahan. European Scientific Advisory Board on Climate Change—badan independen—memberikan nasihat ilmiah tentang kecukupan kebijakan.
+**Mekanisme akuntabilitas**: European Climate Law mewajibkan Komisi Eropa mengevaluasi kemajuan setiap lima tahun dan, jika perlu, mengajukan langkah-langkah tambahan. European Scientific Advisory Board on Climate Changeâ€”badan independenâ€”memberikan nasihat ilmiah tentang kecukupan kebijakan.
 
 **Trajektori yang mengikat**: Tidak hanya target akhir, tetapi juga jalur (*trajectory*) menuju target tersebut bersifat mengikat. Ini mencegah penundaan aksi dengan harapan mencapai target di menit-menit terakhir.[^4]
 
@@ -110,9 +110,9 @@ Implikasi hukum European Climate Law sangat signifikan. Sebagai Regulation (buka
 
 EU ETS beroperasi dengan prinsip *cap and trade*: total emisi yang diizinkan (*cap*) ditetapkan dan diturunkan setiap tahun; *allowances* (izin emisi) dialokasikan atau dilelang kepada instalasi yang tercakup; instalasi yang mengurangi emisi di bawah allowance-nya dapat menjual kelebihan, sementara yang melebihi harus membeli. Mekanisme ini menciptakan harga karbon yang mencerminkan kelangkaan hak emisi.[^7]
 
-**Cakupan**: EU ETS mencakup sekitar 10.000 instalasi di sektor ketenagalistrikan, industri berat (baja, semen, kimia), dan penerbangan intra-EU—totalnya sekitar 40% emisi EU. Fase 4 (2021-2030) akan memperluas cakupan ke transportasi maritim.[^8]
+**Cakupan**: EU ETS mencakup sekitar 10.000 instalasi di sektor ketenagalistrikan, industri berat (baja, semen, kimia), dan penerbangan intra-EUâ€”totalnya sekitar 40% emisi EU. Fase 4 (2021-2030) akan memperluas cakupan ke transportasi maritim.[^8]
 
-**Evolusi harga karbon**: Harga karbon di EU ETS mengalami fluktuasi signifikan. Pada fase awal (2005-2012), oversupply allowances menyebabkan harga jatuh mendekati nol. Reformasi Market Stability Reserve (2019) berhasil menstabilkan pasar, dan harga naik tajam mencapai €80-100 per ton pada 2022-2024—level yang mulai memberikan sinyal investasi yang bermakna untuk dekarbonisasi.[^9]
+**Evolusi harga karbon**: Harga karbon di EU ETS mengalami fluktuasi signifikan. Pada fase awal (2005-2012), oversupply allowances menyebabkan harga jatuh mendekati nol. Reformasi Market Stability Reserve (2019) berhasil menstabilkan pasar, dan harga naik tajam mencapai â‚¬80-100 per ton pada 2022-2024â€”level yang mulai memberikan sinyal investasi yang bermakna untuk dekarbonisasi.[^9]
 
 **Pelajaran dari EU ETS**:
 - **Pentingnya cap yang ketat**: Cap yang terlalu longgar menghasilkan harga rendah dan insentif lemah
@@ -129,11 +129,11 @@ EU ETS beroperasi dengan prinsip *cap and trade*: total emisi yang diizinkan (*c
 
 **European Green Deal**, yang diluncurkan Desember 2019, adalah strategi pertumbuhan komprehensif yang bertujuan mentransformasi EU menjadi ekonomi modern, efisien sumber daya, dan kompetitif tanpa emisi GRK netto pada 2050.[^10]
 
-Green Deal bukan sekadar kebijakan iklim—ia adalah visi transformasi ekonomi dan sosial yang mencakup energi, transportasi, industri, pertanian, konstruksi, dan keuangan. Implementasinya dilakukan melalui paket legislatif **Fit for 55**—sekitar selusin proposal regulasi untuk mencapai target pengurangan 55% pada 2030.[^11]
+Green Deal bukan sekadar kebijakan iklimâ€”ia adalah visi transformasi ekonomi dan sosial yang mencakup energi, transportasi, industri, pertanian, konstruksi, dan keuangan. Implementasinya dilakukan melalui paket legislatif **Fit for 55**â€”sekitar selusin proposal regulasi untuk mencapai target pengurangan 55% pada 2030.[^11]
 
 Elemen kunci Fit for 55 yang relevan untuk Indonesia:
 
-**Carbon Border Adjustment Mechanism (CBAM)**: Mulai berlaku penuh pada 2026, CBAM mengenakan biaya karbon pada impor produk tertentu (semen, baja, aluminium, pupuk, listrik, hidrogen) ke EU. Importir harus membeli sertifikat CBAM dengan harga setara harga karbon EU ETS. Tujuannya mencegah *carbon leakage*—perpindahan produksi ke yurisdiksi tanpa harga karbon—sekaligus mendorong mitra dagang untuk mengadopsi kebijakan iklim.[^12]
+**Carbon Border Adjustment Mechanism (CBAM)**: Mulai berlaku penuh pada 2026, CBAM mengenakan biaya karbon pada impor produk tertentu (semen, baja, aluminium, pupuk, listrik, hidrogen) ke EU. Importir harus membeli sertifikat CBAM dengan harga setara harga karbon EU ETS. Tujuannya mencegah *carbon leakage*â€”perpindahan produksi ke yurisdiksi tanpa harga karbonâ€”sekaligus mendorong mitra dagang untuk mengadopsi kebijakan iklim.[^12]
 
 Dampak CBAM untuk Indonesia berpotensi signifikan. Ekspor baja, aluminium, dan pupuk Indonesia ke EU akan terkena CBAM. Tanpa harga karbon domestik yang setara, eksportir Indonesia akan menghadapi biaya tambahan yang mengurangi daya saing. Ini menjadi salah satu pendorong pengembangan pasar karbon Indonesia.[^13]
 
@@ -149,41 +149,41 @@ Dampak CBAM untuk Indonesia berpotensi signifikan. Ekspor baja, aluminium, dan p
 
 ### 2. Amerika Serikat: Pendekatan Berbasis Insentif
 
-Amerika Serikat menempuh jalur yang berbeda dari Uni Eropa dalam kebijakan iklimnya. Alih-alih target yang mengikat secara hukum dan pasar karbon nasional, AS mengandalkan kombinasi insentif ekonomi, regulasi sektoral oleh badan eksekutif, dan—secara unik—litigasi sebagai mekanisme penegakan. Pendekatan ini mencerminkan realitas politik AS di mana legislasi iklim komprehensif sulit mendapat dukungan bipartisan di Kongres.[^15]
+Amerika Serikat menempuh jalur yang berbeda dari Uni Eropa dalam kebijakan iklimnya. Alih-alih target yang mengikat secara hukum dan pasar karbon nasional, AS mengandalkan kombinasi insentif ekonomi, regulasi sektoral oleh badan eksekutif, danâ€”secara unikâ€”litigasi sebagai mekanisme penegakan. Pendekatan ini mencerminkan realitas politik AS di mana legislasi iklim komprehensif sulit mendapat dukungan bipartisan di Kongres.[^15]
 
-Meskipun AS tidak meratifikasi Protokol Kyoto dan sempat mundur dari Paris Agreement (2017-2021 di bawah pemerintahan Trump), negara ini tetap menjadi pemain kunci dalam kebijakan iklim global—baik melalui aksi tingkat negara bagian, inovasi teknologi, maupun litigasi yang memaksa aksi korporat.[^16]
+Meskipun AS tidak meratifikasi Protokol Kyoto dan sempat mundur dari Paris Agreement (2017-2021 di bawah pemerintahan Trump), negara ini tetap menjadi pemain kunci dalam kebijakan iklim globalâ€”baik melalui aksi tingkat negara bagian, inovasi teknologi, maupun litigasi yang memaksa aksi korporat.[^16]
 
 [^15]: Carlarne CP, Gray KR dan Tarasofsky RG (eds), *The Oxford Handbook of International Climate Change Law* (Oxford University Press 2016) 637-658.
 [^16]: Falkner R, 'The Paris Agreement and the new logic of international climate politics' (2016) 92 International Affairs 1107, 1115-1120.
 
 #### 2.1 Inflation Reduction Act 2022 (IRA): Paradigma Baru Kebijakan Iklim
 
-**Inflation Reduction Act** (IRA) yang ditandatangani Presiden Biden pada Agustus 2022 menandai pergeseran paradigma dalam kebijakan iklim AS. Dengan alokasi **USD 369 miliar** untuk energi dan iklim—investasi iklim terbesar dalam sejarah AS—IRA menunjukkan bahwa insentif dapat menggantikan regulasi ketat ketika yang terakhir tidak layak secara politik.[^17]
+**Inflation Reduction Act** (IRA) yang ditandatangani Presiden Biden pada Agustus 2022 menandai pergeseran paradigma dalam kebijakan iklim AS. Dengan alokasi **USD 369 miliar** untuk energi dan iklimâ€”investasi iklim terbesar dalam sejarah ASâ€”IRA menunjukkan bahwa insentif dapat menggantikan regulasi ketat ketika yang terakhir tidak layak secara politik.[^17]
 
 Pendekatan IRA sangat berbeda dari model Eropa. Alih-alih menetapkan *cap* emisi atau target yang mengikat, IRA menggunakan **insentif pajak** (*tax credits*) untuk mendorong transisi energi. Filosofinya: daripada menghukum emisi, berikan imbalan untuk aksi yang baik.[^18]
 
 **Instrumen utama IRA:**
 
-**Production Tax Credit (PTC)**: Kredit pajak untuk produksi energi bersih—sekitar USD 27.5 per MWh untuk energi angin dan surya. Kredit ini membuat energi terbarukan kompetitif secara ekonomi bahkan tanpa subsidi lain.[^19]
+**Production Tax Credit (PTC)**: Kredit pajak untuk produksi energi bersihâ€”sekitar USD 27.5 per MWh untuk energi angin dan surya. Kredit ini membuat energi terbarukan kompetitif secara ekonomi bahkan tanpa subsidi lain.[^19]
 
 **Investment Tax Credit (ITC)**: Kredit pajak hingga 30% untuk investasi dalam energi bersih, termasuk penyimpanan baterai, hidrogen hijau, dan carbon capture. *Bonus credits* tersedia untuk proyek di komunitas energi (*energy communities*) dan yang memenuhi standar upah dan apprenticeship.[^20]
 
 **Electric Vehicle Credits**: Kredit hingga USD 7,500 untuk pembelian kendaraan listrik yang diproduksi di Amerika Utara dengan komponen baterai yang memenuhi persyaratan domestik. Ini menciptakan insentif untuk onshoring rantai pasok EV.[^21]
 
-**Implikasi IRA untuk Indonesia**: Model insentif IRA menawarkan alternatif bagi negara berkembang yang menghadapi kendala kapasitas untuk regulasi ketat. Namun, IRA juga menimbulkan kekhawatiran tentang *subsidy competition*—apakah negara berkembang mampu bersaing dengan insentif besar dari ekonomi maju? Indonesia perlu mempertimbangkan bagaimana IRA mempengaruhi daya tarik investasi energi bersih di kawasan.[^22]
+**Implikasi IRA untuk Indonesia**: Model insentif IRA menawarkan alternatif bagi negara berkembang yang menghadapi kendala kapasitas untuk regulasi ketat. Namun, IRA juga menimbulkan kekhawatiran tentang *subsidy competition*â€”apakah negara berkembang mampu bersaing dengan insentif besar dari ekonomi maju? Indonesia perlu mempertimbangkan bagaimana IRA mempengaruhi daya tarik investasi energi bersih di kawasan.[^22]
 
 [^17]: Inflation Reduction Act of 2022, Pub L No 117-169, 136 Stat 1818.
 [^18]: Jenkins JD, Mayfield EN dan Farbes J, 'Preliminary Report: The Climate and Energy Impacts of the Inflation Reduction Act of 2022' (REPEAT Project, Princeton University 2022).
-[^19]: IRA 2022 (n 17) s 13101 (amending 26 USC § 45).
-[^20]: ibid s 13102 (amending 26 USC § 48).
-[^21]: ibid s 13401 (amending 26 USC § 30D).
+[^19]: IRA 2022 (n 17) s 13101 (amending 26 USC Â§ 45).
+[^20]: ibid s 13102 (amending 26 USC Â§ 48).
+[^21]: ibid s 13401 (amending 26 USC Â§ 30D).
 [^22]: IESR, *Green Investment Outlook: Indonesia's Pathways to a Low Carbon Economy* (IESR 2024) 45-50.
 
 #### 2.2 Regulasi EPA: Clean Air Act sebagai Fondasi
 
-Di samping legislasi Kongres, regulasi oleh **Environmental Protection Agency** (EPA) berdasarkan **Clean Air Act** (1970) menjadi instrumen penting kebijakan iklim AS. Penggunaan undang-undang lingkungan yang sudah ada untuk mengatur emisi GRK—bukan legislasi iklim khusus—adalah pendekatan khas AS yang dibentuk oleh preseden yudisial.[^23]
+Di samping legislasi Kongres, regulasi oleh **Environmental Protection Agency** (EPA) berdasarkan **Clean Air Act** (1970) menjadi instrumen penting kebijakan iklim AS. Penggunaan undang-undang lingkungan yang sudah ada untuk mengatur emisi GRKâ€”bukan legislasi iklim khususâ€”adalah pendekatan khas AS yang dibentuk oleh preseden yudisial.[^23]
 
-Titik balik datang dari putusan Mahkamah Agung dalam ***Massachusetts v. EPA*** (2007). Dalam kasus landmark ini, pengadilan memutuskan bahwa CO₂ dan GRK lainnya adalah "polutan" di bawah Clean Air Act, sehingga EPA berwenang—dan bahkan mungkin wajib—mengaturnya.[^24] Putusan ini membuka pintu bagi serangkaian regulasi iklim oleh EPA.
+Titik balik datang dari putusan Mahkamah Agung dalam ***Massachusetts v. EPA*** (2007). Dalam kasus landmark ini, pengadilan memutuskan bahwa COâ‚‚ dan GRK lainnya adalah "polutan" di bawah Clean Air Act, sehingga EPA berwenangâ€”dan bahkan mungkin wajibâ€”mengaturnya.[^24] Putusan ini membuka pintu bagi serangkaian regulasi iklim oleh EPA.
 
 **Regulasi utama berdasarkan Clean Air Act:**
 
@@ -204,11 +204,11 @@ Titik balik datang dari putusan Mahkamah Agung dalam ***Massachusetts v. EPA*** 
 
 #### 2.3 Peran Litigasi: Pengadilan sebagai Arena Kebijakan Iklim
 
-Amerika Serikat memiliki tradisi litigasi iklim yang paling berkembang di dunia. Dengan lebih dari 1,500 kasus terkait iklim yang diajukan—sekitar separuh dari total kasus global—pengadilan AS berfungsi sebagai arena alternatif untuk kebijakan iklim ketika proses legislatif dan eksekutif terhambat.[^29]
+Amerika Serikat memiliki tradisi litigasi iklim yang paling berkembang di dunia. Dengan lebih dari 1,500 kasus terkait iklim yang diajukanâ€”sekitar separuh dari total kasus globalâ€”pengadilan AS berfungsi sebagai arena alternatif untuk kebijakan iklim ketika proses legislatif dan eksekutif terhambat.[^29]
 
 **Kategori litigasi iklim AS:**
 
-**Litigasi terhadap pemerintah federal dan negara bagian**: Tuntutan agar pemerintah mengambil aksi iklim yang lebih ambisius. Kasus seperti *Juliana v. United States* (2015-2020)—di mana pemuda menggugat pemerintah federal atas kegagalan menangani perubahan iklim—meskipun ditolak atas alasan prosedural, menarik perhatian publik dan membentuk diskursus.[^30]
+**Litigasi terhadap pemerintah federal dan negara bagian**: Tuntutan agar pemerintah mengambil aksi iklim yang lebih ambisius. Kasus seperti *Juliana v. United States* (2015-2020)â€”di mana pemuda menggugat pemerintah federal atas kegagalan menangani perubahan iklimâ€”meskipun ditolak atas alasan prosedural, menarik perhatian publik dan membentuk diskursus.[^30]
 
 **Litigasi terhadap korporasi fosil**: Berbagai negara bagian dan kota menggugat perusahaan minyak besar (ExxonMobil, Chevron, Shell, BP) dengan tuduhan telah mengetahui dampak iklim dari produk mereka sejak dekade 1970-an tetapi menyembunyikan informasi dan mendanai kampanye disinformasi. Teori hukum meliputi penipuan konsumen, *public nuisance*, dan kegagalan memperingatkan.[^31]
 
@@ -229,9 +229,9 @@ Amerika Serikat memiliki tradisi litigasi iklim yang paling berkembang di dunia.
 
 ### 3. China: Pendekatan Administratif
 
-China adalah emitter GRK terbesar di dunia, bertanggung jawab atas sekitar 30% emisi global—melebihi gabungan AS dan EU. Keputusan kebijakan iklim China memiliki implikasi eksistensial bagi pencapaian target Paris Agreement. Pendekatan China terhadap tata kelola iklim mencerminkan model pembangunannya yang lebih luas: perencanaan terpusat dengan implementasi terdesentralisasi, target administratif yang kuat, dan kontrol negara atas sektor-sektor strategis.[^35]
+China adalah emitter GRK terbesar di dunia, bertanggung jawab atas sekitar 30% emisi globalâ€”melebihi gabungan AS dan EU. Keputusan kebijakan iklim China memiliki implikasi eksistensial bagi pencapaian target Paris Agreement. Pendekatan China terhadap tata kelola iklim mencerminkan model pembangunannya yang lebih luas: perencanaan terpusat dengan implementasi terdesentralisasi, target administratif yang kuat, dan kontrol negara atas sektor-sektor strategis.[^35]
 
-Berbeda dengan EU yang mengandalkan instrumen pasar dan AS yang menggabungkan insentif dengan litigasi, China menggunakan **pendekatan administratif**—target ditetapkan melalui rencana pembangunan lima tahunan (*Five-Year Plans*) dan diimplementasikan melalui sistem birokrasi dari pusat ke daerah. Kepatuhan dijamin melalui evaluasi kinerja pejabat yang dikaitkan dengan pencapaian target lingkungan.[^36]
+Berbeda dengan EU yang mengandalkan instrumen pasar dan AS yang menggabungkan insentif dengan litigasi, China menggunakan **pendekatan administratif**â€”target ditetapkan melalui rencana pembangunan lima tahunan (*Five-Year Plans*) dan diimplementasikan melalui sistem birokrasi dari pusat ke daerah. Kepatuhan dijamin melalui evaluasi kinerja pejabat yang dikaitkan dengan pencapaian target lingkungan.[^36]
 
 [^35]: Teng F dan Wang P, 'The Evolution of Climate Governance in China: Drivers, Features, and Future Direction' (2021) 4 Environmental Science and Ecotechnology 100082.
 [^36]: Kostka G, 'China's Campaign-Style Climate Governance' in Dubash NK (ed), *Handbook of Climate Change and India* (Oxford University Press 2021) 285-305.
@@ -258,13 +258,13 @@ Target-target ini kemudian diintegrasikan ke dalam dokumen perencanaan formal:
 
 #### 3.2 China ETS: Pasar Karbon Terbesar dengan Karakteristik Berbeda
 
-**China National Emissions Trading Scheme** (China ETS) yang diluncurkan Juli 2021 adalah sistem perdagangan emisi terbesar di dunia berdasarkan cakupan emisi—mencakup sekitar 4,5 miliar ton CO₂, hampir dua kali lipat EU ETS. Namun, desain dan operasinya sangat berbeda dari model Eropa.[^42]
+**China National Emissions Trading Scheme** (China ETS) yang diluncurkan Juli 2021 adalah sistem perdagangan emisi terbesar di dunia berdasarkan cakupan emisiâ€”mencakup sekitar 4,5 miliar ton COâ‚‚, hampir dua kali lipat EU ETS. Namun, desain dan operasinya sangat berbeda dari model Eropa.[^42]
 
-**Cakupan dan fase**: Berbeda dengan EU ETS yang mencakup berbagai sektor, China ETS saat ini **hanya mencakup sektor ketenagalistrikan**—sekitar 2,200 instalasi pembangkit listrik. Perluasan ke sektor lain (semen, baja, aluminium, petrokimia, kertas, penerbangan) direncanakan bertahap, dengan semen dan aluminium dijadwalkan masuk pada 2024-2025.[^43]
+**Cakupan dan fase**: Berbeda dengan EU ETS yang mencakup berbagai sektor, China ETS saat ini **hanya mencakup sektor ketenagalistrikan**â€”sekitar 2,200 instalasi pembangkit listrik. Perluasan ke sektor lain (semen, baja, aluminium, petrokimia, kertas, penerbangan) direncanakan bertahap, dengan semen dan aluminium dijadwalkan masuk pada 2024-2025.[^43]
 
-**Mekanisme berbasis intensitas**: China ETS menggunakan sistem **berbasis intensitas** (*intensity-based*), bukan *cap* absolut seperti EU ETS. Allowance dialokasikan berdasarkan intensitas karbon per unit output (ton CO₂/MWh), bukan batas emisi total. Ini berarti fasilitas yang efisien mendapat surplus, sementara yang tidak efisien harus membeli—tetapi total emisi sektor masih dapat meningkat jika output meningkat.[^44]
+**Mekanisme berbasis intensitas**: China ETS menggunakan sistem **berbasis intensitas** (*intensity-based*), bukan *cap* absolut seperti EU ETS. Allowance dialokasikan berdasarkan intensitas karbon per unit output (ton COâ‚‚/MWh), bukan batas emisi total. Ini berarti fasilitas yang efisien mendapat surplus, sementara yang tidak efisien harus membeliâ€”tetapi total emisi sektor masih dapat meningkat jika output meningkat.[^44]
 
-**Harga karbon rendah**: Harga karbon di China ETS berkisar **RMB 50-90 per ton** (USD 7-13), jauh di bawah harga EU ETS (€80-100). Harga rendah ini mencerminkan desain yang hati-hati untuk menghindari dampak ekonomi signifikan selama fase awal. Likuiditas pasar juga terbatas karena pembatasan pada spekulasi.[^45]
+**Harga karbon rendah**: Harga karbon di China ETS berkisar **RMB 50-90 per ton** (USD 7-13), jauh di bawah harga EU ETS (â‚¬80-100). Harga rendah ini mencerminkan desain yang hati-hati untuk menghindari dampak ekonomi signifikan selama fase awal. Likuiditas pasar juga terbatas karena pembatasan pada spekulasi.[^45]
 
 **Pelajaran China ETS**:
 - **Mulai sederhana, perluas bertahap**: Memulai dengan satu sektor yang datanya baik sebelum perluasan
@@ -281,7 +281,7 @@ Target-target ini kemudian diintegrasikan ke dalam dokumen perencanaan formal:
 
 ### 4. Pelajaran untuk Indonesia
 
-Perbandingan tiga model utama hukum iklim global—regulasi komprehensif EU, insentif pasar AS, dan pendekatan administratif China—memberikan wawasan berharga bagi pengembangan kerangka hukum iklim Indonesia. Tidak ada model tunggal yang dapat diadopsi secara utuh; Indonesia perlu merancang pendekatan hibrida yang sesuai dengan konteks kelembagaan, kapasitas, dan prioritas pembangunan nasional.[^46]
+Perbandingan tiga model utama hukum iklim globalâ€”regulasi komprehensif EU, insentif pasar AS, dan pendekatan administratif Chinaâ€”memberikan wawasan berharga bagi pengembangan kerangka hukum iklim Indonesia. Tidak ada model tunggal yang dapat diadopsi secara utuh; Indonesia perlu merancang pendekatan hibrida yang sesuai dengan konteks kelembagaan, kapasitas, dan prioritas pembangunan nasional.[^46]
 
 #### 4.1 Matriks Perbandingan
 
@@ -291,12 +291,12 @@ Tabel berikut merangkum perbandingan karakteristik utama dari ketiga model:
 |-------|-----------|-----------------|-------|---------------------|
 | **Pendekatan utama** | Regulasi (*command-and-control*) | Insentif fiskal | Administratif (perencanaan) | Campuran |
 | **Sifat target** | Mengikat secara hukum | Tidak mengikat (kebijakan) | Administratif (FYP) | Kebijakan (NDC) |
-| **Pasar karbon** | Matang, €80-100/ton | Fragmentasi regional | Terbesar, USD 7-13/ton | Fase awal, USD 2-5/ton |
+| **Pasar karbon** | Matang, â‚¬80-100/ton | Fragmentasi regional | Terbesar, USD 7-13/ton | Fase awal, USD 2-5/ton |
 | **Mekanisme penegakan** | Pengadilan EU, sanksi | Litigasi, regulasi EPA | Evaluasi birokrasi | Masih berkembang |
 | **Peran yudisial** | Signifikan (*Urgenda*-style) | Sangat kuat | Minimal | Terbatas |
 | **Integrasi sektoral** | Tinggi (Green Deal) | Rendah (silo) | Tinggi (1+N) | Berkembang |
 
-[^46]: Jotzo F dan Löschel A, 'Emissions Trading in China: Emerging Experiences and International Lessons' (2014) 75 Energy Policy 3.
+[^46]: Jotzo F dan LÃ¶schel A, 'Emissions Trading in China: Emerging Experiences and International Lessons' (2014) 75 Energy Policy 3.
 
 #### 4.2 Elemen yang Dapat Diadaptasi untuk Indonesia
 
@@ -304,7 +304,7 @@ Dari masing-masing model, Indonesia dapat mengambil pelajaran spesifik:
 
 **Dari Uni Eropa:**
 
-**Target yang mengikat secara hukum**: Indonesia saat ini mengandalkan komitmen NDC yang bersifat kebijakan, bukan hukum. Penguatan status hukum target iklim—misalnya melalui undang-undang perubahan iklim yang komprehensif—akan meningkatkan kepastian hukum dan memberikan dasar bagi akuntabilitas.[^47]
+**Target yang mengikat secara hukum**: Indonesia saat ini mengandalkan komitmen NDC yang bersifat kebijakan, bukan hukum. Penguatan status hukum target iklimâ€”misalnya melalui undang-undang perubahan iklim yang komprehensifâ€”akan meningkatkan kepastian hukum dan memberikan dasar bagi akuntabilitas.[^47]
 
 **Taksonomi keuangan berkelanjutan**: EU Taxonomy telah menginspirasi Taksonomi Keuangan Berkelanjutan Indonesia (TKBI) yang diterbitkan OJK. Penguatan dan perluasan TKBI akan mengarahkan aliran modal ke investasi rendah karbon.[^48]
 
@@ -320,7 +320,7 @@ Dari masing-masing model, Indonesia dapat mengambil pelajaran spesifik:
 
 **Dari China:**
 
-**Integrasi dalam perencanaan pembangunan**: China mengintegrasikan target iklim dalam Rencana Lima Tahun—dokumen perencanaan utama negara. Indonesia dapat lebih eksplisit mengintegrasikan target iklim dalam RPJMN dan RPJPN.[^52]
+**Integrasi dalam perencanaan pembangunan**: China mengintegrasikan target iklim dalam Rencana Lima Tahunâ€”dokumen perencanaan utama negara. Indonesia dapat lebih eksplisit mengintegrasikan target iklim dalam RPJMN dan RPJPN.[^52]
 
 **Pengembangan pasar karbon bertahap**: Pendekatan China yang memulai ETS dari satu sektor (ketenagalistrikan) sebelum perluasan sejalan dengan arah PP 12/2024 Indonesia yang memulai dengan sektor FOLU dan energi.[^53]
 
@@ -338,13 +338,13 @@ Dari masing-masing model, Indonesia dapat mengambil pelajaran spesifik:
 
 Adopsi elemen-elemen dari model internasional menghadapi tantangan spesifik konteks Indonesia:
 
-**Kapasitas kelembagaan**: Regulasi komprehensif ala EU memerlukan kapasitas birokrasi yang kuat untuk penegakan. Fragmentasi kewenangan antara kementerian—KLHK, ESDM, Kemenperin, Kemenkeu—mempersulit koordinasi.[^54]
+**Kapasitas kelembagaan**: Regulasi komprehensif ala EU memerlukan kapasitas birokrasi yang kuat untuk penegakan. Fragmentasi kewenangan antara kementerianâ€”KLHK, ESDM, Kemenperin, Kemenkeuâ€”mempersulit koordinasi.[^54]
 
 **Ruang fiskal terbatas**: Model insentif ala IRA memerlukan anggaran besar yang sulit disediakan mengingat prioritas pembangunan lain. Indonesia lebih mengandalkan pendanaan internasional dan private finance.
 
 **Tradisi hukum**: Model litigasi AS berkembang dalam tradisi *common law* dengan *stare decisis*. Sistem hukum sipil Indonesia memberikan peran berbeda bagi yurisprudensi, meskipun putusan-putusan penting tetap berpengaruh.
 
-**Prioritas pembangunan**: Berbeda dengan EU yang sudah *industrialized*, Indonesia masih dalam fase pembangunan dengan kebutuhan pertumbuhan ekonomi dan pengentasan kemiskinan. Kebijakan iklim harus seimbang dengan agenda pembangunan—*just transition* menjadi kata kunci.[^55]
+**Prioritas pembangunan**: Berbeda dengan EU yang sudah *industrialized*, Indonesia masih dalam fase pembangunan dengan kebutuhan pertumbuhan ekonomi dan pengentasan kemiskinan. Kebijakan iklim harus seimbang dengan agenda pembangunanâ€”*just transition* menjadi kata kunci.[^55]
 
 **Konteks federal vs unitary**: Model China yang terpusat cocok dengan struktur negara kesatuan Indonesia, tetapi desentralisasi pasca-reformasi memberikan kewenangan signifikan kepada pemerintah daerah yang kapasitasnya bervariasi.
 
@@ -385,13 +385,13 @@ EU CBAM akan mengenakan tarif karbon pada impor produk tertentu. Bagaimana dampa
 
 Pada bab ini, kita telah mempelajari:
 
-- **Uni Eropa:** Menerapkan pendekatan regulasi komprehensif melalui EU Climate Law (2021) dengan target mengikat 55% pengurangan pada 2030 dan netralitas iklim 2050. EU ETS sebagai sistem perdagangan karbon tertua (sejak 2005) dengan harga €80-100/ton, serta European Green Deal yang mencakup CBAM.
+- **Uni Eropa:** Menerapkan pendekatan regulasi komprehensif melalui EU Climate Law (2021) dengan target mengikat 55% pengurangan pada 2030 dan netralitas iklim 2050. EU ETS sebagai sistem perdagangan karbon tertua (sejak 2005) dengan harga â‚¬80-100/ton, serta European Green Deal yang mencakup CBAM.
 
 - **Amerika Serikat:** Menggunakan pendekatan berbasis insentif melalui Inflation Reduction Act 2022 (USD 369 miliar) dengan tax credits, bukan cap. Regulasi EPA berdasarkan Clean Air Act dan tradisi litigasi iklim yang kuat.
 
 - **China:** Menerapkan pendekatan administratif melalui Five-Year Plans dengan target *peak* 2030 dan netralitas 2060. China ETS (2021) adalah yang terbesar di dunia berdasarkan cakupan, meskipun dengan harga rendah (~USD 8-10/ton).
 
-- **Pelajaran untuk Indonesia:** Tidak ada model tunggal yang sempurna—Indonesia perlu mengombinasikan elemen regulasi, insentif, dan administratif sesuai konteks nasional, kapasitas kelembagaan, dan prioritas pembangunan.
+- **Pelajaran untuk Indonesia:** Tidak ada model tunggal yang sempurnaâ€”Indonesia perlu mengombinasikan elemen regulasi, insentif, dan administratif sesuai konteks nasional, kapasitas kelembagaan, dan prioritas pembangunan.
 
 ```mermaid
 graph TB
@@ -457,8 +457,8 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 4. Harga karbon di EU ETS pada 2024 berada pada kisaran:
    - a. USD 10-20/ton
    - b. USD 30-50/ton
-   - c. €80-100/ton
-   - d. €150-200/ton
+   - c. â‚¬80-100/ton
+   - d. â‚¬150-200/ton
 
 5. China menargetkan pencapaian *carbon neutrality* pada:
    - a. 2050
@@ -482,7 +482,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-b, 4-c, 5-c, 6-B, 7-S, 8-S, 9-B, 10-S
 
@@ -494,7 +494,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-10-Hukum-Iklim-Sektoral_BAB-10|BAB 10]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-06-PerubahanIklim-10-Hukum-Iklim-Sektoral_BAB-10|BAB 10]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -548,10 +548,11 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - [[01-Traktat_Paris_Agreement_2015]] - Konteks internasional
 
 **Navigasi Buku:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-08-Nilai-Ekonomi-Karbon_BAB-08|BAB 8: Nilai Ekonomi Karbon dan Bursa Karbon]]
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-10-Hukum-Iklim-Sektoral_BAB-10|BAB 10: Hukum Iklim Sektoral]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-08-Nilai-Ekonomi-Karbon_BAB-08|BAB 8: Nilai Ekonomi Karbon dan Bursa Karbon]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-10-Hukum-Iklim-Sektoral_BAB-10|BAB 10: Hukum Iklim Sektoral]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 9*
+

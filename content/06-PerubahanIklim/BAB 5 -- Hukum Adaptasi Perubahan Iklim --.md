@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "5"
 judul: "Hukum Adaptasi Perubahan Iklim"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "90 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - adaptasi
   - resilience
   - loss-and-damage
@@ -36,7 +36,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Meskipun mitigasi sangat penting, realitasnya perubahan iklim sudah terjadi dan dampaknya tidak terelakkan. Adaptasi—penyesuaian terhadap dampak iklim—menjadi semakin krusial. Bab ini akan mengajak Anda memahami bagaimana hukum internasional mengatur adaptasi, kesenjangan yang masih ada, dan tantangan khusus yang dihadapi Indonesia sebagai negara kepulauan yang sangat rentan.
+Meskipun mitigasi sangat penting, realitasnya perubahan iklim sudah terjadi dan dampaknya tidak terelakkan. Adaptasiâ€”penyesuaian terhadap dampak iklimâ€”menjadi semakin krusial. Bab ini akan mengajak Anda memahami bagaimana hukum internasional mengatur adaptasi, kesenjangan yang masih ada, dan tantangan khusus yang dihadapi Indonesia sebagai negara kepulauan yang sangat rentan.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -51,13 +51,13 @@ graph LR
     B --> H[BAB 15: Loss & Damage]
 ```
 
-Bab ini melengkapi [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4 tentang Mitigasi]] dan terkait erat dengan [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6 tentang Pendanaan]] karena adaptasi memerlukan sumber daya yang signifikan.
+Bab ini melengkapi [[Buku-Ajar-Hukum-06-PerubahanIklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4 tentang Mitigasi]] dan terkait erat dengan [[Buku-Ajar-Hukum-06-PerubahanIklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6 tentang Pendanaan]] karena adaptasi memerlukan sumber daya yang signifikan.
 
 > [!tip] **Bab Lanjutan tentang Adaptasi**
 > Untuk pembahasan lebih mendalam, lihat:
-> - [[Buku-Ajar-Hukum-Perubahan-Iklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13: Kerangka Hukum Adaptasi Internasional]] - GGA, NAP, dan kelembagaan internasional
-> - [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14: Hukum Adaptasi Sektoral Indonesia]] - Regulasi adaptasi per sektor
-> - [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]] - Pembahasan mendalam L&D
+> - [[Buku-Ajar-Hukum-06-PerubahanIklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13: Kerangka Hukum Adaptasi Internasional]] - GGA, NAP, dan kelembagaan internasional
+> - [[Buku-Ajar-Hukum-06-PerubahanIklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14: Hukum Adaptasi Sektoral Indonesia]] - Regulasi adaptasi per sektor
+> - [[Buku-Ajar-Hukum-06-PerubahanIklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]] - Pembahasan mendalam L&D
 
 ### 5. Peta Konsep Bab
 
@@ -174,7 +174,7 @@ Persetujuan Paris 2015 merupakan titik balik dalam pengaturan adaptasi internasi
 
 > [!quote] **Kutipan**
 > "Parties hereby establish the global goal on adaptation of enhancing adaptive capacity, strengthening resilience and reducing vulnerability to climate change, with a view to contributing to sustainable development..."
-> — *Pasal 7.1, Persetujuan Paris 2015*
+> â€” *Pasal 7.1, Persetujuan Paris 2015*
 
 Pasal 7.1 menetapkan *Global Goal on Adaptation* (GGA) yang bertujuan meningkatkan kapasitas adaptif, memperkuat ketahanan, dan mengurangi kerentanan terhadap perubahan iklim, dengan maksud berkontribusi pada pembangunan berkelanjutan dan memastikan respons adaptasi yang memadai dalam konteks target suhu yang disebutkan dalam Pasal 2.[^16] Berbeda dengan target mitigasi yang dapat dikuantifikasi (misalnya 1,5 atau 2 derajat Celsius), GGA bersifat lebih kualitatif, yang mencerminkan sifat kontekstual adaptasi yang sangat bergantung pada kondisi lokal masing-masing negara.
 
@@ -242,7 +242,7 @@ Persetujuan Paris memberikan pengakuan hukum tertinggi terhadap *loss and damage
 
 > [!quote] **Kutipan**
 > "Parties recognize the importance of averting, minimizing and addressing loss and damage associated with the adverse effects of climate change..."
-> — *Pasal 8.1, Persetujuan Paris 2015*
+> â€” *Pasal 8.1, Persetujuan Paris 2015*
 
 Pasal 8 menetapkan pendekatan tiga lapis terhadap *loss and damage*: *averting* (mencegah), *minimizing* (meminimalkan), dan *addressing* (menangani). Pasal ini juga mengidentifikasi berbagai area kerja sama termasuk sistem peringatan dini, kesiapsiagaan darurat, peristiwa lambat, peristiwa yang mungkin melibatkan kerugian permanen dan tidak dapat dipulihkan, penilaian dan manajemen risiko komprehensif, fasilitas asuransi risiko, kerugian non-ekonomi, serta ketahanan komunitas.[^29]
 
@@ -494,7 +494,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-c, 4-c, 5-c, 6-S, 7-S, 8-B, 9-B, 10-S
 
@@ -506,7 +506,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-06-PerubahanIklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -551,9 +551,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - [[03-Peraturan-Indonesia_NDC_Indonesia]] - Komponen adaptasi NDC Indonesia
 
 **Navigasi Buku:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4: Kewajiban Mitigasi dalam Hukum Internasional]]
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6: Pendanaan dan Mekanisme Iklim]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4: Kewajiban Mitigasi dalam Hukum Internasional]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6: Pendanaan dan Mekanisme Iklim]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
@@ -593,7 +593,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^17]: Paris Agreement, art 7.2.
 
-[^18]: Paris Agreement, arts 7.9-7.14; Daniel Bodansky, Jutta Brunnée and Lavanya Rajamani, *International Climate Change Law* (OUP 2017) 231-235.
+[^18]: Paris Agreement, arts 7.9-7.14; Daniel Bodansky, Jutta BrunnÃ©e and Lavanya Rajamani, *International Climate Change Law* (OUP 2017) 231-235.
 
 [^19]: UNFCCC, 'National Adaptation Plans: Technical Guidelines for the National Adaptation Plan Process' (LDC Expert Group, December 2012) 11-15.
 
@@ -662,3 +662,4 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 5*
+

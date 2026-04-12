@@ -1,4 +1,4 @@
----
+﻿---
 title: "BAB II: Definisi dan Dasar Hukum - Daya Dukung, Daya Tampung, Pencemaran"
 description: "Definisi yuridis daya dukung, daya tampung, dan pencemaran lingkungan hidup berdasarkan UU 32/2009 dan PP 22/2021"
 tags:
@@ -19,9 +19,9 @@ publish: true
 ---
 
 **Navigasi:**
-- [[BAB_I_Pendahuluan|← Bagian I: Pendahuluan]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
-- [[BAB_III_Keterkaitan_Konseptual|Lanjut ke Bagian III →]]
+- [[BAB_I_Pendahuluan|â† Bagian I: Pendahuluan]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
+- [[BAB_III_Keterkaitan_Konseptual|Lanjut ke Bagian III â†’]]
 
 ---
 
@@ -224,7 +224,7 @@ Karena itu, daya tampung udara sangat dipengaruhi oleh kondisi meteorologi.
 
 Kawasan Industri Cikarang:
 - Terdapat 100 pabrik yang mengeluarkan emisi PM2.5
-- Baku Mutu Udara Ambien untuk PM2.5 = 15 μg/m3 (rata-rata tahunan)
+- Baku Mutu Udara Ambien untuk PM2.5 = 15 Î¼g/m3 (rata-rata tahunan)
 - Kondisi meteorologi: angin rata-rata 3 m/detik, curah hujan 2000 mm/tahun
 
 Berdasarkan pemodelan dispersi udara (misalnya menggunakan AERMOD), dapat dihitung:
@@ -243,16 +243,16 @@ Daya tampung adalah konsep ekologis yang bersifat abstrak. Agar dapat diterapkan
 
 **Logika Hubungannya:**
 
-1. **Kajian Ilmiah** → Menentukan daya tampung suatu media lingkungan
-2. **Penetapan Baku Mutu** → Menterjemahkan daya tampung menjadi angka batas yang terukur
-3. **Penegakan Hukum** → Memastikan semua kegiatan tidak melampaui baku mutu
+1. **Kajian Ilmiah** â†’ Menentukan daya tampung suatu media lingkungan
+2. **Penetapan Baku Mutu** â†’ Menterjemahkan daya tampung menjadi angka batas yang terukur
+3. **Penegakan Hukum** â†’ Memastikan semua kegiatan tidak melampaui baku mutu
 
 **Contoh:**
 
 Daya tampung air Sungai Brantas di segmen tertentu dikaji oleh tim ahli dan ditetapkan bahwa untuk menjaga ekosistem, kadar BOD tidak boleh melebihi 3 mg/L. Maka:
 - Pemerintah menetapkan **Baku Mutu Air** untuk sungai tersebut = 3 mg/L untuk BOD
 - Pabrik yang membuang limbah ke sungai harus memenuhi **Baku Mutu Air Limbah** tertentu, sehingga total beban BOD tidak menyebabkan konsentrasi BOD di sungai melebihi 3 mg/L
-- Jika pemantauan menunjukkan BOD di sungai mencapai 4 mg/L → terjadi pencemaran → tindakan penegakan hukum
+- Jika pemantauan menunjukkan BOD di sungai mencapai 4 mg/L â†’ terjadi pencemaran â†’ tindakan penegakan hukum
 
 ### 7. Implikasi Hukum
 
@@ -263,8 +263,8 @@ Berdasarkan ketentuan yang berkembang dari PP 22/2021, Gubernur dan Bupati/Walik
 1. **Melakukan kajian daya tampung** secara berkala
 2. **Menetapkan status daya tampung**: sudah terlampaui atau belum
 3. **Mengambil tindakan:**
-   - Jika **belum terlampaui** → baku mutu air limbah mengikuti peraturan menteri
-   - Jika **sudah terlampaui** → **wajib menetapkan baku mutu lebih ketat** dari peraturan menteri
+   - Jika **belum terlampaui** â†’ baku mutu air limbah mengikuti peraturan menteri
+   - Jika **sudah terlampaui** â†’ **wajib menetapkan baku mutu lebih ketat** dari peraturan menteri
 
 **Konsekuensi Pelampauan Daya Tampung:**
 
@@ -347,10 +347,10 @@ Mencakup semua media lingkungan:
 Ini adalah elemen penting yang membedakan pencemaran dari fenomena alam. **Pencemaran harus bersumber dari aktivitas manusia**.
 
 Contoh perbedaan:
-- Erupsi gunung berapi yang mengeluarkan abu dan gas → **BUKAN pencemaran** (fenomena alam)
-- Pembakaran hutan oleh manusia yang mengeluarkan asap → **ADALAH pencemaran**
-- Rembesan minyak alami dari dasar laut → **BUKAN pencemaran**
-- Tumpahan minyak dari kapal tanker → **ADALAH pencemaran**
+- Erupsi gunung berapi yang mengeluarkan abu dan gas â†’ **BUKAN pencemaran** (fenomena alam)
+- Pembakaran hutan oleh manusia yang mengeluarkan asap â†’ **ADALAH pencemaran**
+- Rembesan minyak alami dari dasar laut â†’ **BUKAN pencemaran**
+- Tumpahan minyak dari kapal tanker â†’ **ADALAH pencemaran**
 
 Implikasinya: hanya pencemaran yang dapat dituntut secara hukum, karena ada pihak yang bertanggung jawab (manusia/korporasi).
 
@@ -361,13 +361,13 @@ Ini adalah **elemen krusial** yang membedakan "masuknya zat pencemar" dengan "pe
 **Prinsip Dasar:**
 - Tidak semua masuknya zat pencemar otomatis disebut pencemaran
 - **Pencemaran baru terjadi jika melampaui baku mutu yang ditetapkan**
-- Selama masih di bawah baku mutu → belum tercemar (masih dalam daya tampung)
+- Selama masih di bawah baku mutu â†’ belum tercemar (masih dalam daya tampung)
 
 **Contoh:**
 
 Pabrik tekstil membuang air limbah dengan BOD 50 mg/L ke sungai.
-- Jika baku mutu air limbah industri tekstil = 60 mg/L → **TIDAK tercemar** (masih di bawah baku mutu)
-- Jika baku mutu air limbah industri tekstil = 40 mg/L → **TERCEMAR** (melampaui baku mutu)
+- Jika baku mutu air limbah industri tekstil = 60 mg/L â†’ **TIDAK tercemar** (masih di bawah baku mutu)
+- Jika baku mutu air limbah industri tekstil = 40 mg/L â†’ **TERCEMAR** (melampaui baku mutu)
 
 Angka 50 mg/L sama, tapi status cemaran berbeda tergantung baku mutu yang ditetapkan.
 
@@ -407,14 +407,14 @@ Setiap kelas memiliki baku mutu berbeda. Semakin tinggi kelasnya, semakin ketat 
 Sungai Ciliwung di segmen A ditetapkan sebagai Kelas II. Baku mutu untuk BOD Kelas II = 3 mg/L.
 
 Hasil pemantauan:
-- Titik 1: BOD = 2,5 mg/L → **Belum tercemar**
-- Titik 2: BOD = 3,8 mg/L → **Tercemar** (melampaui baku mutu)
-- Titik 3: BOD = 5,2 mg/L → **Tercemar berat**
+- Titik 1: BOD = 2,5 mg/L â†’ **Belum tercemar**
+- Titik 2: BOD = 3,8 mg/L â†’ **Tercemar** (melampaui baku mutu)
+- Titik 3: BOD = 5,2 mg/L â†’ **Tercemar berat**
 
 Pada titik 2 dan 3, telah terjadi pencemaran air. Pemerintah wajib:
 1. Mengidentifikasi sumber pencemar
 2. Memerintahkan pencemar untuk mengurangi beban
-3. Jika tidak dipatuhi → sanksi administratif
+3. Jika tidak dipatuhi â†’ sanksi administratif
 
 #### b. Pencemaran Udara
 
@@ -433,8 +433,8 @@ Pencemaran udara diukur berdasarkan **Baku Mutu Udara Ambien (BMUA)**.
 2. CO (karbon monoksida)
 3. NO2 (nitrogen dioksida)
 4. O3 (ozon)
-5. PM10 (particulate matter diameter ≤ 10 mikron)
-6. PM2.5 (particulate matter diameter ≤ 2,5 mikron)
+5. PM10 (particulate matter diameter â‰¤ 10 mikron)
+6. PM2.5 (particulate matter diameter â‰¤ 2,5 mikron)
 7. HC (hidrokarbon)
 8. TSP (total suspended particulate)
 9. Pb (timbal)
@@ -445,8 +445,8 @@ Setiap parameter memiliki baku mutu dengan periode waktu tertentu (1 jam, 24 jam
 **Contoh Praktis:**
 
 Jakarta Pusat:
-- Baku Mutu PM2.5 (rata-rata 24 jam) = 55 μg/m3
-- Hasil pengukuran hari ini = 75 μg/m3
+- Baku Mutu PM2.5 (rata-rata 24 jam) = 55 Î¼g/m3
+- Hasil pengukuran hari ini = 75 Î¼g/m3
 - **Status: TERCEMAR**
 
 Pemerintah harus:
@@ -506,19 +506,19 @@ Pencemaran adalah **indikator bahwa daya tampung telah terlampaui**.
 
 ```
 TAHAP 1: Beban Pencemar < Daya Tampung
-├─ Kondisi: Baku mutu terpenuhi
-├─ Status: TIDAK TERCEMAR
-└─ Tindakan: Pemantauan rutin
+â”œâ”€ Kondisi: Baku mutu terpenuhi
+â”œâ”€ Status: TIDAK TERCEMAR
+â””â”€ Tindakan: Pemantauan rutin
 
 TAHAP 2: Beban Pencemar = Daya Tampung
-├─ Kondisi: Tepat di baku mutu (batas aman)
-├─ Status: BELUM TERCEMAR (tapi sudah kritis)
-└─ Tindakan: Moratorium izin baru, peningkatan pengawasan
+â”œâ”€ Kondisi: Tepat di baku mutu (batas aman)
+â”œâ”€ Status: BELUM TERCEMAR (tapi sudah kritis)
+â””â”€ Tindakan: Moratorium izin baru, peningkatan pengawasan
 
 TAHAP 3: Beban Pencemar > Daya Tampung
-├─ Kondisi: Melampaui baku mutu
-├─ Status: TERCEMAR
-└─ Tindakan: Penegakan hukum, pengurangan beban, pemulihan
+â”œâ”€ Kondisi: Melampaui baku mutu
+â”œâ”€ Status: TERCEMAR
+â””â”€ Tindakan: Penegakan hukum, pengurangan beban, pemulihan
 ```
 
 **Konsekuensi Logis:**
@@ -576,8 +576,8 @@ Baku mutu adalah jembatan antara konsep ekologis (daya tampung) dengan instrumen
 **Analisis:**
 
 1. **Status Pencemaran:**
-   - BOD aktual (15) > Baku Mutu (3) → **TERCEMAR BERAT**
-   - COD aktual (80) > Baku Mutu (25) → **TERCEMAR BERAT**
+   - BOD aktual (15) > Baku Mutu (3) â†’ **TERCEMAR BERAT**
+   - COD aktual (80) > Baku Mutu (25) â†’ **TERCEMAR BERAT**
 
 2. **Status Daya Tampung:**
    - Daya tampung sudah **TERLAMPAUI JAUH**
@@ -634,38 +634,38 @@ Baku mutu adalah jembatan antara konsep ekologis (daya tampung) dengan instrumen
 ### 1. Diagram Keterkaitan
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│         DAYA DUKUNG LINGKUNGAN HIDUP                        │
-│  (Kemampuan mendukung perikehidupan manusia dan             │
-│   makhluk hidup lain serta keseimbangan antarkeduanya)      │
-└──────────────────────┬──────────────────────────────────────┘
-                       │
-                       │ Salah satu komponen:
-                       ▼
-┌─────────────────────────────────────────────────────────────┐
-│       DAYA TAMPUNG LINGKUNGAN HIDUP                         │
-│  (Kemampuan menyerap zat, energi, dan/atau komponen lain)   │
-└──────────────────────┬──────────────────────────────────────┘
-                       │
-                       │ Jika terlampaui:
-                       ▼
-┌─────────────────────────────────────────────────────────────┐
-│       PENCEMARAN LINGKUNGAN HIDUP                           │
-│  (Melampaui baku mutu lingkungan hidup)                     │
-└──────────────────────┬──────────────────────────────────────┘
-                       │
-                       │ Akibatnya:
-                       ▼
-        Daya Dukung MENURUN ──┐
-                               │
-                               └─→ Lingkungan tidak lagi mampu
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚         DAYA DUKUNG LINGKUNGAN HIDUP                        â”‚
+â”‚  (Kemampuan mendukung perikehidupan manusia dan             â”‚
+â”‚   makhluk hidup lain serta keseimbangan antarkeduanya)      â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                       â”‚
+                       â”‚ Salah satu komponen:
+                       â–¼
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚       DAYA TAMPUNG LINGKUNGAN HIDUP                         â”‚
+â”‚  (Kemampuan menyerap zat, energi, dan/atau komponen lain)   â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                       â”‚
+                       â”‚ Jika terlampaui:
+                       â–¼
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚       PENCEMARAN LINGKUNGAN HIDUP                           â”‚
+â”‚  (Melampaui baku mutu lingkungan hidup)                     â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                       â”‚
+                       â”‚ Akibatnya:
+                       â–¼
+        Daya Dukung MENURUN â”€â”€â”
+                               â”‚
+                               â””â”€â†’ Lingkungan tidak lagi mampu
                                    mendukung kehidupan secara optimal
 ```
 
 ### 2. Hubungan Sebab-Akibat
 
 **Skenario 1: Kondisi Ideal**
-- Aktivitas manusia ≤ Daya Tampung
+- Aktivitas manusia â‰¤ Daya Tampung
 - Baku mutu terpenuhi
 - Tidak ada pencemaran
 - Daya dukung terjaga
@@ -691,7 +691,7 @@ Ketiga konsep ini adalah fondasi hukum untuk memastikan pembangunan berkelanjuta
 
 1. **Sebelum Pembangunan (KLHS)**
    - Kajian daya dukung dan daya tampung
-   - Jika sudah terlampaui → pembangunan tidak boleh dilanjutkan
+   - Jika sudah terlampaui â†’ pembangunan tidak boleh dilanjutkan
 
 2. **Sebelum Proyek (Amdal/UKL-UPL)**
    - Prediksi dampak terhadap daya tampung
@@ -699,7 +699,7 @@ Ketiga konsep ini adalah fondasi hukum untuk memastikan pembangunan berkelanjuta
 
 3. **Saat Operasional (Pemantauan)**
    - Pastikan baku mutu terpenuhi
-   - Jika tercemar → tindakan korektif segera
+   - Jika tercemar â†’ tindakan korektif segera
 
 4. **Pasca Operasi (Reklamasi)**
    - Pemulihan daya dukung dan daya tampung
@@ -728,9 +728,9 @@ Pemahaman yang benar terhadap ketiga konsep ini sangat penting bagi:
 ---
 
 **Navigasi:**
-- [[BAB_I_Pendahuluan|← Bagian I: Pendahuluan]]
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|↑ Kembali ke Outline]]
-- [[BAB_III_Keterkaitan_Konseptual|Lanjut ke Bagian III: Keterkaitan Konseptual →]]
+- [[BAB_I_Pendahuluan|â† Bagian I: Pendahuluan]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â†‘ Kembali ke Outline]]
+- [[BAB_III_Keterkaitan_Konseptual|Lanjut ke Bagian III: Keterkaitan Konseptual â†’]]
 
 ---
 
@@ -743,4 +743,5 @@ Pemahaman yang benar terhadap ketiga konsep ini sangat penting bagi:
 *The **Agentic RAG Orchestration Framework** represents a novel approach to legal education content generation, combining advanced natural language processing, regulatory database retrieval, and multi-agent coordination to produce comprehensive, well-structured, and legally sound educational materials. This framework is particularly optimized for the complexities of Indonesian environmental law, including UU 32/2009 on Environmental Protection and Management, PP 22/2021, and related ministerial regulations.*
 
 *Framework Architecture & Development: **Mohamad Mova Al'Afghani** (2025)*
-*© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+*Â© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+

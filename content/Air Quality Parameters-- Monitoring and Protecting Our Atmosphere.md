@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -12,29 +12,30 @@ Particulate matter (PM) is a mixture of solid particles and liquid droplets susp
 
 Example: During wildfire events, large amounts of PM2.5 are released into the atmosphere, leading to poor air quality and increased respiratory and cardiovascular health risks for exposed populations.
 
-WHO Standards: The WHO guidelines for PM2.5 are an annual mean of 10 µg/m³ and a 24-hour mean of 25 µg/m³. For PM10, the guidelines are an annual mean of 20 µg/m³ and a 24-hour mean of 50 µg/m³.
+WHO Standards: The WHO guidelines for PM2.5 are an annual mean of 10 Âµg/mÂ³ and a 24-hour mean of 25 Âµg/mÂ³. For PM10, the guidelines are an annual mean of 20 Âµg/mÂ³ and a 24-hour mean of 50 Âµg/mÂ³.
 
-## Nitrogen Dioxide (NO₂)
+## Nitrogen Dioxide (NOâ‚‚)
 
-Nitrogen dioxide (NO₂) is a gaseous air pollutant primarily emitted from fuel combustion in vehicles, power plants, and industrial processes. NO₂ contributes to the formation of ground-level ozone and fine particulate matter and can cause respiratory problems, particularly in children and individuals with pre-existing respiratory conditions.
+Nitrogen dioxide (NOâ‚‚) is a gaseous air pollutant primarily emitted from fuel combustion in vehicles, power plants, and industrial processes. NOâ‚‚ contributes to the formation of ground-level ozone and fine particulate matter and can cause respiratory problems, particularly in children and individuals with pre-existing respiratory conditions.
 
-Example: In heavily congested urban areas with high traffic volumes, NO₂ levels can be significantly elevated, leading to increased respiratory health risks for local residents and commuters.
+Example: In heavily congested urban areas with high traffic volumes, NOâ‚‚ levels can be significantly elevated, leading to increased respiratory health risks for local residents and commuters.
 
-WHO Standards: The WHO guidelines for NO₂ are an annual mean of 40 µg/m³ and a 1-hour mean of 200 µg/m³.
+WHO Standards: The WHO guidelines for NOâ‚‚ are an annual mean of 40 Âµg/mÂ³ and a 1-hour mean of 200 Âµg/mÂ³.
 
-## Ozone (O₃)
+## Ozone (Oâ‚ƒ)
 
-Ozone (O₃) is a gas that occurs both in the Earth's upper atmosphere (stratospheric ozone) and at ground level (tropospheric ozone). Ground-level ozone is a secondary air pollutant formed by chemical reactions between volatile organic compounds (VOCs) and nitrogen oxides (NOx) in the presence of sunlight. High concentrations of ground-level ozone can cause respiratory problems, exacerbate pre-existing respiratory conditions, and harm sensitive vegetation.
+Ozone (Oâ‚ƒ) is a gas that occurs both in the Earth's upper atmosphere (stratospheric ozone) and at ground level (tropospheric ozone). Ground-level ozone is a secondary air pollutant formed by chemical reactions between volatile organic compounds (VOCs) and nitrogen oxides (NOx) in the presence of sunlight. High concentrations of ground-level ozone can cause respiratory problems, exacerbate pre-existing respiratory conditions, and harm sensitive vegetation.
 
 Example: On hot, sunny days with stagnant air conditions, ground-level ozone concentrations can reach harmful levels, particularly in urban areas with high VOC and NOx emissions.
 
-WHO Standards: The WHO guidelines for O₃ are a maximum 8-hour mean of 100 µg/m³.
+WHO Standards: The WHO guidelines for Oâ‚ƒ are a maximum 8-hour mean of 100 Âµg/mÂ³.
 
-## Sulfur Dioxide (SO₂)
+## Sulfur Dioxide (SOâ‚‚)
 
-Sulfur dioxide (SO₂) is a gaseous air pollutant primarily emitted from fossil fuel combustion in power plants and industrial processes. SO₂ can react with other substances in the atmosphere to form fine particulate matter and contribute to the formation of acid rain. Short-term exposure to SO₂ can cause respiratory problems, particularly for individuals with asthma.
+Sulfur dioxide (SOâ‚‚) is a gaseous air pollutant primarily emitted from fossil fuel combustion in power plants and industrial processes. SOâ‚‚ can react with other substances in the atmosphere to form fine particulate matter and contribute to the formation of acid rain. Short-term exposure to SOâ‚‚ can cause respiratory problems, particularly for individuals with asthma.
 
-Example: In areas with a high concentration of coal-fired power plants, SO₂ emissions can lead to elevated air pollution levels and contribute to respiratory health problems and environmental degradation from acid rain.
+Example: In areas with a high concentration of coal-fired power plants, SOâ‚‚ emissions can lead to elevated air pollution levels and contribute to respiratory health problems and environmental degradation from acid rain.
 
-WHO Standards: The WHO guidelines for SO₂ are a 10-minute mean of 500 µg/m³ and a 24-hour mean of 20 µg/m³.
+WHO Standards: The WHO guidelines for SOâ‚‚ are a 10-minute mean of 500 Âµg/mÂ³ and a 24-hour mean of 20 Âµg/mÂ³.
+
 

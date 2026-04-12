@@ -1,12 +1,12 @@
----
+﻿---
 publish: true
 ---
 
 Guardian recently published an article 
 
-*[ChatGPT is making up fake Guardian articles. Here’s how we’re responding](https://www.theguardian.com/commentisfree/2023/apr/06/ai-chatgpt-guardian-technology-risks-fake-article?fbclid=IwAR18mVnQbr3TrTX_SL9pfeZSVrDIi6MRaHd8mJaY64pOTQP9uA9XYJDgVIM)*.
+*[ChatGPT is making up fake Guardian articles. Hereâ€™s how weâ€™re responding](https://www.theguardian.com/commentisfree/2023/apr/06/ai-chatgpt-guardian-technology-risks-fake-article?fbclid=IwAR18mVnQbr3TrTX_SL9pfeZSVrDIi6MRaHd8mJaY64pOTQP9uA9XYJDgVIM)*.
 
-> The reporter couldn’t remember writing the specific piece, but the headline certainly sounded like something they would have written. It was a subject they were identified with and had a record of covering. Worried that there may have been some mistake at our end, they asked colleagues to go back through our systems to track it down. Despite the detailed records we keep of all our content, and especially around deletions or legal issues, they could find no trace of its existence.
+> The reporter couldnâ€™t remember writing the specific piece, but the headline certainly sounded like something they would have written. It was a subject they were identified with and had a record of covering. Worried that there may have been some mistake at our end, they asked colleagues to go back through our systems to track it down. Despite the detailed records we keep of all our content, and especially around deletions or legal issues, they could find no trace of its existence.
 > 
 > Why? Because it had never been written.
 

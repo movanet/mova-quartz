@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "BAB I: Evaluasi dan Tantangan Pembangunan"
 chapter: "BAB I"
@@ -21,7 +21,7 @@ status: "validated"
 date: "2025-10-29"
 ---
 
-> **Navigation:** [[00_INDEX|🏠 Index]] | [[README|📖 About]]
+> **Navigation:** [[00_INDEX|ðŸ  Index]] | [[README|ðŸ“– About]]
 >
 > **You are here:** BAB I: Evaluasi dan Tantangan Pembangunan
 
@@ -29,15 +29,15 @@ date: "2025-10-29"
 
 BAB I Evaluasi dan Tantangan Pembangunan
 
-1.1 Kilas Balik Pembangunan Tahun 2020–2024 dan Perkembangan Global Kondisi perekonomian Indonesia terus menunjukkan kinerja ke arah yang lebih baik dan mampu beradaptasi dengan dinamika global.
+1.1 Kilas Balik Pembangunan Tahun 2020â€“2024 dan Perkembangan Global Kondisi perekonomian Indonesia terus menunjukkan kinerja ke arah yang lebih baik dan mampu beradaptasi dengan dinamika global.
 
-Sejarah menunjukkan bahwa perekonomian Indonesia mampu mencapai pertumbuhan tinggi lebih dari 8,0 persen pada lima tahun yang berbeda, yaitu tahun 1968, 1973, 1977, 1980, dan 1995 Trajektori Pertumbuhan Ekonomi Indonesia (persen) Sumber: BPS, 2024 (diolah) 4 Dalam RPJMN Tahun 2020–2024, sasaran Melalui berbagai kebijakan yang telah dilakukan, pertumbuhan ekonomi Indonesia rata-rata 5,7–6,0 seperti Program Pemulihan Ekonomi Nasional, persen per tahun. Namun demikian, pada awal tahun 2020, dunia dilanda unprecedented shock pandemi COVID-19 sehingga berdampak terhadap pertumbuhan ekonomi Indonesia pulih lebih cepat dibandingkan dengan banyak negara lain. Pada tahun 2022, pertumbuhan ekonomi mencapai 5,3 penurunan kinerja perekonomian global, termasuk persen dan tahun 2023 sebesar 5,05 persen. Kondisi Indonesia.
+Sejarah menunjukkan bahwa perekonomian Indonesia mampu mencapai pertumbuhan tinggi lebih dari 8,0 persen pada lima tahun yang berbeda, yaitu tahun 1968, 1973, 1977, 1980, dan 1995 Trajektori Pertumbuhan Ekonomi Indonesia (persen) Sumber: BPS, 2024 (diolah) 4 Dalam RPJMN Tahun 2020â€“2024, sasaran Melalui berbagai kebijakan yang telah dilakukan, pertumbuhan ekonomi Indonesia rata-rata 5,7â€“6,0 seperti Program Pemulihan Ekonomi Nasional, persen per tahun. Namun demikian, pada awal tahun 2020, dunia dilanda unprecedented shock pandemi COVID-19 sehingga berdampak terhadap pertumbuhan ekonomi Indonesia pulih lebih cepat dibandingkan dengan banyak negara lain. Pada tahun 2022, pertumbuhan ekonomi mencapai 5,3 penurunan kinerja perekonomian global, termasuk persen dan tahun 2023 sebesar 5,05 persen. Kondisi Indonesia.
 
 tersebut menunjukkan bahwa Indonesia memiliki modal yang cukup untuk mampu mencapai pertumbuhan ekonomi lebih dari 8,0 persen.
 
-Indeks Produk Domestik Bruto Riil Tahun 2019–2023 (2019=100) Sumber: BPS, Oxford Economics Database (diolah) 5 Perkembangan Global Secara umum dalam periode tahun 2025–2029, perekonomian global masih dilanda ketidakpastian.
+Indeks Produk Domestik Bruto Riil Tahun 2019â€“2023 (2019=100) Sumber: BPS, Oxford Economics Database (diolah) 5 Perkembangan Global Secara umum dalam periode tahun 2025â€“2029, perekonomian global masih dilanda ketidakpastian.
 
-1.2 Evaluasi Pembangunan Tahun 2020–2024 Indonesia telah mencapai kemajuan yang signifikan
+1.2 Evaluasi Pembangunan Tahun 2020â€“2024 Indonesia telah mencapai kemajuan yang signifikan
 
 2020. Langkah cepat tanggap diwujudkan sebagai dalam berbagai bidang pembangunan di tengah respons kebijakan fiskal dan moneter yang dinamika global dan domestik. Berbagai kebijakan strategis dilaksanakan untuk mewujudkan tujuan akomodatif untuk meredam dampak gejolak tetap menjaga dengan ekonomi global pembangunan nasional, termasuk saat pandemi kesejahteraan masyarakat.
 
@@ -45,7 +45,7 @@ Corona Virus Disease 2019 yang terjadi pada tahun 6 Ketahanan Ekonomi Pertumbuha
 
 2019. Sebelum pandemi Corona Virus Disease 2019, pencapaian Gross National Income per kapita tahun 2019 menjadikan Indonesia masuk ke dalam negara Upper-Middle Income Countries. Namun demikian, adanya pandemi mengakibatkan penurunan Gross National Income per kapita sehingga Indonesia turun peningkatan tangga, pangan kesejahteraan petani dan nelayan, (3) penyediaan rumah (2) lapangan kerja per tahun, (4) peningkatan kontribusi koperasi terhadap perekonomian, (5) industri dan kawasan pengembangan kawasan ekonomi khusus, (6) nilai ekspor produk industri pengolahan dan realisasi investasi luar Jawa, serta (7) peningkatan penerimaan pajak.
 
-Berdasarkan peningkatan capaian selama 5 tahun (2019–2023) di daerah, pertumbuhan ekonomi di menjadi negara Lower Middle Income Countries.
+Berdasarkan peningkatan capaian selama 5 tahun (2019â€“2023) di daerah, pertumbuhan ekonomi di menjadi negara Lower Middle Income Countries.
 
 Wilayah Maluku lebih tinggi dibandingkan wilayah yang dilakukan Berbagai upaya pemulihan menyebabkan perekonomian Indonesia kembali lainnya. Pada tahun 2019, pertumbuhan ekonomi di wilayah Papua mengalami kontraksi yang dipicu mencatatkan kinerja positif, ditandai oleh oleh turunnya produksi pada sektor pertambangan peningkatan Gross National Income per kapita dan dan penggalian. Pada tahun 2023, Provinsi Maluku menjadikan Indonesia kembali ke dalam negara Pencapaian Upper-Middle Countries.
 
@@ -53,39 +53,39 @@ Income Utara dan Provinsi Sulawesi Tengah merupakan provinsi dengan pertumbuhan 
 
 pembangunan ekonomi selama beberapa tahun Hal tersebut didorong oleh kinerja sektor industri terakhir turut didukung dengan berbagai capaian pengolahan dan pertambangan.
 
-positif, di antaranya (1) peningkatan pola konsumsi Tren Capaian Pertumbuhan Ekonomi Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020–2024 7 Capaian Pertumbuhan Ekonomi per Wilayah Sumber Data: BPS, berbagai tahun (diolah) Tren Capaian Pertumbuhan Industri Tren Capaian Share Industri Pengolahan Pengolahan Nonmigas Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020–2024 8 Distribusi Capaian Share Industri Pengolahan di Daerah Sumber Data: BPS, berbagai tahun (diolah)
+positif, di antaranya (1) peningkatan pola konsumsi Tren Capaian Pertumbuhan Ekonomi Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 7 Capaian Pertumbuhan Ekonomi per Wilayah Sumber Data: BPS, berbagai tahun (diolah) Tren Capaian Pertumbuhan Industri Tren Capaian Share Industri Pengolahan Pengolahan Nonmigas Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 8 Distribusi Capaian Share Industri Pengolahan di Daerah Sumber Data: BPS, berbagai tahun (diolah)
 
-• Dalam lima tahun terakhir, kinerja pertumbuhan industri pengolahan cenderung mengalami peningkatan meskipun sempat mengalami tekanan pada tahun 2020.
+â€¢ Dalam lima tahun terakhir, kinerja pertumbuhan industri pengolahan cenderung mengalami peningkatan meskipun sempat mengalami tekanan pada tahun 2020.
 
-• Salah satu kontribusi paling signifikan terhadap pembangunan ekonomi nasional datang dari sektor industri baja. Sektor industri baja sangat berpotensi memberikan kontribusi terhadap pembangunan ekonomi nasional melalui nilai tambah serta menjadi multiplier eﬀect bagi peningkatan daya saing ekonomi.
+â€¢ Salah satu kontribusi paling signifikan terhadap pembangunan ekonomi nasional datang dari sektor industri baja. Sektor industri baja sangat berpotensi memberikan kontribusi terhadap pembangunan ekonomi nasional melalui nilai tambah serta menjadi multiplier eï¬€ect bagi peningkatan daya saing ekonomi.
 
 Pertumbuhan industri baja di berbagai daerah, khususnya di Sulawesi Tengah, Sulawesi Tenggara, dan Maluku Utara terus didorong untuk memenuhi permintaan produk besi baja dari luar negeri, terutama China, dan peningkatan produksi domestik untuk produk ferronikel.
 
-• Program strategis yang mendukung pertumbuhan Produk Domestik Bruto industri pengolahan antara lain (1) pemberlakuan izin operasional dan mobilitas kegiatan industri, (2) insentif pajak penjualan atas barang mewah ditanggung pemerintah sektor otomotif, (3) peningkatan penggunaan produk dalam negeri, (4) peningkatan jumlah standar nasional Indonesia industri, (5) program making Indonesia 4.0, (6) pengembangan sekolah menegah kejuruan link and match industri, (7) sertifikasi tenaga kerja industri, serta (8) program harga gas bumi tertentu.
+â€¢ Program strategis yang mendukung pertumbuhan Produk Domestik Bruto industri pengolahan antara lain (1) pemberlakuan izin operasional dan mobilitas kegiatan industri, (2) insentif pajak penjualan atas barang mewah ditanggung pemerintah sektor otomotif, (3) peningkatan penggunaan produk dalam negeri, (4) peningkatan jumlah standar nasional Indonesia industri, (5) program making Indonesia 4.0, (6) pengembangan sekolah menegah kejuruan link and match industri, (7) sertifikasi tenaga kerja industri, serta (8) program harga gas bumi tertentu.
 
-Tren Capaian Skor Pola Pangan Harapan (SPPH) Nasional Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Distribusi Capaian Skor PPH (Tertinggi dan Terendah) di Daerah Sumber Data: BPS, berbagai tahun (diolah)
+Tren Capaian Skor Pola Pangan Harapan (SPPH) Nasional Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Distribusi Capaian Skor PPH (Tertinggi dan Terendah) di Daerah Sumber Data: BPS, berbagai tahun (diolah)
 
-• Skor Pola Pangan Harapan Nasional 100, mendekati meningkat mengindikasikan bahwa konsumsi pangan di angka wilayah Indonesia semakin beragam dan bergizi seimbang.
+â€¢ Skor Pola Pangan Harapan Nasional 100, mendekati meningkat mengindikasikan bahwa konsumsi pangan di angka wilayah Indonesia semakin beragam dan bergizi seimbang.
 
-• Program dan kegiatan yang mendukung peningkatan akses pangan yang merata dan terjangkau antara lain (a) intervensi bantuan pangan; serta (b) edukasi terkait penerapan pola konsumsi pangan beragam, bergizi seimbang, dan aman.
+â€¢ Program dan kegiatan yang mendukung peningkatan akses pangan yang merata dan terjangkau antara lain (a) intervensi bantuan pangan; serta (b) edukasi terkait penerapan pola konsumsi pangan beragam, bergizi seimbang, dan aman.
 
-• Provinsi dengan skor pola pangan harapan tertinggi pada tahun 2023 yaitu Provinsi Daerah Istimewa Yogyakarta, Nusa Tenggara Barat, Sumatera Selatan, dan Jawa Tengah.
+â€¢ Provinsi dengan skor pola pangan harapan tertinggi pada tahun 2023 yaitu Provinsi Daerah Istimewa Yogyakarta, Nusa Tenggara Barat, Sumatera Selatan, dan Jawa Tengah.
 
 Sementara itu, daerah yang perlu didorong akselerasi pencapaian skor pola pangan harapan yaitu Provinsi Nusa Tenggara Timur, Sulawesi Barat dan Maluku.
 
-9 Tren Capaian Nilai Tukar Petani (NTP) Nasional Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Distribusi Capaian Nilai Tukar Petani (NTP) (Tertinggi dan Terendah) di Daerah
+9 Tren Capaian Nilai Tukar Petani (NTP) Nasional Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Distribusi Capaian Nilai Tukar Petani (NTP) (Tertinggi dan Terendah) di Daerah
 
-• Nilai Tukar Petani nasional terjaga stabilitasnya di atas angka 100.
+â€¢ Nilai Tukar Petani nasional terjaga stabilitasnya di atas angka 100.
 
-• Program dan kegiatan yang mendukung pencapaian antara lain (a) bantuan subsidi input pertanian (benih, pupuk, dan pestisida);
+â€¢ Program dan kegiatan yang mendukung pencapaian antara lain (a) bantuan subsidi input pertanian (benih, pupuk, dan pestisida);
 
 (b) pengembangan infrastruktur pertanian (sistem irigasi, jalan usaha tani, dan sistem logistik); serta (c) diversifikasi produk dengan adaptasi teknologi pertanian modern.
 
-• Provinsi dengan Nilai Tukar Petani di atas 100 yang tertinggi pada tahun 2023 yaitu Provinsi Riau, Bengkulu, dan Kalimantan Barat.
+â€¢ Provinsi dengan Nilai Tukar Petani di atas 100 yang tertinggi pada tahun 2023 yaitu Provinsi Riau, Bengkulu, dan Kalimantan Barat.
 
 Sementara itu, provinsi dengan Nilai Tukar Petani kurang dari 100 yaitu Provinsi Nusa Tenggara Timur, Bali, dan Papua Barat.
 
-Tren Capaian Penyediaan Lapangan Kerja Per Tahun Sumber Data: Sakernas (BPS), berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Sumber Data: BPS, berbagai tahun (diolah) Penyediaan lapangan kerja per tahun berhasil ditingkatkan kembali setelah penurunan yang signifikan pada tahun 2020 akibat adanya pandemi Corona Virus Disease 2019. Pencapaian ini didorong melalui program bantuan berupa subsidi gaji/upah bagi pekerja/buruh dalam penanganan dampak Corona Virus Disease 2019, stimulus ekonomi, kartu pra-kerja, pembukaan kembali sektor-sektor ekonomi secara bertahap dalam sektor-sektor padat karya, dan penyelenggaraan pelatihan kerja dan uji kompetensi.
+Tren Capaian Penyediaan Lapangan Kerja Per Tahun Sumber Data: Sakernas (BPS), berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Sumber Data: BPS, berbagai tahun (diolah) Penyediaan lapangan kerja per tahun berhasil ditingkatkan kembali setelah penurunan yang signifikan pada tahun 2020 akibat adanya pandemi Corona Virus Disease 2019. Pencapaian ini didorong melalui program bantuan berupa subsidi gaji/upah bagi pekerja/buruh dalam penanganan dampak Corona Virus Disease 2019, stimulus ekonomi, kartu pra-kerja, pembukaan kembali sektor-sektor ekonomi secara bertahap dalam sektor-sektor padat karya, dan penyelenggaraan pelatihan kerja dan uji kompetensi.
 
 10 mewujudkan Dengan perekonomian yang tangguh, kebijakan yang perlu demikian, dalam menjadi fokus perhatian ke depan antara lain (1) hilirisasi industri pengolahan yang mendorong (3) investasi dan ekspor;
 penguatan pariwisata; (4) kewirausahaan dan usaha (2) kinerja logistik;
@@ -102,57 +102,57 @@ Selain itu, program desa wisata dan produk unggulan desa mendorong pengembangan 
 
 11
 
-• Tingkat kemiskinan meningkat pada tahun 2020 akibat kondisi pandemi Corona Virus Tren Capaian Tingkat Kemiskinan Disease 2019. Namun demikian, dengan dalam adanya pemerintah kebijakan perlindungan sosial maka tingkat kemiskinan dapat kembali menurun hingga tahun 2023.
+â€¢ Tingkat kemiskinan meningkat pada tahun 2020 akibat kondisi pandemi Corona Virus Tren Capaian Tingkat Kemiskinan Disease 2019. Namun demikian, dengan dalam adanya pemerintah kebijakan perlindungan sosial maka tingkat kemiskinan dapat kembali menurun hingga tahun 2023.
 
-• Program yang terintegrasi menjadi landasan utama dalam perlindungan sosial upaya pengurangan kemiskinan, mencakup program keluarga harapan, bantuan pangan non tunai, serta bantuan sosial tunai. Selain inovasi perlindungan sosial adaptif itu, dirancang untuk menghadapi berbagai risiko dan krisis, seperti Program Jaminan Kehilangan Pekerjaan yang melindungi pekerja yang terkena pemutusan hubungan kerja dan perluasan cakupan jaminan kesehatan nasional serta jaminan sosial ketenagakerjaan.
+â€¢ Program yang terintegrasi menjadi landasan utama dalam perlindungan sosial upaya pengurangan kemiskinan, mencakup program keluarga harapan, bantuan pangan non tunai, serta bantuan sosial tunai. Selain inovasi perlindungan sosial adaptif itu, dirancang untuk menghadapi berbagai risiko dan krisis, seperti Program Jaminan Kehilangan Pekerjaan yang melindungi pekerja yang terkena pemutusan hubungan kerja dan perluasan cakupan jaminan kesehatan nasional serta jaminan sosial ketenagakerjaan.
 
-Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Distribusi Tingkat Kemiskinan di Daerah
+Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Distribusi Tingkat Kemiskinan di Daerah
 
-• Registrasi sosial ekonomi menjadi dasar dan pemutakhiran penting untuk pengelolaan data kemiskinan yang akurat dan data terintegrasi memanfaatkan kemiskinan dan kesejahteraan sosial dari berbagai sumber untuk mempermudah identifikasi dan penyaluran bantuan kepada yang berhak.
+â€¢ Registrasi sosial ekonomi menjadi dasar dan pemutakhiran penting untuk pengelolaan data kemiskinan yang akurat dan data terintegrasi memanfaatkan kemiskinan dan kesejahteraan sosial dari berbagai sumber untuk mempermudah identifikasi dan penyaluran bantuan kepada yang berhak.
 
-• Tingkat kemiskinan di 34 provinsi selama lima tahun terakhir terus menurun. Provinsi Bali, Kalimantan Selatan, dan Daerah Khusus Ibukota Jakarta merupakan daerah dengan tingkat kemiskinan terendah. Sementara itu, Provinsi Papua, Papua Barat, dan Nusa Tenggara Timur merupakan daerah dengan tingkat kemiskinan tertinggi namun tren kinerjanya terus membaik.
+â€¢ Tingkat kemiskinan di 34 provinsi selama lima tahun terakhir terus menurun. Provinsi Bali, Kalimantan Selatan, dan Daerah Khusus Ibukota Jakarta merupakan daerah dengan tingkat kemiskinan terendah. Sementara itu, Provinsi Papua, Papua Barat, dan Nusa Tenggara Timur merupakan daerah dengan tingkat kemiskinan tertinggi namun tren kinerjanya terus membaik.
 
 Peningkatan Kualitas Sumber Daya Manusia Pembangunan kualitas sumber daya manusia merupakan aspek penting dalam kemajuan suatu bangsa, terutama melalui sektor pendidikan, kesehatan, dan perlindungan sosial. Capaian pembangunan kualitas sumber daya manusia ditandai dengan peningkatan Indeks Pembangunan Manusia dari tahun 2019 hingga tahun 2023 mencapai 73,55 (berdasarkan proyeksi sensus 2010) atau 74,39 (berdasarkan proyeksi sensus 2020).
 
 Berbagai pencapaian positif lainnya yang telah diraih antara lain perbaikan layanan kesehatan dan telah akses pendidikan peningkatan memberikan dampak nyata bagi kualitas hidup yang masyarakat.
 
-12 Sumber Data: BPS, berbagai tahun (diolah) Peningkatan kualitas sumber daya manusia didukung dengan pencapaian pada bidang kesehatan dan pendidikan. Pencapaian pada bidang kesehatan di antaranya (1) cakupan kepesertaan jaminan kesehatan nasional, (2) penurunan stunting dan wasting pada balita, (3) pemenuhan imunisasi dasar lengkap pada anak usia 12–23 bulan, (4) peningkatan kualitas rumah sakit dan kuantitas tenaga kesehatan, serta (5) peningkatan kapasitas obat dan makanan memenuhi syarat.
+12 Sumber Data: BPS, berbagai tahun (diolah) Peningkatan kualitas sumber daya manusia didukung dengan pencapaian pada bidang kesehatan dan pendidikan. Pencapaian pada bidang kesehatan di antaranya (1) cakupan kepesertaan jaminan kesehatan nasional, (2) penurunan stunting dan wasting pada balita, (3) pemenuhan imunisasi dasar lengkap pada anak usia 12â€“23 bulan, (4) peningkatan kualitas rumah sakit dan kuantitas tenaga kesehatan, serta (5) peningkatan kapasitas obat dan makanan memenuhi syarat.
 
 Selain itu, pencapaian pada bidang pendidikan, antara lain (1) peningkatan rata-rata lama sekolah Secara umum, perbaikan kebijakan yang perlu diakselerasi ke depan antara lain (1) pemerataan dari penduduk usia 15 tahun ke atas, (2) akses pendidikan, (2) peningkatan kualitas peningkatan penduduk yang menempuh pendidikan, (3) pemerataan pelayanan kesehatan, pendidikan tinggi, (3) penurunan kesenjangan akses pendidikan antara kelompok masyarakat miskin dan dan (4) peningkatan kualitas layanan kesehatan. Hal tersebut untuk memastikan pembangunan sumber kaya, serta (4) peningkatan kualitas dan daya manusia berjalan optimal dan merata ke keterampilan tenaga kerja.
 
 seluruh lapisan masyarakat.
 
 Tren Capaian Cakupan Kepesertaan Jaminan Kesehatan Nasional (JKN) Sumber Data: sismonev.djsn.go.id.
-Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Distribusi Capaian Cakupan Kepesertaan JKN (Tertinggi dan Terendah) di Daerah
+Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Distribusi Capaian Cakupan Kepesertaan JKN (Tertinggi dan Terendah) di Daerah
 
-• Cakupan kepesertaan Jaminan Kesehatan Nasional meningkat pada tahun 2023, meski turun pada 2020–2021 akibat sempat pandemi Corona Virus Disease 2019.
+â€¢ Cakupan kepesertaan Jaminan Kesehatan Nasional meningkat pada tahun 2023, meski turun pada 2020â€“2021 akibat sempat pandemi Corona Virus Disease 2019.
 
-• Pencapaian cakupan kepesertaan jaminan kesehatan nasional didorong dengan adanya intervensi dari pemerintah dalam bentuk Instruksi Presiden Nomor 1 Tahun 2022 tentang Optimalisasi Program Jaminan Kesehatan Nasional.
+â€¢ Pencapaian cakupan kepesertaan jaminan kesehatan nasional didorong dengan adanya intervensi dari pemerintah dalam bentuk Instruksi Presiden Nomor 1 Tahun 2022 tentang Optimalisasi Program Jaminan Kesehatan Nasional.
 
-• Provinsi Daerah Khusus Jakarta menjadi daerah yang memiliki cakupan Ibukota kepesertaan jaminan kesehatan nasional tertinggi. Selama tahun 2019 hingga 2023, cakupan kepesertaan jaminan kesehatan nasional di seluruh daerah meningkat dengan peningkatan tertinggi adalah Provinsi Maluku Utara, Riau, dan Papua Barat.
+â€¢ Provinsi Daerah Khusus Jakarta menjadi daerah yang memiliki cakupan Ibukota kepesertaan jaminan kesehatan nasional tertinggi. Selama tahun 2019 hingga 2023, cakupan kepesertaan jaminan kesehatan nasional di seluruh daerah meningkat dengan peningkatan tertinggi adalah Provinsi Maluku Utara, Riau, dan Papua Barat.
 
 Sumber Data: sismonev.djsn.go.id 13
 
-• Prevalensi stunting (pendek dan sangat pendek) berhasil diturunkan dari tahun ke tahun.
+â€¢ Prevalensi stunting (pendek dan sangat pendek) berhasil diturunkan dari tahun ke tahun.
 
-• Peraturan Presiden Nomor 72 Tahun 2021 tentang Percepatan Penurunan Stunting sebagai salah satu regulasi pemerintah dalam mendorong percepatan penurunan stunting melalui sensitif.
+â€¢ Peraturan Presiden Nomor 72 Tahun 2021 tentang Percepatan Penurunan Stunting sebagai salah satu regulasi pemerintah dalam mendorong percepatan penurunan stunting melalui sensitif.
 
 intervensi spesifik dan
 
-• Program utama dalam mendorong percepatan penurunan stunting antara lain perluasan jaring pengaman sosial seperti program keluarga program cakupan harapan, bantuan pangan non tunai, dan penerima bantuan iuran jaminan kesehatan nasional.
+â€¢ Program utama dalam mendorong percepatan penurunan stunting antara lain perluasan jaring pengaman sosial seperti program keluarga program cakupan harapan, bantuan pangan non tunai, dan penerima bantuan iuran jaminan kesehatan nasional.
 
-• Provinsi Bali menjadi satu-satunya provinsi dengan kategori stunting rendah (kurang dari 10 persen). Keberhasilan Provinsi Bali didorong melalui penguatan konvergensi lintas sektor, intervensi spesifik dan sensitif yang tepat sasaran, peningkatan kolaborasi lini lapangan, penyediaan data sasaran yang valid, penguatan monitoring dan evaluasi di berbagai jenjang, peningkatan sosialisasi, serta komunikasi, informasi, dan edukasi.
+â€¢ Provinsi Bali menjadi satu-satunya provinsi dengan kategori stunting rendah (kurang dari 10 persen). Keberhasilan Provinsi Bali didorong melalui penguatan konvergensi lintas sektor, intervensi spesifik dan sensitif yang tepat sasaran, peningkatan kolaborasi lini lapangan, penyediaan data sasaran yang valid, penguatan monitoring dan evaluasi di berbagai jenjang, peningkatan sosialisasi, serta komunikasi, informasi, dan edukasi.
 
 Tren Capaian Prevalensi Stunting (Pendek dan Sangat Pendek) pada Balita Sumber Data: SSGBI (Baseline), SSGI (Tahun 2021 dan 2022), Data SKI 2023, Kemenkes, berbagai tahun (diolah).
-Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Distribusi Capaian Prevalensi Stunting (Pendek dan Sangat Pendek) pada Balita (Tertinggi dan Terendah) di Daerah Sumber Data: SSGBI (Baseline), SSGI (Tahun 2021 dan 2022), Data SKI 2023, Kemenkes, berbagai tahun (diolah).
+Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Distribusi Capaian Prevalensi Stunting (Pendek dan Sangat Pendek) pada Balita (Tertinggi dan Terendah) di Daerah Sumber Data: SSGBI (Baseline), SSGI (Tahun 2021 dan 2022), Data SKI 2023, Kemenkes, berbagai tahun (diolah).
 
-14 Tren Capaian Rata-rata Lama Sekolah Penduduk Usia 15 Tahun ke Atas Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Distribusi Capaian Rata-rata Lama Sekolah Penduduk Usia 15 Tahun ke Atas (Tertinggi dan Terendah) di Daerah
+14 Tren Capaian Rata-rata Lama Sekolah Penduduk Usia 15 Tahun ke Atas Sumber Data: BPS, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Distribusi Capaian Rata-rata Lama Sekolah Penduduk Usia 15 Tahun ke Atas (Tertinggi dan Terendah) di Daerah
 
-• Rata-rata lama sekolah penduduk usia 15 tahun ke atas meningkat hingga tahun 2023, namun rata- rata lama sekolah perempuan sebesar 8,92 masih lebih rendah dibandingkan laki-laki yang telah mencapai 9,33.
+â€¢ Rata-rata lama sekolah penduduk usia 15 tahun ke atas meningkat hingga tahun 2023, namun rata- rata lama sekolah perempuan sebesar 8,92 masih lebih rendah dibandingkan laki-laki yang telah mencapai 9,33.
 
-• Program kegiatan strategis dalam mendukung lain pemerataan akses pendidikan antara (a) bantuan operasional satuan pendidikan, (b) Pintar, Program (c) penyediaan sarana dan prasarana pendidikan Indonesia berupa infrastruktur teknologi informasi dan komunikasi, serta pasokan energi (listrik), (d) peningkatan dan pemerataan pendidik dan tenaga kependidikan, serta (e) program afirmasi pendidikan.
+â€¢ Program kegiatan strategis dalam mendukung lain pemerataan akses pendidikan antara (a) bantuan operasional satuan pendidikan, (b) Pintar, Program (c) penyediaan sarana dan prasarana pendidikan Indonesia berupa infrastruktur teknologi informasi dan komunikasi, serta pasokan energi (listrik), (d) peningkatan dan pemerataan pendidik dan tenaga kependidikan, serta (e) program afirmasi pendidikan.
 
-• Provinsi Bali dan Papua merupakan provinsi dengan capaian rata-rata lama sekolah meningkat cukup signifikan selama tahun 2019 hingga 2023.
+â€¢ Provinsi Bali dan Papua merupakan provinsi dengan capaian rata-rata lama sekolah meningkat cukup signifikan selama tahun 2019 hingga 2023.
 
 Provinsi Daerah Khusus Ibukota Jakarta memiliki capaian tertinggi, sedangkan daerah yang perlu didorong dalam upaya percepatan pemerataan akses dan peningkatan kualitas pendidikan antara lain Provinsi Papua, Kalimantan Barat, Nusa Tenggara Timur, dan Nusa Tenggara Barat.
 
@@ -164,23 +164,23 @@ berlanjut dan membawa dampak positif bagi seluruh lapisan masyarakat.
 
 Namun demikian, masih terdapat tantangan dalam 15 Tren Capaian Indeks Kerukunan Umat Beragama Sumber Data: Kemenag, berbagai tahun (diolah).
 
-Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Distribusi Capaian Indeks Kerukunan Umat Beragama (Tertinggi dan Terendah) di Daerah • Indeks Kerukunan Umat Beragama yang dinilai dari aspek toleransi, kerja sama, dan kesetaraan mengalami peningkatan dan berhasil melampaui target 2024.
+Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Distribusi Capaian Indeks Kerukunan Umat Beragama (Tertinggi dan Terendah) di Daerah â€¢ Indeks Kerukunan Umat Beragama yang dinilai dari aspek toleransi, kerja sama, dan kesetaraan mengalami peningkatan dan berhasil melampaui target 2024.
 
-• Program kegiatan strategis dalam mendukung pencapaian, antara lain (a) penguatan forum kerukunan umat beragama di kabupaten/kota, seluruh provinsi dan literasi (b) peningkatan keagamaan yang moderat dan inklusif, serta (c) dialog kerukunan umat beragama.
+â€¢ Program kegiatan strategis dalam mendukung pencapaian, antara lain (a) penguatan forum kerukunan umat beragama di kabupaten/kota, seluruh provinsi dan literasi (b) peningkatan keagamaan yang moderat dan inklusif, serta (c) dialog kerukunan umat beragama.
 
-• Provinsi dengan capaian Indeks Kerukunan Umat Beragama tertinggi adalah Provinsi Nusa Tenggara Timur, sedangkan provinsi dengan capaian terendah adalah Provinsi Jambi. Aspek kerja sama di Provinsi Jambi aspek belum dibandingkan optimal toleransi dan kesetaraan.
+â€¢ Provinsi dengan capaian Indeks Kerukunan Umat Beragama tertinggi adalah Provinsi Nusa Tenggara Timur, sedangkan provinsi dengan capaian terendah adalah Provinsi Jambi. Aspek kerja sama di Provinsi Jambi aspek belum dibandingkan optimal toleransi dan kesetaraan.
 
 Artinya, keterlibatan aktif, empati, dan simpati kepada kelompok lain dalam aspek sosial, ekonomi, budaya, dan keagamaan masih dalam diperkuat perlu kehidupan bermasyarakat. Hampir semua daerah mengalami perbaikan Indeks Kerukunan Umat Beragama pada tahun capaian Sumber Data: Kemenag, berbagai tahun (diolah).
 
 2023.
 
-16 Tren Capaian Kinerja Nilai Budaya Literasi Sumber Data: Kemendikbudristek, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020–2024
+16 Tren Capaian Kinerja Nilai Budaya Literasi Sumber Data: Kemendikbudristek, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024
 
-• Nilai budaya literasi meningkat pada tahun sempat mengalami tahun 2021 karena 2023, meskipun penurunan pada terbatasnya layanan perpustakaan/taman bacaan yang dapat melayani masyarakat secara langsung.
+â€¢ Nilai budaya literasi meningkat pada tahun sempat mengalami tahun 2021 karena 2023, meskipun penurunan pada terbatasnya layanan perpustakaan/taman bacaan yang dapat melayani masyarakat secara langsung.
 
-• Intervensi strategis dalam mendukung pencapaian, antara lain (a) penguatan perpustakaan tingkat desa/kelurahan serta implementasi transformasi perpustakaan (b) program berbasis inklusi sosial, Distribusi Capaian Nilai Budaya Literasi (Tertinggi dan Terendah) di Daerah standardisasi dan akreditasi perpustakaan, (c) penyediaan pojok baca digital, serta (d) pengembangan digital yang terhubung dengan perpustakaan jejaring aplikasi nasional perpustakaan yang melibatkan 781 lembaga dan tercatat dalam Indonesia OneSearch.
+â€¢ Intervensi strategis dalam mendukung pencapaian, antara lain (a) penguatan perpustakaan tingkat desa/kelurahan serta implementasi transformasi perpustakaan (b) program berbasis inklusi sosial, Distribusi Capaian Nilai Budaya Literasi (Tertinggi dan Terendah) di Daerah standardisasi dan akreditasi perpustakaan, (c) penyediaan pojok baca digital, serta (d) pengembangan digital yang terhubung dengan perpustakaan jejaring aplikasi nasional perpustakaan yang melibatkan 781 lembaga dan tercatat dalam Indonesia OneSearch.
 
-• Provinsi dengan capaian nilai budaya literasi tertinggi pada tahun 2023 adalah Provinsi Daerah Khusus Ibukota Jakarta, Sumatera Barat, dan Kepulauan Riau. Sementara, daerah yang perlu didorong peningkatan literasi adalah pencapaian nilai budaya Provinsi Papua.
+â€¢ Provinsi dengan capaian nilai budaya literasi tertinggi pada tahun 2023 adalah Provinsi Daerah Khusus Ibukota Jakarta, Sumatera Barat, dan Kepulauan Riau. Sementara, daerah yang perlu didorong peningkatan literasi adalah pencapaian nilai budaya Provinsi Papua.
 
 Sumber Data: Kemendikbudristek, berbagai tahun (diolah) Pengembangan Wilayah Pencapaian pembangunan kewilayahan di Hal yang perlu menjadi fokus perhatian ke depan Indonesia telah menunjukkan sejumlah kemajuan antara lain (1) pengentasan daerah tertinggal; (2) signifikan, terutama dalam (1) pengembangan produksi komoditas unggulan (kelapa sawit, kopi, kawasan pusat pertumbuhan (kawasan ekonomi khusus, kawasan industri, dan destinasi pariwisata tebu, lada, pala, dan cengkeh) untuk mendukung hilirisasi; serta (3) penurunan ketimpangan wilayah prioritas);
 
@@ -188,15 +188,15 @@ Sumber Data: Kemendikbudristek, berbagai tahun (diolah) Pengembangan Wilayah Pen
 
 kualitas dan kuantitas lapangan pekerjaan, serta infrastruktur wilayah.
 
-layanan dasar dan konektivitas 17 Tren Capaian Perkembangan Status Pembangunan Desa (Desa Mandiri dan Berkembang) Sumber Data: Kemen PPN/Bappenas, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Distribusi Jumlah Desa Mandiri (Tertinggi dan Terendah) di Daerah Sumber Data: Kemen PPN/Bappenas, berbagai tahun (diolah)
+layanan dasar dan konektivitas 17 Tren Capaian Perkembangan Status Pembangunan Desa (Desa Mandiri dan Berkembang) Sumber Data: Kemen PPN/Bappenas, berbagai tahun (diolah) Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Distribusi Jumlah Desa Mandiri (Tertinggi dan Terendah) di Daerah Sumber Data: Kemen PPN/Bappenas, berbagai tahun (diolah)
 
-• Perkembangan mengalami dari peningkatan jumlah desa mandiri dan desa pembangunan peningkatan dilihat desa berkembang.
+â€¢ Perkembangan mengalami dari peningkatan jumlah desa mandiri dan desa pembangunan peningkatan dilihat desa berkembang.
 
-• Faktor yang mendorong peningkatan pembangunan desa hingga tahun 2023, di antaranya (a) penurunan tingkat kemiskinan perdesaan menjadi 12,22 persen; serta (b) peningkatan kemajuan dan kemandirian desa melalui revitalisasi 9.114 badan usaha milik desa berkembang, 1.677 badan usaha milik desa maju, 564 badan usaha milik desa bersama berkembang, dan 532 badan usaha milik desa bersama maju.
+â€¢ Faktor yang mendorong peningkatan pembangunan desa hingga tahun 2023, di antaranya (a) penurunan tingkat kemiskinan perdesaan menjadi 12,22 persen; serta (b) peningkatan kemajuan dan kemandirian desa melalui revitalisasi 9.114 badan usaha milik desa berkembang, 1.677 badan usaha milik desa maju, 564 badan usaha milik desa bersama berkembang, dan 532 badan usaha milik desa bersama maju.
 
-• Program dalam mendukung percepatan pembangunan desa, kegiatan strategis antara lain pembangunan infrastruktur pedesaan (jalan, jembatan, drainase, pasar desa, posyandu, dan pendidikan anak usia dini), penetapan prioritas penggunaan dana desa, dan pengembangan badan usaha milik desa.
+â€¢ Program dalam mendukung percepatan pembangunan desa, kegiatan strategis antara lain pembangunan infrastruktur pedesaan (jalan, jembatan, drainase, pasar desa, posyandu, dan pendidikan anak usia dini), penetapan prioritas penggunaan dana desa, dan pengembangan badan usaha milik desa.
 
-• Provinsi dengan jumlah desa mandiri terbanyak terdapat di Pulau Jawa, yaitu Provinsi Jawa Tengah, Jawa Timur, dan Jawa Barat. Sedangkan daerah yang perlu didorong untuk peningkatan desa mandiri sebagian besar berada di wilayah Indonesia Timur.
+â€¢ Provinsi dengan jumlah desa mandiri terbanyak terdapat di Pulau Jawa, yaitu Provinsi Jawa Tengah, Jawa Timur, dan Jawa Barat. Sedangkan daerah yang perlu didorong untuk peningkatan desa mandiri sebagian besar berada di wilayah Indonesia Timur.
 
 18 Penguatan Infrastruktur Pembangunan infrastruktur pelayanan dasar dan konektivitas wilayah berperan penting dalam memperkuat fondasi ekonomi dan meningkatkan kualitas hidup masyarakat. Sejumlah pencapaian penting telah diraih, seperti peningkatan akses terhadap air bersih, listrik, dan layanan sanitasi, serta pembangunan jalan, jembatan, dan jaringan transportasi yang memperlancar arus barang dan orang antarwilayah.
 
@@ -204,46 +204,46 @@ Namun demikian, tantangan masih ada, terutama terkait dengan pemerataan akses in
 
 Tren Capaian Rumah Tangga yang Menempati Hunian Layak dan Terjangkau
 
-• Rumah tangga yang menempati hunian layak dan terjangkau terus meningkat hingga tahun 2023. Namun demikian, perlu dalam terus intervensi didorong mengakselerasi pemenuhan hunian layak.
+â€¢ Rumah tangga yang menempati hunian layak dan terjangkau terus meningkat hingga tahun 2023. Namun demikian, perlu dalam terus intervensi didorong mengakselerasi pemenuhan hunian layak.
 
-• Intervensi strategis yang mendorong Sumber Data: Susenas (Badan Pusat Statistik), berbagai tahun (diolah).
+â€¢ Intervensi strategis yang mendorong Sumber Data: Susenas (Badan Pusat Statistik), berbagai tahun (diolah).
 
-Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Distribusi Capaian Rumah Tangga yang Menempati Hunian Layak dan Terjangkau (Tertinggi dan Terendah) di Daerah pencapaian antara rusunawa dan lain rumah (a) penyediaan (b) khusus, penanganan permukiman kumuh, (c) penyaluran fasilitas likuiditas pembiayaan perumahan, (d) subsidi bantuan uang muka, serta (e) bantuan pembiayaan perumahan berbasis tabungan.
+Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Distribusi Capaian Rumah Tangga yang Menempati Hunian Layak dan Terjangkau (Tertinggi dan Terendah) di Daerah pencapaian antara rusunawa dan lain rumah (a) penyediaan (b) khusus, penanganan permukiman kumuh, (c) penyaluran fasilitas likuiditas pembiayaan perumahan, (d) subsidi bantuan uang muka, serta (e) bantuan pembiayaan perumahan berbasis tabungan.
 
-• Provinsi Sulawesi Tenggara mengalami peningkatan yang signifikan pada akses hunian layak dan terjangkau dari tahun 2019 hingga 2023. Sementara itu, Provinsi Daerah Istimewa Yogyakarta merupakan daerah dengan pencapaian tertinggi sedangkan Provinsi Papua merupakan diakselerasi daerah perlu yang Sumber Data: Susenas (Badan Pusat Statistik), berbagai tahun (diolah).
+â€¢ Provinsi Sulawesi Tenggara mengalami peningkatan yang signifikan pada akses hunian layak dan terjangkau dari tahun 2019 hingga 2023. Sementara itu, Provinsi Daerah Istimewa Yogyakarta merupakan daerah dengan pencapaian tertinggi sedangkan Provinsi Papua merupakan diakselerasi daerah perlu yang Sumber Data: Susenas (Badan Pusat Statistik), berbagai tahun (diolah).
 
 pencapaiannya.
 
 19
 
-• Rasio elektrifikasi meningkat dari tahun ke tahun.
+â€¢ Rasio elektrifikasi meningkat dari tahun ke tahun.
 
-• Intervensi strategis keberhasilan pencapaian antara yang mendukung (a) lain program bantuan pasang baru listrik; (b) perluasan jaringan (grid extension) untuk yang desa eksisting;
+â€¢ Intervensi strategis keberhasilan pencapaian antara yang mendukung (a) lain program bantuan pasang baru listrik; (b) perluasan jaringan (grid extension) untuk yang desa eksisting;
 
  dekat jaringan distribusi (c) pembangunan pembangkit komunal (menggunakan energi setempat) menggunakan pembangkit listrik tenaga listrik surya+baterai ataupun pembangkit tenaga mikro hidro; serta (d) pemasangan alat penyalur daya listrik dan stasiun pengisian energi listrik untuk daerah terdepan, terpencil, dan tertinggal.
 
-• Sebagian besar provinsi memiliki capaian rasio elektrifikasi telah mendekati 100 persen pada tahun 2023, kecuali Provinsi Papua Pegunungan, Papua Tengah, Nusa Tenggara Timur, Maluku, Kalimantan Tengah, dan Papua Selatan.
+â€¢ Sebagian besar provinsi memiliki capaian rasio elektrifikasi telah mendekati 100 persen pada tahun 2023, kecuali Provinsi Papua Pegunungan, Papua Tengah, Nusa Tenggara Timur, Maluku, Kalimantan Tengah, dan Papua Selatan.
 
 Pembangunan Lingkungan Hidup Pembangunan lingkungan hidup merupakan salah satu pilar penting dalam menjaga keseimbangan ekosistem dan keberlanjutan kehidupan manusia.
 
-(1) Berbagai pencapaian telah dicapai, seperti Tren Capaian Rasio Elektrifikasi Sumber Data: Laporan Kinerja KESDM Tahun 2023 dan Berita Acara Penetapan Rasio Elektrifikasi dan Rasio Desa Berlistrik Keterangan: Target 2024 merupakan target RPJMN 2020–2024 Distribusi Capaian Rasio Elektrifikasi (Tertinggi dan Terendah) di Daerah Sumber Data: Laporan Kinerja KESDM Tahun 2023 dan Berita Acara Penetapan Rasio Elektrifikasi dan Rasio Desa Berlistrik pulau-pulau kecil, termasuk ekosistem mangrove dan pantai; serta (6) mitigasi kerentanan dampak bencana.
+(1) Berbagai pencapaian telah dicapai, seperti Tren Capaian Rasio Elektrifikasi Sumber Data: Laporan Kinerja KESDM Tahun 2023 dan Berita Acara Penetapan Rasio Elektrifikasi dan Rasio Desa Berlistrik Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 Distribusi Capaian Rasio Elektrifikasi (Tertinggi dan Terendah) di Daerah Sumber Data: Laporan Kinerja KESDM Tahun 2023 dan Berita Acara Penetapan Rasio Elektrifikasi dan Rasio Desa Berlistrik pulau-pulau kecil, termasuk ekosistem mangrove dan pantai; serta (6) mitigasi kerentanan dampak bencana.
 
 Namun kebijakan pengelolaan sampah, penanganan deforestasi, dan implementasi demikian, peningkatan kesadaran masyarakat dalam menjaga kerusakan ekosistem laut belum sepenuhnya kelestarian alam dan pengurangan emisi karbon; (2) optimal. Oleh karena itu, penting untuk terus upaya rehabilitasi hutan; (3) konservasi kawasan perairan; (4) akurasi informasi meteorologi dan memperkuat komitmen dan langkah strategis guna mewujudkan pembangunan lingkungan hidup yang klimatologi; (5) pemulihan kawasan pesisir dan lebih berkelanjutan di masa depan.
 
 20 Distribusi Capaian Indeks Kualitas Lingkungan Hidup (Tertinggi dan Terendah) di Daerah Tren Capaian Indeks Kualitas Lingkungan Hidup Sumber Data: Kemen LHK, berbagai tahun.
-Keterangan: Capaian 2019–2020 merupakan metode lama, capaian 2021–2023 merupakan metode baru, target 2024 merupakan target RPJMN 2020–2024.
+Keterangan: Capaian 2019â€“2020 merupakan metode lama, capaian 2021â€“2023 merupakan metode baru, target 2024 merupakan target RPJMN 2020â€“2024.
 
 Sumber Data: Kemen LHK, berbagai tahun.
 
-Keterangan: Capaian 2019 merupakan metode lama, capaian 2021–2023 merupakan metode baru.
+Keterangan: Capaian 2019 merupakan metode lama, capaian 2021â€“2023 merupakan metode baru.
 
-• Indeks Kualitas Lingkungan Hidup meningkat dari tahun ke tahun. Pandemi Corona Virus Disease 2019 justru memberikan dampak yang positif bagi peningkatan kualitas lingkungan hidup.
+â€¢ Indeks Kualitas Lingkungan Hidup meningkat dari tahun ke tahun. Pandemi Corona Virus Disease 2019 justru memberikan dampak yang positif bagi peningkatan kualitas lingkungan hidup.
 
-• Program kegiatan strategis yang mendorong pengelolaan lingkungan hidup di tingkat daerah, antara lain program langit biru, program kali bersih, program Indonesia hijau, program gambut lestari, dan program pantai lestari.
+â€¢ Program kegiatan strategis yang mendorong pengelolaan lingkungan hidup di tingkat daerah, antara lain program langit biru, program kali bersih, program Indonesia hijau, program gambut lestari, dan program pantai lestari.
 
-• Berdasarkan peningkatan Indeks Kualitas Lingkungan Hidup provinsi dari tahun ke tahun, provinsi dengan peningkatan Indeks Kualitas Lingkungan Hidup terbesar adalah Provinsi Daerah Istimewa Yogyakarta, Jawa Barat, dan Lampung. Provinsi yang mengalami penurunan Indeks Kualitas Lingkungan Hidup adalah Provinsi Kalimantan Timur, Maluku, Papua Barat, Papua, dan Sulawesi Tengah.
+â€¢ Berdasarkan peningkatan Indeks Kualitas Lingkungan Hidup provinsi dari tahun ke tahun, provinsi dengan peningkatan Indeks Kualitas Lingkungan Hidup terbesar adalah Provinsi Daerah Istimewa Yogyakarta, Jawa Barat, dan Lampung. Provinsi yang mengalami penurunan Indeks Kualitas Lingkungan Hidup adalah Provinsi Kalimantan Timur, Maluku, Papua Barat, Papua, dan Sulawesi Tengah.
 
-• Berdasarkan capaian Indeks Kualitas Lingkungan Hidup provinsi tahun 2023, capaian Indeks Kualitas Lingkungan Hidup tertinggi berada pada Provinsi Papua Barat, Papua, Kalimantan Utara, dan Maluku Utara, sedangkan capaian Indeks Kualitas Lingkungan Hidup yang perlu dioptimalkan berada pada Provinsi Daerah Khusus Ibukota Jakarta, Banten, dan Jawa Barat. Kualitas lingkungan hidup salah satunya dipengaruhi oleh kepadatan penduduk dan aktivitas ekonomi suatu daerah yang sangat bergantung pada sektor industri pengolahan, pertambangan, dan jasa.
+â€¢ Berdasarkan capaian Indeks Kualitas Lingkungan Hidup provinsi tahun 2023, capaian Indeks Kualitas Lingkungan Hidup tertinggi berada pada Provinsi Papua Barat, Papua, Kalimantan Utara, dan Maluku Utara, sedangkan capaian Indeks Kualitas Lingkungan Hidup yang perlu dioptimalkan berada pada Provinsi Daerah Khusus Ibukota Jakarta, Banten, dan Jawa Barat. Kualitas lingkungan hidup salah satunya dipengaruhi oleh kepadatan penduduk dan aktivitas ekonomi suatu daerah yang sangat bergantung pada sektor industri pengolahan, pertambangan, dan jasa.
 
 Capaian IKLH di 34 Provinsi Tahun 2019 dan 2023 Sumber Data: Kemen LHK, berbagai tahun (diolah).
 
@@ -253,16 +253,16 @@ Sejumlah pencapaian menunjukkan peningkatan, seperti (1) penguatan partisipasi d
 
 keamanan nasional.
 
-• Capaian pembangunan politik demokrasi ditandai dengan peningkatan Indeks Demokrasi Indonesia.
+â€¢ Capaian pembangunan politik demokrasi ditandai dengan peningkatan Indeks Demokrasi Indonesia.
 
 Tren Capaian Indeks Demokrasi Indonesia Distribusi Capaian Indeks Demokrasi Indonesia (Tertinggi dan Terendah) di Daerah Sumber Data: BPS, berbagai tahun (diolah).
-Keterangan: Capaian baseline hingga 2020 merupakan metode lama, capaian 2021–2023 merupakan metode baru, target 2024 merupakan target RPJMN 2020–2024 Sumber Data: BPS, berbagai tahun (diolah)
+Keterangan: Capaian baseline hingga 2020 merupakan metode lama, capaian 2021â€“2023 merupakan metode baru, target 2024 merupakan target RPJMN 2020â€“2024 Sumber Data: BPS, berbagai tahun (diolah)
 
-• Pencapaian Indeks Demokrasi Indonesia hingga tahun 2020 dinilai dari pencapaian tiga aspek yaitu kebebasan, kesetaraan, dan kapasitas lembaga demokrasi. Adapun pencapaian Indeks Demokrasi Indonesia sejak tahun 2021 mengalami penyempurnaan penilaian dengan mengintegrasikan aspek politik, ekonomi, dan sosial, serta memberikan indeks untuk tingkat nasional, pusat, dan provinsi.
+â€¢ Pencapaian Indeks Demokrasi Indonesia hingga tahun 2020 dinilai dari pencapaian tiga aspek yaitu kebebasan, kesetaraan, dan kapasitas lembaga demokrasi. Adapun pencapaian Indeks Demokrasi Indonesia sejak tahun 2021 mengalami penyempurnaan penilaian dengan mengintegrasikan aspek politik, ekonomi, dan sosial, serta memberikan indeks untuk tingkat nasional, pusat, dan provinsi.
 
-• Berdasarkan capaian Indeks Demokrasi Indonesia tingkat provinsi, peningkatan terbesar terjadi pada Provinsi Jawa Barat, Sumatera Utara, dan Sulawesi Tenggara, sementara tiga daerah yang mengalami penurunan terbesar yaitu Provinsi Nusa Tenggara Barat, Bengkulu, dan Maluku Utara.
+â€¢ Berdasarkan capaian Indeks Demokrasi Indonesia tingkat provinsi, peningkatan terbesar terjadi pada Provinsi Jawa Barat, Sumatera Utara, dan Sulawesi Tenggara, sementara tiga daerah yang mengalami penurunan terbesar yaitu Provinsi Nusa Tenggara Barat, Bengkulu, dan Maluku Utara.
 
-• Berdasarkan capaian Indeks Demokrasi Indonesia tingkat provinsi pada tahun 2023, capaian tertinggi berada pada Provinsi Bali, Daerah Khusus Ibukota Jakarta, dan Daerah Istimewa Yogyakarta, sedangkan daerah yang perlu didorong penguatan demokrasi terutama pada aspek kapasitas lembaga demokrasi berada pada Provinsi Papua Barat, Maluku Utara, Papua, dan Maluku.
+â€¢ Berdasarkan capaian Indeks Demokrasi Indonesia tingkat provinsi pada tahun 2023, capaian tertinggi berada pada Provinsi Bali, Daerah Khusus Ibukota Jakarta, dan Daerah Istimewa Yogyakarta, sedangkan daerah yang perlu didorong penguatan demokrasi terutama pada aspek kapasitas lembaga demokrasi berada pada Provinsi Papua Barat, Maluku Utara, Papua, dan Maluku.
 
 22 Capaian Indeks Demokrasi Indonesia di 34 Provinsi Tahun 2019 dan 2023 Keterangan: Capaian 2019 merupakan metode lama, capaian 2023 merupakan metode baru.
 
@@ -271,42 +271,42 @@ Sumber Data: BPS, berbagai tahun (diolah).
 Capaian kinerja pembangunan bidang hukum ditandai dengan tren positif nilai Indeks Pembangunan Hukum dalam juga ditandai dengan kurun waktu tiga tahun terakhir. Capaian penting pembangunan bidang hukum diundangkannya Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana yang mengedepankan pendekatan keadilan korektif, keadilan rehabilitatif, dan keadilan restoratif bagi masyarakat.
 
 Tren Capaian Indeks Pembangunan Hukum Sumber Data: Kemen PPN/Bappenas, berbagai tahun (diolah).
-Keterangan: Baseline 2019 merupakan metode lama, capaian 2020–2022 merupakan metode baru.
+Keterangan: Baseline 2019 merupakan metode lama, capaian 2020â€“2022 merupakan metode baru.
 
 23
 
-• Secara perhitungan, Indeks Pembangunan Hukum mengalami penyesuaian metodologi pada tahun 2020, menjadi lima pilar (budaya hukum, materi hukum, kelembagaan hukum, penegakan hukum, serta informasi dan komunikasi hukum) dan tiga sumber data (survei masyarakat, data administratif kementerian/lembaga, dan wawancara pakar).
+â€¢ Secara perhitungan, Indeks Pembangunan Hukum mengalami penyesuaian metodologi pada tahun 2020, menjadi lima pilar (budaya hukum, materi hukum, kelembagaan hukum, penegakan hukum, serta informasi dan komunikasi hukum) dan tiga sumber data (survei masyarakat, data administratif kementerian/lembaga, dan wawancara pakar).
 
-• Capaian Indeks Pembangunan Hukum pada periode Rencana Pembangunan Jangka Menengah Nasional tahun 2020–2024 menunjukkan tren peningkatan yang signifikan dan konsisten. Indeks Pembangunan Hukum tahun 2020 masuk dalam kategori cukup, kemudian meningkat pada tahun 2022 dan masuk dalam kategori baik.
+â€¢ Capaian Indeks Pembangunan Hukum pada periode Rencana Pembangunan Jangka Menengah Nasional tahun 2020â€“2024 menunjukkan tren peningkatan yang signifikan dan konsisten. Indeks Pembangunan Hukum tahun 2020 masuk dalam kategori cukup, kemudian meningkat pada tahun 2022 dan masuk dalam kategori baik.
 
 Peningkatan ini menunjukkan kualitas pembangunan hukum yang dilakukan oleh kementerian/lembaga terkait semakin menuju ke arah positif dan dirasakan oleh masyarakat. Salah satu strategi yang dilakukan untuk meningkatkan tren capaian Indeks Pembangunan Hukum tersebut yakni sinkronisasi implementasi kebijakan prioritas nasional oleh multiaktor dan secara lintas sektor, serta melibatkan pemangku kepentingan terkait lainnya.
 
-• Intervensi strategis yang mendorong pencapaian Indeks Pembangunan Hukum antara lain (a) penataan tata kelola regulasi, (b) penegakan hukum pidana dilakukan melalui penerapan sistem peradilan pidana terpadu berbasis teknologi informasi dan implementasi keadilan restoratif, serta (c) peningkatan akses keadilan bagi masyarakat dilaksanakan melalui layanan bantuan hukum.
+â€¢ Intervensi strategis yang mendorong pencapaian Indeks Pembangunan Hukum antara lain (a) penataan tata kelola regulasi, (b) penegakan hukum pidana dilakukan melalui penerapan sistem peradilan pidana terpadu berbasis teknologi informasi dan implementasi keadilan restoratif, serta (c) peningkatan akses keadilan bagi masyarakat dilaksanakan melalui layanan bantuan hukum.
 
 Capaian keamanan dan ketertiban menunjukkan komitmen kuat dan semangat antusias dengan ditandainya tren positif pada hasil nilai-nilai indikator pengukuran seperti meningkatnya Global Terrorism Index dari 5,07 pada tahun 2019 menjadi 3,99 pada tahun 2023. Adapun capaian perilaku antikorupsi masyarakat direpresentasikan melalui indeks perilaku anti korupsi.
 
 Gambar 1.1 Tren Capaian Indeks Perilaku Anti Korupsi Sumber Data: BPS dan KPK, berbagai tahun (diolah).
 
-Keterangan: Target 2024 merupakan target RPJMN 2020–2024 • Indeks Perilaku Anti Korupsi menunjukkan perbaikan dari tahun 2019 ke tahun 2022, namun sedikit menurun sebesar 0,01 poin pada tahun 2023 disebabkan adanya penurunan dimensi pengalaman sebagai salah satu dimensi pembentuk capaian Indeks Perilaku Anti Korupsi.
+Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024 â€¢ Indeks Perilaku Anti Korupsi menunjukkan perbaikan dari tahun 2019 ke tahun 2022, namun sedikit menurun sebesar 0,01 poin pada tahun 2023 disebabkan adanya penurunan dimensi pengalaman sebagai salah satu dimensi pembentuk capaian Indeks Perilaku Anti Korupsi.
 
-• Program strategis yang mendorong pencapaian Indeks Perilaku Anti Korupsi antara lain (a) Roadshow Bus untuk sosialisasi antikorupsi kepada masyarakat, (b) Desa Anti Korupsi, (c) Politik Cerdas Berintegritas untuk pembekalan antikorupsi kepada peserta pemilu, (d) Hajar Serangan Fajar sebagai kampanye antikorupsi kepada masyarakat terkait pencegahan politik uang dan korupsi menjelang pemilu, (e) program penguatan anti korupsi bagi penyelenggara negara ber-integritas sebagai program penguatan komitmen antikorupsi yang menyasar para pemimpin dan pejabat negara di kementerian/lembaga, serta (f) Bunda Pendidikan Anak Usia Dini sebagai program yang mendukung para bunda atau guru pendidikan anak usia dini untuk berperan sebagai penggerak antikorupsi sekaligus membentuk karakter anak dalam upaya pencegahan korupsi.
+â€¢ Program strategis yang mendorong pencapaian Indeks Perilaku Anti Korupsi antara lain (a) Roadshow Bus untuk sosialisasi antikorupsi kepada masyarakat, (b) Desa Anti Korupsi, (c) Politik Cerdas Berintegritas untuk pembekalan antikorupsi kepada peserta pemilu, (d) Hajar Serangan Fajar sebagai kampanye antikorupsi kepada masyarakat terkait pencegahan politik uang dan korupsi menjelang pemilu, (e) program penguatan anti korupsi bagi penyelenggara negara ber-integritas sebagai program penguatan komitmen antikorupsi yang menyasar para pemimpin dan pejabat negara di kementerian/lembaga, serta (f) Bunda Pendidikan Anak Usia Dini sebagai program yang mendukung para bunda atau guru pendidikan anak usia dini untuk berperan sebagai penggerak antikorupsi sekaligus membentuk karakter anak dalam upaya pencegahan korupsi.
 
 24
 
-• Salah satu ukuran perbaikan tata kelola pemerintah yaitu melalui Indeks Reformasi Birokrasi. Persentase Instansi Pemerintah dengan Indeks Reformasi Birokrasi ≥ Baik tingkat cenderung meningkat pada kabupaten/kota dan provinsi. Pengukuran Indeks Reformasi Birokrasi periode 2020– 2024 mencakup tiga aspek yaitu reformasi, hasil antara, dan pemenuhan.
+â€¢ Salah satu ukuran perbaikan tata kelola pemerintah yaitu melalui Indeks Reformasi Birokrasi. Persentase Instansi Pemerintah dengan Indeks Reformasi Birokrasi â‰¥ Baik tingkat cenderung meningkat pada kabupaten/kota dan provinsi. Pengukuran Indeks Reformasi Birokrasi periode 2020â€“ 2024 mencakup tiga aspek yaitu reformasi, hasil antara, dan pemenuhan.
 
-• Intervensi strategis yang mendorong pencapaian, antara (a) optimalisasi pendampingan dan bimbingan teknis secara lain online dengan memanfaatkan media Youtube secara reguler melalui program ”Bisa Tanya Kemen PANRB” untuk informasi kebijakan sistem Aplikasi baru;
+â€¢ Intervensi strategis yang mendorong pencapaian, antara (a) optimalisasi pendampingan dan bimbingan teknis secara lain online dengan memanfaatkan media Youtube secara reguler melalui program â€Bisa Tanya Kemen PANRBâ€ untuk informasi kebijakan sistem Aplikasi baru;
 
 (b) penggunaan penilaian mandiri pelaksanaan reformasi birokrasi maupun E-SAKIP, (c) kebijakan Reformasi Birokrasi tematik termasuk modul pelaksanaan Reformasi Birokrasi Tematik, serta (d) kegiatan RBXperience yang bertujuan memfasilitasi kementerian/lembaga Meso untuk ikut menjelaskan terkait perannya dalam reformasi birokrasi dan kebijakan yang harus dilaksanakan oleh instansi pemerintah lainnya.
 
-Tren Capaian Persentase Instansi Pemerintah dengan Indeks RB ≥ Baik Sumber Data: Kemen PANRB, berbagai tahun (diolah).
-Keterangan: Target 2024 merupakan target RPJMN 2020–2024
+Tren Capaian Persentase Instansi Pemerintah dengan Indeks RB â‰¥ Baik Sumber Data: Kemen PANRB, berbagai tahun (diolah).
+Keterangan: Target 2024 merupakan target RPJMN 2020â€“2024
 
 1.3 Batasan Pembangunan (Development Constraint) Terdapat dua aspek yang menjadi batas dalam Kawasan Lindung di Darat dan Perairan pelaksanaan pembangunan, yaitu daya dukung dan daya tampung lingkungan hidup serta kapasitas lingkungan hidup ruang fiskal.
 
  Daya dukung merupakan batas kemampuan lingkungan hidup untuk mendukung perikehidupan manusia, makhluk hidup, dan keseimbangan antara keduanya melalui ketersediaan sumber daya alam. Sementara itu, daya tampung lingkungan hidup adalah batasan kemampuan untuk menyerap zat, energi, dan/atau komponen lain yang masuk atau dimasukkan ke dalamnya, seperti limbah.
 
-Sampai tahun 2023, perlindungan kawasan yang telah dilaksanakan di daratan mencapai 51,14 juta hektare atau 26,85 persen dari luas daratan di Indonesia, yang terdiri dari kawasan hutan lindung sebesar 15,38 persen serta kawasan suaka alam, kawasan pelestarian alam, dan taman buru sebesar 11,47 persen (IBSAP 2025–2045). Sedangkan luas kawasan konservasi di perairan, wilayah pesisir, dan pulau-pulau kecil pada tahun 2024 mencapai 29,9 juta hektare atau sebesar 9,2 persen dari luas Laut Indonesia, dengan peningkatan sebesar 665.049,5 Di sisi lain, kapasitas ruang fiskal merupakan hektare. Kawasan konservasi di perairan, wilayah kebutuhan untuk membiayai kemampuan pembangunan yang semakin besar dan beragam.
+Sampai tahun 2023, perlindungan kawasan yang telah dilaksanakan di daratan mencapai 51,14 juta hektare atau 26,85 persen dari luas daratan di Indonesia, yang terdiri dari kawasan hutan lindung sebesar 15,38 persen serta kawasan suaka alam, kawasan pelestarian alam, dan taman buru sebesar 11,47 persen (IBSAP 2025â€“2045). Sedangkan luas kawasan konservasi di perairan, wilayah pesisir, dan pulau-pulau kecil pada tahun 2024 mencapai 29,9 juta hektare atau sebesar 9,2 persen dari luas Laut Indonesia, dengan peningkatan sebesar 665.049,5 Di sisi lain, kapasitas ruang fiskal merupakan hektare. Kawasan konservasi di perairan, wilayah kebutuhan untuk membiayai kemampuan pembangunan yang semakin besar dan beragam.
 
 pesisir, dan pulau-pulau kecil ditargetkan mencapai 30 persen pada tahun 2045 (30 by 45) yang setara Kedua aspek batasan pembangunan tersebut perlu dengan 97,5 juta hektare.
 
@@ -316,7 +316,7 @@ Peta Kawasan Suaka Alam, Kawasan Pelestarian Alam, dan Taman Buru di Daratan dan
 
 26 juta hektare areal yang bernilai Dari total 70 keanekaragaman hayati tinggi di daratan, sebanyak lainnya dan pada akhirnya akan berdampak pada pengurangan daya dukung dan daya tampung 43 juta hektare yang berada di luar kawasan suaka lingkungan untuk aktivitas ekonomi.
 
-alam, kawasan pelestarian alam, dan taman buru (Bappenas, 2018). Untuk itu, pembangunan harus memperhatikan dan mengintegrasikan areal di luar kawasan suaka alam; kawasan pelestarian alam; dan Habitat Spesies Kunci Indonesia merupakan negara dengan tingkat keanekaragaman hayati sangat tinggi yang tersebar kawasan konservasi di perairan, wilayah pesisir, dan dalam 22 tipe ekosistem, baik di darat maupun di pulau-pulau kecil berupa areal preservasi yang bertujuan untuk mendukung fungsi penyangga laut (IBSAP 2025–2045). Apabila dikelola dengan baik, kekayaan keanekaragaman hayati yang luar kehidupan ataupun kelangsungan hidup sumber biasa ini, mulai dari ekosistem, spesies, dan genetik daya hayati dan ekosistemnya.
+alam, kawasan pelestarian alam, dan taman buru (Bappenas, 2018). Untuk itu, pembangunan harus memperhatikan dan mengintegrasikan areal di luar kawasan suaka alam; kawasan pelestarian alam; dan Habitat Spesies Kunci Indonesia merupakan negara dengan tingkat keanekaragaman hayati sangat tinggi yang tersebar kawasan konservasi di perairan, wilayah pesisir, dan dalam 22 tipe ekosistem, baik di darat maupun di pulau-pulau kecil berupa areal preservasi yang bertujuan untuk mendukung fungsi penyangga laut (IBSAP 2025â€“2045). Apabila dikelola dengan baik, kekayaan keanekaragaman hayati yang luar kehidupan ataupun kelangsungan hidup sumber biasa ini, mulai dari ekosistem, spesies, dan genetik daya hayati dan ekosistemnya.
 
 dapat menjadi modalitas dalam mendukung Kawasan konservasi dikelola berdasarkan tiga prinsip, yaitu (a) perlindungan sistem penyangga kehidupan; (b) pengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya; dan (c) lestari sumber daya alam pemanfaatan secara hayati dan ekosistemnya. Kawasan konservasi menjadi benteng terakhir untuk melindungi habitat spesies kunci dan keanekaragaman hayati hingga tidak level Pembangunan genetik.
 
@@ -340,11 +340,11 @@ Luas Permukiman di Area Pesisir Terdampak Perubahan Iklim Perubahan iklim menyeb
 
 28 Sebaran Kawasan Pesisir Rentan Perpindahan Penduduk sebagai Dampak Perubahan Iklim Sumber: Kajian People Displacement Kementerian PPN/Bappenas, 2023.
 
-Kombinasi antara penurunan muka tanah dan kenaikan muka air laut semakin memperparah risiko di wilayah pesisir. Di beberapa wilayah perkotaan seperti Jakarta dan Semarang yang berada di pantai utara Pulau Jawa, penurunan tanah berlangsung dengan kecepatan 1–15 cm per tahun. Di luar Jawa, laju penurunan tanah bervariasi antara 1–8 cm per tahun. Dengan kenaikan muka air laut setinggi 50 cm yang diproyeksikan di masa depan, wilayah- wilayah padat penduduk di pesisir dapat tergenang secara permanen. Selain itu, pulau-pulau kecil juga terancam oleh abrasi dan penggenangan akibat kenaikan muka air laut, yang bisa menyebabkan hilangnya pulau-pulau tersebut dalam jangka panjang.
+Kombinasi antara penurunan muka tanah dan kenaikan muka air laut semakin memperparah risiko di wilayah pesisir. Di beberapa wilayah perkotaan seperti Jakarta dan Semarang yang berada di pantai utara Pulau Jawa, penurunan tanah berlangsung dengan kecepatan 1â€“15 cm per tahun. Di luar Jawa, laju penurunan tanah bervariasi antara 1â€“8 cm per tahun. Dengan kenaikan muka air laut setinggi 50 cm yang diproyeksikan di masa depan, wilayah- wilayah padat penduduk di pesisir dapat tergenang secara permanen. Selain itu, pulau-pulau kecil juga terancam oleh abrasi dan penggenangan akibat kenaikan muka air laut, yang bisa menyebabkan hilangnya pulau-pulau tersebut dalam jangka panjang.
 
 Hasil analisis menunjukkan bahwa terdapat 311 kabupaten/kota, 1.643 kecamatan, dan 6.367 desa/kelurahan di wilayah pesisir Indonesia yang rentan terhadap dampak perubahan iklim. Wilayah ini berpotensi besar mengalami perpindahan penduduk, khususnya akibat abrasi dan bencana hidrometeorologi seperti banjir pesisir atau rob.
 
-Dalam kurun waktu 5–10 tahun terakhir, sekitar 234 kabupaten/kota, 796 kecamatan, dan 1.888 desa/kelurahan atau sekitar 30 persen dari total desa pesisir di Indonesia telah menunjukkan potensi perpindahan penduduk. Daerah ini mencakup 150 desa di kawasan metropolitan serta 92 desa di pulau-pulau kecil terluar, yang semakin memperparah risiko sosial-ekonomi (Gambar Di Atas).
+Dalam kurun waktu 5â€“10 tahun terakhir, sekitar 234 kabupaten/kota, 796 kecamatan, dan 1.888 desa/kelurahan atau sekitar 30 persen dari total desa pesisir di Indonesia telah menunjukkan potensi perpindahan penduduk. Daerah ini mencakup 150 desa di kawasan metropolitan serta 92 desa di pulau-pulau kecil terluar, yang semakin memperparah risiko sosial-ekonomi (Gambar Di Atas).
 
 Perubahan iklim diprediksi akan membawa dampak jangka panjang yang signifikan bagi masyarakat pesisir. Data dari Climate Central menyebutkan bahwa sekitar 23 juta penduduk pesisir di Indonesia diproyeksikan akan menghadapi banjir laut tahunan pada tahun 2050 akibat kenaikan muka air laut. Oleh karena itu, penting untuk memahami profil wilayah pesisir yang rentan agar bisa merancang strategi mitigasi dan adaptasi yang tepat. Profil ini harus mencakup kondisi sosial, ekonomi, serta lingkungan yang berperan besar dalam menentukan ketahanan masyarakat pesisir.
 
@@ -362,7 +362,7 @@ Kabupaten Mandailing Natal, Kabupaten Halmahera Selatan, dan Kabupaten Nias Utar
 
 Ketersediaan Air Indonesia memiliki potensi besar dalam sumber daya air untuk mendukung berbagai sektor kehidupan, terutama di tengah pertumbuhan populasi dan peningkatan aktivitas ekonomi.
 
-Ketersediaan air yang memadai sangat penting untuk menjamin pasokan air bersih, mendukung sektor pertanian, serta menopang berbagai industri yang menjadi pilar pembangunan. Potensi sumber daya air Indonesia tersebar di beberapa wilayah, dengan total air permukaan sebesar 2.783,3 miliar m³ per tahun dan potensi air tanah dari cekungan air tanah sebesar 20.903,3 miliar m³ per tahun. Namun demikian, potensi sumber daya air ini tidak pengurangan risiko bencana mengingat diimbangi dengan penyebarannya.
+Ketersediaan air yang memadai sangat penting untuk menjamin pasokan air bersih, mendukung sektor pertanian, serta menopang berbagai industri yang menjadi pilar pembangunan. Potensi sumber daya air Indonesia tersebar di beberapa wilayah, dengan total air permukaan sebesar 2.783,3 miliar mÂ³ per tahun dan potensi air tanah dari cekungan air tanah sebesar 20.903,3 miliar mÂ³ per tahun. Namun demikian, potensi sumber daya air ini tidak pengurangan risiko bencana mengingat diimbangi dengan penyebarannya.
 
 kabupaten/kota tersebut tergolong dalam klasifikasi risiko bencana sedang.
 
@@ -392,9 +392,9 @@ Indonesia kapasitas fiskal justru Selanjutnya, apabila dibandingkan dengan negar
 
 Studi komparatif dengan beberapa negara memperlihatkan bahwa untuk menjadi negara maju, dukungan fiskal melalui peningkatan pendapatan negara sangat diperlukan. Sebagai contoh, Korea Selatan pada tahun 1995 berhasil lepas dari middle income trap dengan rasio penerimaan negara pada saat itu mencapai 17,6 persen produk domestik bruto. Chile pada tahun 2013 juga berhasil lepas dari middle income trap dengan rasio penerimaan negara sebesar 20,6 persen produk domestik bruto.
 
-Kebutuhan pendanaan RPJMN Tahun 2020–2024 dihadapkan pada tantangan keterbatasan kapasitas fiskal pemerintah. Dalam periode RPJMN Tahun 2020–2024, untuk mencapai pertumbuhan ekonomi rata-rata 5,7–6,0 persen per tahun dibutuhkan investasi sebesar Rp35.212,4–Rp35.455,6 triliun.
+Kebutuhan pendanaan RPJMN Tahun 2020â€“2024 dihadapkan pada tantangan keterbatasan kapasitas fiskal pemerintah. Dalam periode RPJMN Tahun 2020â€“2024, untuk mencapai pertumbuhan ekonomi rata-rata 5,7â€“6,0 persen per tahun dibutuhkan investasi sebesar Rp35.212,4â€“Rp35.455,6 triliun.
 
-Dari total kebutuhan tersebut, pemerintah dan badan usaha milik negara menyumbang masing- masing sebesar 8,4–10,1 persen dan 8,5–8,8 persen, sedangkan sisanya akan dipenuhi oleh masyarakat atau swasta. Sementara itu, dari sisi kemampuan negara melalui pemerintah, penerimaan pajak (tax ratio) masih berada pada pendapatan kisaran kurang dari 11 persen. Tantangan tersebut juga tampak pada kondisi defisit yang mencapai Rp3.192 triliun selama periode tahun 2020–2024 atau rata-rata Rp638 triliun per tahun.
+Dari total kebutuhan tersebut, pemerintah dan badan usaha milik negara menyumbang masing- masing sebesar 8,4â€“10,1 persen dan 8,5â€“8,8 persen, sedangkan sisanya akan dipenuhi oleh masyarakat atau swasta. Sementara itu, dari sisi kemampuan negara melalui pemerintah, penerimaan pajak (tax ratio) masih berada pada pendapatan kisaran kurang dari 11 persen. Tantangan tersebut juga tampak pada kondisi defisit yang mencapai Rp3.192 triliun selama periode tahun 2020â€“2024 atau rata-rata Rp638 triliun per tahun.
 
 Sebagai gambaran konkret lainnya, kebutuhan memperkuat dukungan pendanaan non-anggaran pendapatan dan belanja negara, melalui swasta atau pendanaan inovatif lainnya.
 
@@ -404,19 +404,19 @@ pendanaan infrastruktur untuk meningkatkan stok infrastruktur menjadi 50 persen 
 
 34 (3) Potensi Sumber Daya Manusia dan Modal Sosial (4) Pengembangan Teknologi 35 (5) Sumber-Sumber Pertumbuhan Inovatif Tantangan Pembangunan (1) Rendahnya Produktivitas pengetahuan, teknologi, dan inovasi yang tertinggal, serta kelembagaan seperti sistem insentif, regulasi, dan kepastian hukum yang masih Tingkat produktivitas masih rendah di tengah lemah. Rendahnya produktivitas tenaga kerja persaingan global yang semakin meningkat.
 
-Mengacu pada rilis Organization (2024), laporan Asian Productivity produktivitas rata-rata perempuan dipengaruhi oleh lingkungan kerja yang belum mendukung mereka untuk masuk dan bertahan di pasar kerja, antara lain norma sosial Indonesia yang tecermin dari Total Factor Productivity budaya yang membebankan peran pengasuhan dan selama tahun 2015–2022 hanya tumbuh positif sebesar 60 basis poin dari periode sebelumnya tahun 2010–2015 (-0,9 persen ke -0,3 persen).
+Mengacu pada rilis Organization (2024), laporan Asian Productivity produktivitas rata-rata perempuan dipengaruhi oleh lingkungan kerja yang belum mendukung mereka untuk masuk dan bertahan di pasar kerja, antara lain norma sosial Indonesia yang tecermin dari Total Factor Productivity budaya yang membebankan peran pengasuhan dan selama tahun 2015â€“2022 hanya tumbuh positif sebesar 60 basis poin dari periode sebelumnya tahun 2010â€“2015 (-0,9 persen ke -0,3 persen).
 
-Capaian tersebut relatif tertinggal dibandingkan Korea Selatan yang mampu mencapai 1,78 ketika masih berada pada posisi menuju negara maju periode 1971–1995 dan Tiongkok sebesar 2,12 selama kurun waktu 2005–2022.
+Capaian tersebut relatif tertinggal dibandingkan Korea Selatan yang mampu mencapai 1,78 ketika masih berada pada posisi menuju negara maju periode 1971â€“1995 dan Tiongkok sebesar 2,12 selama kurun waktu 2005â€“2022.
 
 Kondisi produktivitas yang rendah di antaranya disebabkan oleh kualitas sumber daya manusia yang masih tertinggal, terlebih pada perempuan, produktivitas sektor ekonomi yang rendah, kapasitas ilmu tugas domestik pada perempuan, jam kerja yang kurang fleksibel, serta minimnya akses layanan daycare berkualitas yang terjangkau.
 
-Produktivitas yang rendah juga menyebabkan cenderung pertumbuhan ekonomi melambat. Selama tahun 2005–2010, ekonomi Indonesia Indonesia mampu tumbuh rata-rata 5,7 persen.
+Produktivitas yang rendah juga menyebabkan cenderung pertumbuhan ekonomi melambat. Selama tahun 2005â€“2010, ekonomi Indonesia Indonesia mampu tumbuh rata-rata 5,7 persen.
 
-Selanjutnya, pertumbuhan ekonomi melambat menjadi rata-rata 4,7 persen selama tahun 2010–
+Selanjutnya, pertumbuhan ekonomi melambat menjadi rata-rata 4,7 persen selama tahun 2010â€“
 
-2015. Pertumbuhan ekonomi meningkat kembali mencapai rata-rata 5,0 persen selama tahun 2015– 2019 dan 5,05 persen pada tahun 2023.
+2015. Pertumbuhan ekonomi meningkat kembali mencapai rata-rata 5,0 persen selama tahun 2015â€“ 2019 dan 5,05 persen pada tahun 2023.
 
-36 Rata-rata Pertumbuhan TFP Total Factor Productivity Index Index Antarnegara 2010–2022 (2010=1,0) Sumber: Asian Productivity Organization (2024), diolah Selain itu, produktivitas yang rendah menyebabkan Nasional Agustus 2024 menunjukkan sebesar 52,32 menurunnya pertumbuhan ekonomi potensial.
+36 Rata-rata Pertumbuhan TFP Total Factor Productivity Index Index Antarnegara 2010â€“2022 (2010=1,0) Sumber: Asian Productivity Organization (2024), diolah Selain itu, produktivitas yang rendah menyebabkan Nasional Agustus 2024 menunjukkan sebesar 52,32 menurunnya pertumbuhan ekonomi potensial.
 
 persen penduduk yang termasuk angkatan kerja Kondisi inilah yang menyebabkan ekonomi merupakan lulusan pendidikan rendah (sekolah Indonesia sulit tumbuh lebih cepat dan stagnan dalam rentang 5,0 persen.
 
@@ -428,7 +428,7 @@ Pembangunan manusia unggul juga dihadapkan pada tantangan rendahnya daya saing t
 
 Kualifikasi pendidikan tenaga kerja yang rendah berdampak pada keterserapan tenaga kerja di pasar kerja, hanya 41,23 persen pekerja yang bekerja di bidang keahlian menengah dan tinggi. Oleh karena itu, untuk mencapai pembangunan yang optimal, Indonesia harus mampu mengatasi berbagai dampak risiko ini dan melakukan investasi untuk peningkatan kualitas sumber daya manusia.
 
-(3) Pergeseran Struktur Kelas Masyarakat Calon kelas menengah merupakan kelompok sosial ekonomi terbesar di Indonesia. Pada periode 2019– 2024, jumlahnya meningkat sebesar 8,65 juta orang sehingga mencapai 137,5 juta orang atau sekitar 49,2 persen dari total populasi. Di sisi lain, jumlah warga yang rentan miskin juga meningkat sebanyak 12,72 juta orang dalam lima tahun terakhir. Pada tahun 2024, angka ini mencapai 67,69 juta atau 24,33 persen dari total populasi (Badan Pusat Statistik, 2024). Meskipun jumlah masyarakat calon kelas menengah dan yang rentan miskin terus bertambah, populasi kelas menengah justru 37 mengalami penurunan. Risiko pergeseran status ini, dari kelas menengah menjadi calon kelas menengah Change, 2022). Kerugian ekonomi akibat risiko bencana diprakirakan sebesar Rp22,8 triliun per dan rentan miskin, disebabkan oleh tingginya angka tahun (Kementerian Keuangan, 2023), sementara pemutusan hubungan kerja. Pada Agustus 2024, jumlah kematian selama 10 tahun terakhir mencapai tercatat 46.420 pekerja mengalami pemutusan (Kementerian Ketenagakerjaan, hubungan kerja
+(3) Pergeseran Struktur Kelas Masyarakat Calon kelas menengah merupakan kelompok sosial ekonomi terbesar di Indonesia. Pada periode 2019â€“ 2024, jumlahnya meningkat sebesar 8,65 juta orang sehingga mencapai 137,5 juta orang atau sekitar 49,2 persen dari total populasi. Di sisi lain, jumlah warga yang rentan miskin juga meningkat sebanyak 12,72 juta orang dalam lima tahun terakhir. Pada tahun 2024, angka ini mencapai 67,69 juta atau 24,33 persen dari total populasi (Badan Pusat Statistik, 2024). Meskipun jumlah masyarakat calon kelas menengah dan yang rentan miskin terus bertambah, populasi kelas menengah justru 37 mengalami penurunan. Risiko pergeseran status ini, dari kelas menengah menjadi calon kelas menengah Change, 2022). Kerugian ekonomi akibat risiko bencana diprakirakan sebesar Rp22,8 triliun per dan rentan miskin, disebabkan oleh tingginya angka tahun (Kementerian Keuangan, 2023), sementara pemutusan hubungan kerja. Pada Agustus 2024, jumlah kematian selama 10 tahun terakhir mencapai tercatat 46.420 pekerja mengalami pemutusan (Kementerian Ketenagakerjaan, hubungan kerja
 
 2024) dan angka meningkat.
 
@@ -448,7 +448,7 @@ hilangnya keanekaragaman hayati, dan polusi udara juga secara langsung akan meny
 
 (5) Krisis Lingkungan Perkembangan dunia saat ini dihadapkan dengan tiga krisis lingkungan (triple planetary crisis) yang mengancam masa depan bumi dan manusia, yaitu perubahan iklim, hilangnya keanekaragaman hayati, serta polusi dan kerusakan lingkungan.
 
-Sekitar 50–75 persen dari populasi global berpotensi terdampak kondisi iklim yang mengancam jiwa pada tahun 2100 (Intergovernmental Panel on Climate kali lipat dalam lima dekade terakhir dengan pertumbuhan lebih dari 2,3 persen per tahun.
+Sekitar 50â€“75 persen dari populasi global berpotensi terdampak kondisi iklim yang mengancam jiwa pada tahun 2100 (Intergovernmental Panel on Climate kali lipat dalam lima dekade terakhir dengan pertumbuhan lebih dari 2,3 persen per tahun.
 
 Indonesia sebagai negara dengan tingkat ekstraksi (United pertambangan terbesar ke-8 di dunia Nations Environment Programme, 2023), turut berkontribusi dalam krisis tersebut. Data dari Kementerian Energi dan Sumber Daya Mineral tahun 2022 menunjukkan masih terdapat 2.741 lokasi tambang ilegal yang berpotensi merusak lingkungan. Pertumbuhan populasi dan aktivitas ekonomi yang tinggi serta kelangkaan dan persaingan untuk mengakses sumber daya alam (energi, air, dan pangan) di tingkat global berpotensi mendorong terjadinya kompetisi dan persaingan geopolitik di berbagai wilayah.
 
@@ -472,7 +472,7 @@ berdampak pada penciptaan persaingan pengaruh Dengan gambaran tersebut, tantanga
 
 yang bersifat tanpa batas membutuhkan kolaborasi yang erat dari berbagai pemangku kepentingan Selanjutnya, ketidakstabilan geopolitik dapat menimbulkan krisis energi dan pangan, yang selanjutnya memicu ketidakpastian geoekonomi di tingkat global. Ekonomi dunia diproyeksikan tumbuh pada 3,2 persen selama 2024 dan 2025 (International Monetary Fund, 2024). Sementara itu, inflasi global diprakirakan menurun secara bertahap lintas sektor, baik di dalam negeri maupun internasional serta membutuhkan arah kebijakan yang solid untuk mengakselerasi pertumbuhan ekonomi dalam jangka menengah.
 
-(7) Tata Kelola dan Akuntabilitas Pemerintah Pemberantasan korupsi merupakan isu strategis yang membutuhkan sinergi dari semua pemangku 39 ini menjadi prasyarat upaya kepentingan. Hal percepatan pencapaian sasaran pembangunan pada periode 2019–2022, namun capaian tersebut tahun sedikit mengalami tantangan pada nasional, mengurangi ketimpangan pendapatan berikutnya. Hal ini mencerminkan risiko dalam dan kemiskinan, serta meningkatkan investasi. Hal pencapaian pemberantasan korupsi. Selanjutnya, ini merupakan pijakan untuk memastikan pertumbuhan ekonomi yang berlandaskan prinsip demokrasi ekonomi.
+(7) Tata Kelola dan Akuntabilitas Pemerintah Pemberantasan korupsi merupakan isu strategis yang membutuhkan sinergi dari semua pemangku 39 ini menjadi prasyarat upaya kepentingan. Hal percepatan pencapaian sasaran pembangunan pada periode 2019â€“2022, namun capaian tersebut tahun sedikit mengalami tantangan pada nasional, mengurangi ketimpangan pendapatan berikutnya. Hal ini mencerminkan risiko dalam dan kemiskinan, serta meningkatkan investasi. Hal pencapaian pemberantasan korupsi. Selanjutnya, ini merupakan pijakan untuk memastikan pertumbuhan ekonomi yang berlandaskan prinsip demokrasi ekonomi.
 
 Dalam lima tahun terakhir, Indeks Persepsi Korupsi/Corruption Perception Index Indonesia menunjukkan tren penurunan dari 40 pada tahun 2019 menjadi 34 pada tahun 2022 dan stagnan di angka yang sama pada 2023 (peringkat 115 dari 180 negara). Adapun pada indikator Indeks Perilaku Anti Korupsi Indonesia, meski mengalami tren perbaikan tata kelola data memainkan peran kunci dalam terutama mendukung pembangunan nasional, dalam pengambilan keputusan yang lebih akurat, efektif, dan berkelanjutan. Tingkat keamanan data privasi dan siber untuk data pemerintah dan nasional belum sepenuhnya dapat mengantisipasi terjadinya risiko peretasan dan pembajakan serta pengelolaan data dalam skala besar yang dapat menciptakan potensi pelanggaran privasi dan ancaman keamanan.
 

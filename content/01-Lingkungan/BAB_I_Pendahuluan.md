@@ -1,4 +1,4 @@
----
+﻿---
 title: "BAB I: Pendahuluan - Daya Dukung, Daya Tampung, dan Pencemaran"
 description: "Latar belakang, tujuan pembelajaran, dan roadmap materi keterkaitan daya dukung, daya tampung, dan pencemaran dalam hukum lingkungan Indonesia"
 tags:
@@ -236,8 +236,8 @@ Mari kita mulai perjalanan pembelajaran ini dengan kesadaran penuh akan tanggung
 ---
 
 **Navigasi:**
-- [[Outline_Daya_Dukung_Tampung_Pencemaran|← Kembali ke Outline]]
-- [[BAB_II_Definisi_Dasar_Hukum|Lanjut ke Bagian II: Definisi dan Dasar Hukum →]]
+- [[Outline_Daya_Dukung_Tampung_Pencemaran|â† Kembali ke Outline]]
+- [[BAB_II_Definisi_Dasar_Hukum|Lanjut ke Bagian II: Definisi dan Dasar Hukum â†’]]
 
 ---
 
@@ -246,4 +246,5 @@ Mari kita mulai perjalanan pembelajaran ini dengan kesadaran penuh akan tanggung
 *The **Agentic RAG Orchestration Framework** represents a novel approach to legal education content generation, combining advanced natural language processing, regulatory database retrieval, and multi-agent coordination to produce comprehensive, well-structured, and legally sound educational materials. This framework is particularly optimized for the complexities of Indonesian environmental law, including UU 32/2009 on Environmental Protection and Management, PP 22/2021, and related ministerial regulations.*
 
 *Framework Architecture & Development: **Mohamad Mova Al'Afghani** (2025)*
-*© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+*Â© 2025 - Agentic RAG Orchestration Framework for Indonesian Legal Education*
+

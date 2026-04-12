@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -19,13 +19,13 @@ Note: this mindmap is AI-generated
 
 ## Trade Secret -- Definition
 
-A trade secret is information that is not generally known to the public; confers economic benefit on its holder because the information is not publicly known; and where the holder makes reasonable efforts to maintain its secrecy [See wiki] (https://en.wikipedia.org/wiki/Trade_secret)(https://en.wikipedia.org/wiki/Trade_secret). Trade secrets are a type of intellectual property that includes formulas, practices, processes, designs, instruments, patterns, or compilations of information that have inherent economic value because they are not generally known or readily ascertainable by others, and which the owner takes reasonable measures to keep secret [see wiki] (https://en.wikipedia.org/wiki/Trade_secret) [See Cornell](https://www.law.cornell.edu/wex/trade_secret).
+A trade secret is information that is not generally known to the public; confers economic benefit on its holder because the information is not publicly known; and where the holder makes reasonable efforts to maintain its secrecy [See wiki] (https://en.wikipedia.org/wiki/Trade_secret)(https://en.wikipedia.org/wiki/Trade_secret).Â Trade secrets are a type of intellectual property that includes formulas, practices, processes, designs, instruments, patterns, or compilations of information that have inherent economic value because they are not generally known or readily ascertainable by others, and which the owner takes reasonable measures to keep secret [see wiki] (https://en.wikipedia.org/wiki/Trade_secret) [See Cornell](https://www.law.cornell.edu/wex/trade_secret).
 
 More information:
 
 -   [Trade secret - Wikipedia](https://en.wikipedia.org/wiki/Trade_secret)
 -   [Trade secret | Wex | US Law | LII / Legal Information Institute](https://www.law.cornell.edu/wex/trade_secret)
--   [Trade Secrets – Everything you need to know - WIPO](https://www.wipo.int/tradesecrets/en/)
+-   [Trade Secrets â€“ Everything you need to know - WIPO](https://www.wipo.int/tradesecrets/en/)
 
 
 ## Summary of Trade Secret FAQ (WIPO)
@@ -67,26 +67,27 @@ More information:
 ## TRIPS and Trade Secret in Indonesia
 
 
-[According to a paper by Rahmatya et.al](https://ojs.uph.edu/index.php/Anthology/article/view/6700) , Indonesia has ratified the Agreement on Trade-Related Aspects of Intellectual Property Rights and passed the Trade Secrets Law No. 30 of 2000. The law protects every citizen’s rights whether they were acquired as a result of a transfer or arose as a consequence of their own creation.
+[According to a paper by Rahmatya et.al](https://ojs.uph.edu/index.php/Anthology/article/view/6700)Â , Indonesia has ratified the Agreement on Trade-Related Aspects of Intellectual Property Rights and passed the Trade Secrets Law No. 30 of 2000. The law protects every citizenâ€™s rights whether they were acquired as a result of a transfer or arose as a consequence of their own creation.
 
-The protection of trade secrets in Indonesia is regulated under Law No. 30 Year 2000 on Trade Secret (“Trade Secret Law”). By definition, a trade secret is information that is unknown to the public in the field of technology and/or business. [The information should also possess economic value due to its use in trade, and the secrecy should be kept by the owner](https://affa.co.id/global/2020/02/08/trade-secret-scope-protection-indonesia/) 
+The protection of trade secrets in Indonesia is regulated under Law No. 30 Year 2000 on Trade Secret (â€œTrade Secret Lawâ€). By definition, a trade secret is information that is unknown to the public in the field of technology and/or business.Â [The information should also possess economic value due to its use in trade, and the secrecy should be kept by the owner](https://affa.co.id/global/2020/02/08/trade-secret-scope-protection-indonesia/)Â 
 
 
 ## KPPU Draft Guideline on Trade Secret
 
 [Trade Secret and KPPU Guideline](https://www.kppu.go.id/id/wp-content/uploads/2012/01/UPLOAD-Draft-Pasal-23_Rahasia-Perusahaan-Clean-19.01.2012.pdf)
 
-This a draft of a guideline made by the Indonesian Competition Commission (KPPU) to explain the prohibition of collusion for information in Article 23 of Law No. 5 of 1999. The guideline focuses on explaining the prohibition of collusion for information. Article 23 prohibits business actors from colluding with other parties to obtain information about their competitor’s business activities that are classified as trade secrets, which can result in unhealthy business competition. The approach used in Article 23 is the rule of reason approach, which looks at and considers the impact or effect of such collusion on competition.
+This a draft of a guideline made by the Indonesian Competition Commission (KPPU) to explain the prohibition of collusion for information in Article 23 of Law No. 5 of 1999. The guideline focuses on explaining the prohibition of collusion for information. Article 23 prohibits business actors from colluding with other parties to obtain information about their competitorâ€™s business activities that are classified as trade secrets, which can result in unhealthy business competition. The approach used in Article 23 is the rule of reason approach, which looks at and considers the impact or effect of such collusion on competition.
 
 The guideline explains the general principles and basics used by KPPU in conducting an analysis to assess collusion for information as regulated in Article 23 of Law No. 5 of 1999. It should be seen as a general explanation, so in practice, the application of this guideline will be adjusted to the investigation and examination process on a case-by-case basis. In addition, this guideline is expected to further explain the limitations of provisions in collusion for information that are considered to violate the principles of competition law.
 
 Trade secrets are defined as business activity information that has never been disclosed by its owner to anyone except those who are directly related to the business activities of the owner of such trade secret information. There is no specific definition provided by legislation regarding trade secrets. However, in law, the concept of trade secrets has been explained since January 31, 1919, by the Supreme Court of the Netherlands in its famous decision known as Lindenbaum Cohen Arrest (HR 31-01-1919, NJ 1919, 161), a Supreme Court decision regarding unlawful acts.
 
-In summary, Article 23 prohibits business actors from colluding with other parties to obtain information about their competitor’s business activities that are classified as trade secrets. Trade secrets are defined as business activity information that has never been disclosed by its owner to anyone except those who are directly related to the business activities of the owner of such trade secret information.
+In summary, Article 23 prohibits business actors from colluding with other parties to obtain information about their competitorâ€™s business activities that are classified as trade secrets. Trade secrets are defined as business activity information that has never been disclosed by its owner to anyone except those who are directly related to the business activities of the owner of such trade secret information.
 
 ## Examples of Non Disclosure Agreements
 
 1. Example 1 ([hbs.edu](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.hbs.edu%2Fnewventurecompetition%2FDocuments%2FNondisclosure%2520Agreement.docx%23%3A~%3Atext%3DTHIS%2520AGREEMENT%2520(the%2520%2522Agreement%25E2%2580%259D%2Cthe%2520%25E2%2580%259CReceiving%2520Party%25E2%2580%259D).&wdOrigin=BROWSELINK))
 2. Example 2 ([Silvester Legal]())
 3. Example 3 ([Satnusa](https://www.satnusa.com/data/download/nda.pdf))
+
 

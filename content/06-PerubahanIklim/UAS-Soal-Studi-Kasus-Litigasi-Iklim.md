@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "UAS Soal Studi Kasus Litigasi Iklim"
 date: 2026-02-12
@@ -7,7 +7,7 @@ tags:
   - assessment
   - litigation
   - case-study
-  - perubahan-iklim
+  - 06-PerubahanIklim
 ---
 
 # UAS SOAL STUDI KASUS LITIGASI IKLIM
@@ -18,7 +18,7 @@ tags:
 
 ---
 
-## BAGIAN A: STUDI KASUS FIKTIF — GUGATAN BANJIR BARITO
+## BAGIAN A: STUDI KASUS FIKTIF â€” GUGATAN BANJIR BARITO
 
 **CATATAN PENTING:** Kasus berikut adalah **skenario fiktif** yang dirancang untuk tujuan pedagogis dan ujian. Nama tempat, perusahaan, dan individu adalah fiktif, meskipun didasarkan pada situasi nyata dan kerangka hukum yang berlaku di Indonesia. Mahasiswa diharapkan menganalisis kasus ini menggunakan prinsip hukum yang telah dipelajari sepanjang semester.
 
@@ -28,7 +28,7 @@ tags:
 
 #### 1.1 Lokasi dan Konteks Geografis
 
-**Kabupaten Barito Tengah** (fiktif) adalah kabupaten di Provinsi Kalimantan Selatan dengan luas wilayah 8.500 km² dan populasi 485.000 jiwa. Kabupaten ini terletak di dataran rendah dengan ketinggian rata-rata 15-50 meter di atas permukaan laut, dilintasi oleh Sungai Barito dan beberapa anak sungai.
+**Kabupaten Barito Tengah** (fiktif) adalah kabupaten di Provinsi Kalimantan Selatan dengan luas wilayah 8.500 kmÂ² dan populasi 485.000 jiwa. Kabupaten ini terletak di dataran rendah dengan ketinggian rata-rata 15-50 meter di atas permukaan laut, dilintasi oleh Sungai Barito dan beberapa anak sungai.
 
 **Karakteristik Geografis:**
 - **Topografi:** Dataran rendah dan rawa-rawa gambut
@@ -67,7 +67,7 @@ Kalimantan Selatan adalah salah satu provinsi paling rentan terhadap dampak peru
   - Kerusakan lahan pertanian (sawah, kebun): Rp 220 miliar
   - Kerugian usaha (UMKM, perdagangan): Rp 150 miliar
 - **Dampak lingkungan:**
-  - Erosi tanah masif (estimasi 2,5 juta m³ sedimen terbawa banjir)
+  - Erosi tanah masif (estimasi 2,5 juta mÂ³ sedimen terbawa banjir)
   - Kontaminasi sumber air bersih
   - Kerusakan ekosistem sungai dan rawa-rawa
 
@@ -85,7 +85,7 @@ Pada Februari 2026, **Institut Meteorologi Tropis Universitas Indonesia** (fikti
 
 **Metodologi:**
 - Simulasi model iklim (climate model ensemble) membandingkan:
-  - **Skenario faktual:** Dunia dengan pemanasan global 1,2°C (kondisi saat ini)
+  - **Skenario faktual:** Dunia dengan pemanasan global 1,2Â°C (kondisi saat ini)
   - **Skenario kontrafaktual:** Dunia tanpa pengaruh antropogenik (pre-industrial baseline)
 - Analisis data curah hujan historis (1960-2026)
 - Perhitungan return period (periode ulang) peristiwa hujan ekstrem
@@ -100,7 +100,7 @@ Pada Februari 2026, **Institut Meteorologi Tropis Universitas Indonesia** (fikti
 > "Banjir Barito Januari 2026 tidak akan terjadi dengan intensitas dan dampak seperti ini tanpa kontribusi perubahan iklim antropogenik. Pemanasan global telah secara signifikan meningkatkan intensitas, frekuensi, dan probabilitas peristiwa curah hujan ekstrem di wilayah Kalimantan Selatan. Meskipun faktor lokal (degradasi lahan, tata kelola drainase yang buruk) turut berperan, perubahan iklim adalah 'threat multiplier' yang membuat bencana ini jauh lebih parah."
 
 **Proyeksi Masa Depan:**
-Studi memproyeksikan bahwa jika pemanasan global mencapai 1,5°C (sekitar 2030-2035), frekuensi peristiwa serupa akan meningkat menjadi setiap 15-20 tahun. Pada 2°C pemanasan (sekitar 2040-2050), peristiwa ini dapat terjadi setiap 7-10 tahun.
+Studi memproyeksikan bahwa jika pemanasan global mencapai 1,5Â°C (sekitar 2030-2035), frekuensi peristiwa serupa akan meningkat menjadi setiap 15-20 tahun. Pada 2Â°C pemanasan (sekitar 2040-2050), peristiwa ini dapat terjadi setiap 7-10 tahun.
 
 ---
 
@@ -108,7 +108,7 @@ Studi memproyeksikan bahwa jika pemanasan global mencapai 1,5°C (sekitar 2030-2
 
 #### 2.1 Para Penggugat (28 pihak)
 
-**A. Penggugat Individu — Korban Langsung (10 orang)**
+**A. Penggugat Individu â€” Korban Langsung (10 orang)**
 
 1. **Dewi Sartika** (38 tahun, ibu rumah tangga)
    - Kehilangan suami dan 2 anak (usia 7 dan 10 tahun) yang tenggelam dalam banjir
@@ -127,7 +127,7 @@ Studi memproyeksikan bahwa jika pemanasan global mencapai 1,5°C (sekitar 2030-2
 
 4-10. **Tujuh individu lainnya** dengan profil serupa: korban jiwa keluarga, kehilangan rumah dan mata pencaharian, trauma fisik dan psikologis.
 
-**B. Penggugat Individu — Aktivis Muda (10 orang)**
+**B. Penggugat Individu â€” Aktivis Muda (10 orang)**
 
 11. **Sarah Kartika** (22 tahun, mahasiswa S1 Hukum Lingkungan)
     - Anggota Fridays for Future Indonesia
@@ -139,7 +139,7 @@ Studi memproyeksikan bahwa jika pemanasan global mencapai 1,5°C (sekitar 2030-2
 
 13-20. **Delapan aktivis muda lainnya** (usia 21-27 tahun) dengan argumen serupa tentang **intergenerational justice** (keadilan antargenerasi).
 
-**C. Penggugat Individu — Tokoh Masyarakat (5 orang)**
+**C. Penggugat Individu â€” Tokoh Masyarakat (5 orang)**
 
 21. **Ketua RT 015 Kelurahan Barito Indah** (57 tahun)
     - Mewakili 450 kepala keluarga di wilayahnya yang terdampak banjir
@@ -253,7 +253,7 @@ Studi memproyeksikan bahwa jika pemanasan global mencapai 1,5°C (sekitar 2030-2
   - PLTU Barito 2: 1.000 MW (beroperasi sejak 2020)
   - PLTU Barito 3: 1.000 MW (beroperasi sejak 2022)
 - **Total Kapasitas:** 3.000 MW
-- **Emisi Tahunan:** Sekitar 18 juta ton CO₂e per tahun (setara dengan 0,045% emisi global tahunan, atau 3,5% emisi nasional Indonesia)
+- **Emisi Tahunan:** Sekitar 18 juta ton COâ‚‚e per tahun (setara dengan 0,045% emisi global tahunan, atau 3,5% emisi nasional Indonesia)
 - **Batu Bara:** Bersumber dari tambang batu bara lokal di Kalimantan Selatan (open-pit mining)
 
 **Rencana Ekspansi:**
@@ -264,13 +264,13 @@ PT BNE merencanakan pembangunan dua PLTU tambahan:
 **Izin Lingkungan:**
 - **AMDAL PLTU 4:** Disetujui oleh Menteri LHK pada September 2025
 - **Kekurangan AMDAL:**
-  - Tidak menganalisis dampak emisi CO₂ terhadap perubahan iklim secara memadai
+  - Tidak menganalisis dampak emisi COâ‚‚ terhadap perubahan iklim secara memadai
   - Tidak mempertimbangkan risiko perubahan iklim terhadap operasi PLTU (seperti kekeringan, banjir)
   - Tidak menganalisis konsistensi proyek dengan NDC Indonesia dan Paris Agreement
   - Tidak menganalisis alternatif energi terbarukan
 
 **Tuduhan terhadap PT BNE:**
-1. **Kontribusi Signifikan terhadap Emisi Global dan Nasional:** 18 juta ton CO₂e per tahun adalah kontribusi material terhadap perubahan iklim. Berdasarkan studi atribusi, emisi ini turut memperburuk intensitas dan frekuensi hujan ekstrem di Kalimantan.
+1. **Kontribusi Signifikan terhadap Emisi Global dan Nasional:** 18 juta ton COâ‚‚e per tahun adalah kontribusi material terhadap perubahan iklim. Berdasarkan studi atribusi, emisi ini turut memperburuk intensitas dan frekuensi hujan ekstrem di Kalimantan.
 
 2. **Kegagalan Duty of Care:** Sebagai perusahaan besar, PT BNE memiliki duty of care berdasarkan tort law (Pasal 1365 KUH Perdata) untuk tidak menyebabkan kerugian yang dapat diprediksi kepada masyarakat, termasuk dampak perubahan iklim.
 
@@ -282,7 +282,7 @@ PT BNE merencanakan pembangunan dua PLTU tambahan:
 
 6. **Degradasi Lingkungan Lokal:** Operasi PLTU dan tambang batu bara terkait menyebabkan:
    - Pencemaran air sungai (fly ash, heavy metals)
-   - Polusi udara lokal (PM2.5, SO₂, NOx)
+   - Polusi udara lokal (PM2.5, SOâ‚‚, NOx)
    - Kerusakan ekosistem sungai dan rawa-rawa
    - Penurunan kualitas hidup masyarakat sekitar
 
@@ -333,7 +333,7 @@ Para penggugat mengajukan gugatan berdasarkan beberapa instrumen hukum, baik nas
 **2. UU No. 16 Tahun 2016 tentang Pengesahan Paris Agreement**
 
 - Indonesia telah meratifikasi Paris Agreement, yang menciptakan kewajiban hukum untuk:
-  - **Article 2.1(a):** Membatasi pemanasan global jauh di bawah 2°C, dengan upaya mengarah ke 1,5°C
+  - **Article 2.1(a):** Membatasi pemanasan global jauh di bawah 2Â°C, dengan upaya mengarah ke 1,5Â°C
   - **Article 4.2:** Menyiapkan, mengomunikasikan, dan mempertahankan NDC yang ambisius
   - **Article 7:** Mengambil tindakan adaptasi yang memadai
 - Paris Agreement adalah **perjanjian internasional yang telah diratifikasi**, sehingga mengikat secara hukum bagi Indonesia berdasarkan UU No. 24 Tahun 2000 tentang Perjanjian Internasional.
@@ -351,7 +351,7 @@ Para penggugat mengajukan gugatan berdasarkan beberapa instrumen hukum, baik nas
 
 Para penggugat mengutip temuan-temuan kunci ICJ Advisory Opinion:
 - **Kewajiban hukum kebiasaan internasional** untuk tidak menyebabkan kerusakan lingkungan lintas batas
-- **Target 1,5°C adalah kewajiban hukum yang mengikat**
+- **Target 1,5Â°C adalah kewajiban hukum yang mengikat**
 - **Adaptasi adalah kewajiban hukum, bukan pilihan**
 - **Kewajiban due diligence** negara untuk mencegah, mengurangi, dan mengendalikan emisi GRK
 
@@ -408,7 +408,7 @@ Para penggugat mengajukan tuntutan sebagai berikut:
    - Memenuhi kewajiban konstitusional melindungi hak warga atas lingkungan sehat (UUD 1945 Pasal 28H)
 
 2. Menyatakan bahwa **Tergugat V (PT BNE)** telah melakukan perbuatan melawan hukum berupa:
-   - Emisi GRK masif (18 juta ton CO₂e per tahun) yang berkontribusi terhadap perubahan iklim
+   - Emisi GRK masif (18 juta ton COâ‚‚e per tahun) yang berkontribusi terhadap perubahan iklim
    - Kegagalan melakukan duty of care untuk tidak menyebabkan kerugian yang dapat diprediksi
    - Ekspansi operasi (PLTU 4 dan 5) yang memperburuk emisi, bertentangan dengan upaya global membatasi pemanasan
 
@@ -421,7 +421,7 @@ Para penggugat mengajukan tuntutan sebagai berikut:
 **Terhadap Tergugat I-IV (Pemerintah):**
 
 1. **Mitigasi:**
-   - Memerintahkan Presiden RI untuk merevisi dan meningkatkan ambisi NDC Indonesia agar selaras dengan target 1,5°C Paris Agreement, dengan target pengurangan emisi minimal **50% pada 2030** (dibandingkan BAU)
+   - Memerintahkan Presiden RI untuk merevisi dan meningkatkan ambisi NDC Indonesia agar selaras dengan target 1,5Â°C Paris Agreement, dengan target pengurangan emisi minimal **50% pada 2030** (dibandingkan BAU)
    - Memerintahkan Menteri ESDM untuk menghentikan perizinan PLTU batu bara baru dan mempercepat transisi energi ke terbarukan
    - Memerintahkan Menteri LHK untuk menerbitkan **Undang-Undang Iklim Nasional** yang komprehensif dalam waktu 2 tahun
 
@@ -552,7 +552,7 @@ Para tergugat berargumen:
 
 Tanggapi argumen ini dengan:
 1. Menjelaskan konsep **material contribution** dalam kausalitas hukum (3%)
-2. Menganalisis apakah kontribusi Tergugat V (18 juta ton CO₂e per tahun) dapat dianggap **material contribution** terhadap perubahan iklim global dan banjir lokal (4%)
+2. Menganalisis apakah kontribusi Tergugat V (18 juta ton COâ‚‚e per tahun) dapat dianggap **material contribution** terhadap perubahan iklim global dan banjir lokal (4%)
 
 **c) Preseden Kausalitas (5%)**
 
@@ -604,7 +604,7 @@ Para penggugat menuduh Tergugat IV (Gubernur Kalsel) gagal melaksanakan kewajiba
 **a) Duty of Care Korporasi (8%)**
 
 1. Jelaskan konsep **duty of care** dalam hukum tort (Pasal 1365 KUH Perdata) dan bagaimana konsep ini dapat diterapkan pada emisi GRK perusahaan (4%)
-2. Analisis apakah PT BNE, dengan emisi 18 juta ton CO₂e per tahun, dapat dianggap memiliki duty of care untuk tidak menyebabkan dampak perubahan iklim yang merugikan masyarakat. Rujuk pada preseden Milieudefensie v. Shell. (4%)
+2. Analisis apakah PT BNE, dengan emisi 18 juta ton COâ‚‚e per tahun, dapat dianggap memiliki duty of care untuk tidak menyebabkan dampak perubahan iklim yang merugikan masyarakat. Rujuk pada preseden Milieudefensie v. Shell. (4%)
 
 **b) Lessons from Shell Case (7%)**
 
@@ -819,3 +819,4 @@ Mahasiswa yang berhasil menjawab ujian ini dengan baik akan menunjukkan kemampua
 ---
 
 **Halaman Akhir**
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Perencanaan Lingkungan Hidup"
 description: "Materi perkuliahan tentang perencanaan lingkungan hidup meliputi inventarisasi lingkungan, penetapan ekoregion, RPPLH, KLHS, daya dukung dan daya tampung, serta integrasi dengan tata ruang wilayah dalam kerangka hukum lingkungan Indonesia."
 tags:
@@ -19,9 +19,9 @@ publish: true
 # Perencanaan Lingkungan Hidup
 
 **Navigasi:**
-- [[02_Perubahan_Iklim|← Sebelumnya: Perubahan Iklim]]
-- [[README|↑ Index]]
-- [[04_Pengendalian_Pencemaran|Lanjut →: Pengendalian Pencemaran]]
+- [[02_Perubahan_Iklim|â† Sebelumnya: Perubahan Iklim]]
+- [[README|â†‘ Index]]
+- [[04_Pengendalian_Pencemaran|Lanjut â†’: Pengendalian Pencemaran]]
 
 ---
 
@@ -55,7 +55,7 @@ Penempatan perencanaan sebagai tahap pertama mencerminkan paradigma pencegahan (
 | **UU 32/2009** Pasal 5-18 | Inventarisasi LH, penetapan ekoregion, RPPLH, KLHS |
 | **PP 22/2021** | Implementasi perencanaan perlindungan mutu air, udara, laut |
 | **UU 26/2007** | Penataan Ruang (RTRW, RDTR) |
-| **UU 6/2023** | Penetapan Perppu 2/2022 tentang Cipta Kerja — perubahan ketentuan perizinan dan KLHS |
+| **UU 6/2023** | Penetapan Perppu 2/2022 tentang Cipta Kerja â€” perubahan ketentuan perizinan dan KLHS |
 | **Permen LHK 69/2017** | Pedoman Pelaksanaan KLHS |
 | **PP 46/2016** | Tata Cara Penyelenggaraan KLHS |
 
@@ -162,11 +162,11 @@ Konsep ekoregion mengakui bahwa batas-batas ekologis tidak selalu sesuai dengan 
 
 Penetapan ekoregion memiliki beberapa fungsi penting:
 
-1. **Kerangka spasial pengelolaan** — Ekoregion menjadi unit dasar untuk pengelolaan lingkungan yang bersifat lintas batas administratif, misalnya pengelolaan DAS yang melintasi beberapa kabupaten.
+1. **Kerangka spasial pengelolaan** â€” Ekoregion menjadi unit dasar untuk pengelolaan lingkungan yang bersifat lintas batas administratif, misalnya pengelolaan DAS yang melintasi beberapa kabupaten.
 
-2. **Basis penentuan daya dukung dan daya tampung** — **Pasal 8 UU 32/2009** menyatakan bahwa inventarisasi lingkungan hidup di tingkat wilayah ekoregion dilakukan untuk menentukan daya dukung dan daya tampung serta cadangan sumber daya alam. Ketentuan ini sangat penting karena menghubungkan penetapan ekoregion secara langsung dengan konsep daya dukung dan daya tampung.
+2. **Basis penentuan daya dukung dan daya tampung** â€” **Pasal 8 UU 32/2009** menyatakan bahwa inventarisasi lingkungan hidup di tingkat wilayah ekoregion dilakukan untuk menentukan daya dukung dan daya tampung serta cadangan sumber daya alam. Ketentuan ini sangat penting karena menghubungkan penetapan ekoregion secara langsung dengan konsep daya dukung dan daya tampung.
 
-3. **Koordinasi lintas wilayah** — Ekoregion memfasilitasi kerja sama antardaerah dalam pengelolaan lingkungan hidup yang tidak terbatas pada batas administratif.
+3. **Koordinasi lintas wilayah** â€” Ekoregion memfasilitasi kerja sama antardaerah dalam pengelolaan lingkungan hidup yang tidak terbatas pada batas administratif.
 
 ```mermaid
 graph TD
@@ -323,10 +323,10 @@ Hubungan antara RPPLH dan dokumen perencanaan pembangunan bersifat **integratif*
 
 Dalam praktiknya, penyusunan RPPLH di Indonesia menghadapi sejumlah tantangan:
 
-1. **Ketersediaan data** — Banyak daerah belum memiliki data inventarisasi lingkungan hidup yang memadai sebagai basis penyusunan RPPLH.
-2. **Kapasitas kelembagaan** — Dinas lingkungan hidup daerah sering kali kekurangan tenaga ahli dan anggaran untuk menyusun RPPLH yang komprehensif.
-3. **Koordinasi lintas sektor** — RPPLH memerlukan koordinasi dengan berbagai sektor pembangunan (pertambangan, kehutanan, pertanian, industri) yang masing-masing memiliki kepentingan tersendiri.
-4. **Konsistensi vertikal** — Menjaga konsistensi antara RPPLH nasional, provinsi, dan kabupaten/kota memerlukan mekanisme koordinasi yang efektif.
+1. **Ketersediaan data** â€” Banyak daerah belum memiliki data inventarisasi lingkungan hidup yang memadai sebagai basis penyusunan RPPLH.
+2. **Kapasitas kelembagaan** â€” Dinas lingkungan hidup daerah sering kali kekurangan tenaga ahli dan anggaran untuk menyusun RPPLH yang komprehensif.
+3. **Koordinasi lintas sektor** â€” RPPLH memerlukan koordinasi dengan berbagai sektor pembangunan (pertambangan, kehutanan, pertanian, industri) yang masing-masing memiliki kepentingan tersendiri.
+4. **Konsistensi vertikal** â€” Menjaga konsistensi antara RPPLH nasional, provinsi, dan kabupaten/kota memerlukan mekanisme koordinasi yang efektif.
 
 ---
 
@@ -334,13 +334,13 @@ Dalam praktiknya, penyusunan RPPLH di Indonesia menghadapi sejumlah tantangan:
 
 ### 5.1 Latar Belakang Konseptual KLHS
 
-Konsep KLHS berakar pada tradisi *Strategic Environmental Assessment* (SEA) yang berkembang di Eropa dan Amerika Utara sejak dekade 1990-an. SEA merupakan evolusi dari konsep AMDAL (*Environmental Impact Assessment*/EIA) yang dianggap tidak memadai untuk menangani dampak kumulatif dan sinergistik dari kebijakan pembangunan pada skala yang lebih luas. Jika AMDAL mengevaluasi dampak pada level proyek individu, KLHS mengevaluasi dampak pada level kebijakan, rencana, dan program — sehingga mampu menangkap dampak-dampak yang tidak terdeteksi dalam kajian per proyek.
+Konsep KLHS berakar pada tradisi *Strategic Environmental Assessment* (SEA) yang berkembang di Eropa dan Amerika Utara sejak dekade 1990-an. SEA merupakan evolusi dari konsep AMDAL (*Environmental Impact Assessment*/EIA) yang dianggap tidak memadai untuk menangani dampak kumulatif dan sinergistik dari kebijakan pembangunan pada skala yang lebih luas. Jika AMDAL mengevaluasi dampak pada level proyek individu, KLHS mengevaluasi dampak pada level kebijakan, rencana, dan program â€” sehingga mampu menangkap dampak-dampak yang tidak terdeteksi dalam kajian per proyek.
 
 Dalam konteks Indonesia, adopsi konsep SEA ke dalam hukum positif melalui UU 32/2009 merupakan langkah progresif yang menunjukkan kesadaran pembuat undang-undang bahwa perlindungan lingkungan hidup harus dimulai dari tahap perencanaan yang paling awal dan strategis. Sebelum UU 32/2009, Indonesia hanya mengenal AMDAL sebagai instrumen kajian lingkungan, yang beroperasi pada level proyek dan sering kali sudah terlambat untuk mencegah dampak kumulatif.
 
 ### 5.2 Pengertian dan Kedudukan
 
-KLHS merupakan instrumen pencegahan yang bekerja pada **level strategis** — yaitu pada level kebijakan, rencana, dan program (KRP) pembangunan. Berbeda dengan AMDAL yang diterapkan pada level proyek individual, KLHS beroperasi pada tahap yang lebih hulu (*upstream approach*).
+KLHS merupakan instrumen pencegahan yang bekerja pada **level strategis** â€” yaitu pada level kebijakan, rencana, dan program (KRP) pembangunan. Berbeda dengan AMDAL yang diterapkan pada level proyek individual, KLHS beroperasi pada tahap yang lebih hulu (*upstream approach*).
 
 **Pasal 1 angka 10 UU 32/2009** mendefinisikan KLHS sebagai:
 
@@ -428,10 +428,10 @@ Keterkaitan antarmuatan KLHS:
 
 Implikasi operasional dari Pasal 17 ayat (2) sangat signifikan:
 
-1. **Moratorium izin baru** — Tidak boleh ada izin lingkungan baru untuk kegiatan yang menambah beban di wilayah yang daya dukung dan daya tampungnya telah terlampaui.
-2. **Larangan perluasan** — Usaha eksisting yang ingin melakukan perluasan yang menambah beban juga tidak diperbolehkan.
-3. **Kewajiban perbaikan KRP** — Seluruh kebijakan, rencana, dan program pembangunan wajib diperbaiki sesuai rekomendasi KLHS.
-4. **Prioritas pemulihan** — Pemerintah daerah wajib memprioritaskan pemulihan daya dukung dan daya tampung.
+1. **Moratorium izin baru** â€” Tidak boleh ada izin lingkungan baru untuk kegiatan yang menambah beban di wilayah yang daya dukung dan daya tampungnya telah terlampaui.
+2. **Larangan perluasan** â€” Usaha eksisting yang ingin melakukan perluasan yang menambah beban juga tidak diperbolehkan.
+3. **Kewajiban perbaikan KRP** â€” Seluruh kebijakan, rencana, dan program pembangunan wajib diperbaiki sesuai rekomendasi KLHS.
+4. **Prioritas pemulihan** â€” Pemerintah daerah wajib memprioritaskan pemulihan daya dukung dan daya tampung.
 
 ### 5.7 Sanksi atas Pelanggaran Kewajiban KLHS
 
@@ -448,17 +448,17 @@ PP 46/2016 tentang Tata Cara Penyelenggaraan KLHS menjabarkan ketentuan teknis p
 
 **a. Tahapan Pelaksanaan KLHS:**
 
-1. **Pembentukan tim penyusun** — Tim terdiri dari unsur pemerintah, akademisi, dan pemangku kepentingan yang kompeten di bidang lingkungan hidup, tata ruang, dan pembangunan.
+1. **Pembentukan tim penyusun** â€” Tim terdiri dari unsur pemerintah, akademisi, dan pemangku kepentingan yang kompeten di bidang lingkungan hidup, tata ruang, dan pembangunan.
 
-2. **Pengumpulan dan analisis data** — Data *baseline* lingkungan hidup termasuk kondisi daya dukung dan daya tampung, status mutu lingkungan, dan proyeksi dampak pembangunan.
+2. **Pengumpulan dan analisis data** â€” Data *baseline* lingkungan hidup termasuk kondisi daya dukung dan daya tampung, status mutu lingkungan, dan proyeksi dampak pembangunan.
 
-3. **Pengkajian pengaruh KRP** — Analisis sistematis terhadap pengaruh kebijakan, rencana, dan/atau program terhadap enam muatan wajib KLHS (Pasal 16 UU 32/2009).
+3. **Pengkajian pengaruh KRP** â€” Analisis sistematis terhadap pengaruh kebijakan, rencana, dan/atau program terhadap enam muatan wajib KLHS (Pasal 16 UU 32/2009).
 
-4. **Perumusan mitigasi dan/atau alternatif** — Jika ditemukan potensi dampak negatif, disusun langkah mitigasi atau alternatif penyempurnaan KRP.
+4. **Perumusan mitigasi dan/atau alternatif** â€” Jika ditemukan potensi dampak negatif, disusun langkah mitigasi atau alternatif penyempurnaan KRP.
 
-5. **Penjaminan kualitas dan validasi** — Validasi hasil KLHS oleh Kementerian LHK untuk memastikan kualitas dan kelengkapan kajian.
+5. **Penjaminan kualitas dan validasi** â€” Validasi hasil KLHS oleh Kementerian LHK untuk memastikan kualitas dan kelengkapan kajian.
 
-6. **Penyusunan rekomendasi** — Rekomendasi perbaikan yang bersifat mengikat dan harus diakomodasi dalam KRP final.
+6. **Penyusunan rekomendasi** â€” Rekomendasi perbaikan yang bersifat mengikat dan harus diakomodasi dalam KRP final.
 
 **b. Partisipasi Masyarakat dalam KLHS:**
 
@@ -514,10 +514,10 @@ Definisi ini mengandung empat dimensi:
 
 Daya dukung lingkungan hidup ditentukan oleh beberapa komponen:
 
-1. **Ketersediaan sumber daya alam** — Air, tanah, udara, mineral, dan sumber daya hayati
-2. **Kondisi iklim dan biodiversitas** — Pola cuaca, keanekaragaman hayati, dan stabilitas ekosistem
-3. **Karakteristik geografis** — Topografi, tipe tanah, lokasi geografis
-4. **Layanan ekosistem** (*ecosystem services*) — Jasa penyediaan, jasa pengaturan, jasa pendukung, dan jasa kultural
+1. **Ketersediaan sumber daya alam** â€” Air, tanah, udara, mineral, dan sumber daya hayati
+2. **Kondisi iklim dan biodiversitas** â€” Pola cuaca, keanekaragaman hayati, dan stabilitas ekosistem
+3. **Karakteristik geografis** â€” Topografi, tipe tanah, lokasi geografis
+4. **Layanan ekosistem** (*ecosystem services*) â€” Jasa penyediaan, jasa pengaturan, jasa pendukung, dan jasa kultural
 
 ### 6.3 Metode Penetapan Daya Dukung
 
@@ -554,7 +554,7 @@ Kondisi ini menjadi salah satu faktor yang mendasari kebijakan pemindahan Ibu Ko
 
 ### 6.5 Daya Dukung dan Jasa Ekosistem (*Ecosystem Services*)
 
-Konsep daya dukung berkaitan erat dengan jasa ekosistem — yaitu manfaat yang diperoleh manusia dari ekosistem. Menurut kerangka *Millennium Ecosystem Assessment* (MEA) yang juga diadopsi dalam konteks KLHS di Indonesia, jasa ekosistem terdiri dari empat kategori:
+Konsep daya dukung berkaitan erat dengan jasa ekosistem â€” yaitu manfaat yang diperoleh manusia dari ekosistem. Menurut kerangka *Millennium Ecosystem Assessment* (MEA) yang juga diadopsi dalam konteks KLHS di Indonesia, jasa ekosistem terdiri dari empat kategori:
 
 | Kategori Jasa Ekosistem | Penjelasan | Contoh | Relevansi Daya Dukung |
 |--------------------------|------------|--------|----------------------|
@@ -601,21 +601,21 @@ IKLH merupakan instrumen yang paling sering digunakan untuk mengevaluasi kinerja
 Daya tampung merupakan **aspek spesifik** dari daya dukung yang fokus pada kemampuan lingkungan untuk menyerap, mengolah, dan menetralisir bahan pencemar. Secara hierarkis:
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│         DAYA DUKUNG LINGKUNGAN HIDUP (Level 1)              │
-│  (Kemampuan mendukung kehidupan secara menyeluruh)          │
-│                                                             │
-│  ┌───────────────────────────────────────────────────────┐  │
-│  │    DAYA TAMPUNG LINGKUNGAN HIDUP (Level 2)            │  │
-│  │   (Kemampuan menyerap beban pencemar)                 │  │
-│  │                                                       │  │
-│  │   ┌───────────────────────────────────────────────┐   │  │
-│  │   │  BAKU MUTU LINGKUNGAN HIDUP (Level 3)        │   │  │
-│  │   │  (Standar numerik yang dapat diukur)          │   │  │
-│  │   │  Jika terlampaui = PENCEMARAN                 │   │  │
-│  │   └───────────────────────────────────────────────┘   │  │
-│  └───────────────────────────────────────────────────────┘  │
-└─────────────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚         DAYA DUKUNG LINGKUNGAN HIDUP (Level 1)              â”‚
+â”‚  (Kemampuan mendukung kehidupan secara menyeluruh)          â”‚
+â”‚                                                             â”‚
+â”‚  â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”  â”‚
+â”‚  â”‚    DAYA TAMPUNG LINGKUNGAN HIDUP (Level 2)            â”‚  â”‚
+â”‚  â”‚   (Kemampuan menyerap beban pencemar)                 â”‚  â”‚
+â”‚  â”‚                                                       â”‚  â”‚
+â”‚  â”‚   â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”   â”‚  â”‚
+â”‚  â”‚   â”‚  BAKU MUTU LINGKUNGAN HIDUP (Level 3)        â”‚   â”‚  â”‚
+â”‚  â”‚   â”‚  (Standar numerik yang dapat diukur)          â”‚   â”‚  â”‚
+â”‚  â”‚   â”‚  Jika terlampaui = PENCEMARAN                 â”‚   â”‚  â”‚
+â”‚  â”‚   â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜   â”‚  â”‚
+â”‚  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜  â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 ### 7.3 Prinsip *Self-Purification*
@@ -640,23 +640,23 @@ Namun, kemampuan *self-purification* ini **memiliki batas**. Jika beban pencemar
 **Rumus konseptual:**
 
 ```
-Daya Tampung = Beban Pencemaran Maksimal − Beban Pencemaran Eksisting
+Daya Tampung = Beban Pencemaran Maksimal âˆ’ Beban Pencemaran Eksisting
 ```
 
-**Contoh Perhitungan — Sungai Ciliwung Segmen X:**
+**Contoh Perhitungan â€” Sungai Ciliwung Segmen X:**
 
 | Parameter | Nilai |
 |-----------|-------|
 | Kelas Air | II (rekreasi air) |
 | Baku Mutu BOD Kelas II | 3 mg/L |
-| Debit sungai | 10 m³/detik = 864.000 m³/hari |
+| Debit sungai | 10 mÂ³/detik = 864.000 mÂ³/hari |
 | Kondisi eksisting BOD | 2 mg/L |
 
 | Komponen | Perhitungan | Hasil |
 |----------|-------------|-------|
-| Beban eksisting | 2 mg/L × 864.000 m³/hari | **1.728 kg/hari** |
-| Beban maksimal | 3 mg/L × 864.000 m³/hari | **2.592 kg/hari** |
-| **Daya tampung tersisa** | 2.592 − 1.728 | **864 kg BOD/hari** |
+| Beban eksisting | 2 mg/L Ã— 864.000 mÂ³/hari | **1.728 kg/hari** |
+| Beban maksimal | 3 mg/L Ã— 864.000 mÂ³/hari | **2.592 kg/hari** |
+| **Daya tampung tersisa** | 2.592 âˆ’ 1.728 | **864 kg BOD/hari** |
 
 Artinya, sungai Ciliwung pada segmen tersebut masih mampu menerima tambahan beban pencemar organik sebesar 864 kg BOD per hari sebelum melampaui baku mutu Kelas II. Informasi ini sangat kritis untuk penerbitan izin pembuangan air limbah bagi industri dan kegiatan lain di sepanjang segmen tersebut.
 
@@ -703,19 +703,19 @@ graph TD
 
 Hubungan hierarkis antara instrumen perencanaan lingkungan dan tata ruang:
 
-1. **RPPLH** → Rencana umum perlindungan dan pengelolaan LH (level paling strategis)
-2. **KLHS** → Kajian dampak KRP terhadap LH (instrumen evaluasi)
-3. **RTRW** → Rencana alokasi ruang wilayah (integrasi dengan aspek lingkungan)
-4. **RDTR** → Rencana detail tata ruang (implementasi di level mikro)
-5. **AMDAL** → Kajian dampak proyek spesifik (level operasional)
+1. **RPPLH** â†’ Rencana umum perlindungan dan pengelolaan LH (level paling strategis)
+2. **KLHS** â†’ Kajian dampak KRP terhadap LH (instrumen evaluasi)
+3. **RTRW** â†’ Rencana alokasi ruang wilayah (integrasi dengan aspek lingkungan)
+4. **RDTR** â†’ Rencana detail tata ruang (implementasi di level mikro)
+5. **AMDAL** â†’ Kajian dampak proyek spesifik (level operasional)
 
 ### 8.3 UU 26/2007 dan Kewajiban Lingkungan dalam Tata Ruang
 
 UU 26/2007 tentang Penataan Ruang memuat beberapa ketentuan kunci yang berkaitan dengan perencanaan lingkungan hidup:
 
-- **Kawasan lindung** — RTRW wajib menetapkan kawasan lindung yang berfungsi melindungi kelestarian lingkungan hidup, termasuk sumber daya alam dan sumber daya buatan.
-- **Ruang terbuka hijau** — Kota wajib menyediakan ruang terbuka hijau minimal 30% dari luas wilayah kota, dengan 20% ruang terbuka hijau publik.
-- **Daya dukung wilayah** — Perencanaan tata ruang harus memperhatikan daya dukung dan daya tampung wilayah.
+- **Kawasan lindung** â€” RTRW wajib menetapkan kawasan lindung yang berfungsi melindungi kelestarian lingkungan hidup, termasuk sumber daya alam dan sumber daya buatan.
+- **Ruang terbuka hijau** â€” Kota wajib menyediakan ruang terbuka hijau minimal 30% dari luas wilayah kota, dengan 20% ruang terbuka hijau publik.
+- **Daya dukung wilayah** â€” Perencanaan tata ruang harus memperhatikan daya dukung dan daya tampung wilayah.
 
 ### 8.4 Kawasan Strategis Nasional dan Perencanaan Lingkungan
 
@@ -748,9 +748,9 @@ Perbandingan ini menunjukkan bahwa KLHS Indonesia memiliki kekuatan hukum yang r
 
 UU 6/2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja membawa beberapa perubahan signifikan terhadap kerangka perencanaan lingkungan hidup:
 
-1. **Penyederhanaan perizinan** — Perubahan dari izin lingkungan menjadi persetujuan lingkungan yang terintegrasi dengan perizinan berusaha berbasis risiko.
-2. **KLHS tetap wajib** — Meskipun terdapat penyederhanaan, kewajiban penyusunan KLHS untuk RTRW dan dokumen perencanaan strategis lainnya tetap dipertahankan.
-3. **Integrasi perizinan** — Sistem perizinan berusaha terintegrasi melalui Online Single Submission (OSS) yang mengintegrasikan persyaratan lingkungan.
+1. **Penyederhanaan perizinan** â€” Perubahan dari izin lingkungan menjadi persetujuan lingkungan yang terintegrasi dengan perizinan berusaha berbasis risiko.
+2. **KLHS tetap wajib** â€” Meskipun terdapat penyederhanaan, kewajiban penyusunan KLHS untuk RTRW dan dokumen perencanaan strategis lainnya tetap dipertahankan.
+3. **Integrasi perizinan** â€” Sistem perizinan berusaha terintegrasi melalui Online Single Submission (OSS) yang mengintegrasikan persyaratan lingkungan.
 
 Perubahan ini menimbulkan perdebatan di kalangan akademisi dan praktisi hukum lingkungan. Di satu sisi, simplifikasi prosedur diharapkan mempercepat investasi dan pembangunan. Di sisi lain, terdapat kekhawatiran bahwa pengurangan persyaratan prosedural dapat melemahkan perlindungan lingkungan hidup. Mahkamah Konstitusi dalam Putusan Nomor 91/PUU-XVIII/2020 telah memberikan catatan penting mengenai proses pembentukan UU Cipta Kerja yang harus diperbaiki, yang kemudian ditindaklanjuti dengan penerbitan Perppu 2/2022 yang ditetapkan menjadi UU 6/2023.
 
@@ -791,11 +791,11 @@ Berdasarkan **Pasal 17 ayat (2) UU 32/2009**, pelampauan daya dukung dan daya ta
 
 Gubernur dan bupati/walikota memiliki kewajiban hukum untuk:
 
-1. **Melakukan kajian daya tampung secara berkala** — Kajian ilmiah yang memuat peruntukan air/udara, status mutu, dan daya tampung beban pencemaran.
-2. **Menetapkan status daya tampung** — Apakah daya tampung telah terlampaui atau belum.
+1. **Melakukan kajian daya tampung secara berkala** â€” Kajian ilmiah yang memuat peruntukan air/udara, status mutu, dan daya tampung beban pencemaran.
+2. **Menetapkan status daya tampung** â€” Apakah daya tampung telah terlampaui atau belum.
 3. **Mengambil tindakan sesuai status:**
-   - Jika **belum terlampaui** → baku mutu mengikuti peraturan menteri (standar nasional)
-   - Jika **sudah terlampaui** → **wajib menetapkan baku mutu lebih ketat** dari standar nasional
+   - Jika **belum terlampaui** â†’ baku mutu mengikuti peraturan menteri (standar nasional)
+   - Jika **sudah terlampaui** â†’ **wajib menetapkan baku mutu lebih ketat** dari standar nasional
 
 ### 9.3 Konsekuensi Operasional
 
@@ -823,7 +823,7 @@ Sungai Citarum di Jawa Barat merupakan contoh kegagalan perencanaan lingkungan y
 
 **Kronologi Masalah:**
 - Citarum melintasi kawasan dengan lebih dari 2.000 industri dan melayani kebutuhan air bagi sekitar 28 juta penduduk
-- Beban pencemaran jauh melampaui daya tampung sungai — kadar BOD, COD, dan logam berat di beberapa segmen melebihi baku mutu puluhan hingga ratusan kali lipat
+- Beban pencemaran jauh melampaui daya tampung sungai â€” kadar BOD, COD, dan logam berat di beberapa segmen melebihi baku mutu puluhan hingga ratusan kali lipat
 - Perencanaan tata ruang di sepanjang DAS tidak mengintegrasikan pertimbangan daya dukung dan daya tampung secara memadai
 - Izin industri diterbitkan tanpa memperhatikan kapasitas asimilasi sungai secara kumulatif
 
@@ -846,7 +846,7 @@ Rawa Tripa di Kabupaten Nagan Raya, Aceh, merupakan ekosistem gambut yang sangat
 - Kebakaran lahan gambut berulang di kawasan yang telah dikonversi menyebabkan pencemaran udara lintas batas
 
 **Pelajaran Hukum:**
-1. Ekosistem gambut memiliki daya dukung dan daya tampung yang sangat rendah terhadap perubahan tata air — drainase gambut untuk perkebunan menyebabkan subsidensi, kebakaran, dan emisi karbon masif
+1. Ekosistem gambut memiliki daya dukung dan daya tampung yang sangat rendah terhadap perubahan tata air â€” drainase gambut untuk perkebunan menyebabkan subsidensi, kebakaran, dan emisi karbon masif
 2. KLHS untuk RTRW di kawasan gambut harus memberikan perhatian khusus pada fungsi ekologis gambut, bukan hanya mempertimbangkan aspek ekonomi jangka pendek
 3. Kasus ini menunjukkan bahwa kegagalan perencanaan (tidak adanya KLHS yang memadai) dapat berujung pada kerusakan lingkungan yang tidak reversibel dan pencemaran udara lintas wilayah
 
@@ -871,11 +871,11 @@ Dari ketiga studi kasus di atas, terdapat beberapa pelajaran penting bagi perenc
 
 **Pertama**, perencanaan lingkungan yang memadai sejak awal jauh lebih efisien dan efektif dibandingkan pemulihan setelah kerusakan terjadi. Biaya pemulihan DAS Citarum yang mencapai triliunan rupiah seharusnya dapat dicegah jika perencanaan lingkungan (KLHS, RPPLH, penetapan daya tampung) dilaksanakan secara konsisten sejak awal.
 
-**Kedua**, perencanaan lingkungan tidak boleh mengabaikan karakteristik ekologis spesifik wilayah. Kasus Rawa Tripa menunjukkan bahwa ekosistem gambut memiliki kerentanan tinggi yang harus menjadi pertimbangan utama dalam perencanaan tata ruang — bukan sekadar pertimbangan tambahan.
+**Kedua**, perencanaan lingkungan tidak boleh mengabaikan karakteristik ekologis spesifik wilayah. Kasus Rawa Tripa menunjukkan bahwa ekosistem gambut memiliki kerentanan tinggi yang harus menjadi pertimbangan utama dalam perencanaan tata ruang â€” bukan sekadar pertimbangan tambahan.
 
 **Ketiga**, pelibatan masyarakat dan transparansi dalam perencanaan lingkungan sangat krusial. Kasus IKN menunjukkan bahwa meskipun secara prosedural KLHS telah dilaksanakan, kualitas partisipasi publik dan keterbukaan informasi sangat menentukan legitimasi dan penerimaan masyarakat terhadap kebijakan perencanaan lingkungan.
 
-**Keempat**, perencanaan lingkungan harus bersifat adaptif dan responsif terhadap perubahan kondisi. Daya dukung dan daya tampung bukan angka statis — keduanya berubah seiring perubahan iklim, pertumbuhan penduduk, dan intensifikasi kegiatan pembangunan. Oleh karena itu, peninjauan berkala terhadap RPPLH dan KLHS menjadi sangat penting.
+**Keempat**, perencanaan lingkungan harus bersifat adaptif dan responsif terhadap perubahan kondisi. Daya dukung dan daya tampung bukan angka statis â€” keduanya berubah seiring perubahan iklim, pertumbuhan penduduk, dan intensifikasi kegiatan pembangunan. Oleh karena itu, peninjauan berkala terhadap RPPLH dan KLHS menjadi sangat penting.
 
 **Kelima**, koordinasi lintas sektor dan lintas wilayah merupakan prasyarat keberhasilan perencanaan lingkungan. Pendekatan ekoregion yang melampaui batas administratif, sebagaimana dimandatkan oleh Pasal 7 UU 32/2009, harus dilaksanakan secara konsisten untuk menghindari pengelolaan lingkungan yang terfragmentasi.
 
@@ -910,11 +910,11 @@ Dari ketiga studi kasus di atas, terdapat beberapa pelajaran penting bagi perenc
 - Pasal 12: Pemanfaatan SDA berdasarkan RPPLH dan daya dukung/daya tampung
 - Pasal 13: Pengendalian pemanfaatan SDA
 
-**BAB V: Pengendalian — Bagian KLHS** (Pasal 14-18)
+**BAB V: Pengendalian â€” Bagian KLHS** (Pasal 14-18)
 - Pasal 14: KLHS sebagai instrumen pencegahan pertama
 - Pasal 15: Kewajiban pelaksanaan KLHS, dokumen yang wajib dilengkapi KLHS, mekanisme KLHS
 - Pasal 16: Muatan wajib KLHS (daya dukung, daya tampung, risiko lingkungan, jasa ekosistem)
-- Pasal 17: Konsekuensi hukum KLHS — kewajiban perbaikan KRP, larangan usaha/kegiatan
+- Pasal 17: Konsekuensi hukum KLHS â€” kewajiban perbaikan KRP, larangan usaha/kegiatan
 - Pasal 18: Partisipasi masyarakat dalam KLHS
 
 **Pasal Definisi:**
@@ -960,6 +960,7 @@ Path: `regulationvault/05_ACTIVE/UU/2009/UU_32_2009/`
 ---
 
 **Navigasi:**
-- [[02_Perubahan_Iklim|← Perubahan Iklim]]
-- [[README|↑ Index]]
-- [[04_Pengendalian_Pencemaran|Pengendalian Pencemaran →]]
+- [[02_Perubahan_Iklim|â† Perubahan Iklim]]
+- [[README|â†‘ Index]]
+- [[04_Pengendalian_Pencemaran|Pengendalian Pencemaran â†’]]
+

@@ -1,4 +1,4 @@
-rompt: Please create a draft syllabus for intellectual property rights course for an LLM program, draft the syllabus based on LLM programs in ivy leagues LLM
+﻿rompt: Please create a draft syllabus for intellectual property rights course for an LLM program, draft the syllabus based on LLM programs in ivy leagues LLM
 
 Intellectual Property Rights Syllabus for LLM Program
 

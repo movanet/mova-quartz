@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -183,10 +183,11 @@ Indeks ini menyusun topik-topik utama secara alfabetis dengan referensi ke bab y
 ---
 
 **Navigasi:**
-- ← [[Glosarium|Glosarium]]
-- → [[Lampiran-04-Kunci-Jawaban|Lampiran 4: Kunci Jawaban]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Glosarium|Glosarium]]
+- â†’ [[Lampiran-04-Kunci-Jawaban|Lampiran 4: Kunci Jawaban]]
+- â†‘ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | Indeks*
+

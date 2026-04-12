@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "Apakah Saya Harus Menabung untuk Kuliah Anak? Ini Pendapat CEO AI Microsoft Mustafa Suleyman"
 date: 2025-11-16
@@ -67,7 +67,7 @@ Ia melanjutkan bahwa dirinya tidak yakin kita masih akan menghargai "pendidikan 
 
 ### Perubahan Model Belajar
 
-Bagi Suleyman, model pendidikan tradisional—seperti program Sarjana (S1) atau Master (S2) yang berfokus murni pada perolehan pengetahuan—kemungkinan besar tidak akan bertahan [[19:10](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1150)]. Proses "akuisisi pengetahuan" akan bergeser menjadi sebuah [[Panduan Lengkap Menggunakan ChatGPT dengan Prompts, Priming, dan Persona|"percakapan antara Anda dan co-pilot (AI)"]] [[19:17](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1157)].
+Bagi Suleyman, model pendidikan tradisionalâ€”seperti program Sarjana (S1) atau Master (S2) yang berfokus murni pada perolehan pengetahuanâ€”kemungkinan besar tidak akan bertahan [[19:10](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1150)]. Proses "akuisisi pengetahuan" akan bergeser menjadi sebuah [[Panduan Lengkap Menggunakan ChatGPT dengan Prompts, Priming, dan Persona|"percakapan antara Anda dan co-pilot (AI)"]] [[19:17](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1157)].
 
 Ia menggambarkan masa depan di mana AI berfungsi sebagai tutor pribadi yang ahli dalam subjek apa pun, mulai dari kaktus hingga karpet Persia [[19:40](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1180)]. Ini akan membuat perolehan pengetahuan menjadi "sepenuhnya terdesentralisasi dan tersedia untuk semua orang," [[19:56](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1196)] seolah memiliki "guru ahli di saku Anda" setiap saat [[20:03](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1203)].
 
@@ -89,7 +89,7 @@ Menurutnya, salah satu "keterampilan meta" terpenting dari sekolah adalah "disip
 
 Menariknya, Suleyman sendiri tidak memiliki latar belakang teknikal; ia berlatar belakang filosofi [[23:51](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1431)]. Ia berpendapat bahwa di era AI, menjadi teknis (belajar _coding_) "lebih mudah dari sebelumnya" karena semua materi tersedia di platform seperti YouTube [[24:04](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1444)].
 
-Keterampilan utama yang akan paling dihargai di masa depan, menurutnya, adalah "sintesis" [[24:50](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1490)]. Yaitu kemampuan untuk menyatukan berbagai disiplin ilmu—seperti UX (User Experience), riset, produk, dan estetika—untuk menciptakan sesuatu yang baru [[25:02](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1502)].
+Keterampilan utama yang akan paling dihargai di masa depan, menurutnya, adalah "sintesis" [[24:50](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1490)]. Yaitu kemampuan untuk menyatukan berbagai disiplin ilmuâ€”seperti UX (User Experience), riset, produk, dan estetikaâ€”untuk menciptakan sesuatu yang baru [[25:02](http://www.youtube.com/watch?v=SP76PvgMzVU&t=1502)].
 
 ---
 
@@ -117,3 +117,4 @@ Pandangan Suleyman tentang pendidikan adalah bagian dari transformasi lebih besa
 **Video Wawancara Lengkap:**
 
 http://www.youtube.com/watch?v=SP76PvgMzVU
+

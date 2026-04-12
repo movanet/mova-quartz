@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "Prioritas Nasional 1: Memperkokoh Ideologi Pancasila, Demokrasi, dan HAM"
 chapter: "BAB III"
@@ -22,7 +22,7 @@ status: "validated"
 date: "2025-10-29"
 ---
 
-> **Navigation:** [[00_INDEX|🏠 Index]] | [[README|📖 About]]
+> **Navigation:** [[00_INDEX|ðŸ  Index]] | [[README|ðŸ“– About]]
 >
 > **You are here:** Prioritas Nasional 1: Memperkokoh Ideologi Pancasila, Demokrasi, dan HAM
 
@@ -34,13 +34,13 @@ berbagai tantangan, pengukuhan Pancasila sebagai Pancasila, demokrasi, dan hak a
 
 jati diri Pancasila tidak sekadar mencerminkan bersama-sama membentuk sinergi yang harmonis, jalur yang tepat menjamin Indonesia tetap di bangsa, tetapi juga berfungsi sebagai pedoman menuju masa depan yang lebih baik dan inklusif.
 
-etika dalam menentukan setiap kebijakan dan Pada pembangunan jangka menengah nasional langkah negara. Prinsip demokrasi memastikan semua warga negara memiliki kesempatan yang tahun 2025–2029, Pemerintah berkomitmen untuk memperkokoh Pancasila sebagai ideologi negara setara untuk berpartisipasi dan memengaruhi arah dengan penguatan demokrasi dan penegakan hak perkembangan negara.
+etika dalam menentukan setiap kebijakan dan Pada pembangunan jangka menengah nasional langkah negara. Prinsip demokrasi memastikan semua warga negara memiliki kesempatan yang tahun 2025â€“2029, Pemerintah berkomitmen untuk memperkokoh Pancasila sebagai ideologi negara setara untuk berpartisipasi dan memengaruhi arah dengan penguatan demokrasi dan penegakan hak perkembangan negara.
 
 asasi manusia.
 
- Sejalan dengan itu, konstitusi juga mengamanatkan Sasaran Utama pada Prioritas Nasional 1 pengarusutamaan dan pemajuan hak asasi manusia pada setiap kebijakan pembangunan yang menegaskan penghormatan, pemenuhan, dan penegakan hak setiap individu, perlindungan, terutama tetapi tidak terbatas pada kelompok rentan, demi pembangunan yang mewujudkan Dalam rangka mengawal keberhasilan proses Memperkokoh Ideologi Pancasila, Demokrasi, dan Hak Asasi Manusia, telah dirumuskan sasaran dan indikator pembangunan pada tahun 2025–2029 sebagai berikut.
+ Sejalan dengan itu, konstitusi juga mengamanatkan Sasaran Utama pada Prioritas Nasional 1 pengarusutamaan dan pemajuan hak asasi manusia pada setiap kebijakan pembangunan yang menegaskan penghormatan, pemenuhan, dan penegakan hak setiap individu, perlindungan, terutama tetapi tidak terbatas pada kelompok rentan, demi pembangunan yang mewujudkan Dalam rangka mengawal keberhasilan proses Memperkokoh Ideologi Pancasila, Demokrasi, dan Hak Asasi Manusia, telah dirumuskan sasaran dan indikator pembangunan pada tahun 2025â€“2029 sebagai berikut.
 
-Sasaran Utama pada Prioritas Nasional 1 No Sasaran dan Indikator Baseline 2024 Target 2025 Target 2029 Terwujudnya kehidupan bermasyarakat, berbangsa, dan bernegara yang berlandaskan Pancasila, demokrasi, dan hak asasi manusia 1 2 Indeks Demokrasi Indonesia 79,51 (2023) 81,69–85,23 83,42–86,96 Indeks Hak Asasi Manusia 2,70 (2023) 2,75 2,85 Sumber: Kementerian PPN/Bappenas, 2024 (diolah).
+Sasaran Utama pada Prioritas Nasional 1 No Sasaran dan Indikator Baseline 2024 Target 2025 Target 2029 Terwujudnya kehidupan bermasyarakat, berbangsa, dan bernegara yang berlandaskan Pancasila, demokrasi, dan hak asasi manusia 1 2 Indeks Demokrasi Indonesia 79,51 (2023) 81,69â€“85,23 83,42â€“86,96 Indeks Hak Asasi Manusia 2,70 (2023) 2,75 2,85 Sumber: Kementerian PPN/Bappenas, 2024 (diolah).
 
 94 Arah Kebijakan Dalam rangka mewujudkan sasaran pembangunan pada Prioritas Nasional 1, dilaksanakan arah kebijakan sebagai berikut.
 
@@ -52,7 +52,7 @@ Arah kebijakan tersebut ditopang dengan internalisasi, institusionalisasi, dan a
 
 Penguatan kebangsaan, dan ketahanan nasional ideologi Pancasila, wawasan juga diarahkan untuk meningkatkan kualitas pemimpin di tingkat pusat hingga daerah yang penyelenggaraan didukung pendidikan pengkaderan tingkat pusat dan dengan daerah, serta pelatihan untuk pelatih pembinaan ideologi Pancasila dan wawasan ideologi Pancasila, kebangsaan. Penguatan wawasan kebangsaan, dan ketahanan nasional dicapai melalui (a) penguatan wawasan ideologi Pancasila di kalangan penyelenggara negara; (b) pelaksanaan gerakan nasional KITA BERSAUDARA; dan (c) peningkatan kualitas pemimpin di tingkat pusat hingga daerah.
 
-(2) Penguatan komunikasi publik dan media diarahkan untuk menciptakan ekosistem komunikasi, kebebasan pers, dan media massa yang berintegritas. Arah kebijakan tersebut ditopang dengan peningkatan kapasitas lembaga, kompetensi, dan etika insan pers, termasuk penyehatan media arus utama, serta 96 (BEJO’S); dan (b) penguatan sistem komunikasi informasi dan kesetaraan masyarakat atas publik.
+(2) Penguatan komunikasi publik dan media diarahkan untuk menciptakan ekosistem komunikasi, kebebasan pers, dan media massa yang berintegritas. Arah kebijakan tersebut ditopang dengan peningkatan kapasitas lembaga, kompetensi, dan etika insan pers, termasuk penyehatan media arus utama, serta 96 (BEJOâ€™S); dan (b) penguatan sistem komunikasi informasi dan kesetaraan masyarakat atas publik.
 
 (3) Penguatan lembaga demokrasi diarahkan untuk mewujudkan lembaga demokrasi yang sebagai pilar demokrasi untuk kokoh mewujudkan demokrasi substansial. Arah kebijakan tersebut ditopang dengan peningkatan kapasitas organisasi legislatif, sumber daya manusia lembaga lembaga pelaksana dan pengawas pemilu, serta penguatan lembaga dan proses demokrasi di daerah. Penguatan lembaga demokrasi dicapai melalui (a) penguatan fungsi legislasi lembaga legislatif; dan (b) penguatan kelembagaan penyelenggara pemilu.
 
@@ -75,11 +75,12 @@ Pengarusutamaan, pemajuan, dan penegakan hak asasi manusia dicapai melalui (a) i
 
 serta (b) perlindungan hak asasi manusia dan penghapusan praktik diskriminasi.
 
-Kerangka Kelembagaan Regulasi dan Kerangka Kebutuhan regulasi pada Prioritas Nasional 1 “Memperkokoh Ideologi Pancasila, Demokrasi, dan Hak Asasi Manusia” sebagai berikut.
+Kerangka Kelembagaan Regulasi dan Kerangka Kebutuhan regulasi pada Prioritas Nasional 1 â€œMemperkokoh Ideologi Pancasila, Demokrasi, dan Hak Asasi Manusiaâ€ sebagai berikut.
 
 (1) Rancangan Undang-Undang tentang Perubahan atas Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik Penyusunan Revisi Undang-Undang Keterbukaan Informasi Publik didorong oleh berbagai permasalahan dalam implementasi (2) Rancangan Undang-Undang tentang Internalisasi Ideologi Pancasila Penyusunan Rancangan Undang-Undang tentang Internalisasi Ideologi Pancasila dilatarbelakangi oleh beberapa tantangan, seperti masih lemahnya pemahaman dan implementasi nilai-nilai Pancasila dalam kehidupan bermasyarakat, berbangsa, dan bernegara, serta meningkatnya perilaku diskriminatif dan tengah masyarakat. Pancasila sebagai ideologi dan intoleransi di pandangan hidup bangsa Indonesia, wajib diutamakan ideologi melalui Pancasila pengarusutamaan dini, sejak berkesinambungan, dan dengan pendekatan berbasiskan ramah pengguna. Selain itu, perlu memperkuat wawasan ideologi Pancasila di kalangan penyelenggara negara, anggota legislatif, dan masyarakat umum.
 
 Kelembagaan eksisting untuk memfasilitasi pelaksanaan Prioritas Nasional 1 dinilai telah kerangka memadai sehingga tidak ada kelembagaan yang diusulkan.
 
 97
+
 

@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "Prioritas Nasional 8: Memperkuat Penyelarasan Kehidupan yang Harmonis dengan Lingkungan"
 chapter: "BAB III"
@@ -25,7 +25,7 @@ status: "validated"
 date: "2025-10-29"
 ---
 
-> **Navigation:** [[00_INDEX|🏠 Index]] | [[README|📖 About]]
+> **Navigation:** [[00_INDEX|ðŸ  Index]] | [[README|ðŸ“– About]]
 >
 > **You are here:** Prioritas Nasional 8: Memperkuat Penyelarasan Kehidupan yang Harmonis dengan Lingkungan
 
@@ -37,11 +37,11 @@ Setiap individu memiliki tanggung jawab untuk keberlanjutan ekosistem. Sementara
 
 Mewujudkan Visi Indonesia Emas 2045 memerlukan komitmen bersama. Toleransi antarumat beragama diwujudkan dalam tindakan nyata dengan menghargai perbedaan serta menjamin kebebasan beragama dan beribadah sesuai dengan keyakinannya. Kekayaan alam dan budaya yang melimpah merupakan modal dasar pembangunan yang perlu dikelola secara berkelanjutan. Pelestarian dan pemanfaatan lingkungan harus dilakukan secara bertanggung jawab untuk memastikan kesejahteraan antargenerasi, dengan menanggulangi dampak perubahan iklim dan ancaman bencana.
 
-Penanggulangan bencana dan peningkatan ketahanan terhadap perubahan iklim harus menjadi bagian dari setiap kebijakan pembangunan, guna melindungi kehidupan masyarakat dan menjaga pembangunan jangka menengah nasional. Atas dasar hal tersebut, pada pembangunan jangka menengah nasional tahun 2025–2029 Pemerintah berkomitmen untuk mewujudkan kehidupan yang harmonis dan selaras dengan lingkungan alam dan budaya, serta memperkukuh toleransi antarumat beragama guna mencapai masyarakat yang adil dan makmur.
+Penanggulangan bencana dan peningkatan ketahanan terhadap perubahan iklim harus menjadi bagian dari setiap kebijakan pembangunan, guna melindungi kehidupan masyarakat dan menjaga pembangunan jangka menengah nasional. Atas dasar hal tersebut, pada pembangunan jangka menengah nasional tahun 2025â€“2029 Pemerintah berkomitmen untuk mewujudkan kehidupan yang harmonis dan selaras dengan lingkungan alam dan budaya, serta memperkukuh toleransi antarumat beragama guna mencapai masyarakat yang adil dan makmur.
 
 ## Sasaran Utama pada Prioritas Nasional 8
 
-Dalam upaya memperkuat penyelarasan kehidupan yang harmonis dengan lingkungan alam dan budaya, serta meningkatkan toleransi antarumat beragama untuk mencapai masyarakat yang adil dan makmur, pada tahun 2025–2029 dirumuskan sasaran pembangunan sebagai berikut.
+Dalam upaya memperkuat penyelarasan kehidupan yang harmonis dengan lingkungan alam dan budaya, serta meningkatkan toleransi antarumat beragama untuk mencapai masyarakat yang adil dan makmur, pada tahun 2025â€“2029 dirumuskan sasaran pembangunan sebagai berikut.
 
 | No | Sasaran dan Indikator | Baseline 2024 | Target 2025 | Target 2029 |
 |----|----------------------|----------------|-------------|-------------|
@@ -137,3 +137,4 @@ Arah kebijakan ini dilaksanakan melalui:
 (d) Peningkatan resiliensi masyarakat terhadap bencana;
 
 (e) Peningkatan infrastruktur berketahanan bencana.
+

@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "12"
 judul: "Masa Depan Hukum Perubahan Iklim"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "75 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - masa-depan
   - emerging-issues
   - AI
@@ -70,11 +70,11 @@ Tantangan hukum yang dihadapi geoengineering bersifat multidimensional dan kompl
 
 Fenomena migrasi akibat perubahan iklim telah berkembang menjadi salah satu isu kemanusiaan dan hukum paling mendesak di abad ke-21. Internal Displacement Monitoring Centre memperkirakan bahwa antara tahun 2008-2022, rata-rata 21,5 juta orang per tahun terpaksa mengungsi akibat bencana terkait cuaca.[^5] Proyeksi World Bank menunjukkan bahwa tanpa tindakan iklim dan pembangunan yang konkret, perubahan iklim dapat memaksa 216 juta orang bermigrasi internal pada tahun 2050.[^6]
 
-Secara hukum, tantangan utama terletak pada ketiadaan definisi yang diakui secara internasional untuk "pengungsi iklim" atau "climate refugee." Konvensi tentang Status Pengungsi 1951 secara eksplisit membatasi definisi pengungsi pada mereka yang melarikan diri karena persekusi berdasarkan ras, agama, kebangsaan, keanggotaan kelompok sosial tertentu, atau opini politik—tidak mencakup faktor lingkungan.[^7] Meskipun terdapat perkembangan signifikan seperti putusan Human Rights Committee dalam kasus *Teitiota v New Zealand* yang mengakui bahwa deportasi ke negara yang terdampak perubahan iklim dapat melanggar hak atas hidup dalam kondisi tertentu, perlindungan hukum yang komprehensif masih absen.[^8] Kebutuhan akan instrumen hukum baru semakin mendesak, dengan beberapa proposal mencakup protokol tambahan pada Konvensi Pengungsi, konvensi tersendiri tentang pengungsi iklim, atau penguatan kerangka regional seperti yang dilakukan oleh Uni Afrika melalui Konvensi Kampala.
+Secara hukum, tantangan utama terletak pada ketiadaan definisi yang diakui secara internasional untuk "pengungsi iklim" atau "climate refugee." Konvensi tentang Status Pengungsi 1951 secara eksplisit membatasi definisi pengungsi pada mereka yang melarikan diri karena persekusi berdasarkan ras, agama, kebangsaan, keanggotaan kelompok sosial tertentu, atau opini politikâ€”tidak mencakup faktor lingkungan.[^7] Meskipun terdapat perkembangan signifikan seperti putusan Human Rights Committee dalam kasus *Teitiota v New Zealand* yang mengakui bahwa deportasi ke negara yang terdampak perubahan iklim dapat melanggar hak atas hidup dalam kondisi tertentu, perlindungan hukum yang komprehensif masih absen.[^8] Kebutuhan akan instrumen hukum baru semakin mendesak, dengan beberapa proposal mencakup protokol tambahan pada Konvensi Pengungsi, konvensi tersendiri tentang pengungsi iklim, atau penguatan kerangka regional seperti yang dilakukan oleh Uni Afrika melalui Konvensi Kampala.
 
 #### 1.3 Carbon Dioxide Removal (CDR)
 
-Teknologi penghilangan karbon dioksida dari atmosfer (*Carbon Dioxide Removal*/CDR) telah menjadi komponen integral dalam hampir seluruh skenario pembatasan pemanasan global pada 1,5°C sebagaimana digariskan oleh IPCC.[^9] CDR mencakup spektrum luas pendekatan, mulai dari solusi berbasis alam hingga teknologi tinggi. Reforestasi dan afforestasi merupakan metode CDR paling konvensional yang memanfaatkan kemampuan alami pohon dalam menyerap karbon. BECCS (*Bioenergy with Carbon Capture and Storage*) mengkombinasikan produksi energi dari biomassa dengan penangkapan dan penyimpanan karbon yang dihasilkan. Direct Air Capture (DAC) menggunakan proses kimiawi untuk mengekstrak CO₂ langsung dari udara ambien. Sementara itu, *enhanced weathering* mempercepat proses geologis alami pelapukan mineral yang menyerap karbon.
+Teknologi penghilangan karbon dioksida dari atmosfer (*Carbon Dioxide Removal*/CDR) telah menjadi komponen integral dalam hampir seluruh skenario pembatasan pemanasan global pada 1,5Â°C sebagaimana digariskan oleh IPCC.[^9] CDR mencakup spektrum luas pendekatan, mulai dari solusi berbasis alam hingga teknologi tinggi. Reforestasi dan afforestasi merupakan metode CDR paling konvensional yang memanfaatkan kemampuan alami pohon dalam menyerap karbon. BECCS (*Bioenergy with Carbon Capture and Storage*) mengkombinasikan produksi energi dari biomassa dengan penangkapan dan penyimpanan karbon yang dihasilkan. Direct Air Capture (DAC) menggunakan proses kimiawi untuk mengekstrak COâ‚‚ langsung dari udara ambien. Sementara itu, *enhanced weathering* mempercepat proses geologis alami pelapukan mineral yang menyerap karbon.
 
 ---
 
@@ -84,13 +84,13 @@ Teknologi penghilangan karbon dioksida dari atmosfer (*Carbon Dioxide Removal*/C
 
 Kecerdasan buatan (*Artificial Intelligence*/AI) dan *machine learning* telah membuka horizon baru dalam upaya mitigasi dan adaptasi perubahan iklim. Teknologi ini menawarkan kapabilitas transformatif dalam berbagai aspek aksi iklim. Dalam optimasi sistem energi, algoritma AI dapat memprediksi permintaan listrik dengan presisi tinggi dan mengoptimalkan distribusi energi terbarukan yang bersifat intermiten. Pemantauan emisi gas rumah kaca telah mengalami revolusi dengan penggunaan AI untuk menganalisis data satelit, memungkinkan deteksi dan kuantifikasi emisi dari fasilitas individual dengan akurasi yang sebelumnya tidak mungkin dicapai.[^10] Model prediksi iklim berbasis *machine learning* semakin mampu memberikan proyeksi yang lebih akurat dan resolusi spasial yang lebih tinggi. Sementara itu, konsep *smart grid* yang ditenagai AI memungkinkan integrasi energi terbarukan ke dalam jaringan listrik secara lebih efisien dan responsif.
 
-Namun demikian, penggunaan AI dalam konteks iklim juga menghadirkan tantangan hukum yang signifikan. Regulasi AI masih dalam tahap perkembangan di sebagian besar yurisdiksi, dengan Uni Eropa menjadi pionir melalui EU AI Act yang mulai berlaku secara bertahap.[^11] Isu akuntabilitas algoritmik menjadi krusial ketika keputusan yang dihasilkan AI memiliki implikasi signifikan bagi masyarakat dan lingkungan—pertanyaan tentang siapa yang bertanggung jawab ketika algoritma menghasilkan keputusan yang keliru atau diskriminatif memerlukan jawaban hukum yang jelas. Perlindungan data pribadi (*data privacy*) juga menjadi perhatian serius mengingat sistem AI iklim seringkali memerlukan akses ke data dalam jumlah besar, termasuk data yang berpotensi sensitif.
+Namun demikian, penggunaan AI dalam konteks iklim juga menghadirkan tantangan hukum yang signifikan. Regulasi AI masih dalam tahap perkembangan di sebagian besar yurisdiksi, dengan Uni Eropa menjadi pionir melalui EU AI Act yang mulai berlaku secara bertahap.[^11] Isu akuntabilitas algoritmik menjadi krusial ketika keputusan yang dihasilkan AI memiliki implikasi signifikan bagi masyarakat dan lingkunganâ€”pertanyaan tentang siapa yang bertanggung jawab ketika algoritma menghasilkan keputusan yang keliru atau diskriminatif memerlukan jawaban hukum yang jelas. Perlindungan data pribadi (*data privacy*) juga menjadi perhatian serius mengingat sistem AI iklim seringkali memerlukan akses ke data dalam jumlah besar, termasuk data yang berpotensi sensitif.
 
 #### 2.2 Carbon Capture, Utilization, and Storage (CCUS)
 
-Carbon Capture, Utilization, and Storage (CCUS) merepresentasikan serangkaian teknologi yang menangkap emisi CO₂ dari sumber titik seperti pembangkit listrik atau fasilitas industri, kemudian memanfaatkannya untuk berbagai keperluan atau menyimpannya secara permanen di formasi geologis bawah tanah. IEA memproyeksikan bahwa CCUS perlu menangkap sekitar 7,6 Gt CO₂ per tahun pada 2050 untuk mencapai skenario net-zero global.[^12]
+Carbon Capture, Utilization, and Storage (CCUS) merepresentasikan serangkaian teknologi yang menangkap emisi COâ‚‚ dari sumber titik seperti pembangkit listrik atau fasilitas industri, kemudian memanfaatkannya untuk berbagai keperluan atau menyimpannya secara permanen di formasi geologis bawah tanah. IEA memproyeksikan bahwa CCUS perlu menangkap sekitar 7,6 Gt COâ‚‚ per tahun pada 2050 untuk mencapai skenario net-zero global.[^12]
 
-Kompleksitas hukum CCUS mencakup beberapa dimensi kritis. Perizinan penyimpanan bawah tanah memerlukan kerangka regulasi yang mengatur hak akses, standar keamanan, dan prosedur pemantauan—aspek yang di banyak negara masih memerlukan pengembangan lebih lanjut. Tanggung jawab jangka panjang (*long-term liability*) menjadi isu fundamental mengingat CO₂ harus tersimpan secara permanen selama ribuan tahun, menimbulkan pertanyaan tentang siapa yang menanggung risiko kebocoran setelah operator berhenti beroperasi.[^13] Integrasi CCUS dengan pasar karbon memerlukan aturan yang jelas tentang bagaimana kredit karbon dapat diklaim dan diverifikasi untuk karbon yang ditangkap dan disimpan. Regulasi lintas batas menjadi relevan terutama untuk penyimpanan di bawah laut (*offshore storage*) yang mungkin melintasi yurisdiksi nasional atau berlokasi di area di luar yurisdiksi nasional
+Kompleksitas hukum CCUS mencakup beberapa dimensi kritis. Perizinan penyimpanan bawah tanah memerlukan kerangka regulasi yang mengatur hak akses, standar keamanan, dan prosedur pemantauanâ€”aspek yang di banyak negara masih memerlukan pengembangan lebih lanjut. Tanggung jawab jangka panjang (*long-term liability*) menjadi isu fundamental mengingat COâ‚‚ harus tersimpan secara permanen selama ribuan tahun, menimbulkan pertanyaan tentang siapa yang menanggung risiko kebocoran setelah operator berhenti beroperasi.[^13] Integrasi CCUS dengan pasar karbon memerlukan aturan yang jelas tentang bagaimana kredit karbon dapat diklaim dan diverifikasi untuk karbon yang ditangkap dan disimpan. Regulasi lintas batas menjadi relevan terutama untuk penyimpanan di bawah laut (*offshore storage*) yang mungkin melintasi yurisdiksi nasional atau berlokasi di area di luar yurisdiksi nasional
 
 ---
 
@@ -98,13 +98,13 @@ Kompleksitas hukum CCUS mencakup beberapa dimensi kritis. Perizinan penyimpanan 
 
 #### 3.1 Penguatan Rezim Internasional
 
-Rezim hukum iklim internasional terus mengalami evolusi dan penguatan melalui berbagai mekanisme. Global Stocktake (GST) yang diamanatkan Pasal 14 Perjanjian Paris telah menjadi instrumen sentral untuk mengevaluasi kemajuan kolektif dan mendorong peningkatan ambisi secara berkala. Hasil GST pertama yang diselesaikan pada COP28 di Dubai mengkonfirmasi kesenjangan signifikan antara komitmen saat ini dengan trajektori yang diperlukan untuk membatasi pemanasan pada 1,5°C, sekaligus menghasilkan kesepakatan bersejarah tentang transisi menjauh dari bahan bakar fosil.[^14]
+Rezim hukum iklim internasional terus mengalami evolusi dan penguatan melalui berbagai mekanisme. Global Stocktake (GST) yang diamanatkan Pasal 14 Perjanjian Paris telah menjadi instrumen sentral untuk mengevaluasi kemajuan kolektif dan mendorong peningkatan ambisi secara berkala. Hasil GST pertama yang diselesaikan pada COP28 di Dubai mengkonfirmasi kesenjangan signifikan antara komitmen saat ini dengan trajektori yang diperlukan untuk membatasi pemanasan pada 1,5Â°C, sekaligus menghasilkan kesepakatan bersejarah tentang transisi menjauh dari bahan bakar fosil.[^14]
 
 Penguatan transparansi dan akuntabilitas melalui *Enhanced Transparency Framework* (ETF) yang mulai berlaku penuh pada 2024 menandai era baru dalam pelaporan iklim, dengan standar pelaporan yang lebih ketat dan seragam untuk semua pihak. Implementasi Pasal 6 Perjanjian Paris tentang mekanisme pasar dan non-pasar terus berkembang dengan diadopsinya aturan operasional yang lebih rinci, membuka jalan bagi transfer hasil mitigasi internasional yang terstandarisasi. Pencapaian monumental berupa operasionalisasi Loss and Damage Fund yang disepakati di COP27 dan menjadi operasional di COP28 menandai pengakuan formal terhadap kebutuhan dukungan finansial bagi negara-negara rentan yang menghadapi dampak iklim yang tidak dapat dimitigasi atau diadaptasi.
 
 #### 3.2 Peran Pengadilan
 
-Litigasi perubahan iklim telah mengalami pertumbuhan eksponensial dan diproyeksikan akan terus meningkat dalam dekade mendatang. Grantham Research Institute mencatat lebih dari 2.500 kasus litigasi iklim di seluruh dunia hingga 2023, dengan lebih dari separuhnya diajukan sejak 2015.[^15] Advisory Opinion yang dimintakan kepada International Court of Justice (ICJ) oleh Majelis Umum PBB atas inisiatif negara-negara pulau kecil akan menjadi referensi otoritatif tentang kewajiban negara berdasarkan hukum internasional terkait perubahan iklim—sebuah perkembangan yang berpotensi mendefinisikan ulang lanskap hukum iklim internasional.
+Litigasi perubahan iklim telah mengalami pertumbuhan eksponensial dan diproyeksikan akan terus meningkat dalam dekade mendatang. Grantham Research Institute mencatat lebih dari 2.500 kasus litigasi iklim di seluruh dunia hingga 2023, dengan lebih dari separuhnya diajukan sejak 2015.[^15] Advisory Opinion yang dimintakan kepada International Court of Justice (ICJ) oleh Majelis Umum PBB atas inisiatif negara-negara pulau kecil akan menjadi referensi otoritatif tentang kewajiban negara berdasarkan hukum internasional terkait perubahan iklimâ€”sebuah perkembangan yang berpotensi mendefinisikan ulang lanskap hukum iklim internasional.
 
 Ekspansi yurisprudensi nasional terlihat dari putusan-putusan landmark di berbagai yurisdiksi. Kasus *Urgenda v. Netherlands* yang mewajibkan pemerintah Belanda meningkatkan target reduksi emisinya telah menjadi preseden yang diikuti di banyak negara. Litigasi terhadap korporasi juga meningkat tajam, termasuk kasus bersejarah *Milieudefensie v. Shell* yang memerintahkan perusahaan minyak raksasa untuk mengurangi emisi sebesar 45% pada 2030.[^16] Penegakan NDC melalui pengadilan menjadi tren yang muncul di mana warga negara dan organisasi masyarakat sipil menggunakan jalur yudisial untuk memaksa pemerintah memenuhi komitmen iklim yang telah dideklarasikan.
 
@@ -112,7 +112,7 @@ Ekspansi yurisprudensi nasional terlihat dari putusan-putusan landmark di berbag
 
 Hukum perubahan iklim tidak berkembang dalam isolasi melainkan semakin terkonvergensi dengan berbagai bidang hukum lainnya. Hubungan dengan hukum biodiversitas menjadi semakin erat dengan diadopsinya Kunming-Montreal Global Biodiversity Framework pada 2022 yang mengakui keterkaitan tak terpisahkan antara krisis iklim dan krisis keanekaragaman hayati.[^17] Pendekatan berbasis alam (*nature-based solutions*) menjadi jembatan kebijakan antara agenda iklim dan biodiversitas.
 
-Konvergensi dengan hak asasi manusia telah mentransformasi cara pandang terhadap perubahan iklim—dari isu teknis-lingkungan menjadi isu keadilan dan hak fundamental. Pengadilan HAM regional seperti European Court of Human Rights dan Inter-American Court of Human Rights kini secara aktif menangani kasus-kasus iklim. Dalam ranah perdagangan internasional, Carbon Border Adjustment Mechanism (CBAM) Uni Eropa yang mulai berlaku secara bertahap sejak 2023 menandai era baru di mana kebijakan iklim dan perdagangan internasional saling berinteraksi, menimbulkan pertanyaan kompleks tentang konsistensi dengan aturan WTO. Sektor keuangan juga mengalami transformasi melalui perkembangan *sustainable finance* dengan standar pelaporan keberlanjutan yang semakin ketat dan proliferasi taksonomi hijau di berbagai yurisdiksi
+Konvergensi dengan hak asasi manusia telah mentransformasi cara pandang terhadap perubahan iklimâ€”dari isu teknis-lingkungan menjadi isu keadilan dan hak fundamental. Pengadilan HAM regional seperti European Court of Human Rights dan Inter-American Court of Human Rights kini secara aktif menangani kasus-kasus iklim. Dalam ranah perdagangan internasional, Carbon Border Adjustment Mechanism (CBAM) Uni Eropa yang mulai berlaku secara bertahap sejak 2023 menandai era baru di mana kebijakan iklim dan perdagangan internasional saling berinteraksi, menimbulkan pertanyaan kompleks tentang konsistensi dengan aturan WTO. Sektor keuangan juga mengalami transformasi melalui perkembangan *sustainable finance* dengan standar pelaporan keberlanjutan yang semakin ketat dan proliferasi taksonomi hijau di berbagai yurisdiksi
 
 ---
 
@@ -160,7 +160,7 @@ Pada bab ini, kita telah mempelajari:
 
 ### 2. Refleksi Akhir
 
-Hukum perubahan iklim adalah bidang yang dinamis dan terus berkembang. Sebagai calon profesional hukum, Anda akan menjadi bagian dari upaya global mengatasi krisis iklim—baik sebagai pembuat kebijakan, praktisi, akademisi, atau warga negara yang aktif.
+Hukum perubahan iklim adalah bidang yang dinamis dan terus berkembang. Sebagai calon profesional hukum, Anda akan menjadi bagian dari upaya global mengatasi krisis iklimâ€”baik sebagai pembuat kebijakan, praktisi, akademisi, atau warga negara yang aktif.
 
 > [!quote] **Penutup**
 > "The law is not an end in itself, but a means to an end. In climate change, that end is nothing less than the survival and flourishing of human civilization and the natural world."
@@ -203,7 +203,7 @@ Hukum perubahan iklim adalah bidang yang dinamis dan terus berkembang. Sebagai c
 
 [^8]: Ioane Teitiota v New Zealand, Communication No 2728/2016, UN Doc CCPR/C/127/D/2728/2016 (Human Rights Committee, 7 January 2020).
 
-[^9]: IPCC, 'Global Warming of 1.5°C: An IPCC Special Report on the Impacts of Global Warming of 1.5°C above Pre-industrial Levels' (Cambridge University Press 2018) ch 4.
+[^9]: IPCC, 'Global Warming of 1.5Â°C: An IPCC Special Report on the Impacts of Global Warming of 1.5Â°C above Pre-industrial Levels' (Cambridge University Press 2018) ch 4.
 
 [^10]: Daniel Huppmann and others, 'The Role of Artificial Intelligence in Achieving the Sustainable Development Goals' (2019) 10 Nature Communications 4308.
 
@@ -228,9 +228,10 @@ Hukum perubahan iklim adalah bidang yang dinamis dan terus berkembang. Sebagai c
 ---
 
 **Navigasi:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-11-Litigasi-Perubahan-Iklim_BAB-11|BAB 11]]
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-11-Litigasi-06-PerubahanIklim_BAB-11|BAB 11]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 12*
+

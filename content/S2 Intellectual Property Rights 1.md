@@ -1,4 +1,4 @@
-### Intellectual Property Rights Course Syllabus 
+﻿### Intellectual Property Rights Course Syllabus 
 
 ### Course Description
 This course will provide an overview of the fundamental concepts and principles of intellectual property law, including patents, trademarks, copyrights, and trade secrets. Students will develop an understanding of the legal frameworks that govern the creation, protection, and enforcement of intellectual property rights in various jurisdictions.

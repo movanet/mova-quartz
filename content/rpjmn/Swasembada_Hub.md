@@ -1,6 +1,6 @@
-# Swasembada: National Self-Sufficiency Hub
+﻿# Swasembada: National Self-Sufficiency Hub
 
-> **Navigation:** [[00_INDEX|🏠 Index]] | [[II_Kebijakan_Pembangunan|Policy Framework]] | [[III_Prioritas_2_Memantapkan_Sistem_Pertahanan_Keamanan|PN 2: Kemandirian Bangsa]]
+> **Navigation:** [[00_INDEX|ðŸ  Index]] | [[II_Kebijakan_Pembangunan|Policy Framework]] | [[III_Prioritas_2_Memantapkan_Sistem_Pertahanan_Keamanan|PN 2: Kemandirian Bangsa]]
 
 ---
 publish: true
@@ -13,7 +13,7 @@ publish: true
 
 ---
 
-## 🌾 Swasembada Pangan (Food Self-Sufficiency)
+## ðŸŒ¾ Swasembada Pangan (Food Self-Sufficiency)
 
 ### Strategic Approach: Lumbung Pangan (Food Granaries)
 
@@ -35,7 +35,7 @@ Indonesia's food self-sufficiency strategy focuses on developing **regional food
 **Challenges:**
 - Deforestation and land degradation
 - Sustainability of monoculture systems
-- Climate vulnerability (El Niño impacts)
+- Climate vulnerability (El NiÃ±o impacts)
 
 #### [[IV_Wilayah_5_Kalimantan|Lumbung Pangan Kalimantan]]
 **Key Commodities:**
@@ -126,7 +126,7 @@ Indonesia's food self-sufficiency strategy focuses on developing **regional food
 **Key Principles:**
 - Synergy optimization between food, energy, and water systems
 - Resource efficiency (reduce water for irrigation, energy for pumping)
-- Circular economy (agricultural waste → energy, water recycling)
+- Circular economy (agricultural waste â†’ energy, water recycling)
 - Climate adaptation (drought-resistant crops, water conservation)
 
 **Applications:**
@@ -142,7 +142,7 @@ Indonesia's food self-sufficiency strategy focuses on developing **regional food
 
 ---
 
-## ⚡ Swasembada Energi (Energy Self-Sufficiency)
+## âš¡ Swasembada Energi (Energy Self-Sufficiency)
 
 ### Transisi Energi Berkeadilan (Just Energy Transition)
 
@@ -214,7 +214,7 @@ Indonesia's food self-sufficiency strategy focuses on developing **regional food
 
 ---
 
-## 💧 Swasembada Air (Water Self-Sufficiency)
+## ðŸ’§ Swasembada Air (Water Self-Sufficiency)
 
 ### Strategic Framework
 
@@ -285,33 +285,33 @@ Water management is inseparable from food and energy:
 
 ---
 
-## 🔗 Cross-Priority Integration
+## ðŸ”— Cross-Priority Integration
 
-### Swasembada ↔ Hilirisasi
-- **Food processing:** Agricultural commodities → value-added products
+### Swasembada â†” Hilirisasi
+- **Food processing:** Agricultural commodities â†’ value-added products
 - **Energy:** Bioenergy from agricultural/plantation waste
 - **Industrial water:** Water supply for processing facilities
 - **Link:** [[Hilirisasi_Hub|Hilirisasi Hub]]
 
-### Swasembada ↔ Pembangunan Desa
+### Swasembada â†” Pembangunan Desa
 - **Production base:** Villages as food production centers
 - **Infrastructure:** Rural electrification, water systems, storage
 - **Dana Desa:** Funding for agricultural and water infrastructure
 - **Link:** [[Pembangunan_Desa_Hub|Pembangunan Desa Hub]]
 
-### Swasembada ↔ Regional Development
+### Swasembada â†” Regional Development
 - **Geographic specialization:** Each region's comparative advantage
 - **Lumbung Pangan:** Strategic food hubs in Sumatera, Kalimantan, Papua
 - **Energy mapping:** Regional renewable resource assessment
 - **Link:** [[Wilayah_Hub|Wilayah Hub]]
 
-### Swasembada ↔ SDM
+### Swasembada â†” SDM
 - **Agricultural extension:** Technology transfer, training for farmers
 - **Research:** Agricultural science, water engineering, renewable energy R&D
 - **Health:** Nutrition (food security), safe water (sanitation)
 - **Link:** [[SDM_Hub|SDM Hub]]
 
-### Swasembada ↔ Environment
+### Swasembada â†” Environment
 - **Sustainable practices:** Conservation agriculture, watershed protection
 - **Climate adaptation:** Drought-resistant crops, flood management
 - **Ecosystem services:** Forest-water linkages, biodiversity in agroecosystems
@@ -319,7 +319,7 @@ Water management is inseparable from food and energy:
 
 ---
 
-## 📊 Key Performance Indicators
+## ðŸ“Š Key Performance Indicators
 
 **Food Security:**
 - Indeks Ketahanan Pangan (Food Security Index)
@@ -341,7 +341,7 @@ Water management is inseparable from food and energy:
 
 ---
 
-## 🗺️ Regional Implementation
+## ðŸ—ºï¸ Regional Implementation
 
 | Region | Food Strategy | Energy Strategy | Water Strategy |
 |--------|--------------|-----------------|----------------|
@@ -355,7 +355,7 @@ Water management is inseparable from food and energy:
 
 ---
 
-## 📚 Related Documents
+## ðŸ“š Related Documents
 
 ### Primary References
 - **[[III_Prioritas_2_Memantapkan_Sistem_Pertahanan_Keamanan|PN 2: Memantapkan Sistem Pertahanan Keamanan Negara dan Mendorong Kemandirian Bangsa]]**

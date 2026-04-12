@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "8"
 judul: "Nilai Ekonomi Karbon dan Bursa Karbon"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "90 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - NEK
   - carbon-market
   - bursa-karbon
@@ -50,7 +50,7 @@ graph LR
     B --> F[BAB 10: Sektoral]
 ```
 
-Bab ini terkait erat dengan [[Buku-Ajar-Hukum-Perubahan-Iklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6 tentang Pendanaan]] karena pasar karbon merupakan salah satu instrumen pendanaan iklim, dan [[Buku-Ajar-Hukum-Perubahan-Iklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7 tentang Kerangka Hukum Indonesia]] yang membahas regulasi iklim nasional secara umum.
+Bab ini terkait erat dengan [[Buku-Ajar-Hukum-06-PerubahanIklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6 tentang Pendanaan]] karena pasar karbon merupakan salah satu instrumen pendanaan iklim, dan [[Buku-Ajar-Hukum-06-PerubahanIklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7 tentang Kerangka Hukum Indonesia]] yang membahas regulasi iklim nasional secara umum.
 
 ### 5. Peta Konsep Bab
 
@@ -83,13 +83,13 @@ mindmap
 
 #### 1.1 Eksternalitas dan Internalisasi
 
-Pemahaman tentang nilai ekonomi karbon dimulai dari konsep fundamental dalam ilmu ekonomi: **eksternalitas**. Ketika sebuah pabrik membakar batubara untuk menghasilkan listrik, ia tidak hanya memproduksi energi tetapi juga melepaskan karbon dioksida ke atmosfer. Biaya kerusakan iklim akibat emisi ini—banjir pesisir, gagal panen, gelombang panas yang mematikan—tidak tercermin dalam harga listrik yang dibayar konsumen. Inilah yang disebut eksternalitas negatif: biaya yang ditanggung oleh pihak ketiga (masyarakat global, generasi mendatang) tanpa kompensasi.[^1]
+Pemahaman tentang nilai ekonomi karbon dimulai dari konsep fundamental dalam ilmu ekonomi: **eksternalitas**. Ketika sebuah pabrik membakar batubara untuk menghasilkan listrik, ia tidak hanya memproduksi energi tetapi juga melepaskan karbon dioksida ke atmosfer. Biaya kerusakan iklim akibat emisi iniâ€”banjir pesisir, gagal panen, gelombang panas yang mematikanâ€”tidak tercermin dalam harga listrik yang dibayar konsumen. Inilah yang disebut eksternalitas negatif: biaya yang ditanggung oleh pihak ketiga (masyarakat global, generasi mendatang) tanpa kompensasi.[^1]
 
 Dalam teori ekonomi klasik, eksternalitas menyebabkan *kegagalan pasar* (*market failure*). Harga yang "terlalu murah" mendorong konsumsi berlebihan atas barang yang sebenarnya mahal secara sosial. Arthur Pigou, ekonom Universitas Cambridge, pertama kali mengusulkan solusi pada tahun 1920: kenakan pajak pada aktivitas yang menghasilkan eksternalitas sehingga harga mencerminkan biaya sosial sesungguhnya.[^2] Inilah asal mula konsep "internalisasi eksternalitas" yang menjadi fondasi seluruh kerangka nilai ekonomi karbon.
 
-Ukuran eksternalitas emisi GRK sangatlah besar. Laporan Stern menyebutkan bahwa biaya sosial karbon (*social cost of carbon*) berkisar antara USD 85-105 per ton CO₂—memperhitungkan dampak jangka panjang seperti kerusakan infrastruktur pesisir, penurunan produktivitas pertanian, dan peningkatan biaya kesehatan.[^3] Namun, harga karbon di sebagian besar pasar dunia masih jauh di bawah angka tersebut, menunjukkan bahwa eksternalitas belum sepenuhnya terinternalisasi.
+Ukuran eksternalitas emisi GRK sangatlah besar. Laporan Stern menyebutkan bahwa biaya sosial karbon (*social cost of carbon*) berkisar antara USD 85-105 per ton COâ‚‚â€”memperhitungkan dampak jangka panjang seperti kerusakan infrastruktur pesisir, penurunan produktivitas pertanian, dan peningkatan biaya kesehatan.[^3] Namun, harga karbon di sebagian besar pasar dunia masih jauh di bawah angka tersebut, menunjukkan bahwa eksternalitas belum sepenuhnya terinternalisasi.
 
-Indonesia mengadopsi pendekatan internalisasi ini melalui Perpres 98/2021 yang mendefinisikan NEK sebagai "nilai setiap unit emisi gas rumah kaca yang dihasilkan dari kegiatan manusia dan kegiatan ekonomi."[^4] Dengan menetapkan harga pada karbon—baik melalui pajak, perdagangan emisi, atau mekanisme lainnya—pencemar dipaksa memperhitungkan dampak lingkungan dalam keputusan ekonominya. Hasilnya: insentif untuk mengurangi emisi, berinvestasi dalam teknologi bersih, dan beralih ke energi terbarukan.
+Indonesia mengadopsi pendekatan internalisasi ini melalui Perpres 98/2021 yang mendefinisikan NEK sebagai "nilai setiap unit emisi gas rumah kaca yang dihasilkan dari kegiatan manusia dan kegiatan ekonomi."[^4] Dengan menetapkan harga pada karbonâ€”baik melalui pajak, perdagangan emisi, atau mekanisme lainnyaâ€”pencemar dipaksa memperhitungkan dampak lingkungan dalam keputusan ekonominya. Hasilnya: insentif untuk mengurangi emisi, berinvestasi dalam teknologi bersih, dan beralih ke energi terbarukan.
 
 [^1]: Stern N, *The Economics of Climate Change: The Stern Review* (Cambridge University Press 2007) 27-35.
 [^2]: Pigou AC, *The Economics of Welfare* (4th edn, Macmillan 1932) Part II Ch 9.
@@ -104,7 +104,7 @@ Secara global, terdapat tiga instrumen utama untuk menetapkan harga pada karbon.
 
 Sistem *cap and trade* bekerja dengan menetapkan batas (*cap*) total emisi yang diizinkan dalam suatu yurisdiksi atau sektor. Pemerintah menerbitkan izin emisi (*allowances*) sejumlah cap tersebut, lalu entitas yang emisinya melebihi izin yang dimiliki wajib membeli izin tambahan dari pihak yang memiliki surplus. Mekanisme ini menciptakan pasar di mana harga karbon ditentukan oleh interaksi penawaran dan permintaan.[^5]
 
-Contoh paling sukses adalah EU Emissions Trading System (EU ETS) yang telah beroperasi sejak 2005 dan kini mencakup sekitar 40% emisi Uni Eropa. Pada 2023, harga karbon di EU ETS mencapai lebih dari EUR 80 per ton—tertinggi di dunia—mencerminkan cap yang semakin ketat seiring waktu.[^6] Kelebihan utama *cap and trade* adalah kepastian kuantitas: total emisi dijamin tidak melebihi cap. Kelemahannya adalah volatilitas harga, yang dapat menciptakan ketidakpastian bagi dunia usaha dalam perencanaan investasi.
+Contoh paling sukses adalah EU Emissions Trading System (EU ETS) yang telah beroperasi sejak 2005 dan kini mencakup sekitar 40% emisi Uni Eropa. Pada 2023, harga karbon di EU ETS mencapai lebih dari EUR 80 per tonâ€”tertinggi di duniaâ€”mencerminkan cap yang semakin ketat seiring waktu.[^6] Kelebihan utama *cap and trade* adalah kepastian kuantitas: total emisi dijamin tidak melebihi cap. Kelemahannya adalah volatilitas harga, yang dapat menciptakan ketidakpastian bagi dunia usaha dalam perencanaan investasi.
 
 **Sistem Baseline and Credit (Offset)**
 
@@ -114,9 +114,9 @@ Clean Development Mechanism (CDM) di bawah Protokol Kyoto adalah contoh klasik s
 
 **Pajak Karbon (Carbon Tax)**
 
-Pajak karbon adalah pendekatan paling sederhana: pemerintah menetapkan tarif pajak per ton emisi GRK. Berbeda dengan *cap and trade*, pajak karbon memberikan kepastian harga tetapi bukan kepastian kuantitas—respons emisi bergantung pada elastisitas permintaan dan ketersediaan alternatif bersih.[^9]
+Pajak karbon adalah pendekatan paling sederhana: pemerintah menetapkan tarif pajak per ton emisi GRK. Berbeda dengan *cap and trade*, pajak karbon memberikan kepastian harga tetapi bukan kepastian kuantitasâ€”respons emisi bergantung pada elastisitas permintaan dan ketersediaan alternatif bersih.[^9]
 
-Sekitar 30 yurisdiksi telah menerapkan pajak karbon, dengan tarif bervariasi dari USD 1/ton (Polandia) hingga USD 137/ton (Swedia).[^10] Indonesia berencana menerapkan pajak karbon pada sektor ketenagalistrikan dengan tarif Rp 30.000/ton CO₂e (sekitar USD 2/ton), meskipun implementasinya telah ditunda beberapa kali dari rencana awal April 2022.[^11]
+Sekitar 30 yurisdiksi telah menerapkan pajak karbon, dengan tarif bervariasi dari USD 1/ton (Polandia) hingga USD 137/ton (Swedia).[^10] Indonesia berencana menerapkan pajak karbon pada sektor ketenagalistrikan dengan tarif Rp 30.000/ton COâ‚‚e (sekitar USD 2/ton), meskipun implementasinya telah ditunda beberapa kali dari rencana awal April 2022.[^11]
 
 **Perbandingan Instrumen**
 
@@ -128,9 +128,9 @@ Sekitar 30 yurisdiksi telah menerapkan pajak karbon, dengan tarif bervariasi dar
 
 **Tabel 8.1.** Perbandingan instrumen penetapan harga karbon
 
-[^5]: Bodansky D, Brunnée J and Rajamani L, *International Climate Change Law* (Oxford University Press 2017) 248-253.
+[^5]: Bodansky D, BrunnÃ©e J and Rajamani L, *International Climate Change Law* (Oxford University Press 2017) 248-253.
 [^6]: ICAP, *Emissions Trading Worldwide: Status Report 2023* (ICAP Secretariat 2023) 32.
-[^7]: Bodansky, Brunnée and Rajamani (n 5) 254-258.
+[^7]: Bodansky, BrunnÃ©e and Rajamani (n 5) 254-258.
 [^8]: Wara M, 'Is the Global Carbon Market Working?' (2007) 445 Nature 595.
 [^9]: World Bank, *State and Trends of Carbon Pricing 2023* (World Bank Group 2023) 20-25.
 [^10]: ibid 22.
@@ -152,7 +152,7 @@ Pasal 1 angka 1 Perpres 98/2021 mendefinisikan NEK sebagai:
 
 > "Nilai setiap unit emisi gas rumah kaca yang dihasilkan dari kegiatan manusia dan kegiatan ekonomi."[^14]
 
-Definisi ini luas dan mencakup seluruh emisi antropogenik, baik dari sektor energi, industri, pertanian, kehutanan, maupun limbah. NEK bukan sekadar "harga karbon" dalam pengertian sempit, melainkan konsep payung yang mencakup berbagai instrumen untuk memberikan nilai ekonomi pada setiap unit emisi—baik sebagai biaya (melalui pungutan) maupun sebagai aset (melalui kredit yang dapat diperdagangkan).
+Definisi ini luas dan mencakup seluruh emisi antropogenik, baik dari sektor energi, industri, pertanian, kehutanan, maupun limbah. NEK bukan sekadar "harga karbon" dalam pengertian sempit, melainkan konsep payung yang mencakup berbagai instrumen untuk memberikan nilai ekonomi pada setiap unit emisiâ€”baik sebagai biaya (melalui pungutan) maupun sebagai aset (melalui kredit yang dapat diperdagangkan).
 
 #### 2.3 Empat Instrumen NEK
 
@@ -174,7 +174,7 @@ Instrumen ini memungkinkan Indonesia menerima pembayaran dari donor internasiona
 
 **Instrumen Ketiga: Pungutan atas Karbon (Carbon Levy)**
 
-Pungutan karbon adalah pajak per unit emisi yang dipungut pemerintah.[^18] Berbeda dengan perdagangan karbon, pungutan tidak menciptakan pasar—melainkan beban fiskal langsung pada pencemar. UU 7/2021 tentang Harmonisasi Peraturan Perpajakan mengatur dasar hukum pajak karbon dengan tarif Rp 30.000/ton CO₂e untuk sektor ketenagalistrikan.[^19]
+Pungutan karbon adalah pajak per unit emisi yang dipungut pemerintah.[^18] Berbeda dengan perdagangan karbon, pungutan tidak menciptakan pasarâ€”melainkan beban fiskal langsung pada pencemar. UU 7/2021 tentang Harmonisasi Peraturan Perpajakan mengatur dasar hukum pajak karbon dengan tarif Rp 30.000/ton COâ‚‚e untuk sektor ketenagalistrikan.[^19]
 
 **Instrumen Keempat: Instrumen Lainnya**
 
@@ -220,7 +220,7 @@ Signifikansi IDX Carbon melampaui aspek teknis perdagangan. Keberadaan bursa kar
 
 IDX Carbon memperdagangkan beberapa jenis unit karbon dengan karakteristik berbeda:[^25]
 
-**Sertifikat Persetujuan Emisi (SPE)** adalah unit dalam sistem *cap and trade* sektor ketenagalistrikan. Setiap SPE mewakili hak untuk melepaskan 1 ton CO₂e. Pembangkit listrik yang emisinya melebihi jatah SPE wajib membeli dari pasar; yang efisien dapat menjual surplus.
+**Sertifikat Persetujuan Emisi (SPE)** adalah unit dalam sistem *cap and trade* sektor ketenagalistrikan. Setiap SPE mewakili hak untuk melepaskan 1 ton COâ‚‚e. Pembangkit listrik yang emisinya melebihi jatah SPE wajib membeli dari pasar; yang efisien dapat menjual surplus.
 
 **Offset Karbon** dihasilkan dari proyek pengurangan emisi di luar sektor yang diatur *cap and trade*. Offset dapat berasal dari proyek energi terbarukan, efisiensi energi, pengelolaan limbah, atau kehutanan (REDD+). Verifikasi dilakukan oleh lembaga verifikasi terakreditasi.
 
@@ -243,17 +243,17 @@ Sektor ketenagalistrikan dipilih sebagai sektor pilot dengan pertimbangan strate
 
 Pertama, sektor ini merupakan **kontributor emisi terbesar** di Indonesia, menyumbang sekitar 40% emisi nasional dari pembakaran batubara dan gas untuk pembangkitan listrik. Kedua, sektor ketenagalistrikan relatif **terkonsentrasi** dengan jumlah pemain terbatas (PLN dan produsen listrik swasta besar), memudahkan pengawasan dan penegakan. Ketiga, **data emisi tersedia** karena pelaporan produksi listrik dan konsumsi bahan bakar sudah mapan.
 
-Sistem *cap and trade* sektor ketenagalistrikan menggunakan pendekatan **intensitas emisi** (*intensity-based*) alih-alih batas absolut. Pembangkit listrik dengan kapasitas di atas 100 MW wajib memenuhi standar intensitas emisi maksimum 0,9 tCO₂/MWh. Pendekatan ini memungkinkan pertumbuhan produksi listrik sambil mendorong efisiensi.
+Sistem *cap and trade* sektor ketenagalistrikan menggunakan pendekatan **intensitas emisi** (*intensity-based*) alih-alih batas absolut. Pembangkit listrik dengan kapasitas di atas 100 MW wajib memenuhi standar intensitas emisi maksimum 0,9 tCOâ‚‚/MWh. Pendekatan ini memungkinkan pertumbuhan produksi listrik sambil mendorong efisiensi.
 
 > [!example] **Ilustrasi: Mekanisme Perdagangan SPE**
 >
-> PLTU Batang memiliki intensitas emisi 0,8 tCO₂/MWh, di bawah *cap* 0,9 tCO₂/MWh. Jika produksi tahunan 5 juta MWh, maka PLTU Batang memiliki surplus:
+> PLTU Batang memiliki intensitas emisi 0,8 tCOâ‚‚/MWh, di bawah *cap* 0,9 tCOâ‚‚/MWh. Jika produksi tahunan 5 juta MWh, maka PLTU Batang memiliki surplus:
 >
-> (0,9 - 0,8) × 5.000.000 = 500.000 ton CO₂ surplus SPE
+> (0,9 - 0,8) Ã— 5.000.000 = 500.000 ton COâ‚‚ surplus SPE
 >
-> Di sisi lain, PLTU Tanjung Jati B dengan intensitas 0,95 tCO₂/MWh dan produksi 6 juta MWh memiliki defisit:
+> Di sisi lain, PLTU Tanjung Jati B dengan intensitas 0,95 tCOâ‚‚/MWh dan produksi 6 juta MWh memiliki defisit:
 >
-> (0,95 - 0,9) × 6.000.000 = 300.000 ton CO₂ defisit SPE
+> (0,95 - 0,9) Ã— 6.000.000 = 300.000 ton COâ‚‚ defisit SPE
 >
 > PLTU Tanjung Jati B wajib membeli 300.000 SPE dari pasar, yang dapat dipasok oleh PLTU Batang atau pembangkit efisien lainnya.
 
@@ -261,7 +261,7 @@ Sistem *cap and trade* sektor ketenagalistrikan menggunakan pendekatan **intensi
 
 #### 3.4 Kinerja Awal dan Perkembangan
 
-Pada periode awal perdagangan (September-Desember 2023), IDX Carbon mencatat volume transaksi sekitar 500.000 ton CO₂e dengan nilai transaksi mencapai Rp 30 miliar.[^27] Harga karbon berfluktuasi antara Rp 30.000-69.600 per ton CO₂e (sekitar USD 2-4,5/ton), jauh di bawah harga di pasar karbon yang lebih mapan seperti EU ETS.
+Pada periode awal perdagangan (September-Desember 2023), IDX Carbon mencatat volume transaksi sekitar 500.000 ton COâ‚‚e dengan nilai transaksi mencapai Rp 30 miliar.[^27] Harga karbon berfluktuasi antara Rp 30.000-69.600 per ton COâ‚‚e (sekitar USD 2-4,5/ton), jauh di bawah harga di pasar karbon yang lebih mapan seperti EU ETS.
 
 Meskipun volume masih terbatas, beberapa perkembangan positif patut dicatat. Kesadaran korporat terhadap risiko karbon meningkat, tercermin dari partisipasi aktif perusahaan-perusahaan besar dalam perdagangan. Infrastruktur teknis bursa berjalan stabil tanpa gangguan signifikan. Regulasi pendukung terus disempurnakan melalui koordinasi OJK, KLHK, dan Kementerian ESDM.
 
@@ -275,7 +275,7 @@ Meskipun volume masih terbatas, beberapa perkembangan positif patut dicatat. Kes
 
 **Likuiditas Pasar yang Rendah**
 
-Likuiditas—kemampuan membeli atau menjual unit tanpa mempengaruhi harga secara signifikan—masih menjadi tantangan utama. Dengan volume transaksi harian rata-rata hanya puluhan ribu ton, pasar rentan terhadap manipulasi dan kesulitan dalam *price discovery* yang efisien. Likuiditas rendah juga mengurangi insentif bagi *market maker* dan spekulan yang biasanya menyediakan likuiditas di pasar keuangan.[^28]
+Likuiditasâ€”kemampuan membeli atau menjual unit tanpa mempengaruhi harga secara signifikanâ€”masih menjadi tantangan utama. Dengan volume transaksi harian rata-rata hanya puluhan ribu ton, pasar rentan terhadap manipulasi dan kesulitan dalam *price discovery* yang efisien. Likuiditas rendah juga mengurangi insentif bagi *market maker* dan spekulan yang biasanya menyediakan likuiditas di pasar keuangan.[^28]
 
 **Harga Karbon yang Sangat Rendah**
 
@@ -292,7 +292,7 @@ Pasal 6 Paris Agreement membuka peluang perdagangan karbon antarnegara melalui m
 [^28]: Smits J (ed), *Climate Change Governance and Sustainable Finance* (Edward Elgar 2024) Ch 8.
 [^29]: World Bank (n 9) 28.
 [^30]: Diantoro TD, 'Carbon Market Development in Indonesia: Challenges and Opportunities' (2023) 15 Climate Policy 112.
-[^31]: Bodansky, Brunnée and Rajamani (n 5) 318-325.
+[^31]: Bodansky, BrunnÃ©e and Rajamani (n 5) 318-325.
 
 #### 4.2 Peluang dan Prospek
 
@@ -344,7 +344,7 @@ Pada bab ini, kita telah mempelajari:
 
 - **Tiga Instrumen Utama:** *Cap and trade* memberikan kepastian kuantitas pengurangan, *baseline and credit* memberikan fleksibilitas, dan pajak karbon memberikan kepastian harga.
 
-- **Perpres 98/2021:** Indonesia membangun kerangka hukum NEK komprehensif dengan empat instrumen—perdagangan karbon, *payment for performance*, pungutan karbon, dan instrumen lainnya.
+- **Perpres 98/2021:** Indonesia membangun kerangka hukum NEK komprehensif dengan empat instrumenâ€”perdagangan karbon, *payment for performance*, pungutan karbon, dan instrumen lainnya.
 
 - **Bursa Karbon Indonesia:** Diluncurkan September 2023 di BEI dengan sektor ketenagalistrikan sebagai pilot, memperdagangkan SPE dan offset karbon.
 
@@ -379,7 +379,7 @@ Kerjakan latihan berikut untuk memperdalam pemahaman Anda:
    - Empat instrumen yang diatur
    - Kewenangan masing-masing lembaga
 
-4. **Analisis Kasus:** Sebuah PLTU memiliki intensitas emisi 0,95 tCO₂/MWh, melebihi *cap* 0,9 tCO₂/MWh. Jika PLTU tersebut memproduksi 1 juta MWh per tahun, berapa SPE yang harus dibeli? Berapa biayanya jika harga SPE adalah USD 5/ton?
+4. **Analisis Kasus:** Sebuah PLTU memiliki intensitas emisi 0,95 tCOâ‚‚/MWh, melebihi *cap* 0,9 tCOâ‚‚/MWh. Jika PLTU tersebut memproduksi 1 juta MWh per tahun, berapa SPE yang harus dibeli? Berapa biayanya jika harga SPE adalah USD 5/ton?
 
 5. **Pemikiran Kritis:** Mengapa harga karbon di Indonesia sangat rendah dibandingkan EU ETS? Apa implikasinya terhadap efektivitas pengurangan emisi?
 
@@ -437,7 +437,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-b, 3-c, 4-c, 5-c, 6-S, 7-B, 8-B, 9-S, 10-B
 
@@ -449,7 +449,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-09-Perbandingan-Hukum-Iklim_BAB-09|BAB 9]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-06-PerubahanIklim-09-Perbandingan-Hukum-Iklim_BAB-09|BAB 9]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -502,10 +502,11 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - [[01-Traktat_Paris_Agreement_2015]] - Pasal 6 tentang mekanisme pasar
 
 **Navigasi Buku:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7: Kerangka Hukum Iklim Indonesia]]
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-09-Perbandingan-Hukum-Iklim_BAB-09|BAB 9: Studi Perbandingan Hukum Iklim]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-07-Kerangka-Hukum-Indonesia_BAB-07|BAB 7: Kerangka Hukum Iklim Indonesia]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-09-Perbandingan-Hukum-Iklim_BAB-09|BAB 9: Studi Perbandingan Hukum Iklim]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 8*
+

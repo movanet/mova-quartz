@@ -1,10 +1,10 @@
----
+﻿---
 publish: true
 title: "Buku Ajar Hukum Perubahan Iklim"
 description: "Materi kuliah komprehensif tentang hukum perubahan iklim untuk mahasiswa hukum Indonesia"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - teaching
 ---
 
@@ -102,3 +102,4 @@ Mulai dengan memahami konteks dan tujuan pembelajaran:
 3. **Praktisi**: Gunakan sebagai referensi untuk kasus-kasus spesifik
 
 > **Catatan**: Materi ini dilindungi password. Hubungi pengajar untuk akses.
+

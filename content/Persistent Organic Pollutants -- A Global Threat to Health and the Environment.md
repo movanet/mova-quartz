@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -37,4 +37,5 @@ The widespread distribution and bioaccumulation of POPs have led to numerous hea
 ## International Response to POPs
 
 Recognizing the global threat posed by POPs, the international community has taken action to address their production, use, and release. The Stockholm Convention on Persistent Organic Pollutants, adopted in 2001, is a global treaty that aims to protect human health and the environment from POPs. The Convention initially targeted 12 POPs, known as the "dirty dozen," and has since expanded to include additional chemicals. It requires parties to take measures to eliminate or reduce the release of POPs, develop national implementation plans, and promote research, information exchange, and public awareness.
+
 

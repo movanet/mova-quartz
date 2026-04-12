@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -36,7 +36,7 @@ Di tingkat individu, salah satu hambatan mungkin sistem kepercayaan. Berpikir ke
 
 Agama (Islam) sebenarnya mengajarkan umatnya untuk melakukan ikhtiar (usaha keras) dan tawakkal (percaya pada rencana Tuhan). Ini adalah ajaran agama bahwa Tuhan tidak akan mengubah keadaan suatu kaum sebelum mereka sendiri mengubah apa yang ada dalam diri mereka. Namun, entah bagaimana, bagi beberapa orang, pendekatan tawakkal tampaknya lebih ditekankan sementara ikhtiar kurang ditekankan.
 
-Sebenarnya ada beberapa konsep dalam Hukum Islam, seperti Sadd al-Ḏh̲arāʾiʿ (menutup jalan yang dapat mengarah pada kejahatan) yang dianggap berasal dari prinsip maslaha (kebaikan umum). Menurut beberapa sarjana, prinsip kehati-hatian sangat sejalan dengan konsep-konsep tersebut. Oleh karena itu sangat penting bagi pemerintah untuk terlibat dalam komunikasi dengan para ulama dan intelektual Islam untuk mencoba menginternalisasi etika kehati-hatian di kalangan masyarakat.
+Sebenarnya ada beberapa konsep dalam Hukum Islam, seperti Sadd al-á¸ŽhÌ²arÄÊ¾iÊ¿ (menutup jalan yang dapat mengarah pada kejahatan) yang dianggap berasal dari prinsip maslaha (kebaikan umum). Menurut beberapa sarjana, prinsip kehati-hatian sangat sejalan dengan konsep-konsep tersebut. Oleh karena itu sangat penting bagi pemerintah untuk terlibat dalam komunikasi dengan para ulama dan intelektual Islam untuk mencoba menginternalisasi etika kehati-hatian di kalangan masyarakat.
 
 Dalam praktiknya, ini berarti bahwa semua jenis intervensi non-farmasi seperti mengenakan masker, menjaga jarak sosial, dan bekerja dari rumah harus diinternalisasi sebagai bentuk ikhtiar. Memilih alternatif yang efektif biaya untuk mencegah bahaya bagi diri sendiri dan orang lain (etika kehati-hatian) juga merupakan bentuk ikhtiar. Saya percaya bahwa selain tawakkal (berserah diri kepada Tuhan), orang akan diadili di akhirat menurut ikhtiar mereka (usaha keras untuk mencapai hasil terbaik) - yang mencakup juga cara mereka bernalar, yaitu bagaimana mereka menggunakan akal (aql) mereka.
 
@@ -44,3 +44,4 @@ Dengan demikian, prinsip kehati-hatian memiliki peran penting dalam melindungi i
 
 
 tags: #precaution #ethics #covid
+

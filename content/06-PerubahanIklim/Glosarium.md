@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -200,10 +200,11 @@ Glosarium ini menyusun istilah-istilah kunci dari seluruh 16 bab dalam buku ajar
 ---
 
 **Navigasi:**
-- ← [[Daftar-Pustaka|Daftar Pustaka]]
-- → [[Indeks|Indeks]]
-- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Daftar-Pustaka|Daftar Pustaka]]
+- â†’ [[Indeks|Indeks]]
+- â†‘ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | Glosarium*
+

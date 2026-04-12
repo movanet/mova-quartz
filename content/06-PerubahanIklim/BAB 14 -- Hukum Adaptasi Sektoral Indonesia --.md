@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "14"
 judul: "Hukum Adaptasi Sektoral Indonesia"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "120 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - adaptasi
   - sektoral
   - Indonesia
@@ -39,7 +39,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Indonesia adalah negara kepulauan dengan kerentanan tinggi terhadap dampak perubahan iklim: 108.000 km garis pantai terancam kenaikan muka laut, 150 juta penduduk menghadapi kelangkaan air, dan 25% tenaga kerja di sektor pertanian yang sangat sensitif iklim. Respons adaptasi tidak dapat dilakukan secara generik—setiap sektor memerlukan pendekatan hukum yang spesifik. Bab ini akan memandu Anda menelusuri lanskap regulasi adaptasi di berbagai sektor prioritas Indonesia dan mengidentifikasi bagaimana kerangka hukum dapat diperkuat.
+Indonesia adalah negara kepulauan dengan kerentanan tinggi terhadap dampak perubahan iklim: 108.000 km garis pantai terancam kenaikan muka laut, 150 juta penduduk menghadapi kelangkaan air, dan 25% tenaga kerja di sektor pertanian yang sangat sensitif iklim. Respons adaptasi tidak dapat dilakukan secara generikâ€”setiap sektor memerlukan pendekatan hukum yang spesifik. Bab ini akan memandu Anda menelusuri lanskap regulasi adaptasi di berbagai sektor prioritas Indonesia dan mengidentifikasi bagaimana kerangka hukum dapat diperkuat.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -50,7 +50,7 @@ graph LR
     B --> D[BAB 10: Hukum Iklim Sektoral]
 ```
 
-Bab ini menerapkan prinsip-prinsip kerangka internasional dari [[Buku-Ajar-Hukum-Perubahan-Iklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13]] ke dalam konteks regulasi sektoral Indonesia. Pemahaman ini menjadi fondasi untuk memahami [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15]] tentang kerugian dan kerusakan yang terjadi ketika adaptasi tidak memadai, dan melengkapi [[Buku-Ajar-Hukum-Perubahan-Iklim-10-Hukum-Iklim-Sektoral_BAB-10|BAB 10]] yang lebih fokus pada mitigasi sektoral.
+Bab ini menerapkan prinsip-prinsip kerangka internasional dari [[Buku-Ajar-Hukum-06-PerubahanIklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13]] ke dalam konteks regulasi sektoral Indonesia. Pemahaman ini menjadi fondasi untuk memahami [[Buku-Ajar-Hukum-06-PerubahanIklim-15-Loss-and-Damage_BAB-15|BAB 15]] tentang kerugian dan kerusakan yang terjadi ketika adaptasi tidak memadai, dan melengkapi [[Buku-Ajar-Hukum-06-PerubahanIklim-10-Hukum-Iklim-Sektoral_BAB-10|BAB 10]] yang lebih fokus pada mitigasi sektoral.
 
 ### 5. Peta Konsep Bab
 
@@ -154,7 +154,7 @@ Indonesia memiliki kerentanan pesisir yang sangat tinggi:
 
 > [!quote] **Kutipan**
 > "Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil dilaksanakan dengan tujuan: ... (c) menjamin kepastian hukum dan keadilan bagi Masyarakat di Wilayah Pesisir dan Pulau-Pulau Kecil."
-> — *UU 27/2007, Pasal 4*[^3]
+> â€” *UU 27/2007, Pasal 4*[^3]
 
 #### 2.3 Tiga Model Respons Adaptasi Pesisir
 
@@ -181,7 +181,7 @@ Seperti dibahas dalam BAB 13, tiga model respons adaptasi diterapkan berbeda di 
 > - **Opsi Retreat:** Memindahkan ibukota (dilaksanakan melalui IKN)
 > - **Opsi Accommodate:** Polder system seperti Belanda
 >
-> Keputusan akhir—membangun IKN di Kalimantan—adalah kombinasi *retreat* (memindahkan pusat pemerintahan) dan *protect* (tetap mempertahankan Jakarta dengan infrastruktur).
+> Keputusan akhirâ€”membangun IKN di Kalimantanâ€”adalah kombinasi *retreat* (memindahkan pusat pemerintahan) dan *protect* (tetap mempertahankan Jakarta dengan infrastruktur).
 
 #### 2.4 Adaptasi Berbasis Ekosistem: Mangrove
 
@@ -219,7 +219,7 @@ Mangrove adalah *nature-based solution* paling efektif untuk adaptasi pesisir:
 
 | Regulasi | Ketentuan Adaptasi |
 |----------|-------------------|
-| **UU 17/2019** | Sumber Daya Air—pengelolaan terpadu, konservasi[^12] |
+| **UU 17/2019** | Sumber Daya Airâ€”pengelolaan terpadu, konservasi[^12] |
 | **PP 22/2021** | Penyelenggaraan Perlindungan dan Pengelolaan LH[^13] |
 | **Permen PUPR** | Standar teknis infrastruktur air |
 | **RAN-API Klaster Ketahanan Ekonomi** | Strategi adaptasi sektor air |
@@ -287,7 +287,7 @@ Pasal 3 menetapkan asas pengelolaan sumber daya air yang relevan dengan adaptasi
 | Regulasi | Ketentuan Adaptasi |
 |----------|-------------------|
 | **UU 22/2019** | Sistem Budidaya Pertanian Berkelanjutan |
-| **UU 18/2012** | Pangan—ketahanan dan kedaulatan pangan |
+| **UU 18/2012** | Panganâ€”ketahanan dan kedaulatan pangan |
 | **UU 19/2013** | Perlindungan dan Pemberdayaan Petani |
 | **Permentan** | Kalender tanam, varietas adaptif |
 
@@ -295,7 +295,7 @@ Pasal 3 menetapkan asas pengelolaan sumber daya air yang relevan dengan adaptasi
 
 > [!quote] **Kutipan**
 > "Sistem Budi Daya Pertanian Berkelanjutan ... bertujuan untuk: (a) meningkatkan produktivitas; (b) meningkatkan pendapatan; (c) meningkatkan kesejahteraan Petani; (d) melindungi sumber daya alam..."
-> — *UU 22/2019, Pasal 3*[^5]
+> â€” *UU 22/2019, Pasal 3*[^5]
 
 #### 4.3 Strategi Hukum Adaptasi Pertanian
 
@@ -352,7 +352,7 @@ Perubahan iklim mempengaruhi kesehatan melalui berbagai jalur:
 
 | Regulasi | Ketentuan Adaptasi |
 |----------|-------------------|
-| **UU 36/2009** | Kesehatan—termasuk kesehatan lingkungan[^15] |
+| **UU 36/2009** | Kesehatanâ€”termasuk kesehatan lingkungan[^15] |
 | **UU 6/2018** | Kekarantinaan Kesehatan |
 | **Permenkes 1501/2010** | Jenis penyakit yang dapat menimbulkan wabah |
 | **Permenkes tentang Surveilans** | Sistem surveilans penyakit |
@@ -421,7 +421,7 @@ Standar desain infrastruktur Indonesia perlu diperbarui untuk mengakomodasi:
 |-----------|------|
 | Tingkat urbanisasi | 56% (2020), proyeksi 70% (2045) |
 | Penurunan tanah Jakarta | 25 cm/tahun di beberapa area |
-| Urban heat island | +2-3°C dibanding rural |
+| Urban heat island | +2-3Â°C dibanding rural |
 | Kerugian banjir perkotaan | IDR 10+ triliun/tahun |
 
 **Tabel 14.8.** Indikator kerentanan perkotaan Indonesia
@@ -471,8 +471,8 @@ Standar desain infrastruktur Indonesia perlu diperbarui untuk mengakomodasi:
 
 Hutan dan gambut berfungsi ganda sebagai:
 - **Penyerap karbon** (mitigasi)
-- **Pengatur hidrologi** (adaptasi)—mencegah banjir dan kekeringan
-- **Penyedia jasa ekosistem**—air bersih, pengaturan iklim mikro
+- **Pengatur hidrologi** (adaptasi)â€”mencegah banjir dan kekeringan
+- **Penyedia jasa ekosistem**â€”air bersih, pengaturan iklim mikro
 
 **Data Kunci:**
 - Tutupan hutan: 92 juta ha (60% daratan)
@@ -501,7 +501,7 @@ Target ambisius Indonesia: sektor kehutanan dan penggunaan lahan menjadi penyera
 
 **Kerangka Hukum Pendukung:**
 - REDD+ dan pembayaran berbasis hasil
-- Perhutanan sosial (PS)—12,7 juta ha untuk masyarakat
+- Perhutanan sosial (PS)â€”12,7 juta ha untuk masyarakat
 - Moratorium hutan primer dan gambut
 
 ---
@@ -783,7 +783,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-c, 2-b, 3-c, 4-b, 5-c, 6-S, 7-B, 8-S, 9-B, 10-S
 
@@ -795,7 +795,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-06-PerubahanIklim-15-Loss-and-Damage_BAB-15|BAB 15]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -886,10 +886,11 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 **Navigasi Buku:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13: Kerangka Hukum Adaptasi Internasional]]
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-13-Kerangka-Hukum-Adaptasi-Intl_BAB-13|BAB 13: Kerangka Hukum Adaptasi Internasional]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 14*
+

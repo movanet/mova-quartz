@@ -1,10 +1,10 @@
----
+﻿---
 title: "Perubahan Iklim dan Hukum Lingkungan"
 description: "Bab kedua buku ajar Hukum Lingkungan yang membahas kerangka hukum internasional perubahan iklim (UNFCCC, Protokol Kyoto, Persetujuan Paris), kebijakan iklim nasional Indonesia (NDC, perdagangan karbon, FOLU Net Sink), litigasi iklim global dan domestik, serta adaptasi dan mitigasi dalam konteks hukum."
 date: 2026-04-09
 tags:
   - hukum-lingkungan
-  - perubahan-iklim
+  - 06-PerubahanIklim
   - climate-change
   - UNFCCC
   - Paris-Agreement
@@ -21,9 +21,9 @@ publish: true
 # Perubahan Iklim dan Hukum Lingkungan
 
 **Navigasi:**
-- [[01_Konsep_Dasar_Prinsip|← Konsep Dasar dan Prinsip]]
-- [[README|↑ Index]]
-- [[03_Perencanaan_Lingkungan|Perencanaan Lingkungan →]]
+- [[01_Konsep_Dasar_Prinsip|â† Konsep Dasar dan Prinsip]]
+- [[README|â†‘ Index]]
+- [[03_Perencanaan_Lingkungan|Perencanaan Lingkungan â†’]]
 
 ---
 
@@ -44,7 +44,7 @@ Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
 
 ### 1.1 Basis Ilmiah Perubahan Iklim
 
-Perubahan iklim merupakan fenomena global dan sistemik yang didorong oleh **emisi gas rumah kaca (GRK)** hasil aktivitas manusia. Laporan keenam *Intergovernmental Panel on Climate Change* (IPCC AR6), yang diselesaikan pada tahun 2023, menegaskan bahwa peningkatan konsentrasi karbon dioksida (CO₂), metana (CH₄), dan dinitrogen oksida (N₂O) di atmosfer telah menyebabkan peningkatan suhu permukaan bumi rata-rata sebesar 1,1°C sejak periode praindustri. IPCC menyimpulkan dengan tingkat keyakinan sangat tinggi bahwa aktivitas manusia merupakan penyebab utama pemanasan global yang diamati sejak pertengahan abad ke-20.
+Perubahan iklim merupakan fenomena global dan sistemik yang didorong oleh **emisi gas rumah kaca (GRK)** hasil aktivitas manusia. Laporan keenam *Intergovernmental Panel on Climate Change* (IPCC AR6), yang diselesaikan pada tahun 2023, menegaskan bahwa peningkatan konsentrasi karbon dioksida (COâ‚‚), metana (CHâ‚„), dan dinitrogen oksida (Nâ‚‚O) di atmosfer telah menyebabkan peningkatan suhu permukaan bumi rata-rata sebesar 1,1Â°C sejak periode praindustri. IPCC menyimpulkan dengan tingkat keyakinan sangat tinggi bahwa aktivitas manusia merupakan penyebab utama pemanasan global yang diamati sejak pertengahan abad ke-20.
 
 Mekanisme **efek rumah kaca** berlangsung sebagai berikut: radiasi matahari yang masuk ke bumi sebagian dipantulkan kembali ke angkasa dalam bentuk radiasi inframerah. Namun, gas-gas rumah kaca yang terakumulasi di atmosfer menyerap dan memancarkan kembali radiasi inframerah tersebut, sehingga panas terperangkap di atmosfer bumi dan menyebabkan peningkatan suhu global. Sumber utama emisi GRK meliputi: pembakaran bahan bakar fosil (batu bara, minyak bumi, gas alam) untuk pembangkitan listrik, pemanasan, dan transportasi yang menyumbang sekitar 73% emisi global; deforestasi dan degradasi hutan yang melepaskan karbon tersimpan ke atmosfer; kegiatan pertanian dan peternakan yang menghasilkan metana dari proses pencernaan ruminansia dan pengelolaan lahan sawah; serta proses industri termasuk produksi semen, baja, dan bahan kimia.
 
@@ -111,7 +111,7 @@ Indonesia memiliki tingkat kerentanan yang sangat tinggi terhadap dampak perubah
 | Cuaca ekstrem | Banjir bandang, longsor, angin kencang | Seluruh lapisan masyarakat |
 | Kebakaran hutan | Kerusakan hutan dan lahan gambut, kabut asap | Masyarakat Sumatera dan Kalimantan |
 
-Pada saat bersamaan, Indonesia juga merupakan salah satu penghasil emisi GRK terbesar di dunia, terutama dari sektor penggunaan lahan dan kehutanan (*land use, land-use change, and forestry*/LULUCF) serta sektor energi. Posisi ganda ini — sebagai penyumbang emisi sekaligus korban perubahan iklim — menuntut pendekatan hukum yang komprehensif dan seimbang antara kewajiban mitigasi dan kebutuhan adaptasi.
+Pada saat bersamaan, Indonesia juga merupakan salah satu penghasil emisi GRK terbesar di dunia, terutama dari sektor penggunaan lahan dan kehutanan (*land use, land-use change, and forestry*/LULUCF) serta sektor energi. Posisi ganda ini â€” sebagai penyumbang emisi sekaligus korban perubahan iklim â€” menuntut pendekatan hukum yang komprehensif dan seimbang antara kewajiban mitigasi dan kebutuhan adaptasi.
 
 ---
 
@@ -159,7 +159,7 @@ Indonesia meratifikasi Protokol Kyoto melalui **UU Nomor 17 Tahun 2004**. Meskip
 
 Pengalaman Indonesia dalam mekanisme CDM memberikan pelajaran berharga yang kemudian menjadi fondasi bagi pengembangan pasar karbon domestik. Indonesia mendaftarkan puluhan proyek CDM di berbagai sektor, termasuk proyek pembangkit listrik tenaga panas bumi di Kamojang dan Darajat (Jawa Barat), proyek penangkapan gas metana dari tempat pembuangan akhir sampah, dan proyek energi biomassa dari limbah kelapa sawit. Proyek-proyek ini memperkenalkan konsep pengukuran, pelaporan, dan verifikasi emisi (MRV) yang menjadi komponen esensial dalam arsitektur pasar karbon.
 
-Namun, kelemahan utama Protokol Kyoto terletak pada tidak dilibatkannya dua penghasil emisi terbesar dunia — Amerika Serikat yang tidak pernah meratifikasi dan Tiongkok yang tidak termasuk negara Annex I — sehingga efektivitasnya dalam mengurangi emisi global secara signifikan menjadi terbatas. Kelemahan ini mendorong negosiasi perjanjian baru yang lebih inklusif, yang akhirnya terwujud dalam Persetujuan Paris 2015.
+Namun, kelemahan utama Protokol Kyoto terletak pada tidak dilibatkannya dua penghasil emisi terbesar dunia â€” Amerika Serikat yang tidak pernah meratifikasi dan Tiongkok yang tidak termasuk negara Annex I â€” sehingga efektivitasnya dalam mengurangi emisi global secara signifikan menjadi terbatas. Kelemahan ini mendorong negosiasi perjanjian baru yang lebih inklusif, yang akhirnya terwujud dalam Persetujuan Paris 2015.
 
 ### 2.3 Persetujuan Paris 2015
 
@@ -180,7 +180,7 @@ timeline
     2012 : Amendemen Doha
          : Periode Komitmen Kedua Kyoto
     2015 : Persetujuan Paris diadopsi
-         : Target di bawah 2°C dan upaya 1.5°C
+         : Target di bawah 2Â°C dan upaya 1.5Â°C
     2016 : Persetujuan Paris mulai berlaku
          : Indonesia ratifikasi via UU 16/2016
     2023 : Global Stocktake pertama selesai
@@ -191,17 +191,17 @@ timeline
 
 **Elemen-elemen pokok** Persetujuan Paris:
 
-**Target suhu global** (Pasal 2): Membatasi peningkatan suhu rata-rata global jauh di bawah 2°C di atas tingkat praindustri dan melanjutkan upaya untuk membatasi peningkatan suhu hingga 1,5°C. Target 1,5°C memiliki signifikansi khusus karena IPCC *Special Report on Global Warming of 1.5°C* (2018) menunjukkan perbedaan dampak yang sangat besar antara pemanasan 1,5°C dan 2°C.
+**Target suhu global** (Pasal 2): Membatasi peningkatan suhu rata-rata global jauh di bawah 2Â°C di atas tingkat praindustri dan melanjutkan upaya untuk membatasi peningkatan suhu hingga 1,5Â°C. Target 1,5Â°C memiliki signifikansi khusus karena IPCC *Special Report on Global Warming of 1.5Â°C* (2018) menunjukkan perbedaan dampak yang sangat besar antara pemanasan 1,5Â°C dan 2Â°C.
 
-Pada pemanasan 1,5°C, diperkirakan 70-90% terumbu karang tropis akan rusak; pada 2°C, kerusakan mencapai lebih dari 99%. Kenaikan permukaan air laut pada 2100 diperkirakan 10 sentimeter lebih rendah pada skenario 1,5°C dibandingkan 2°C, yang berarti jutaan penduduk pesisir lebih sedikit yang terdampak. Bagi Indonesia sebagai negara kepulauan tropis dengan terumbu karang terluas di dunia dan populasi pesisir yang besar, perbedaan setengah derajat ini memiliki implikasi eksistensial.
+Pada pemanasan 1,5Â°C, diperkirakan 70-90% terumbu karang tropis akan rusak; pada 2Â°C, kerusakan mencapai lebih dari 99%. Kenaikan permukaan air laut pada 2100 diperkirakan 10 sentimeter lebih rendah pada skenario 1,5Â°C dibandingkan 2Â°C, yang berarti jutaan penduduk pesisir lebih sedikit yang terdampak. Bagi Indonesia sebagai negara kepulauan tropis dengan terumbu karang terluas di dunia dan populasi pesisir yang besar, perbedaan setengah derajat ini memiliki implikasi eksistensial.
 
-**Nationally Determined Contribution** (NDC) (Pasal 4): Setiap negara pihak wajib menyusun, mengomunikasikan, dan mempertahankan kontribusi yang ditentukan secara nasional (*nationally determined contribution*) untuk pencapaian tujuan Persetujuan Paris. NDC bersifat *self-determined* — setiap negara menentukan sendiri target dan langkah-langkahnya berdasarkan kondisi nasional masing-masing. Namun, setelah disampaikan, NDC memiliki kekuatan hukum karena negara berkewajiban untuk "mengejar langkah-langkah mitigasi domestik untuk mencapai tujuan kontribusi tersebut" (Pasal 4 ayat 2 Persetujuan Paris).
+**Nationally Determined Contribution** (NDC) (Pasal 4): Setiap negara pihak wajib menyusun, mengomunikasikan, dan mempertahankan kontribusi yang ditentukan secara nasional (*nationally determined contribution*) untuk pencapaian tujuan Persetujuan Paris. NDC bersifat *self-determined* â€” setiap negara menentukan sendiri target dan langkah-langkahnya berdasarkan kondisi nasional masing-masing. Namun, setelah disampaikan, NDC memiliki kekuatan hukum karena negara berkewajiban untuk "mengejar langkah-langkah mitigasi domestik untuk mencapai tujuan kontribusi tersebut" (Pasal 4 ayat 2 Persetujuan Paris).
 
 Sifat NDC ini menciptakan dinamika hukum yang unik: di satu sisi memberikan fleksibilitas bagi negara berkembang untuk menyesuaikan ambisi dengan kapasitas nasional; di sisi lain mengandalkan tekanan *peer pressure* dan mekanisme transparansi untuk mendorong peningkatan ambisi secara progresif. Setiap NDC berikutnya harus menunjukkan peningkatan ambisi (*progression*) dari NDC sebelumnya, mencerminkan "ambisi tertinggi yang dimungkinkan" (*highest possible ambition*) negara bersangkutan.
 
 **Mekanisme peningkatan ambisi** (*ratchet mechanism*): Persetujuan Paris membangun siklus lima tahunan di mana negara-negara pihak meninjau dan meningkatkan ambisi NDC mereka secara progresif.
 
-**Global Stocktake** (Pasal 14): Evaluasi kolektif kemajuan pencapaian tujuan Persetujuan Paris dilaksanakan setiap lima tahun. *Global Stocktake* pertama diselesaikan pada COP28 di Dubai pada Desember 2023, yang menghasilkan keputusan bersejarah mengenai transisi dari bahan bakar fosil (*transitioning away from fossil fuels in energy systems*). Keputusan ini menandai pertama kalinya dalam sejarah negosiasi iklim PBB, bahan bakar fosil — penyebab utama perubahan iklim — disebut secara eksplisit dalam keputusan COP. Keputusan *Global Stocktake* juga mencakup seruan untuk melipattigakan kapasitas energi terbarukan dan melipatduakan laju peningkatan efisiensi energi secara global pada tahun 2030, serta pengurangan bertahap (*phase-down*) pembangkit listrik batu bara yang tidak dilengkapi teknologi penangkapan karbon (*unabated coal power*).
+**Global Stocktake** (Pasal 14): Evaluasi kolektif kemajuan pencapaian tujuan Persetujuan Paris dilaksanakan setiap lima tahun. *Global Stocktake* pertama diselesaikan pada COP28 di Dubai pada Desember 2023, yang menghasilkan keputusan bersejarah mengenai transisi dari bahan bakar fosil (*transitioning away from fossil fuels in energy systems*). Keputusan ini menandai pertama kalinya dalam sejarah negosiasi iklim PBB, bahan bakar fosil â€” penyebab utama perubahan iklim â€” disebut secara eksplisit dalam keputusan COP. Keputusan *Global Stocktake* juga mencakup seruan untuk melipattigakan kapasitas energi terbarukan dan melipatduakan laju peningkatan efisiensi energi secara global pada tahun 2030, serta pengurangan bertahap (*phase-down*) pembangkit listrik batu bara yang tidak dilengkapi teknologi penangkapan karbon (*unabated coal power*).
 
 **Kerugian dan kerusakan** (*loss and damage*) (Pasal 8): Persetujuan Paris mengakui pentingnya pencegahan, minimalisasi, dan penanganan kerugian dan kerusakan yang terkait dengan dampak buruk perubahan iklim. Konsep *loss and damage* mengacu pada dampak perubahan iklim yang tidak dapat diatasi melalui mitigasi atau adaptasi, termasuk dampak dari peristiwa cuaca ekstrem (*event-driven*) dan dampak dari proses yang berlangsung lambat (*slow-onset processes*) seperti kenaikan muka air laut, desertifikasi, dan pengasaman laut.
 
@@ -223,13 +223,13 @@ Indonesia telah menyampaikan beberapa versi **Nationally Determined Contribution
 |-----------|-------|----------------------------------------|-----------|
 | **First NDC** | 2016 | -29% (tanpa syarat) / -41% (bersyarat) | Disampaikan saat ratifikasi Persetujuan Paris |
 | **Enhanced NDC** | September 2022 | -31,89% (tanpa syarat) / -43,20% (bersyarat) | Peningkatan ambisi sesuai *ratchet mechanism* |
-| **Second NDC** | Oktober 2025 | Emisi puncak 2030, turun ke 1,26-1,49 GtCO₂e pada 2035 | Target *net zero emissions* 2060 atau lebih cepat |
+| **Second NDC** | Oktober 2025 | Emisi puncak 2030, turun ke 1,26-1,49 GtCOâ‚‚e pada 2035 | Target *net zero emissions* 2060 atau lebih cepat |
 
 **First NDC (2016):** Indonesia berkomitmen mengurangi emisi GRK sebesar 29% secara tanpa syarat (*unconditional*) dan 41% dengan dukungan internasional (*conditional*) pada tahun 2030 dibandingkan skenario *business as usual* (BAU). Lima sektor prioritas ditetapkan sebagai basis pengurangan emisi: energi, limbah, proses industri dan penggunaan produk (IPPU), pertanian, serta kehutanan dan penggunaan lahan lainnya (FOLU).
 
 **Enhanced NDC (September 2022):** Indonesia meningkatkan target pengurangan emisi menjadi 31,89% (tanpa syarat) dan 43,20% (bersyarat). Peningkatan ini sejalan dengan kewajiban *progression* berdasarkan Pasal 4 Persetujuan Paris.
 
-**Second NDC (Oktober 2025):** NDC Kedua Indonesia yang disampaikan pada Oktober 2025 menandai perubahan paradigma yang signifikan. NDC ini memproyeksikan bahwa emisi Indonesia akan mencapai puncaknya pada tahun 2030 dan kemudian menurun ke kisaran 1,26 hingga 1,49 GtCO₂e pada tahun 2035, bergantung pada skenario pertumbuhan ekonomi. Indonesia menegaskan kembali komitmen terhadap target *net zero emissions* pada tahun 2060 atau lebih cepat, dengan menyeimbangkan ambisi iklim dan prioritas pembangunan nasional.
+**Second NDC (Oktober 2025):** NDC Kedua Indonesia yang disampaikan pada Oktober 2025 menandai perubahan paradigma yang signifikan. NDC ini memproyeksikan bahwa emisi Indonesia akan mencapai puncaknya pada tahun 2030 dan kemudian menurun ke kisaran 1,26 hingga 1,49 GtCOâ‚‚e pada tahun 2035, bergantung pada skenario pertumbuhan ekonomi. Indonesia menegaskan kembali komitmen terhadap target *net zero emissions* pada tahun 2060 atau lebih cepat, dengan menyeimbangkan ambisi iklim dan prioritas pembangunan nasional.
 
 Inovasi dalam NDC Kedua mencakup: penambahan mitigasi berbasis kelautan (*marine-based mitigation*) dan kerangka akuntansi karbon biru (*blue carbon*); integrasi program *food-water-energy nexus*; indikator adaptasi yang terukur dan terhubung dengan SDGs; serta integrasi Sistem Informasi Data Indeks Kerentanan (*Vulnerability Index Data Information System*) ke dalam Sistem Registri Nasional. Estimasi awal menunjukkan kebutuhan investasi sebesar USD 472,6 miliar untuk mencapai target NDC Kedua.
 
@@ -292,7 +292,7 @@ Putusan Mahkamah Agung Belanda (*Hoge Raad*) dalam kasus Urgenda merupakan putus
 Signifikansi putusan ini terletak pada pengakuan bahwa kewajiban negara untuk mengurangi emisi GRK bukan hanya kewajiban politik, melainkan kewajiban hukum yang dapat ditegakkan melalui pengadilan. Putusan ini telah menginspirasi gugatan serupa di berbagai negara lain.
 
 **Milieudefensie v. Royal Dutch Shell (2021)**
-Pengadilan Den Haag dalam kasus ini memerintahkan Royal Dutch Shell untuk mengurangi emisi CO₂ dari seluruh operasi global perusahaan sebesar 45% pada tahun 2030 dibandingkan tahun 2019. Ini merupakan putusan pertama yang mewajibkan perusahaan swasta untuk mengurangi emisi GRK berdasarkan standar hak asasi manusia dan hukum perdata. Putusan ini memperluas cakupan tanggung jawab iklim dari negara ke korporasi.
+Pengadilan Den Haag dalam kasus ini memerintahkan Royal Dutch Shell untuk mengurangi emisi COâ‚‚ dari seluruh operasi global perusahaan sebesar 45% pada tahun 2030 dibandingkan tahun 2019. Ini merupakan putusan pertama yang mewajibkan perusahaan swasta untuk mengurangi emisi GRK berdasarkan standar hak asasi manusia dan hukum perdata. Putusan ini memperluas cakupan tanggung jawab iklim dari negara ke korporasi.
 
 **Neubauer v. Germany (2021)**
 *Bundesverfassungsgericht* (Mahkamah Konstitusi Jerman) memutuskan bahwa Undang-Undang Perlindungan Iklim Jerman (*Klimaschutzgesetz*) 2019 tidak cukup melindungi hak-hak fundamental generasi mendatang. Pengadilan menyatakan bahwa upaya pengurangan emisi yang tidak memadai saat ini akan membebankan beban yang tidak proporsional kepada generasi muda di masa depan, yang bertentangan dengan jaminan konstitusional atas kebebasan. Putusan ini merupakan penerapan konkret prinsip keadilan antargenerasi (*intergenerational equity*) dalam litigasi iklim.
@@ -303,7 +303,7 @@ Pada tanggal 23 Juli 2025, **Mahkamah Internasional** (*International Court of J
 
 Temuan-temuan kunci ICJ:
 
-**Target 1,5°C mengikat secara hukum:** ICJ menyatakan bahwa target suhu 1,5°C berdasarkan Persetujuan Paris menciptakan kewajiban hukum yang mengikat dan dapat ditegakkan. Seluruh negara, khususnya penghasil emisi terbesar, wajib mengambil langkah mitigasi yang ambisius sesuai dengan ilmu pengetahuan terbaik yang tersedia (*best available science*).
+**Target 1,5Â°C mengikat secara hukum:** ICJ menyatakan bahwa target suhu 1,5Â°C berdasarkan Persetujuan Paris menciptakan kewajiban hukum yang mengikat dan dapat ditegakkan. Seluruh negara, khususnya penghasil emisi terbesar, wajib mengambil langkah mitigasi yang ambisius sesuai dengan ilmu pengetahuan terbaik yang tersedia (*best available science*).
 
 **Kewajiban berdasarkan hukum kebiasaan internasional:** Kewajiban negara terkait perubahan iklim bersumber tidak hanya dari perjanjian iklim (UNFCCC dan Persetujuan Paris) tetapi juga dari hukum kebiasaan internasional, khususnya kewajiban untuk mencegah kerusakan lintas batas (*duty to prevent transboundary harm*) dan kewajiban bekerja sama (*duty to cooperate*), serta hukum hak asasi manusia internasional.
 
@@ -329,7 +329,7 @@ Pertama, sebagai **preseden** bahwa mekanisme *citizen lawsuit* dapat digunakan 
 
 Kedua, sebagai **indikasi progresivitas yudisial** bahwa pengadilan Indonesia bersedia memutus isu lingkungan yang memiliki dimensi iklim secara maju. Hakim mengakui hubungan antara hak konstitusional atas lingkungan yang sehat dengan kewajiban pemerintah untuk mengendalikan pencemaran udara.
 
-Ketiga, sebagai **tantangan implementasi**: meskipun putusan telah berkekuatan hukum tetap, eksekusi putusan pengadilan yang memerintahkan pemerintah untuk memperbaiki kualitas udara menghadapi hambatan praktis yang signifikan. Pemerintah tidak dapat memperbaiki kualitas udara dalam semalam — diperlukan kebijakan jangka panjang yang melibatkan regulasi emisi kendaraan bermotor, pengendalian emisi industri, penataan ruang, dan perluasan ruang terbuka hijau. Ketiadaan mekanisme pemantauan kepatuhan putusan (*compliance monitoring*) mempersulit penilaian apakah pemerintah telah melaksanakan putusan pengadilan secara memadai.
+Ketiga, sebagai **tantangan implementasi**: meskipun putusan telah berkekuatan hukum tetap, eksekusi putusan pengadilan yang memerintahkan pemerintah untuk memperbaiki kualitas udara menghadapi hambatan praktis yang signifikan. Pemerintah tidak dapat memperbaiki kualitas udara dalam semalam â€” diperlukan kebijakan jangka panjang yang melibatkan regulasi emisi kendaraan bermotor, pengendalian emisi industri, penataan ruang, dan perluasan ruang terbuka hijau. Ketiadaan mekanisme pemantauan kepatuhan putusan (*compliance monitoring*) mempersulit penilaian apakah pemerintah telah melaksanakan putusan pengadilan secara memadai.
 
 Riset akademis mencatat terdapat setidaknya **112 kasus terkait perubahan iklim** yang telah diajukan ke pengadilan Indonesia pada periode 2010 hingga 2020, mencakup berbagai jenis perkara yang menggunakan frasa atau dalil terkait perubahan iklim dalam gugatan utama, dalil, alat bukti, keterangan ahli, atau pertimbangan putusan. Angka ini menunjukkan bahwa meskipun belum ada undang-undang khusus tentang perubahan iklim, isu ini telah masuk ke dalam diskursus yudisial Indonesia dan semakin sering digunakan sebagai argumen hukum dalam berbagai jenis sengketa lingkungan.
 
@@ -422,7 +422,7 @@ Perdagangan karbon melalui IDXCarbon dan regulasi NEK membuka peluang bagi keter
 
 Perkembangan terkini dalam tata kelola perusahaan juga menunjukkan meningkatnya perhatian terhadap aspek iklim dan lingkungan. Standar **Environmental, Social, and Governance** (ESG) dan kerangka pengungkapan risiko iklim semakin menjadi tuntutan dari investor, pemberi pinjaman, dan pemangku kepentingan lainnya. Otoritas Jasa Keuangan (OJK) telah menerbitkan sejumlah regulasi terkait keuangan berkelanjutan (*sustainable finance*) yang mewajibkan lembaga keuangan untuk mempertimbangkan aspek lingkungan dalam keputusan pembiayaan.
 
-Namun, efektivitas mekanisme pasar ini bergantung pada penetapan batas atas emisi (*cap*) yang cukup ketat untuk menciptakan kelangkaan yang mendorong harga karbon ke tingkat yang bermakna, sistem MRV yang kredibel dan independen, serta penegakan hukum yang konsisten terhadap pelanggar. Tantangan *greenwashing* — klaim palsu tentang kinerja lingkungan — juga perlu diantisipasi melalui regulasi yang ketat dan verifikasi independen.
+Namun, efektivitas mekanisme pasar ini bergantung pada penetapan batas atas emisi (*cap*) yang cukup ketat untuk menciptakan kelangkaan yang mendorong harga karbon ke tingkat yang bermakna, sistem MRV yang kredibel dan independen, serta penegakan hukum yang konsisten terhadap pelanggar. Tantangan *greenwashing* â€” klaim palsu tentang kinerja lingkungan â€” juga perlu diantisipasi melalui regulasi yang ketat dan verifikasi independen.
 
 ### 6.4 Alih Teknologi dan Pendanaan Iklim
 
@@ -434,7 +434,7 @@ Alih teknologi (*technology transfer*) juga merupakan komponen penting yang diak
 
 ### 6.5 Tantangan Hukum: Absennya UU Perubahan Iklim
 
-Salah satu kelemahan mendasar dalam arsitektur hukum iklim Indonesia adalah **absennya undang-undang khusus tentang perubahan iklim** (*climate change act*). Berbeda dengan beberapa negara lain yang telah memiliki undang-undang iklim tersendiri — seperti Inggris (*Climate Change Act 2008*), Jerman (*Klimaschutzgesetz 2019*), dan Filipina (*Climate Change Act of 2009*) — Indonesia masih mengandalkan ketentuan-ketentuan yang tersebar di berbagai peraturan perundang-undangan, terutama UU 32/2009, peraturan presiden, dan peraturan menteri.
+Salah satu kelemahan mendasar dalam arsitektur hukum iklim Indonesia adalah **absennya undang-undang khusus tentang perubahan iklim** (*climate change act*). Berbeda dengan beberapa negara lain yang telah memiliki undang-undang iklim tersendiri â€” seperti Inggris (*Climate Change Act 2008*), Jerman (*Klimaschutzgesetz 2019*), dan Filipina (*Climate Change Act of 2009*) â€” Indonesia masih mengandalkan ketentuan-ketentuan yang tersebar di berbagai peraturan perundang-undangan, terutama UU 32/2009, peraturan presiden, dan peraturan menteri.
 
 Absennya undang-undang iklim khusus menimbulkan beberapa masalah: tidak adanya target pengurangan emisi yang mengikat secara hukum di tingkat undang-undang (*legally binding statutory targets*); fragmentasi pengaturan yang menyulitkan koordinasi; ketidakjelasan kewenangan dan akuntabilitas antar-kementerian/lembaga; serta ketidakpastian hukum bagi pelaku usaha yang memerlukan kerangka regulasi yang stabil dan dapat diprediksi untuk investasi jangka panjang dalam teknologi rendah karbon.
 
@@ -463,14 +463,14 @@ Perkembangan IDXCarbon dan mekanisme perdagangan karbon juga diharapkan akan mat
 - [[03-Peraturan-Indonesia_Perpres_98_2021_NEK|Perpres 98/2021 NEK]]
 - [[03-Peraturan-Indonesia_FOLU_Net_Sink_2030|FOLU Net Sink 2030]]
 
-> **Materi Lengkap:** Lihat [[../06-Perubahan-Iklim/README_Bibliography|Daftar Pustaka Perubahan Iklim]] untuk referensi komprehensif.
+> **Materi Lengkap:** Lihat [[../06-PerubahanIklim/README_Bibliography|Daftar Pustaka Perubahan Iklim]] untuk referensi komprehensif.
 
 ---
 
 ## Pertanyaan Refleksi
 
 1. Bagaimana prinsip CBDR-RC (*Common But Differentiated Responsibilities and Respective Capabilities*) dapat diterapkan secara adil dalam konteks Indonesia sebagai negara berkembang yang juga merupakan salah satu penghasil emisi GRK terbesar?
-2. Evaluasi secara kritis apakah target NDC Kedua Indonesia (Oktober 2025) cukup ambisius untuk berkontribusi pada pencapaian tujuan Persetujuan Paris, khususnya target 1,5°C. Pertimbangkan aspek keadilan iklim dalam analisis Anda.
+2. Evaluasi secara kritis apakah target NDC Kedua Indonesia (Oktober 2025) cukup ambisius untuk berkontribusi pada pencapaian tujuan Persetujuan Paris, khususnya target 1,5Â°C. Pertimbangkan aspek keadilan iklim dalam analisis Anda.
 3. Analisis implikasi hukum Pendapat Penasehat ICJ (Juli 2025) terhadap kewajiban Indonesia untuk memperkuat kebijakan iklim nasionalnya, termasuk kemungkinan dampak terhadap litigasi iklim domestik.
 4. Bandingkan mekanisme perdagangan karbon berdasarkan Perpres 98/2021 dengan Perpres 110/2025. Apakah perubahan-perubahan yang dilakukan memperkuat atau memperlemah efektivitas instrumen NEK?
 5. Bagaimana hukum lingkungan nasional dapat diperkuat untuk memastikan perlindungan yang memadai bagi kelompok rentan terhadap dampak perubahan iklim? Identifikasi kelemahan regulasi saat ini dan usulkan perbaikan.
@@ -490,9 +490,9 @@ Perkembangan IDXCarbon dan mekanisme perdagangan karbon juga diharapkan akan mat
 - **UU 16/2016**: Ratifikasi Persetujuan Paris
 - **UU 32/2009**: PPLH (Pasal 1 angka 19, Pasal 57, Pasal 63 ayat 1 huruf p)
 - **Perpres 61/2011**: RAN-GRK
-- **Perpres 98/2021**: NEK (dicabut) — Path: `regulationvault/05_ACTIVE/PERPRES/2021/PERPRES_98_2021/`
-- **Perpres 110/2025**: NEK (berlaku) — Path: `regulationvault/05_ACTIVE/PERPRES/2025/PERPRES_110_2025/`
-- **PP 22/2021**: Penyelenggaraan PPLH — Path: `regulationvault/05_ACTIVE/PP/2021/PP_22_2021/`
+- **Perpres 98/2021**: NEK (dicabut) â€” Path: `regulationvault/05_ACTIVE/PERPRES/2021/PERPRES_98_2021/`
+- **Perpres 110/2025**: NEK (berlaku) â€” Path: `regulationvault/05_ACTIVE/PERPRES/2025/PERPRES_110_2025/`
+- **PP 22/2021**: Penyelenggaraan PPLH â€” Path: `regulationvault/05_ACTIVE/PP/2021/PP_22_2021/`
 
 ### Referensi Regulasi Lengkap
 - [[_referensi/REGULATION_INDEX|Indeks Regulasi Lingkungan]]
@@ -502,7 +502,7 @@ Perkembangan IDXCarbon dan mekanisme perdagangan karbon juga diharapkan akan mat
 ## Daftar Pustaka
 
 ### Buku dan Artikel Akademis
-- Bodansky, Daniel, Brunnée, Jutta & Rajamani, Lavanya. (2017). *International Climate Change Law*. Oxford University Press.
+- Bodansky, Daniel, BrunnÃ©e, Jutta & Rajamani, Lavanya. (2017). *International Climate Change Law*. Oxford University Press.
 - Jepsen, Henrik, et al. (2021). *Negotiating the Paris Agreement: The Insider Stories*. Cambridge University Press.
 - Mayer, Benoit. (2018). *The International Law on Climate Change*. Cambridge University Press.
 - Peel, Jacqueline & Osofsky, Hari M. (2015). *Climate Change Litigation: Regulatory Pathways to Cleaner Energy*. Cambridge University Press.
@@ -511,7 +511,7 @@ Perkembangan IDXCarbon dan mekanisme perdagangan karbon juga diharapkan akan mat
 
 ### Laporan dan Dokumen Internasional
 - ICJ. (2025). *Advisory Opinion on Obligations of States in Respect of Climate Change*. 23 Juli 2025.
-- IPCC. (2018). *Special Report on Global Warming of 1.5°C*. IPCC.
+- IPCC. (2018). *Special Report on Global Warming of 1.5Â°C*. IPCC.
 - IPCC. (2023). *AR6 Synthesis Report: Climate Change 2023*. IPCC.
 - UNFCCC. (2015). *Paris Agreement*. FCCC/CP/2015/L.9/Rev.1.
 - WCED. (1987). *Our Common Future (Brundtland Report)*. Oxford University Press.
@@ -541,6 +541,8 @@ Perkembangan IDXCarbon dan mekanisme perdagangan karbon juga diharapkan akan mat
 ---
 
 **Navigasi:**
-- [[01_Konsep_Dasar_Prinsip|← Konsep Dasar dan Prinsip]]
-- [[README|↑ Index]]
-- [[03_Perencanaan_Lingkungan|Perencanaan Lingkungan →]]
+- [[01_Konsep_Dasar_Prinsip|â† Konsep Dasar dan Prinsip]]
+- [[README|â†‘ Index]]
+- [[03_Perencanaan_Lingkungan|Perencanaan Lingkungan â†’]]
+
+

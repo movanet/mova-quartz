@@ -1,4 +1,4 @@
-# Indonesia's Water Sector Strategy in RPJMN 2025-2029: A Comprehensive Analysis
+﻿# Indonesia's Water Sector Strategy in RPJMN 2025-2029: A Comprehensive Analysis
 
 **Author:** Mohamad Mova AlAfghani
 **Powered by:** Claude Multi-Agent Orchestration
@@ -24,14 +24,14 @@ Indonesia's National Medium-Term Development Plan (RPJMN) 2025-2029 positions **
 - **12.7 million hectares** of critical land no longer function as water regulation media
 
 **Development Targets (2025-2029)** (see [[RPJMN_Water_Facts_Infrastructure]]):
-- Urban piped water access: **24% → 51.36%** (114% increase)
-- Safe sanitation access: **10.21% → 30%** (194% increase)
-- Water Quality Index: **54.59 → 72.77** (33% improvement)
-- National Water Security Index: **3.48 → 3.75**
+- Urban piped water access: **24% â†’ 51.36%** (114% increase)
+- Safe sanitation access: **10.21% â†’ 30%** (194% increase)
+- Water Quality Index: **54.59 â†’ 72.77** (33% improvement)
+- National Water Security Index: **3.48 â†’ 3.75**
 
 **Institutional Reform** (see [[RPJMN_Water_Facts_Regulatory]]):
 - Establishment of **independent Water and Sanitation Regulatory Body** (Badan Regulator Air Minum dan Sanitasi) with operational and financial independence
-- Full value chain coverage: raw water → drinking water → wastewater treatment
+- Full value chain coverage: raw water â†’ drinking water â†’ wastewater treatment
 - Four main functions: benchmarking, tariff recommendations, quality monitoring, transparency enhancement
 
 ---
@@ -57,7 +57,7 @@ Indonesia's National Medium-Term Development Plan (RPJMN) 2025-2029 positions **
    - 3.3 National Strategic Water Projects
    - 3.4 Nature-Based Solutions Integration
    - 3.5 Financing Mechanisms
-   - **3.6 Lake Management and Blue Economy Integration** ⭐
+   - **3.6 Lake Management and Blue Economy Integration** â­
      - 3.6.1 Lake Water Quality Management Program
      - 3.6.2 Lake Toba Strategic Tourism Development
      - 3.6.3 Lakes in Blue Economy and Aquatic Food Systems
@@ -207,7 +207,7 @@ Indonesia's National Medium-Term Development Plan (RPJMN) 2025-2029 positions **
 | **Indicator** | **Baseline 2024** | **Target 2025** | **Target 2029** | **% Change** |
 |---------------|-------------------|-----------------|-----------------|--------------|
 | **National Water Security Index** | 3.48 (2022) | 3.50 | **3.75** | +7.8% |
-| **Water storage capacity (m³/capita)** | 59.59 | 59.31 | **63.54** | +6.6% |
+| **Water storage capacity (mÂ³/capita)** | 59.59 | 59.31 | **63.54** | +6.6% |
 | **Urban piped drinking water access (%)** | 24.0 (2020) | 39.20 | **51.36** | +114% |
 | **Safe sanitation access (%)** | 10.21 (2023) | 12.5 | **30.0** | +194% |
 | **Water Quality Index** | 54.59 (2023) | 72.02 | **72.77** | +33% |
@@ -255,7 +255,7 @@ Indonesia's National Medium-Term Development Plan (RPJMN) 2025-2029 positions **
 
 **Key Features:**
 - **Independent** - Operational and financial independence from government line agencies
-- **Comprehensive scope** - Full value chain: raw water → drinking water → wastewater
+- **Comprehensive scope** - Full value chain: raw water â†’ drinking water â†’ wastewater
 - **Source-to-sea integration** - Aligns with integrated water management approach
 - **Debottlenecking role** - Addresses current fragmented governance structure
 - **Equity-focused** - Mandate to ensure "berkeadilan" (equitable/just) water availability
@@ -539,7 +539,7 @@ Lakes are managed under integrated environmental quality improvement framework:
 4. **Nature-based solutions** including constructed wetlands for nutrient removal
 5. **Integrated lake basin planning** coordinating water allocation, tourism, conservation, and food production
 
-**Connection to National Water Security:** Lake management contributes to **National Water Security Index** targets (3.48 → 3.75) by:
+**Connection to National Water Security:** Lake management contributes to **National Water Security Index** targets (3.48 â†’ 3.75) by:
 - Serving as strategic water reserves during dry seasons
 - Supporting agricultural irrigation systems
 - Providing drinking water sources for surrounding communities
@@ -695,7 +695,7 @@ Lakes are managed under integrated environmental quality improvement framework:
 **Translation:**
 > "building resilience aspects and **poor sanitation conditions are the main factors causing housing inadequacy**."
 
-**Causal Chain:** Poor sanitation → housing inadequacy → slum formation (77,000 hectares nationwide)
+**Causal Chain:** Poor sanitation â†’ housing inadequacy â†’ slum formation (77,000 hectares nationwide)
 
 ### 5.4 Village Infrastructure Implementation
 
@@ -752,9 +752,9 @@ Infrastructure must support rural-urban economic integration, not just household
 **Source:** Chapter I - Development Evaluation and Challenges
 
 **Total Water Resources:**
-- **Surface water:** 2,783.3 billion m³/year
-- **Groundwater potential:** 20,903.3 billion m³/year
-- **Total potential:** Over 23,686 billion m³/year
+- **Surface water:** 2,783.3 billion mÂ³/year
+- **Groundwater potential:** 20,903.3 billion mÂ³/year
+- **Total potential:** Over 23,686 billion mÂ³/year
 
 **Regional Distribution Crisis:**
 
@@ -904,9 +904,9 @@ Infrastructure must support rural-urban economic integration, not just household
 
 | **RPJMN Target** | **SDG 6 Target** | **Alignment** |
 |------------------|------------------|---------------|
-| Urban piped water: 24% → 51.36% | 6.1: Universal safe drinking water | Partial - urban piped only |
-| Safe sanitation: 10.21% → 30% | 6.2: Universal sanitation | Partial - 30% far below universal |
-| Water Quality Index: 54.59 → 72.77 | 6.3: Water quality and wastewater | Strong - comprehensive improvement |
+| Urban piped water: 24% â†’ 51.36% | 6.1: Universal safe drinking water | Partial - urban piped only |
+| Safe sanitation: 10.21% â†’ 30% | 6.2: Universal sanitation | Partial - 30% far below universal |
+| Water Quality Index: 54.59 â†’ 72.77 | 6.3: Water quality and wastewater | Strong - comprehensive improvement |
 | Smart water management | 6.4: Water-use efficiency | Strong - water accounting approach |
 | Source-to-sea, CWIS | 6.a: International cooperation | Moderate - adopts best practices |
 
@@ -1061,7 +1061,7 @@ Two distinct regulatory frameworks exist (as documented in existing vault notes)
 - Complaint handling mechanisms
 - Environmental responsibility
 
-**New Integration:** The Badan Regulator Air Minum dan Sanitasi bridges these frameworks by covering raw water → drinking water → wastewater in integrated manner.
+**New Integration:** The Badan Regulator Air Minum dan Sanitasi bridges these frameworks by covering raw water â†’ drinking water â†’ wastewater in integrated manner.
 
 **Related Note:** [[Perbedaan Fitur Regulasi Sumber Daya Air dengan Pelayanan Air]] - Distinguishing the two frameworks
 

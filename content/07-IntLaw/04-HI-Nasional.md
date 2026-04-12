@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hubungan Hukum Internasional dan Hukum Nasional"
 tags:
   - hukum-internasional
@@ -53,7 +53,7 @@ Teori monisme berpandangan bahwa hukum internasional dan hukum nasional merupaka
 
 ### Hans Kelsen dan Teori Murni Hukum
 
-Hans Kelsen, yang sering dianggap sebagai arsitek utama teori monisme dalam hukum internasional kontemporer, mengembangkan pandangan monistiknya dalam konteks teorinya yang lebih luas tentang "teori murni hukum" (pure theory of law). Bagi Kelsen, seluruh sistem hukum—baik hukum internasional maupun hukum nasional—harus dipahami sebagai hierarki norma-norma hukum yang berbentuk piramida.
+Hans Kelsen, yang sering dianggap sebagai arsitek utama teori monisme dalam hukum internasional kontemporer, mengembangkan pandangan monistiknya dalam konteks teorinya yang lebih luas tentang "teori murni hukum" (pure theory of law). Bagi Kelsen, seluruh sistem hukumâ€”baik hukum internasional maupun hukum nasionalâ€”harus dipahami sebagai hierarki norma-norma hukum yang berbentuk piramida.
 
 Pada tingkat tertinggi piramida hukum Kelsen terdapat suatu norma fundamental hipotetis (grundnorm) yang menjadi dasar validitas logis dari seluruh norma-norma hukum lainnya. Norma-norma tingkat menengah (seperti perjanjian-perjanjian internasional dan konstitusi nasional) memperoleh validitas mereka dari norma fundamental ini. Norma-norma tingkat bawah (seperti undang-undang, peraturan administratif, dan keputusan-keputusan yudisial) memperoleh validitas mereka dari norma-norma tingkat menengah.
 
@@ -97,9 +97,9 @@ Dalam varian monisme dengan supremasi hukum nasional ini, konstitusi nasional me
 
 Teori dualisme berpandangan bahwa hukum internasional dan hukum nasional merupakan dua sistem hukum yang terpisah dan independen satu sama lain. Keduanya memiliki sumber-sumber hukum yang berbeda, subjek-subjek hukum yang berbeda, dan isi-isi hukum yang berbeda. Karena keduanya adalah sistem yang terpisah dan independen, norma-norma hukum internasional tidak dapat diterapkan secara langsung dalam sistem hukum nasional tanpa transformasi melalui suatu tindakan yudisial atau legislatif yang formal.
 
-### Heinrich Triepel dan Völkerrecht und Landesrecht
+### Heinrich Triepel dan VÃ¶lkerrecht und Landesrecht
 
-Heinrich Triepel, seorang ahli hukum internasional Jerman yang terkemuka, dianggap sebagai pendiri teori dualisme dalam bukunya yang penting "Völkerrecht und Landesrecht" (Hukum Internasional dan Hukum Nasional) yang diterbitkan pada tahun 1899. Dalam karya penting ini, Triepel mengajukan argumen yang jelas dan terstruktur bahwa hukum internasional dan hukum nasional adalah dua sistem hukum yang sepenuhnya terpisah dengan tidak ada hubungan hierarsi antara keduanya.
+Heinrich Triepel, seorang ahli hukum internasional Jerman yang terkemuka, dianggap sebagai pendiri teori dualisme dalam bukunya yang penting "VÃ¶lkerrecht und Landesrecht" (Hukum Internasional dan Hukum Nasional) yang diterbitkan pada tahun 1899. Dalam karya penting ini, Triepel mengajukan argumen yang jelas dan terstruktur bahwa hukum internasional dan hukum nasional adalah dua sistem hukum yang sepenuhnya terpisah dengan tidak ada hubungan hierarsi antara keduanya.
 
 Triepel memulai analisisnya dengan observasi empiris bahwa subjek-subjek hukum internasional dan subjek-subjek hukum nasional berbeda secara fundamental. Subjek-subjek hukum internasional adalah negara-negara (dan mungkin organisasi-organisasi internasional), sedangkan subjek-subjek hukum nasional adalah individu-individu dan badan-badan hukum. Karena subjek-subjeknya berbeda, sumber-sumber hukum harus juga berbeda.
 
@@ -183,13 +183,13 @@ Pengadilan Belanda dapat merujuk langsung kepada ketentuan-ketentuan dari perjan
 
 **Pasal 59(2)**: Perjanjian internasional memerlukan ratifikasi melalui undang-undang federal untuk menjadi bagian dari hukum Jerman, menunjukkan pendekatan yang lebih dualistik untuk perjanjian.
 
-**Keputusan Görgülü (2004)**: Mahkamah Konstitusi Jerman memutuskan pengadilan Jerman harus memberikan pertimbangan yang sangat serius kepada putusan Pengadilan Eropa Hak Asasi Manusia, tetapi jika putusan tersebut bertentangan dengan konstitusi Jerman, pengadilan dapat menolak mematuhi.
+**Keputusan GÃ¶rgÃ¼lÃ¼ (2004)**: Mahkamah Konstitusi Jerman memutuskan pengadilan Jerman harus memberikan pertimbangan yang sangat serius kepada putusan Pengadilan Eropa Hak Asasi Manusia, tetapi jika putusan tersebut bertentangan dengan konstitusi Jerman, pengadilan dapat menolak mematuhi.
 
 ### Perancis: Supremasi Perjanjian Internasional
 
 **Pasal 55 Konstitusi**: Perjanjian internasional yang diratifikasi memiliki kekuatan lebih tinggi daripada undang-undang nasional, dengan syarat pihak lain juga melaksanakannya.
 
-**Keputusan Nicolo (1989)**: Conseil d'État memutuskan pengadilan harus menolak undang-undang Perancis yang bertentangan dengan perjanjian internasional yang diratifikasi—perubahan signifikan menuju pendekatan yang lebih monistik.
+**Keputusan Nicolo (1989)**: Conseil d'Ã‰tat memutuskan pengadilan harus menolak undang-undang Perancis yang bertentangan dengan perjanjian internasional yang diratifikasiâ€”perubahan signifikan menuju pendekatan yang lebih monistik.
 
 ---
 
@@ -295,7 +295,7 @@ Konsep self-executing versus non-self-executing berasal dari kasus AS Foster & E
 
 **Keberatan Bank Sentral**: Mengklaim imunitas penuh sebagai lembaga negara.
 
-**Keputusan Lord Denning**: Pengadilan Inggris dapat merujuk pada hukum kebiasaan internasional yang berkembang (prinsip imunitas terbatas—negara memiliki imunitas hanya untuk tindakan publik/acta jure imperii, bukan tindakan komersial/acta jure gestionis).
+**Keputusan Lord Denning**: Pengadilan Inggris dapat merujuk pada hukum kebiasaan internasional yang berkembang (prinsip imunitas terbatasâ€”negara memiliki imunitas hanya untuk tindakan publik/acta jure imperii, bukan tindakan komersial/acta jure gestionis).
 
 **Dampak Jangka Panjang**: Keputusan ini kemudian dikodifikasi dalam State Immunity Act 1978 Inggris dan UN Convention on Jurisdictional Immunities of States and Their Property (1972).
 
@@ -351,7 +351,7 @@ Meskipun banyak perjanjian hak asasi manusia internasional telah diratifikasi ol
 
 Kelsen, Hans. *Pure Theory of Law*. Translated by Max Knight. University of California Press, 1967.
 
-Triepel, Heinrich. *Völkerrecht und Landesrecht*. Leipzig, 1899.
+Triepel, Heinrich. *VÃ¶lkerrecht und Landesrecht*. Leipzig, 1899.
 
 Fitzmaurice, Gerald. "The General Principles of International Law." *Hague Academy Recueil des Cours*, vol. 92, 1957.
 
@@ -390,7 +390,7 @@ Mahkamah Konstitusi Indonesia. *Keputusan Nomor 11/PUU-XVII/2019*.
 
 Dalam praktik kontemporer, banyak negara yang paling sukses dalam mengintegrasikan hukum internasional ke dalam sistem hukum nasional mereka telah mengembangkan pendekatan yang menggabungkan elemen-elemen dari monisme dan dualisme dalam cara yang harmonis dan yang disesuaikan dengan kebutuhan khusus negara tersebut. Pendekatan ini tidak mencoba untuk memaksakan salah satu teori secara ketat, melainkan mengakui bahwa keduanya memiliki kebenaran dan wawasan yang berharga.
 
-Pengadilan-pengadilan nasional modern semakin sering menggunakan strategi interpretasi yang mencoba untuk menyelaraskan hukum nasional dengan hukum internasional ketika mungkin dilakukan tanpa melanggar prinsip-prinsip konstitusional yang fundamental. Ini adalah apa yang disebut sebagai "presumption of consistency" antara hukum internasional dan hukum nasional—asumsi bahwa legislator nasional berniat untuk mematuhi kewajiban-kewajiban internasional mereka ketika merangka undang-undang nasional.
+Pengadilan-pengadilan nasional modern semakin sering menggunakan strategi interpretasi yang mencoba untuk menyelaraskan hukum nasional dengan hukum internasional ketika mungkin dilakukan tanpa melanggar prinsip-prinsip konstitusional yang fundamental. Ini adalah apa yang disebut sebagai "presumption of consistency" antara hukum internasional dan hukum nasionalâ€”asumsi bahwa legislator nasional berniat untuk mematuhi kewajiban-kewajiban internasional mereka ketika merangka undang-undang nasional.
 
 ### Pengadilan sebagai Penjembatan antara Dua Sistem
 
@@ -421,7 +421,7 @@ Pengadilan Yustisi Uni Eropa memiliki kewenangan yang luas untuk menentukan baga
 
 Namun, integrasi yang mendalam ini juga telah menciptakan ketegangan-ketegangan yang signifikan. Pengadilan-pengadilan konstitusional nasional dari beberapa negara anggota telah mengajukan pertanyaan tentang apakah mereka dapat atau harus menolak untuk menerapkan hukum Uni Eropa jika hukum tersebut bertentangan dengan prinsip-prinsip konstitusional yang paling fundamental dari negara mereka.
 
-Contoh dramatis adalah kasus-kasus yang melibatkan pertanyaan tentang "identitas konstitusional" negara-negara anggota. Beberapa pengadilan konstitusional nasional telah menyatakan bahwa meskipun mereka secara umum menerima supremasi hukum Uni Eropa, ada batasan absolut—ada elemen-elemen dari konstitusi nasional yang tidak dapat dikompromikan bahkan untuk kepentingan integrasi Eropa.
+Contoh dramatis adalah kasus-kasus yang melibatkan pertanyaan tentang "identitas konstitusional" negara-negara anggota. Beberapa pengadilan konstitusional nasional telah menyatakan bahwa meskipun mereka secara umum menerima supremasi hukum Uni Eropa, ada batasan absolutâ€”ada elemen-elemen dari konstitusi nasional yang tidak dapat dikompromikan bahkan untuk kepentingan integrasi Eropa.
 
 ### ASEAN: Pendekatan Internasionalisasi Minimal
 
@@ -520,7 +520,7 @@ Masa depan hubungan antara hukum internasional dan hukum nasional akan dipengaru
 | **Mekanisme Implementasi** | Legislatif formal | Otomatis/Legislatif | Tergantung pada sifat perjanjian | Legislatif formal | Otomatis untuk self-executing | Legislatif formal dominan |
 | **Fleksibilitas** | Tinggi | Rendah | Sedang | Sedang | Rendah | Tinggi |
 | **Kecepatan Implementasi** | Lambat | Cepat | Sedang | Sedang | Cepat | Lambat |
-| **Precedent Kasus Penting** | Trendtex (1977) | Pasal 93-94 Grondwet | Foster v Neilson (1829), Medellin (2008) | Görgülü (2004) | Nicolo (1989) | MK No. 11/PUU-XVII/2019 |
+| **Precedent Kasus Penting** | Trendtex (1977) | Pasal 93-94 Grondwet | Foster v Neilson (1829), Medellin (2008) | GÃ¶rgÃ¼lÃ¼ (2004) | Nicolo (1989) | MK No. 11/PUU-XVII/2019 |
 | **Ratifikasi ECHR** | 1951 (implementasi 1998) | Langsung | N/A (AS tidak anggota) | 1952 (implementasi 1952) | 1974 (implementasi 1974) | N/A |
 | **Implementasi ICCPR** | Melalui legislative reform | Langsung | Tidak sepenuhnya self-executing | Melalui konstitusi | Langsung | UU 12/2005 (2005) |
 
@@ -591,4 +591,5 @@ Perkembangan ini dapat memfasilitasi harmonisasi yang lebih besar dan perkembang
 **Catatan Akhir**: File materi ajar ini dirancang untuk memberikan pemahaman komprehensif tentang hubungan kompleks antara hukum internasional dan hukum nasional. Materi ini cocok untuk mahasiswa tingkat lanjut di fakultas hukum yang ingin memahami bagaimana sistem-sistem hukum berinteraksi dan bagaimana negara-negara mengintegrasikan kewajiban-kewajiban internasional mereka ke dalam kerangka kerja hukum nasional mereka. 
 
 Pembelajaran dari bab ini harus dilengkapi dengan studi kasus-kasus spesifik dari pengadilan nasional dan internasional, serta dengan pemeriksaan mendalam terhadap perjanjian-perjanjian internasional yang relevan dengan bidang-bidang hukum tertentu yang diminati oleh mahasiswa.
+
 

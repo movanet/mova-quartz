@@ -1,4 +1,4 @@
-
+﻿
 ---
 publish: true
 ---
@@ -14,3 +14,4 @@ Untuk melihat [RTRW Kota Bogor silahkan lihat link ini](https://perizinan.kotabo
 ![[Pasted image 20230329104959.png]]
 
 (Screenshot RTRW Kota Bogor)
+

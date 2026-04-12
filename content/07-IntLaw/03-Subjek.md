@@ -1,4 +1,4 @@
----
+﻿---
 title: "Subjek Hukum Internasional"
 tags:
   - hukum-internasional
@@ -90,7 +90,7 @@ Demikian pula, dalam kasus negara kepulauan kecil seperti Nauru atau Tuvalu, pop
 
 #### 2.2.2 Wilayah yang Ditentukan (Defined Territory)
 
-Wilayah yang ditentukan berarti adanya batas-batas geografis yang jelas, meskipun tidak perlu batas-batas tersebut sepenuhnya diakui oleh semua negara. Wilayah harus cukup memadai untuk memungkinkan suatu komunitas hidup dan berkembang. Tidak ada persyaratan mengenai ukuran wilayah, seperti yang ditunjukkan oleh pengakuan terhadap micro-states seperti Liechtenstein (160 km²) dan Monaco (2 km²).
+Wilayah yang ditentukan berarti adanya batas-batas geografis yang jelas, meskipun tidak perlu batas-batas tersebut sepenuhnya diakui oleh semua negara. Wilayah harus cukup memadai untuk memungkinkan suatu komunitas hidup dan berkembang. Tidak ada persyaratan mengenai ukuran wilayah, seperti yang ditunjukkan oleh pengakuan terhadap micro-states seperti Liechtenstein (160 kmÂ²) dan Monaco (2 kmÂ²).
 
 Isu-isu yang muncul dalam penerapan kriteria ini mencakup sengketa wilayah dan klaim territorial yang tumpang tindih. Dalam kasus Kosovo, penetapan batas-batas wilayah yang jelas merupakan prasyarat untuk pengakuan sebagai negara. Demikian pula, dalam kasus Palestina, penentuan wilayah yang tepat tetap menjadi isu yang diperdebatkan dalam negosiasi damai.
 
@@ -100,7 +100,7 @@ Selain itu, konsep "wilayah yang ditentukan" dapat mencakup wilayah yang belum s
 
 Pemerintahan mengacu pada adanya otoritas pusat yang mampu mengeksekusi fungsi-fungsi negara secara efektif. Pemerintahan ini tidak harus demokratis atau stabil sepenuhnya. Negara-negara dengan berbagai bentuk pemerintahan, mulai dari monarki absolut hingga demokrasi liberal, semuanya diakui sebagai subjek hukum internasional yang sah.
 
-Namun, dalam praktik, stabilitas dan legitimasi pemerintahan dapat mempengaruhi pengakuan internasional. Pemerintahan yang diperoleh melalui kudeta atau coup d'état sering mengalami kesulitan dalam mendapatkan pengakuan internasional, meskipun secara teknis memenuhi kriteria pemerintahan. Sebagai contoh, pemerintahan Myanmar yang diperoleh melalui kudeta militer pada 2021 tetap diakui sebagai pemerintah yang sah di Perserikatan Bangsa-Bangsa, menunjukkan bahwa pengakuan internasional tidak selalu bergantung pada legitimasi demokratis.
+Namun, dalam praktik, stabilitas dan legitimasi pemerintahan dapat mempengaruhi pengakuan internasional. Pemerintahan yang diperoleh melalui kudeta atau coup d'Ã©tat sering mengalami kesulitan dalam mendapatkan pengakuan internasional, meskipun secara teknis memenuhi kriteria pemerintahan. Sebagai contoh, pemerintahan Myanmar yang diperoleh melalui kudeta militer pada 2021 tetap diakui sebagai pemerintah yang sah di Perserikatan Bangsa-Bangsa, menunjukkan bahwa pengakuan internasional tidak selalu bergantung pada legitimasi demokratis.
 
 Dalam beberapa kasus, kehadiran pemerintahan yang efektif dapat dipertanyakan. Negara-negara gagal seperti Somalia, Libya, dan Afganistan pasca-2021 mengalami kehancuran sistem pemerintahan pusat, namun tetap mempertahankan status sebagai negara dalam sistem internasional.
 
@@ -176,7 +176,7 @@ Kasus Somalia menunjukkan bahwa loss of effective government tidak mengakibatkan
 
 ### 2.5 Micro-States dan Legal Personality Penuh
 
-Micro-states adalah negara dengan populasi dan/atau wilayah yang sangat kecil. Contoh-contoh termasuk Liechtenstein (populasi 38.000, wilayah 160 km²), Monaco (populasi 36.000, wilayah 2 km²), San Marino (populasi 34.000, wilayah 61 km²), dan Vatikan (populasi kurang dari 1000, wilayah 0,44 km²).
+Micro-states adalah negara dengan populasi dan/atau wilayah yang sangat kecil. Contoh-contoh termasuk Liechtenstein (populasi 38.000, wilayah 160 kmÂ²), Monaco (populasi 36.000, wilayah 2 kmÂ²), San Marino (populasi 34.000, wilayah 61 kmÂ²), dan Vatikan (populasi kurang dari 1000, wilayah 0,44 kmÂ²).
 
 Pengakuan terhadap micro-states sebagai negara dengan legal personality penuh menunjukkan bahwa tidak ada persyaratan minimum mengenai ukuran populasi atau luas wilayah untuk memenuhi kriteria statehood. Sebaliknya, prinsip kesetaraan kedaulatan berlaku bahwa semua negara, terlepas dari ukuran mereka, memiliki legal personality yang sama dan hak-hak yang sama dalam sistem hukum internasional (meskipun dalam praktik, kemampuan mereka untuk melaksanakan hak-hak tersebut dapat berbeda secara signifikan).
 
@@ -528,7 +528,7 @@ Status hukum rezim-rezim ini dalam sistem internasional berbeda-beda tergantung 
 
 ### 6.4 Holy See/Vatican City
 
-Holy See (Takhta Suci) adalah entitas unik dalam hukum internasional. Meskipun Vatican City adalah negara teritori terkecil di dunia (0,44 km²), Holy See memiliki legal personality internasional yang terpisah dan dapat:
+Holy See (Takhta Suci) adalah entitas unik dalam hukum internasional. Meskipun Vatican City adalah negara teritori terkecil di dunia (0,44 kmÂ²), Holy See memiliki legal personality internasional yang terpisah dan dapat:
 - Membuat perjanjian internasional
 - Memiliki perwakilan diplomatik
 - Berpartisipasi dalam organisasi internasional
@@ -787,7 +787,7 @@ flowchart TD
 
 8. **Subjek Partial versus Penuh**: Jelaskan perbedaan antara subjek hukum internasional "penuh" dan "sebagian." Berikan contoh dari masing-masing kategori dan jelaskan implikasi dari perbedaan ini.
 
-9. **Holy See dan Sovereign Order of Malta**: Bagaimana dua entitas ini memiliki legal personality internasional meskipun tidak memiliki karakteristik negara tradisional? Apakah ini menunjukkan bahwa legal personality dapat diakui berdasarkan alasan selain critère Montevideo?
+9. **Holy See dan Sovereign Order of Malta**: Bagaimana dua entitas ini memiliki legal personality internasional meskipun tidak memiliki karakteristik negara tradisional? Apakah ini menunjukkan bahwa legal personality dapat diakui berdasarkan alasan selain critÃ¨re Montevideo?
 
 10. **Masa Depan Subjek Hukum Internasional**: Menurut prediksi Anda, bagaimana kategori subjek hukum internasional akan berkembang dalam 50 tahun ke depan? Apakah entitas baru (seperti perusahaan multinasional atau platform digital) akan memperoleh legal personality?
 
@@ -870,4 +870,5 @@ Pellet, Alain. "The Opinions of the International Court of Justice on Questions 
 ---
 
 *Catatan: Materi pembelajaran ini disusun berdasarkan literatur akademis terkemuka dalam hukum internasional dan dirancang untuk memberikan pemahaman komprehensif tentang berbagai kategori subjek hukum internasional. Studi lebih lanjut dari sumber-sumber yang dikutip sangat direkomendasikan untuk pendalaman lebih lanjut.*
+
 

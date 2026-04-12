@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 dg-publish: true
 tags:
@@ -17,7 +17,7 @@ This page is created by Bing Chat using several prompts
 
 ## Dark Waters 
   
-Dark Waters is a 2019 American legal thriller film directed by Todd Haynes and written by Mario Correa and Matthew Michael Carnahan. The story dramatizes Robert Bilott’s case against the chemical manufacturing corporation DuPont after they contaminated a town with unregulated chemicals. It stars Mark Ruffalo as Bilott, along with Anne Hathaway, Tim Robbins, Bill Camp, Victor Garber, Mare Winningham, William Jackson Harper, and Bill Pullman.
+Dark Waters is a 2019 American legal thriller film directed by Todd Haynes and written by Mario Correa and Matthew Michael Carnahan. The story dramatizes Robert Bilottâ€™s case against the chemical manufacturing corporation DuPont after they contaminated a town with unregulated chemicals. It stars Mark Ruffalo as Bilott, along with Anne Hathaway, Tim Robbins, Bill Camp, Victor Garber, Mare Winningham, William Jackson Harper, and Bill Pullman.
 
 Per- and polyfluoroalkyl substances (PFAS) are a class of synthetic chemicals that have been widely used in various industries since the 1940s. They are known for their properties of being stain-resistant, nonstick, waterproof, and heat-resistant. However, they are also highly persistent in the environment and in the human body, and have been linked to various adverse health effects such as cancer, thyroid disease, liver damage, immune system disruption, and developmental problems.
 
@@ -31,7 +31,7 @@ Dark Waters is a gripping legal thriller that exposes the dark side of corporate
 
 ## Deepwater Horizon
   
-Deepwater Horizon is a 2016 American disaster film directed by Peter Berg and written by Matthew Michael Carnahan and Matthew Sand. The film is based on the 2010 Deepwater Horizon explosion and oil spill in the Gulf of Mexico. It stars Mark Wahlberg, Kurt Russell, John Malkovich, Gina Rodriguez, Dylan O’Brien, and Kate Hudson. The film follows the story of Mike Williams (Mark Wahlberg), an electrician who works on the Deepwater Horizon oil rig, and his colleagues as they fight for survival after the rig explodes.
+Deepwater Horizon is a 2016 American disaster film directed by Peter Berg and written by Matthew Michael Carnahan and Matthew Sand. The film is based on the 2010 Deepwater Horizon explosion and oil spill in the Gulf of Mexico. It stars Mark Wahlberg, Kurt Russell, John Malkovich, Gina Rodriguez, Dylan Oâ€™Brien, and Kate Hudson. The film follows the story of Mike Williams (Mark Wahlberg), an electrician who works on the Deepwater Horizon oil rig, and his colleagues as they fight for survival after the rig explodes.
 
 The movie Deepwater Horizon  is a dramatization of the events that led to the worst oil spill in U.S. history, which occurred on April 20, 2010, when an offshore drilling rig exploded and sank in the Gulf of Mexico, killing 11 workers and releasing millions of barrels of oil into the water for 87 days. The movie focuses on the personal stories of some of the rig workers who survived the disaster, as well as the technical challenges and ethical dilemmas they faced during the crisis.
 
@@ -122,13 +122,13 @@ The Kyoto Protocol has been widely praised as a landmark achievement in internat
 
 - Its coverage: The protocol only covers about one-third of global emissions, excluding major emitters like China, India, and the United States (which withdrew from the protocol in 2001). Moreover, it only binds developed countries to emission reduction targets, while developing countries have no obligations. This creates a problem of carbon leakage, where emissions shift from regulated to unregulated regions.
 
-- Its ambition: The protocol's targets are based on 1990 emission levels, which are outdated and do not reflect current realities. The protocol's overall goal is to reduce emissions by an average of 5 percent below 1990 levels by 2012 (the first commitment period) and by at least 18 percent below 1990 levels by 2020 (the second commitment period). However, these targets are far from sufficient to limit global warming to well below 2°C above pre-industrial levels, as agreed by the Paris Agreement in 2015.
+- Its ambition: The protocol's targets are based on 1990 emission levels, which are outdated and do not reflect current realities. The protocol's overall goal is to reduce emissions by an average of 5 percent below 1990 levels by 2012 (the first commitment period) and by at least 18 percent below 1990 levels by 2020 (the second commitment period). However, these targets are far from sufficient to limit global warming to well below 2Â°C above pre-industrial levels, as agreed by the Paris Agreement in 2015.
 
 - Its effectiveness: The protocol relies on market-based mechanisms such as emissions trading and carbon offsetting to achieve its targets. However, these mechanisms have been plagued by problems such as low prices, oversupply of credits, lack of transparency, fraud, and environmental integrity. Moreover, some countries have failed to comply with their targets or have used loopholes such as land use change and forestry accounting to inflate their emission reductions.
 
 - Its fairness: The protocol's principle of "common but differentiated responsibility and respective capabilities" implies that developed countries should bear more responsibility for reducing emissions than developing countries because they have contributed more to historical emissions and have more financial and technological resources. However, this principle has been contested by some developing countries who argue that they have the right to pursue economic development and poverty alleviation without being constrained by emission limits. Furthermore, some developed countries argue that they should not be penalized for their early action on climate change or their low population growth.
 
-- Its relevance: The protocol's second commitment period expires in 2020 and there is no clear plan for its future beyond that date. The protocol has been superseded by the Paris Agreement which covers all countries and sets a more ambitious goal of limiting global warming to well below 2°C above pre-industrial levels while pursuing efforts to limit it to 1.5°C. The Paris Agreement also adopts a more flexible approach that allows each country to determine its own nationally determined contribution (NDC) based on its national circumstances and capabilities.
+- Its relevance: The protocol's second commitment period expires in 2020 and there is no clear plan for its future beyond that date. The protocol has been superseded by the Paris Agreement which covers all countries and sets a more ambitious goal of limiting global warming to well below 2Â°C above pre-industrial levels while pursuing efforts to limit it to 1.5Â°C. The Paris Agreement also adopts a more flexible approach that allows each country to determine its own nationally determined contribution (NDC) based on its national circumstances and capabilities.
 
 
 References:

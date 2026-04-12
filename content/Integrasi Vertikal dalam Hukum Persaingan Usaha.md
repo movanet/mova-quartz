@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 tags: #vertical #integration #competition #law
 ---

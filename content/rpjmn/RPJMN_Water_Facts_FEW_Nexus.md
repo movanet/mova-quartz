@@ -1,4 +1,4 @@
-# RPJMN Water Facts: Food-Energy-Water (FEW) Nexus Framework
+﻿# RPJMN Water Facts: Food-Energy-Water (FEW) Nexus Framework
 
 **Document Type:** Source Material (Facts Only)
 **Source:** RPJMN 2025-2029 - National Medium-Term Development Plan
@@ -175,3 +175,4 @@ Water self-sufficiency zones integrate food production, energy generation, and w
 ---
 
 **Tags:** #rpjmn #few-nexus #swasembada-air #water-security #source-to-sea #smart-water-management #facts #source-material
+

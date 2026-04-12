@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -42,4 +42,5 @@ Two essential elements must be present to establish criminal liability: mens rea
 ### 2. Vicarious Liability
 
 Vicarious liability, also known as imputed liability, occurs when one party is held responsible for the criminal actions of another party. This type of liability is commonly found in employment relationships, where an employer may be held liable for the criminal acts of their employees if committed within the scope of their employment.
+
 

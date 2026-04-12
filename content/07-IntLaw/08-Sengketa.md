@@ -1,4 +1,4 @@
----
+﻿---
 title: "Penyelesaian Sengketa Internasional"
 tags:
   - hukum-internasional
@@ -40,7 +40,7 @@ Kewajiban penyelesaian sengketa secara damai merupakan salah satu prinsip fundam
 **Pasal 33(1) Piagam PBB:**
 > "The parties to any dispute, the continuance of which is likely to endanger the maintenance of international peace and security, shall, first of all, seek a solution by negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements, or other peaceful means of their own choice."
 
-Kedua pasal ini menetapkan dua hal penting. Pertama, kewajiban menyelesaikan sengketa secara damai bersifat mutlak—negara-negara anggota PBB tidak boleh menggunakan kekerasan atau ancaman kekerasan untuk menyelesaikan sengketa mereka (berkorelasi dengan Pasal 2(4) yang melarang penggunaan kekerasan). Kedua, pilihan cara penyelesaian damai diserahkan kepada para pihak—Pasal 33 menyebutkan berbagai cara tetapi tidak memaksakan cara tertentu.
+Kedua pasal ini menetapkan dua hal penting. Pertama, kewajiban menyelesaikan sengketa secara damai bersifat mutlakâ€”negara-negara anggota PBB tidak boleh menggunakan kekerasan atau ancaman kekerasan untuk menyelesaikan sengketa mereka (berkorelasi dengan Pasal 2(4) yang melarang penggunaan kekerasan). Kedua, pilihan cara penyelesaian damai diserahkan kepada para pihakâ€”Pasal 33 menyebutkan berbagai cara tetapi tidak memaksakan cara tertentu.
 
 ### 8.1.2 Definisi "Sengketa" dalam Hukum Internasional
 
@@ -60,7 +60,7 @@ Secara tradisional, sengketa internasional diklasifikasikan menjadi:
 
 **Sengketa Politik (*Political/Non-Justiciable Disputes*)**: Sengketa yang menyangkut keinginan untuk mengubah hukum yang berlaku atau kepentingan politik yang tidak dapat diselesaikan hanya dengan penerapan hukum yang ada. Sengketa politik lebih cocok untuk penyelesaian diplomatik.
 
-Dalam praktik, pembedaan ini tidak selalu jelas karena banyak sengketa memiliki dimensi hukum dan politik sekaligus. ICJ sendiri telah menyatakan bahwa pengadilan tidak boleh menolak yurisdiksi hanya karena sengketa memiliki dimensi politik—*"the fact that a question also has political aspects does not deprive it of its character as a legal question"* (kasus *Hostages*, 1980).
+Dalam praktik, pembedaan ini tidak selalu jelas karena banyak sengketa memiliki dimensi hukum dan politik sekaligus. ICJ sendiri telah menyatakan bahwa pengadilan tidak boleh menolak yurisdiksi hanya karena sengketa memiliki dimensi politikâ€”*"the fact that a question also has political aspects does not deprive it of its character as a legal question"* (kasus *Hostages*, 1980).
 
 ```mermaid
 graph TB
@@ -98,11 +98,11 @@ Negosiasi merupakan cara penyelesaian sengketa yang paling dasar, paling banyak 
 
 **Kewajiban untuk Bernegosiasi:**
 
-Beberapa perjanjian internasional mewajibkan para pihak untuk bernegosiasi sebelum menggunakan mekanisme penyelesaian sengketa lainnya. ICJ dalam kasus *North Sea Continental Shelf* (1969) menyatakan bahwa kewajiban bernegosiasi bukan sekadar formalitas—para pihak harus bernegosiasi dengan itikad baik (*good faith*) dan berupaya sungguh-sungguh untuk mencapai kesepakatan:
+Beberapa perjanjian internasional mewajibkan para pihak untuk bernegosiasi sebelum menggunakan mekanisme penyelesaian sengketa lainnya. ICJ dalam kasus *North Sea Continental Shelf* (1969) menyatakan bahwa kewajiban bernegosiasi bukan sekadar formalitasâ€”para pihak harus bernegosiasi dengan itikad baik (*good faith*) dan berupaya sungguh-sungguh untuk mencapai kesepakatan:
 
 > "The parties are under an obligation to enter into negotiations with a view to arriving at an agreement, and not merely to go through a formal process of negotiation as a sort of prior condition for the automatic application of a certain method of delimitation in the absence of agreement."
 
-Dalam kasus *Pulp Mills on the River Uruguay* (Argentina v. Uruguay, 2010), ICJ menegaskan bahwa kewajiban bernegosiasi adalah kewajiban perilaku (*obligation of conduct*), bukan kewajiban hasil (*obligation of result*)—para pihak wajib bernegosiasi dengan itikad baik tetapi tidak wajib mencapai kesepakatan.
+Dalam kasus *Pulp Mills on the River Uruguay* (Argentina v. Uruguay, 2010), ICJ menegaskan bahwa kewajiban bernegosiasi adalah kewajiban perilaku (*obligation of conduct*), bukan kewajiban hasil (*obligation of result*)â€”para pihak wajib bernegosiasi dengan itikad baik tetapi tidak wajib mencapai kesepakatan.
 
 ### 8.2.2 Jasa Baik (*Good Offices*) dan Mediasi (*Mediation*)
 
@@ -116,7 +116,7 @@ Contoh penting: Sekretaris Jenderal PBB sering menjalankan jasa baik dalam konfl
 
 **Mediasi (*Mediation*):**
 
-Dalam mediasi, pihak ketiga berperan lebih aktif—tidak hanya memfasilitasi tetapi juga berpartisipasi dalam substansi negosiasi, mengajukan proposal, dan membantu para pihak merumuskan penyelesaian. Namun, mediator tidak memiliki kewenangan untuk memaksakan penyelesaian; keputusan tetap di tangan para pihak.
+Dalam mediasi, pihak ketiga berperan lebih aktifâ€”tidak hanya memfasilitasi tetapi juga berpartisipasi dalam substansi negosiasi, mengajukan proposal, dan membantu para pihak merumuskan penyelesaian. Namun, mediator tidak memiliki kewenangan untuk memaksakan penyelesaian; keputusan tetap di tangan para pihak.
 
 Mediasi dapat bersifat:
 - **Evaluatif**: Mediator memberikan penilaian tentang posisi masing-masing pihak dan mengajukan rekomendasi penyelesaian
@@ -138,7 +138,7 @@ Dalam praktik kontemporer, komisi penyelidikan sering dibentuk oleh PBB atau org
 
 ### 8.2.4 Konsiliasi (*Conciliation*)
 
-Konsiliasi merupakan prosedur semi-formal di mana komisi konsiliasi—biasanya terdiri dari tiga hingga lima anggota yang dipilih oleh para pihak—menyelidiki sengketa dan mengajukan proposal penyelesaian. Berbeda dari arbitrase, proposal konsiliasi tidak mengikat para pihak.
+Konsiliasi merupakan prosedur semi-formal di mana komisi konsiliasiâ€”biasanya terdiri dari tiga hingga lima anggota yang dipilih oleh para pihakâ€”menyelidiki sengketa dan mengajukan proposal penyelesaian. Berbeda dari arbitrase, proposal konsiliasi tidak mengikat para pihak.
 
 Konsiliasi menggabungkan elemen penyelidikan (penetapan fakta) dan mediasi (pengajuan solusi), tetapi lebih terstruktur dibandingkan mediasi. Komisi konsiliasi biasanya memiliki aturan prosedur yang jelas dan batas waktu tertentu.
 
@@ -215,7 +215,7 @@ Filipina mengajukan arbitrase terhadap Tiongkok berdasarkan Lampiran VII UNCLOS,
 Tiongkok menolak berpartisipasi dalam arbitrase dan menolak putusan tribunal, menimbulkan pertanyaan serius tentang penegakan putusan arbitrase ketika salah satu pihak menolak mematuhinya.
 
 **Arbitrase Pulau Palmas (1928):**
-Sengketa antara Amerika Serikat dan Belanda atas kedaulatan Pulau Palmas (Pulau Miangas) diselesaikan melalui arbitrase oleh Max Huber. Putusan ini menetapkan prinsip-prinsip penting tentang kedaulatan teritorial dan *effectivités* yang masih berpengaruh hingga kini.
+Sengketa antara Amerika Serikat dan Belanda atas kedaulatan Pulau Palmas (Pulau Miangas) diselesaikan melalui arbitrase oleh Max Huber. Putusan ini menetapkan prinsip-prinsip penting tentang kedaulatan teritorial dan *effectivitÃ©s* yang masih berpengaruh hingga kini.
 
 ```mermaid
 graph TB
@@ -248,7 +248,7 @@ ICJ terdiri dari 15 hakim yang dipilih oleh Majelis Umum dan Dewan Keamanan PBB 
 
 Hanya negara yang dapat menjadi pihak dalam perkara kontentius di ICJ (Pasal 34 Statuta). Individu, organisasi internasional, dan entitas non-negara lainnya tidak memiliki *locus standi*.
 
-ICJ tidak memiliki yurisdiksi otomatis—negara harus menyatakan persetujuannya untuk tunduk pada yurisdiksi ICJ. Persetujuan dapat diberikan melalui:
+ICJ tidak memiliki yurisdiksi otomatisâ€”negara harus menyatakan persetujuannya untuk tunduk pada yurisdiksi ICJ. Persetujuan dapat diberikan melalui:
 
 **Klausul Kompromisori (*Compromissory Clause*) (Pasal 36(1)):**
 
@@ -311,7 +311,7 @@ Pasal 94 Piagam PBB mengatur pelaksanaan putusan ICJ:
 Dalam praktik, tingkat kepatuhan terhadap putusan ICJ cukup tinggi, tetapi tidak absolut. Beberapa kasus ketidakpatuhan yang terkenal meliputi:
 
 - **Nicaragua v. United States (1986)**: Amerika Serikat menolak mematuhi putusan ICJ yang menyatakan AS melanggar hukum internasional dengan mendukung Contras dan menambang pelabuhan Nikaragua. AS menggunakan hak veto di Dewan Keamanan untuk memblokir penegakan putusan.
-- **Avena (Mexico v. United States, 2004)**: Meskipun ICJ memerintahkan peninjauan kembali kasus-kasus hukuman mati warga negara Meksiko, Mahkamah Agung AS dalam *Medellín v. Texas* (2008) memutuskan bahwa putusan ICJ tidak *self-executing* dan memerlukan tindakan legislatif untuk implementasi domestik.
+- **Avena (Mexico v. United States, 2004)**: Meskipun ICJ memerintahkan peninjauan kembali kasus-kasus hukuman mati warga negara Meksiko, Mahkamah Agung AS dalam *MedellÃ­n v. Texas* (2008) memutuskan bahwa putusan ICJ tidak *self-executing* dan memerlukan tindakan legislatif untuk implementasi domestik.
 - **Arbitrase Laut Cina Selatan (2016)**: Tiongkok menolak mengakui dan mematuhi putusan tribunal arbitrase yang dibentuk berdasarkan UNCLOS.
 
 Mekanisme penegakan melalui Dewan Keamanan PBB (Pasal 94(2)) pada praktiknya sulit diterapkan karena setiap anggota tetap Dewan Keamanan dapat menggunakan hak veto.
@@ -375,7 +375,7 @@ Sistem penyelesaian sengketa WTO merupakan salah satu mekanisme penyelesaian sen
 
 Sejak Desember 2019, Appellate Body WTO tidak dapat berfungsi karena Amerika Serikat memblokir penunjukan anggota baru. Krisis ini merupakan tantangan serius bagi sistem penyelesaian sengketa WTO, karena banding menjadi mustahil dan putusan panel tidak dapat menjadi final jika salah satu pihak "mengajukan banding ke ruang hampa" (*appeal into the void*).
 
-Sebagai respons, beberapa anggota WTO—termasuk Uni Eropa dan Tiongkok—membentuk *Multi-Party Interim Appeal Arbitration Arrangement* (MPIA) sebagai mekanisme banding sementara berdasarkan Pasal 25 DSU. Indonesia belum bergabung dengan MPIA.
+Sebagai respons, beberapa anggota WTOâ€”termasuk Uni Eropa dan Tiongkokâ€”membentuk *Multi-Party Interim Appeal Arbitration Arrangement* (MPIA) sebagai mekanisme banding sementara berdasarkan Pasal 25 DSU. Indonesia belum bergabung dengan MPIA.
 
 **Sengketa WTO yang Melibatkan Indonesia:**
 
@@ -383,12 +383,12 @@ Indonesia telah terlibat dalam beberapa sengketa WTO, baik sebagai penggugat mau
 
 | Kasus | Peran Indonesia | Substansi | Hasil |
 |---|---|---|---|
-| DS406 (US — Clove Cigarettes) | Penggugat | AS melarang rokok kretek tetapi mengecualikan rokok mentol | Indonesia menang |
-| DS484 (Indonesia — Chicken) | Tergugat | Hambatan impor daging ayam dari Brasil | Indonesia kalah |
-| DS592 (Indonesia — Raw Materials) | Tergugat | Pembatasan ekspor bahan baku nikel | Indonesia kalah (panel 2022) |
-| DS477/478 (Indonesia — Horticultural Products) | Tergugat | Pembatasan impor produk hortikultura | Indonesia kalah |
+| DS406 (US â€” Clove Cigarettes) | Penggugat | AS melarang rokok kretek tetapi mengecualikan rokok mentol | Indonesia menang |
+| DS484 (Indonesia â€” Chicken) | Tergugat | Hambatan impor daging ayam dari Brasil | Indonesia kalah |
+| DS592 (Indonesia â€” Raw Materials) | Tergugat | Pembatasan ekspor bahan baku nikel | Indonesia kalah (panel 2022) |
+| DS477/478 (Indonesia â€” Horticultural Products) | Tergugat | Pembatasan impor produk hortikultura | Indonesia kalah |
 
-Kasus DS406 tentang rokok kretek merupakan kemenangan penting bagi Indonesia. Panel dan Appellate Body WTO memutuskan bahwa larangan rokok kretek oleh AS melanggar Pasal 2.1 Perjanjian TBT karena mendiskriminasikan produk serupa (*like products*)—rokok kretek (didominasi Indonesia) dilarang sementara rokok mentol (dominan AS) dikecualikan.
+Kasus DS406 tentang rokok kretek merupakan kemenangan penting bagi Indonesia. Panel dan Appellate Body WTO memutuskan bahwa larangan rokok kretek oleh AS melanggar Pasal 2.1 Perjanjian TBT karena mendiskriminasikan produk serupa (*like products*)â€”rokok kretek (didominasi Indonesia) dilarang sementara rokok mentol (dominan AS) dikecualikan.
 
 Kasus DS592 tentang pembatasan ekspor nikel sangat relevan dalam konteks kebijakan *downstreaming* Indonesia. Uni Eropa menggugat larangan ekspor bijih nikel oleh Indonesia yang bertujuan mendorong pengolahan dalam negeri. Panel WTO memutuskan bahwa larangan tersebut melanggar Pasal XI:1 GATT tentang larangan pembatasan kuantitatif. Indonesia mengajukan banding, namun mengingat krisis Appellate Body, penyelesaian kasus ini menjadi rumit.
 
@@ -442,7 +442,7 @@ Protokol ini mengatur penyelesaian sengketa ekonomi ASEAN dengan model yang miri
 
 ### 8.6.2 "ASEAN Way" dan Implikasinya
 
-Penyelesaian sengketa di ASEAN sangat dipengaruhi oleh "ASEAN Way"—pendekatan yang menekankan konsultasi (*musyawarah*), konsensus (*mufakat*), non-intervensi dalam urusan dalam negeri, dan diplomasi informal. Meskipun pendekatan ini telah menjaga stabilitas regional, ia juga dikritik karena menghindari penyelesaian substantif atas sengketa yang kompleks, khususnya sengketa teritorial di Laut Cina Selatan.
+Penyelesaian sengketa di ASEAN sangat dipengaruhi oleh "ASEAN Way"â€”pendekatan yang menekankan konsultasi (*musyawarah*), konsensus (*mufakat*), non-intervensi dalam urusan dalam negeri, dan diplomasi informal. Meskipun pendekatan ini telah menjaga stabilitas regional, ia juga dikritik karena menghindari penyelesaian substantif atas sengketa yang kompleks, khususnya sengketa teritorial di Laut Cina Selatan.
 
 Paradoksnya, beberapa sengketa antarnegara ASEAN justru diselesaikan di luar mekanisme ASEAN:
 - Sengketa Sipadan-Ligitan (Indonesia-Malaysia) diselesaikan di ICJ (2002)
@@ -463,30 +463,30 @@ Pulau Sipadan dan Pulau Ligitan merupakan dua pulau kecil di Laut Sulawesi yang 
 
 Indonesia mendasarkan klaimnya pada:
 1. Konvensi 1891 antara Inggris dan Belanda yang menetapkan batas wilayah di Kalimantan
-2. Interpretasi bahwa garis batas 4°10' Lintang Utara dalam konvensi tersebut berlanjut ke timur dan mencakup kedua pulau
+2. Interpretasi bahwa garis batas 4Â°10' Lintang Utara dalam konvensi tersebut berlanjut ke timur dan mencakup kedua pulau
 3. Peta-peta yang menunjukkan kedua pulau sebagai bagian dari wilayah Hindia Belanda
 
 Malaysia mendasarkan klaimnya pada:
 1. Interpretasi berbeda atas Konvensi 1891
 2. Rantai alas hak (*chain of title*) dari Sultan Sulu ke British North Borneo Company, lalu ke Inggris, dan akhirnya ke Malaysia
-3. *Effectivités*: tindakan nyata pelaksanaan kedaulatan oleh British North Borneo Company dan Malaysia, termasuk regulasi penangkapan penyu, pembangunan mercusuar, dan pengembangan pariwisata
+3. *EffectivitÃ©s*: tindakan nyata pelaksanaan kedaulatan oleh British North Borneo Company dan Malaysia, termasuk regulasi penangkapan penyu, pembangunan mercusuar, dan pengembangan pariwisata
 
 **Putusan ICJ (17 Desember 2002):**
 
-ICJ memutuskan dengan suara 16-1 bahwa kedaulatan atas kedua pulau dimiliki oleh Malaysia. Pengadilan menolak argumen kedua belah pihak berdasarkan alas hak konvensional dan memutuskan berdasarkan *effectivités*—tindakan nyata pelaksanaan kedaulatan.
+ICJ memutuskan dengan suara 16-1 bahwa kedaulatan atas kedua pulau dimiliki oleh Malaysia. Pengadilan menolak argumen kedua belah pihak berdasarkan alas hak konvensional dan memutuskan berdasarkan *effectivitÃ©s*â€”tindakan nyata pelaksanaan kedaulatan.
 
 ICJ menemukan bahwa Malaysia (dan pendahulunya) melakukan berbagai tindakan administratif atas pulau-pulau tersebut, termasuk:
 - Pengaturan penangkapan penyu sejak tahun 1917
 - Pembangunan dan pemeliharaan mercusuar
 - Pengelolaan cagar alam burung
 
-Indonesia, sebaliknya, tidak dapat menunjukkan tindakan *effectivités* yang sebanding.
+Indonesia, sebaliknya, tidak dapat menunjukkan tindakan *effectivitÃ©s* yang sebanding.
 
 **Dampak dan Pelajaran:**
 
 Kasus Sipadan-Ligitan memiliki dampak besar bagi kebijakan Indonesia:
 1. Mendorong penguatan pengelolaan pulau-pulau terluar melalui Perpres Nomor 78 Tahun 2005 tentang Pengelolaan Pulau-Pulau Kecil Terluar
-2. Meningkatkan kesadaran tentang pentingnya *effectivités* dalam sengketa kedaulatan
+2. Meningkatkan kesadaran tentang pentingnya *effectivitÃ©s* dalam sengketa kedaulatan
 3. Memacu Indonesia untuk memperkuat kehadiran dan administrasi di wilayah perbatasan
 4. Menjadi pelajaran berharga tentang pentingnya dokumentasi dan bukti pelaksanaan kedaulatan
 
@@ -494,7 +494,7 @@ Kasus Sipadan-Ligitan memiliki dampak besar bagi kebijakan Indonesia:
 
 Meskipun Indonesia bukan pihak langsung dalam kasus ini, keputusan ICJ dalam *Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge* (Malaysia/Singapura, 2008) memiliki relevansi bagi Indonesia karena menyangkut prinsip-prinsip hukum yang serupa.
 
-ICJ memutuskan bahwa kedaulatan atas Pedra Branca/Pulau Batu Puteh dimiliki oleh Singapura, bukan Malaysia, meskipun pulau tersebut secara historis merupakan bagian dari wilayah Kesultanan Johor. Pengadilan menemukan bahwa Malaysia (melalui Johor) secara implisit menyerahkan kedaulatan melalui perilakunya (*acquiescence*)—khususnya surat tahun 1953 di mana Johor menyatakan bahwa ia tidak mengklaim kepemilikan atas pulau tersebut.
+ICJ memutuskan bahwa kedaulatan atas Pedra Branca/Pulau Batu Puteh dimiliki oleh Singapura, bukan Malaysia, meskipun pulau tersebut secara historis merupakan bagian dari wilayah Kesultanan Johor. Pengadilan menemukan bahwa Malaysia (melalui Johor) secara implisit menyerahkan kedaulatan melalui perilakunya (*acquiescence*)â€”khususnya surat tahun 1953 di mana Johor menyatakan bahwa ia tidak mengklaim kepemilikan atas pulau tersebut.
 
 Pada tahun 2017, Malaysia mengajukan permohonan revisi putusan berdasarkan Pasal 61 Statuta ICJ, mengklaim adanya bukti baru. Namun, pada tahun 2018, Malaysia menarik kembali permohonannya.
 
@@ -508,7 +508,7 @@ Ini merupakan salah satu kasus ICSID awal yang melibatkan Indonesia. Amco Asia C
 
 **Kasus Rafat Ali Rizvi v. Indonesia (ICSID, 2011):**
 
-Kasus ini berkaitan dengan pencabutan izin Bank Century (kemudian Bank Mutiara). Tribunal ICSID menolak klaim investor karena ketiadaan yurisdiksi—investor tidak memenuhi persyaratan nasionalitas berdasarkan BIT Indonesia-Inggris.
+Kasus ini berkaitan dengan pencabutan izin Bank Century (kemudian Bank Mutiara). Tribunal ICSID menolak klaim investor karena ketiadaan yurisdiksiâ€”investor tidak memenuhi persyaratan nasionalitas berdasarkan BIT Indonesia-Inggris.
 
 **Kasus Indian Metals & Ferro Alloys v. Indonesia (PCA, 2019):**
 
@@ -541,7 +541,7 @@ Faktor-faktor yang mempengaruhi kepatuhan terhadap putusan internasional:
 Pasal 94(2) Piagam PBB memberikan kewenangan kepada Dewan Keamanan untuk mengambil tindakan guna melaksanakan putusan ICJ. Namun, mekanisme ini jarang berhasil karena:
 - Negara yang diperintahkan untuk mematuhi putusan mungkin merupakan anggota tetap Dewan Keamanan dengan hak veto
 - Pertimbangan politik seringkali mengalahkan pertimbangan hukum di Dewan Keamanan
-- Dewan Keamanan memiliki diskresi ("may...make recommendations or decide upon measures")—tidak wajib bertindak
+- Dewan Keamanan memiliki diskresi ("may...make recommendations or decide upon measures")â€”tidak wajib bertindak
 
 Dalam kasus *Nicaragua v. United States*, Nikaragua mengajukan permintaan kepada Dewan Keamanan untuk menegakkan putusan ICJ, tetapi Amerika Serikat menggunakan hak vetonya untuk memblokir resolusi.
 
@@ -584,7 +584,7 @@ Uni Eropa mempromosikan model Investment Court System (ICS) yang menggantikan ar
 
 ### 8.9.2 Pengadilan Regional dan Fragmentasi
 
-Proliferasi pengadilan dan tribunal internasional menimbulkan persoalan fragmentasi yurisdiksi. Sengketa yang sama dapat diajukan ke forum yang berbeda—ICJ, ITLOS, WTO, tribunal investasi—dengan risiko putusan yang bertentangan.
+Proliferasi pengadilan dan tribunal internasional menimbulkan persoalan fragmentasi yurisdiksi. Sengketa yang sama dapat diajukan ke forum yang berbedaâ€”ICJ, ITLOS, WTO, tribunal investasiâ€”dengan risiko putusan yang bertentangan.
 
 Meskipun ICJ dalam beberapa putusan mengklaim posisinya sebagai pengadilan internasional utama, dalam praktik tidak ada hierarki formal antara pengadilan-pengadilan internasional. Setiap pengadilan independen dan menerapkan hukumnya sendiri.
 
@@ -612,7 +612,7 @@ Penyelesaian sengketa secara damai merupakan kewajiban fundamental dalam hukum i
 
 ICJ sebagai organ yudisial utama PBB memiliki dua yurisdiksi: kontentius (mengikat) dan nasihat (tidak mengikat). Yurisdiksi kontentius ICJ bergantung pada persetujuan negara, dan kepatuhan terhadap putusannya bergantung pada mekanisme Pasal 94 Piagam PBB yang efektivitasnya terbatas.
 
-Pengadilan dan tribunal khusus—ITLOS, WTO DSB, ICC—melengkapi ICJ dengan yurisdiksi atas bidang-bidang tertentu. Sistem arbitrase investasi melalui ICSID memberikan mekanisme penyelesaian sengketa yang unik antara negara dan investor asing, meskipun sistem ini menghadapi kritik dan sedang mengalami reformasi.
+Pengadilan dan tribunal khususâ€”ITLOS, WTO DSB, ICCâ€”melengkapi ICJ dengan yurisdiksi atas bidang-bidang tertentu. Sistem arbitrase investasi melalui ICSID memberikan mekanisme penyelesaian sengketa yang unik antara negara dan investor asing, meskipun sistem ini menghadapi kritik dan sedang mengalami reformasi.
 
 Praktik Indonesia dalam penyelesaian sengketa internasional sangat beragam, dari kasus Sipadan-Ligitan di ICJ hingga berbagai sengketa di WTO dan ICSID. Pengalaman ini memberikan pelajaran berharga tentang pentingnya penguatan kapasitas hukum internasional Indonesia.
 
@@ -689,8 +689,8 @@ Praktik Indonesia dalam penyelesaian sengketa internasional sangat beragam, dari
 
 ### Putusan WTO
 
-- *United States — Measures Affecting the Production and Sale of Clove Cigarettes* (DS406), Panel Report and Appellate Body Report, 2012.
-- *Indonesia — Measures Relating to Raw Materials* (DS592), Panel Report, 2022.
+- *United States â€” Measures Affecting the Production and Sale of Clove Cigarettes* (DS406), Panel Report and Appellate Body Report, 2012.
+- *Indonesia â€” Measures Relating to Raw Materials* (DS592), Panel Report, 2022.
 
 ### Instrumen Hukum
 
@@ -713,3 +713,4 @@ Praktik Indonesia dalam penyelesaian sengketa internasional sangat beragam, dari
 ---
 
 *Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[07-Tanggung-Jawab]] untuk pembahasan tentang tanggung jawab negara yang dapat menjadi dasar sengketa internasional, dan [[05-Yurisdiksi]] untuk pembahasan tentang yurisdiksi yang berkaitan erat dengan kompetensi pengadilan internasional.*
+

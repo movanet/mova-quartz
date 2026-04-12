@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 bab: "13"
 judul: "Kerangka Hukum Adaptasi Internasional"
@@ -6,7 +6,7 @@ level: "S1"
 durasi_baca: "90 menit"
 tags:
   - buku-ajar
-  - hukum-perubahan-iklim
+  - hukum-06-PerubahanIklim
   - adaptasi
   - GGA
   - Paris-Agreement
@@ -37,7 +37,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Selama bertahun-tahun, adaptasi diperlakukan sebagai "anak tiri" dalam rezim hukum iklim internasional—fokus utama diberikan pada mitigasi. Namun, seiring semakin jelasnya bahwa dampak perubahan iklim tidak dapat sepenuhnya dihindari, adaptasi kini diakui sebagai pilar yang sama pentingnya. Bab ini akan mengajak Anda menelusuri perjalanan panjang adaptasi dari kewajiban sekunder menjadi prioritas global, memahami prinsip-prinsip fundamentalnya, dan mengenal kerangka kelembagaan serta pendanaan yang mendukungnya.
+Selama bertahun-tahun, adaptasi diperlakukan sebagai "anak tiri" dalam rezim hukum iklim internasionalâ€”fokus utama diberikan pada mitigasi. Namun, seiring semakin jelasnya bahwa dampak perubahan iklim tidak dapat sepenuhnya dihindari, adaptasi kini diakui sebagai pilar yang sama pentingnya. Bab ini akan mengajak Anda menelusuri perjalanan panjang adaptasi dari kewajiban sekunder menjadi prioritas global, memahami prinsip-prinsip fundamentalnya, dan mengenal kerangka kelembagaan serta pendanaan yang mendukungnya.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -48,7 +48,7 @@ graph LR
     B --> D[BAB 15: Loss & Damage]
 ```
 
-Bab ini merupakan pendalaman dari [[Buku-Ajar-Hukum-Perubahan-Iklim-05-Hukum-Adaptasi_BAB-05|BAB 5: Hukum Adaptasi Perubahan Iklim]] dengan fokus pada kerangka internasional. Pemahaman ini menjadi fondasi untuk [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14]] tentang implementasi sektoral di Indonesia dan [[Buku-Ajar-Hukum-Perubahan-Iklim-15-Loss-and-Damage_BAB-15|BAB 15]] tentang kerugian yang melampaui kapasitas adaptasi.
+Bab ini merupakan pendalaman dari [[Buku-Ajar-Hukum-06-PerubahanIklim-05-Hukum-Adaptasi_BAB-05|BAB 5: Hukum Adaptasi Perubahan Iklim]] dengan fokus pada kerangka internasional. Pemahaman ini menjadi fondasi untuk [[Buku-Ajar-Hukum-06-PerubahanIklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14]] tentang implementasi sektoral di Indonesia dan [[Buku-Ajar-Hukum-06-PerubahanIklim-15-Loss-and-Damage_BAB-15|BAB 15]] tentang kerugian yang melampaui kapasitas adaptasi.
 
 ### 5. Peta Konsep Bab
 
@@ -105,13 +105,13 @@ Kebijakan yang secara proaktif mengurangi eksposur sistem terhadap dampak iklim.
 
 **b. Meningkatkan Ketahanan (*Increasing Resilience*)**
 
-Kebijakan yang meningkatkan kapasitas sistem—baik sosial, ekonomi, maupun ekologis—untuk menghadapi dan pulih dari dampak yang tak terhindarkan. Contohnya:
+Kebijakan yang meningkatkan kapasitas sistemâ€”baik sosial, ekonomi, maupun ekologisâ€”untuk menghadapi dan pulih dari dampak yang tak terhindarkan. Contohnya:
 - Sistem asuransi pertanian untuk petani
 - Diversifikasi ekonomi di wilayah yang bergantung pada sektor rentan iklim
 - Pembangunan cadangan pangan strategis
 
 > [!tip] **Kotak Pengayaan: Kerentanan versus Ketahanan**
-> Dalam literatur adaptasi, **kerentanan** (*vulnerability*) dan **ketahanan** (*resilience*) sering dipahami sebagai dua sisi mata uang yang sama—namun tidak selalu demikian. Sebuah sistem bisa memiliki kerentanan tinggi tetapi juga ketahanan tinggi jika memiliki kapasitas pemulihan yang baik. Hukum adaptasi yang efektif harus menangani keduanya secara simultan.
+> Dalam literatur adaptasi, **kerentanan** (*vulnerability*) dan **ketahanan** (*resilience*) sering dipahami sebagai dua sisi mata uang yang samaâ€”namun tidak selalu demikian. Sebuah sistem bisa memiliki kerentanan tinggi tetapi juga ketahanan tinggi jika memiliki kapasitas pemulihan yang baik. Hukum adaptasi yang efektif harus menangani keduanya secara simultan.
 
 #### 1.2 Tiga Model Respons Adaptasi
 
@@ -125,7 +125,7 @@ Setiap kebijakan adaptasi pada dasarnya jatuh ke dalam salah satu dari tiga mode
 
 **Tabel 13.1.** Tiga model respons adaptasi dan contoh implementasinya
 
-Pilihan di antara ketiga model ini bukanlah keputusan teknis semata—ia mengandung dimensi politik, ekonomi, dan keadilan yang signifikan. Siapa yang menanggung biaya relokasi? Siapa yang dilindungi oleh infrastruktur keras? Pertanyaan-pertanyaan ini harus dijawab secara eksplisit dalam kerangka hukum.
+Pilihan di antara ketiga model ini bukanlah keputusan teknis semataâ€”ia mengandung dimensi politik, ekonomi, dan keadilan yang signifikan. Siapa yang menanggung biaya relokasi? Siapa yang dilindungi oleh infrastruktur keras? Pertanyaan-pertanyaan ini harus dijawab secara eksplisit dalam kerangka hukum.
 
 #### 1.3 Prinsip Non-Stasioneritas (*Stationarity is Dead*)
 
@@ -135,8 +135,8 @@ Pilihan di antara ketiga model ini bukanlah keputusan teknis semata—ia mengand
 Selama berabad-abad, sistem hukum dan perencanaan dibangun di atas asumsi bahwa kondisi iklim di masa depan akan serupa dengan data historis. Asumsi ini tidak lagi valid.
 
 > [!quote] **Kutipan**
-> "Stationarity is dead: Stationarity—the idea that natural systems fluctuate within an unchanging envelope of variability—is a foundational concept that permeates training and practice in water-resource engineering... [But] in a nonstationary world, continuity of historical data is no longer a reliable guide to future risk."
-> — *Milly et al., Science, 2008*[^2]
+> "Stationarity is dead: Stationarityâ€”the idea that natural systems fluctuate within an unchanging envelope of variabilityâ€”is a foundational concept that permeates training and practice in water-resource engineering... [But] in a nonstationary world, continuity of historical data is no longer a reliable guide to future risk."
+> â€” *Milly et al., Science, 2008*[^2]
 
 **Implikasi Hukum:**
 
@@ -144,7 +144,7 @@ Selama berabad-abad, sistem hukum dan perencanaan dibangun di atas asumsi bahwa 
 
 2. **Standar Desain:** Standar bangunan, infrastruktur, dan fasilitas publik harus memasukkan *climate safety margins* yang mengantisipasi kondisi masa depan.
 
-3. **Izin dan Perizinan:** Proses perizinan harus mempertimbangkan viabilitas proyek dalam skenario iklim yang berubah—bukan hanya kondisi saat ini.
+3. **Izin dan Perizinan:** Proses perizinan harus mempertimbangkan viabilitas proyek dalam skenario iklim yang berubahâ€”bukan hanya kondisi saat ini.
 
 4. **Kontrak Jangka Panjang:** Kontrak infrastruktur, konsesi sumber daya alam, dan perjanjian investasi jangka panjang perlu memasukkan klausul penyesuaian iklim.
 
@@ -179,7 +179,7 @@ Konvensi Kerangka Kerja PBB tentang Perubahan Iklim (UNFCCC) 1992 menyebutkan ad
 
 > "Formulate, implement, publish and regularly update national and, where appropriate, regional programmes containing measures to *facilitate adequate adaptation* to climate change."[^3]
 
-Namun, kewajiban ini bersifat umum dan tidak disertai mekanisme implementasi yang jelas. Fokus utama rezim iklim pada era ini adalah **mitigasi**—khususnya bagi negara-negara maju yang tercantum dalam Annex I.
+Namun, kewajiban ini bersifat umum dan tidak disertai mekanisme implementasi yang jelas. Fokus utama rezim iklim pada era ini adalah **mitigasi**â€”khususnya bagi negara-negara maju yang tercantum dalam Annex I.
 
 **Mengapa Adaptasi Terabaikan?**
 
@@ -210,7 +210,7 @@ COP16 di Cancun, Meksiko, menjadi titik balik penting. **Cancun Adaptation Frame
 
 > [!quote] **Kutipan**
 > "Adaptation must be addressed with the same priority as mitigation and requires appropriate institutional arrangements to enhance adaptation action and support."
-> — *Decision 1/CP.16, paragraph 2*[^4]
+> â€” *Decision 1/CP.16, paragraph 2*[^4]
 
 **Capaian Kunci Cancun:**
 
@@ -244,7 +244,7 @@ Persetujuan Paris 2015 mengkonsolidasikan dan memperkuat kerangka adaptasi inter
    - Pengakuan kebutuhan dukungan untuk negara berkembang
 
 4. **Tidak Ada Target Kuantitatif:**
-   - Berbeda dengan mitigasi (1.5°C/2°C), adaptasi tidak memiliki target numerik global
+   - Berbeda dengan mitigasi (1.5Â°C/2Â°C), adaptasi tidak memiliki target numerik global
    - Ini menjadi debat yang terus berlanjut hingga COP28
 
 #### 2.5 COP28 Dubai 2023: UAE Framework for GGA
@@ -259,7 +259,7 @@ Setelah bertahun-tahun perdebatan tentang bagaimana mengoperasionalisasikan GGA,
 4. **Integrasi** dengan Global Stocktake
 
 > [!tip] **Kotak Pengayaan: Perdebatan Target Adaptasi**
-> Tidak seperti mitigasi yang memiliki target suhu global (1.5°C/2°C), menetapkan target global untuk adaptasi sangat sulit karena sifatnya yang lokal dan kontekstual. Apa yang menjadi adaptasi "berhasil" di Belanda (perlindungan dari kenaikan muka laut) berbeda dengan di Sahel (ketahanan terhadap kekeringan). UAE Framework mencoba mengatasi ini dengan menetapkan *dimensi* bersama sambil membiarkan *target spesifik* ditentukan secara nasional.
+> Tidak seperti mitigasi yang memiliki target suhu global (1.5Â°C/2Â°C), menetapkan target global untuk adaptasi sangat sulit karena sifatnya yang lokal dan kontekstual. Apa yang menjadi adaptasi "berhasil" di Belanda (perlindungan dari kenaikan muka laut) berbeda dengan di Sahel (ketahanan terhadap kekeringan). UAE Framework mencoba mengatasi ini dengan menetapkan *dimensi* bersama sambil membiarkan *target spesifik* ditentukan secara nasional.
 
 ---
 
@@ -326,7 +326,7 @@ UAE Framework menetapkan tujuh dimensi tematik yang menjadi kerangka bersama unt
 > [!example] **Contoh: Indonesia dan 7 Dimensi GGA**
 > Indonesia menghadapi tantangan di semua tujuh dimensi:
 > - **Air:** 60% penduduk menghadapi kelangkaan air musiman
-> - **Pangan:** Gangguan musim tanam akibat El Niño dan La Niña
+> - **Pangan:** Gangguan musim tanam akibat El NiÃ±o dan La NiÃ±a
 > - **Kesehatan:** Perluasan habitat nyamuk demam berdarah ke dataran tinggi
 > - **Ekosistem:** Pemutihan karang masif (2015-2016 dan 2024)
 > - **Infrastruktur:** Kerusakan jalan dan jembatan akibat banjir dan longsor
@@ -512,7 +512,7 @@ GCF adalah mekanisme keuangan utama di bawah Paris Agreement dengan target penda
 
 Kesenjangan pendanaan ini memiliki implikasi serius bagi implementasi hukum adaptasi:
 
-1. **Kewajiban Pasal 7.13:** Negara maju "wajib" (*shall*) menyediakan dukungan berkelanjutan dan meningkat—tetapi tidak ada sanksi atas kegagalan memenuhi kewajiban ini.
+1. **Kewajiban Pasal 7.13:** Negara maju "wajib" (*shall*) menyediakan dukungan berkelanjutan dan meningkatâ€”tetapi tidak ada sanksi atas kegagalan memenuhi kewajiban ini.
 
 2. **Loss and Damage:** Kegagalan mendanai adaptasi yang memadai akan meningkatkan kerugian dan kerusakan, yang menimbulkan pertanyaan tanggung jawab hukum.
 
@@ -570,7 +570,7 @@ Meski tidak mengikat secara hukum keras (*hard law*), keputusan-keputusan ini me
 
 **Latar Belakang:**
 
-Indonesia adalah negara kepulauan terbesar di dunia dengan lebih dari 17.000 pulau dan 108.000 km garis pantai. Sebagai negara yang sangat rentan terhadap dampak perubahan iklim—mulai dari kenaikan muka laut hingga perubahan pola curah hujan—Indonesia memiliki kepentingan strategis dalam implementasi GGA.
+Indonesia adalah negara kepulauan terbesar di dunia dengan lebih dari 17.000 pulau dan 108.000 km garis pantai. Sebagai negara yang sangat rentan terhadap dampak perubahan iklimâ€”mulai dari kenaikan muka laut hingga perubahan pola curah hujanâ€”Indonesia memiliki kepentingan strategis dalam implementasi GGA.
 
 Pada 2023, Indonesia menyampaikan *Updated Nationally Determined Contribution* (NDC) yang mencakup komponen adaptasi. Namun, Indonesia belum menyampaikan National Adaptation Plan (NAP) formal kepada UNFCCC, meski telah memiliki RAN-API (Rencana Aksi Nasional Adaptasi Perubahan Iklim) secara domestik.
 
@@ -616,7 +616,7 @@ Pada bab ini, kita telah mempelajari:
 
 - **Kelembagaan:** Adaptation Committee, proses NAP, Nairobi Work Programme, dan LEG membentuk arsitektur kelembagaan yang mendukung implementasi adaptasi global.
 
-- **Pendanaan:** Meski ada berbagai mekanisme (Adaptation Fund, GCF, LDCF, SCCF), kesenjangan pendanaan tetap sangat besar—10-18 kali lipat antara kebutuhan dan ketersediaan.
+- **Pendanaan:** Meski ada berbagai mekanisme (Adaptation Fund, GCF, LDCF, SCCF), kesenjangan pendanaan tetap sangat besarâ€”10-18 kali lipat antara kebutuhan dan ketersediaan.
 
 ```mermaid
 graph TB
@@ -686,7 +686,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 **Benar atau Salah:**
 
-6. Paris Agreement menetapkan target kuantitatif global untuk adaptasi seperti halnya untuk mitigasi (1.5°C/2°C). (B/S)
+6. Paris Agreement menetapkan target kuantitatif global untuk adaptasi seperti halnya untuk mitigasi (1.5Â°C/2Â°C). (B/S)
 
 7. Proses NAP hanya diperuntukkan bagi Negara-Negara Kurang Berkembang (LDCs). (B/S)
 
@@ -700,7 +700,7 @@ Jawablah pertanyaan-pertanyaan berikut untuk mengukur pemahaman Anda:
 
 ### 4. Umpan Balik dan Tindak Lanjut
 
-Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-Perubahan-Iklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
+Cocokkan jawaban Anda dengan **Kunci Jawaban** di [[Buku-Ajar-Hukum-06-PerubahanIklim-Back-Matter-Lampiran_Lampiran-04-Kunci-Jawaban|Lampiran 4]].
 
 **Kunci Jawaban Singkat:** 1-b, 2-c, 3-b, 4-b, 5-c, 6-S, 7-S, 8-B, 9-S, 10-B
 
@@ -712,7 +712,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 | Tingkat Penguasaan | Kategori | Tindak Lanjut |
 |--------------------|----------|---------------|
-| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14]] |
+| **90 - 100%** | Baik Sekali | Selamat! Anda dapat melanjutkan ke [[Buku-Ajar-Hukum-06-PerubahanIklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14]] |
 | **80 - 89%** | Baik | Anda dapat melanjutkan, namun pelajari kembali bagian yang masih ragu |
 | **70 - 79%** | Cukup | **Ulangi** materi bab ini, terutama bagian yang belum dikuasai |
 | **< 70%** | Kurang | **Wajib mengulangi** seluruh materi bab ini sebelum melanjutkan |
@@ -798,10 +798,11 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 **Navigasi Buku:**
-- ← [[Buku-Ajar-Hukum-Perubahan-Iklim-12-Masa-Depan-Hukum-Iklim_BAB-12|BAB 12: Masa Depan Hukum Perubahan Iklim]]
-- → [[Buku-Ajar-Hukum-Perubahan-Iklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14: Hukum Adaptasi Sektoral Indonesia]]
-- ↑ [[Buku-Ajar-Hukum-Perubahan-Iklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-12-Masa-Depan-Hukum-Iklim_BAB-12|BAB 12: Masa Depan Hukum Perubahan Iklim]]
+- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14: Hukum Adaptasi Sektoral Indonesia]]
+- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 *Buku Ajar Hukum Perubahan Iklim | BAB 13*
+

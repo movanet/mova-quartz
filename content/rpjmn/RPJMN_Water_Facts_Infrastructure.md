@@ -1,4 +1,4 @@
-# RPJMN Water Facts: Infrastructure Development
+﻿# RPJMN Water Facts: Infrastructure Development
 
 **Document Type:** Source Material (Facts Only)
 **Source:** RPJMN 2025-2029 - National Medium-Term Development Plan
@@ -37,7 +37,7 @@ This document contains verbatim quotes, tables, and factual data regarding water
 | **Indicator** | **Baseline 2024** | **Target 2025** | **Target 2029** | **% Change** |
 |---------------|-------------------|-----------------|-----------------|--------------|
 | **National Water Security Index** | 3.48 (2022) | 3.50 | **3.75** | +7.8% |
-| **Water storage capacity (m³/capita)** | 59.59 | 59.31 | **63.54** | +6.6% |
+| **Water storage capacity (mÂ³/capita)** | 59.59 | 59.31 | **63.54** | +6.6% |
 | **Urban piped drinking water access (%)** | 24.0 (2020) | 39.20 | **51.36** | +114% |
 | **Safe sanitation access (%)** | 10.21 (2023) | 12.5 | **30.0** | +194% |
 | **Water Quality Index** | 54.59 (2023) | 72.02 | **72.77** | +33% |
@@ -334,3 +334,4 @@ This document contains verbatim quotes, tables, and factual data regarding water
 ---
 
 **Tags:** #rpjmn #water-infrastructure #spam #cwis #bendungan #dams #sanitation #facts #source-material
+

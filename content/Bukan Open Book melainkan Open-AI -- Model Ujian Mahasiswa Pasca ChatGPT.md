@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 dg-publish: true
 ---
@@ -14,7 +14,7 @@ Begini menurut [ETH Zurich](https://ethz.ch/en/the-eth-zurich/education/educatio
 
 Jadi tidak semuanya harus Open Book atau Open AI,  semua tergantung pada apa yang hendak diharapkan dari mahasiswa. Beberapa keahlian dasar tertentu seperti aritmatika dasar (penjumlahan, pembagian) tentunya harus dikuasai oleh anak didik di tingkat SD. Demikian juga bagi mahasiswa akan ada keahlian-keahlian dasar tertentu yang harus dikuasai tanpa bantuan eksternal. Namun demikian, ada pula keahlian-keahlian tertentu di masa depan yang memang menuntut mahasiswa untuk dapat bekerja dengan AI; maka dengan demikian ujiannya bisa dibuat "Open-AI": 
 
-> Assessments where ChatGPT is expressly allowed: *We can expect that many disciplines will rapidly integrate ChatGPT and similar technologies into their practices and workflows. This may create a demand for appropriately aligned examinations, where students also have access to ChatGPT, while other resources, such as e.g. messenger apps or chat forums, remain effectively blocked*. Such examination scenarios are already routinely conducted with ETH’s infrastructure for [On Campus Online Examinations](/staffnet/en/teaching/academic-support/performance-assessments/online-examinations.html "On-Campus Online Examinations") - though not yet with ChatGPT, but instead with other web-​based resources.
+> Assessments where ChatGPT is expressly allowed: *We can expect that many disciplines will rapidly integrate ChatGPT and similar technologies into their practices and workflows. This may create a demand for appropriately aligned examinations, where students also have access to ChatGPT, while other resources, such as e.g. messenger apps or chat forums, remain effectively blocked*. Such examination scenarios are already routinely conducted with ETHâ€™s infrastructure for [On Campus Online Examinations](/staffnet/en/teaching/academic-support/performance-assessments/online-examinations.html "On-Campus Online Examinations")Â - though not yet with ChatGPT, but instead with other web-â€‹based resources.
 
 
 Terkait:

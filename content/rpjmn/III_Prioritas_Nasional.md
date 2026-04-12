@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "BAB III: Prioritas Nasional"
 chapter: "BAB III"
@@ -12,9 +12,10 @@ status: "validated"
 date: "2025-10-29"
 ---
 
-> **Navigation:** [[00_INDEX|🏠 Index]] | [[README|📖 About]]
+> **Navigation:** [[00_INDEX|ðŸ  Index]] | [[README|ðŸ“– About]]
 >
 > **You are here:** BAB III: Prioritas Nasional
 
 ---
 BAB III Prioritas Nasional
+

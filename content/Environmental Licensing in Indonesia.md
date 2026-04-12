@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 ### Introduction
@@ -45,4 +45,5 @@ SPPL is required for businesses and activities without significant environmental
 The regulation provides a list of businesses and activities that require EIA, UKL-UPL, or SPPL, grouped by the Indonesian Standard Industrial Classification (KBLI) and non-KBLI.
 
 Changes to the list of businesses and activities requiring EIA, UKL-UPL, or SPPL can be proposed by ministers, heads of non-ministerial government agencies, governors, mayors/regents, or other stakeholders.
+
 

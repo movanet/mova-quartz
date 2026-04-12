@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pengendalian Pencemaran Lingkungan"
 description: "Materi perkuliahan tentang pengendalian pencemaran lingkungan hidup meliputi konsep pencemaran, baku mutu lingkungan (air, udara, laut, kebisingan), kriteria baku kerusakan, mekanisme pencegahan dan pengendalian pencemaran, pengelolaan limbah B3, serta pemulihan fungsi lingkungan hidup dalam kerangka hukum Indonesia."
 tags:
@@ -20,9 +20,9 @@ publish: true
 # Pengendalian Pencemaran Lingkungan
 
 **Navigasi:**
-- [[03_Perencanaan_Lingkungan|← Sebelumnya: Perencanaan Lingkungan]]
-- [[README|↑ Index]]
-- [[05_AMDAL_Perizinan|Lanjut →: AMDAL dan Perizinan]]
+- [[03_Perencanaan_Lingkungan|â† Sebelumnya: Perencanaan Lingkungan]]
+- [[README|â†‘ Index]]
+- [[05_AMDAL_Perizinan|Lanjut â†’: AMDAL dan Perizinan]]
 
 ---
 
@@ -47,19 +47,19 @@ Setelah mempelajari topik ini, mahasiswa mampu:
 
 > "Pencemaran Lingkungan Hidup adalah masuk atau dimasukkannya makhluk hidup, zat, energi, dan/atau komponen lain ke dalam lingkungan hidup oleh kegiatan manusia sehingga melampaui baku mutu lingkungan hidup yang telah ditetapkan."
 
-Definisi ini menjadi dasar yuridis untuk menentukan apakah suatu peristiwa dapat dikategorikan sebagai pencemaran lingkungan hidup. Setiap elemen dalam definisi ini bersifat **kumulatif** — seluruhnya harus terpenuhi untuk dapat menyatakan bahwa telah terjadi pencemaran.
+Definisi ini menjadi dasar yuridis untuk menentukan apakah suatu peristiwa dapat dikategorikan sebagai pencemaran lingkungan hidup. Setiap elemen dalam definisi ini bersifat **kumulatif** â€” seluruhnya harus terpenuhi untuk dapat menyatakan bahwa telah terjadi pencemaran.
 
 ### 1.2 Lima Elemen Konstitutif Pencemaran
 
 | No | Elemen | Penjelasan | Signifikansi Hukum |
 |----|--------|------------|---------------------|
-| 1 | **Masuknya polutan** | "Masuk" (pasif/tidak sengaja) atau "dimasukkan" (aktif/sengaja) | Menentukan *mens rea* — apakah ada kesengajaan atau kelalaian |
+| 1 | **Masuknya polutan** | "Masuk" (pasif/tidak sengaja) atau "dimasukkan" (aktif/sengaja) | Menentukan *mens rea* â€” apakah ada kesengajaan atau kelalaian |
 | 2 | **Jenis polutan** | Makhluk hidup, zat, energi, komponen lain | Menentukan jenis pencemaran dan parameter yang diukur |
 | 3 | **Ke dalam LH** | Air, udara, tanah, laut | Menentukan media lingkungan yang tercemar dan baku mutu yang berlaku |
-| 4 | **Oleh kegiatan manusia** | Bukan fenomena alam (natural occurrence) | Membatasi pertanggungjawaban hukum — hanya aktivitas manusia yang dapat dituntut |
+| 4 | **Oleh kegiatan manusia** | Bukan fenomena alam (natural occurrence) | Membatasi pertanggungjawaban hukum â€” hanya aktivitas manusia yang dapat dituntut |
 | 5 | **Melampaui baku mutu** | Syarat mutlak (conditio sine qua non) | Tanpa pelampauan baku mutu, secara hukum belum terjadi pencemaran |
 
-Elemen kelima — melampaui baku mutu — merupakan elemen paling krusial karena menjadi penghubung antara konsep ekologis (daya tampung) dengan instrumen hukum yang konkret dan terukur. Tanpa baku mutu sebagai parameter, sulit untuk membuktikan secara hukum bahwa pencemaran telah terjadi.
+Elemen kelima â€” melampaui baku mutu â€” merupakan elemen paling krusial karena menjadi penghubung antara konsep ekologis (daya tampung) dengan instrumen hukum yang konkret dan terukur. Tanpa baku mutu sebagai parameter, sulit untuk membuktikan secara hukum bahwa pencemaran telah terjadi.
 
 ### 1.3 Jenis-Jenis Polutan
 
@@ -72,19 +72,19 @@ Elemen kelima — melampaui baku mutu — merupakan elemen paling krusial karena
 #### b. Zat (Bahan Kimia)
 - **Zat organik:** BOD (*Biochemical Oxygen Demand*), COD (*Chemical Oxygen Demand*), minyak/lemak, fenol
 - **Zat anorganik:** logam berat (Hg, Pb, Cd, Cr, As), sianida, sulfida, fluorida
-- **Nutrien:** nitrogen (NH₃-N, NO₃-N), fosfor (PO₄) — penyebab eutrofikasi
+- **Nutrien:** nitrogen (NHâ‚ƒ-N, NOâ‚ƒ-N), fosfor (POâ‚„) â€” penyebab eutrofikasi
 - **Pestisida dan herbisida:** organoklor, organofosfat
 
 #### c. Energi
-- Panas (*thermal pollution*) — air pendingin industri/pembangkit listrik
+- Panas (*thermal pollution*) â€” air pendingin industri/pembangkit listrik
 - Radiasi ionisasi dan non-ionisasi
 - Kebisingan (*noise pollution*)
 - Getaran (*vibration*)
 - Cahaya berlebihan (*light pollution*)
 
 #### d. Komponen Lain
-- Bau (*odor*) — dari aktivitas peternakan, industri pengolahan
-- Debu — dari konstruksi, pertambangan
+- Bau (*odor*) â€” dari aktivitas peternakan, industri pengolahan
+- Debu â€” dari konstruksi, pertambangan
 - Sampah dan mikroplastik
 
 ### 1.4 Pencemaran vs Fenomena Alam
@@ -148,12 +148,12 @@ Baku mutu lingkungan hidup dapat dikelompokkan menjadi dua kategori besar:
 
 #### A. Baku Mutu Lingkungan (*Environmental Quality Standards*)
 
-Mengatur kualitas **media lingkungan** itu sendiri — yaitu kondisi yang harus terpelihara:
+Mengatur kualitas **media lingkungan** itu sendiri â€” yaitu kondisi yang harus terpelihara:
 
 | Jenis | Fungsi | Contoh Parameter |
 |-------|--------|------------------|
 | Baku mutu air | Kualitas air sungai/danau per kelas | pH, BOD, COD, DO, logam berat |
-| Baku mutu udara ambien | Kualitas udara yang dihirup | PM2.5, PM10, SO₂, NO₂, O₃, CO |
+| Baku mutu udara ambien | Kualitas udara yang dihirup | PM2.5, PM10, SOâ‚‚, NOâ‚‚, Oâ‚ƒ, CO |
 | Baku mutu air laut | Kualitas air laut per peruntukan | Salinitas, pH, minyak/lemak, logam berat |
 
 #### B. Baku Mutu Sumber Pencemar (*Effluent/Emission Standards*)
@@ -163,7 +163,7 @@ Mengatur kualitas **buangan** yang boleh dilepas ke lingkungan:
 | Jenis | Fungsi | Contoh Parameter |
 |-------|--------|------------------|
 | Baku mutu air limbah | Kualitas air limbah dari IPAL | BOD, COD, TSS, logam berat, pH |
-| Baku mutu emisi | Kualitas gas dari cerobong | Partikulat, SO₂, NOₓ, CO |
+| Baku mutu emisi | Kualitas gas dari cerobong | Partikulat, SOâ‚‚, NOâ‚“, CO |
 | Baku mutu gangguan | Tingkat gangguan yang dibolehkan | Desibel (kebisingan), frekuensi getaran |
 
 Hubungan antara kedua kategori bersifat saling melengkapi. Baku mutu sumber pencemar ditetapkan sedemikian rupa sehingga jika seluruh sumber pencemar memenuhi standar buangan, maka baku mutu lingkungan (media) pun akan terpenuhi. Namun dalam praktiknya, akumulasi dari banyak sumber yang masing-masing memenuhi baku mutu sumber pencemar tetap dapat menyebabkan pelampauan baku mutu lingkungan jika daya tampung sudah terbatas.
@@ -193,11 +193,11 @@ Untuk memberikan perspektif komparatif, berikut perbandingan beberapa baku mutu 
 
 | Parameter | Baku Mutu Indonesia (PP 22/2021) | Standar WHO (2021) | Keterangan |
 |-----------|----------------------------------|---------------------|------------|
-| PM2.5 (rata-rata tahunan) | 15 μg/m³ | 5 μg/m³ | Indonesia 3x lebih longgar |
-| PM2.5 (24 jam) | 55 μg/m³ | 15 μg/m³ | Indonesia ~3,7x lebih longgar |
-| PM10 (rata-rata tahunan) | 40 μg/m³ | 15 μg/m³ | Indonesia 2,7x lebih longgar |
-| NO₂ (rata-rata tahunan) | 40 μg/m³ | 10 μg/m³ | Indonesia 4x lebih longgar |
-| SO₂ (24 jam) | 75 μg/m³ | 40 μg/m³ | Indonesia ~2x lebih longgar |
+| PM2.5 (rata-rata tahunan) | 15 Î¼g/mÂ³ | 5 Î¼g/mÂ³ | Indonesia 3x lebih longgar |
+| PM2.5 (24 jam) | 55 Î¼g/mÂ³ | 15 Î¼g/mÂ³ | Indonesia ~3,7x lebih longgar |
+| PM10 (rata-rata tahunan) | 40 Î¼g/mÂ³ | 15 Î¼g/mÂ³ | Indonesia 2,7x lebih longgar |
+| NOâ‚‚ (rata-rata tahunan) | 40 Î¼g/mÂ³ | 10 Î¼g/mÂ³ | Indonesia 4x lebih longgar |
+| SOâ‚‚ (24 jam) | 75 Î¼g/mÂ³ | 40 Î¼g/mÂ³ | Indonesia ~2x lebih longgar |
 
 Perbandingan ini menunjukkan bahwa baku mutu Indonesia secara umum masih lebih longgar dibandingkan rekomendasi WHO. Hal ini menjadi bahan diskusi penting mengenai kecukupan standar perlindungan kesehatan masyarakat Indonesia dan urgensi pengetatan baku mutu secara bertahap (*progressive tightening*).
 
@@ -219,7 +219,7 @@ graph TD
     style G fill:#c62828,color:#fff
 ```
 
-Kedua syarat ini bersifat kumulatif — artinya harus dipenuhi secara bersamaan. Memenuhi baku mutu tetapi tidak memiliki izin tetap merupakan pelanggaran, demikian pula sebaliknya.
+Kedua syarat ini bersifat kumulatif â€” artinya harus dipenuhi secara bersamaan. Memenuhi baku mutu tetapi tidak memiliki izin tetap merupakan pelanggaran, demikian pula sebaliknya.
 
 ---
 
@@ -246,10 +246,10 @@ Baku mutu air mencakup parameter fisika, kimia, dan biologi:
 |-----------|--------|---------|----------|-----------|----------|
 | BOD | mg/L | 2 | 3 | 6 | 12 |
 | COD | mg/L | 10 | 25 | 50 | 100 |
-| DO | mg/L | ≥6 | ≥4 | ≥3 | ≥0 |
-| pH | — | 6-9 | 6-9 | 6-9 | 5-9 |
+| DO | mg/L | â‰¥6 | â‰¥4 | â‰¥3 | â‰¥0 |
+| pH | â€” | 6-9 | 6-9 | 6-9 | 5-9 |
 | TSS | mg/L | 40 | 50 | 100 | 400 |
-| Suhu | °C | Deviasi 3 | Deviasi 3 | Deviasi 3 | Deviasi 5 |
+| Suhu | Â°C | Deviasi 3 | Deviasi 3 | Deviasi 3 | Deviasi 5 |
 | Fecal coliform | jml/100mL | 100 | 1.000 | 2.000 | 2.000 |
 | Total coliform | jml/100mL | 1.000 | 5.000 | 10.000 | 10.000 |
 
@@ -260,7 +260,7 @@ Baku mutu air mencakup parameter fisika, kimia, dan biologi:
 | Merkuri | Hg | 0,001 | Pertambangan emas, industri klor-alkali |
 | Kadmium | Cd | 0,01 | Industri baterai, electroplating |
 | Timbal | Pb | 0,03 | Industri cat, bahan bakar |
-| Kromium (VI) | Cr⁶⁺ | 0,05 | Industri penyamakan kulit, chrome plating |
+| Kromium (VI) | Crâ¶âº | 0,05 | Industri penyamakan kulit, chrome plating |
 | Arsen | As | 0,05 | Pertambangan, pestisida |
 | Tembaga | Cu | 0,02 | Industri elektronik, pertambangan |
 
@@ -270,15 +270,15 @@ Baku mutu air mencakup parameter fisika, kimia, dan biologi:
 
 > "Pencemaran Air adalah masuk atau dimasukkannya makhluk hidup, zat, energi, dan/atau komponen lain ke dalam air oleh kegiatan manusia sehingga melampaui Baku Mutu Air yang telah ditetapkan."
 
-### 3.4 Contoh Penerapan — Monitoring Sungai Ciliwung
+### 3.4 Contoh Penerapan â€” Monitoring Sungai Ciliwung
 
 Sungai Ciliwung segmen A ditetapkan sebagai Kelas II (rekreasi air):
 
 | Titik Pemantauan | Hasil BOD (mg/L) | Baku Mutu Kelas II | Status | Implikasi |
 |-------------------|-------------------|---------------------|--------|-----------|
 | Titik 1 (hulu) | 2,5 | 3 mg/L | **Belum tercemar** | Daya tampung masih tersedia |
-| Titik 2 (tengah) | 3,8 | 3 mg/L | **Tercemar** | Daya tampung terlampaui — perlu tindakan |
-| Titik 3 (hilir) | 12,4 | 3 mg/L | **Tercemar berat** | Pelampauan >4x — penegakan hukum diperlukan |
+| Titik 2 (tengah) | 3,8 | 3 mg/L | **Tercemar** | Daya tampung terlampaui â€” perlu tindakan |
+| Titik 3 (hilir) | 12,4 | 3 mg/L | **Tercemar berat** | Pelampauan >4x â€” penegakan hukum diperlukan |
 
 Dari data ini dapat diidentifikasi bahwa terdapat sumber pencemaran signifikan antara Titik 1 dan Titik 2 yang menyebabkan lonjakan BOD. Identifikasi sumber ini menjadi dasar untuk [[08_Penegakan_Hukum|penegakan hukum]] terhadap pihak yang bertanggung jawab.
 
@@ -289,7 +289,7 @@ Untuk menentukan status mutu air secara komprehensif (bukan hanya berdasarkan sa
 **Rumus Indeks Pencemaran:**
 
 ```
-IP = √((Ci/Lij)²max + (Ci/Lij)²rata-rata) / 2
+IP = âˆš((Ci/Lij)Â²max + (Ci/Lij)Â²rata-rata) / 2
 ```
 
 Di mana:
@@ -300,9 +300,9 @@ Di mana:
 
 | Nilai IP | Status Mutu | Kategori |
 |----------|-------------|----------|
-| 0 ≤ IP ≤ 1,0 | Memenuhi baku mutu | **Baik** |
-| 1,0 < IP ≤ 5,0 | Cemar ringan | **Cemar ringan** |
-| 5,0 < IP ≤ 10,0 | Cemar sedang | **Cemar sedang** |
+| 0 â‰¤ IP â‰¤ 1,0 | Memenuhi baku mutu | **Baik** |
+| 1,0 < IP â‰¤ 5,0 | Cemar ringan | **Cemar ringan** |
+| 5,0 < IP â‰¤ 10,0 | Cemar sedang | **Cemar sedang** |
 | IP > 10,0 | Cemar berat | **Cemar berat** |
 
 Metode ini memberikan gambaran status mutu air yang lebih komprehensif dibandingkan evaluasi parameter per parameter karena mempertimbangkan seluruh parameter yang diukur secara simultan.
@@ -310,12 +310,12 @@ Metode ini memberikan gambaran status mutu air yang lebih komprehensif dibanding
 **Contoh Penerapan:**
 
 Sungai X ditetapkan sebagai Kelas II. Hasil pengukuran menunjukkan:
-- BOD: 4,5 mg/L (baku mutu: 3 mg/L) → Ci/Lij = 1,5
-- COD: 20 mg/L (baku mutu: 25 mg/L) → Ci/Lij = 0,8
-- DO: 5 mg/L (baku mutu: ≥4 mg/L) → Ci/Lij = 0,8
-- TSS: 60 mg/L (baku mutu: 50 mg/L) → Ci/Lij = 1,2
+- BOD: 4,5 mg/L (baku mutu: 3 mg/L) â†’ Ci/Lij = 1,5
+- COD: 20 mg/L (baku mutu: 25 mg/L) â†’ Ci/Lij = 0,8
+- DO: 5 mg/L (baku mutu: â‰¥4 mg/L) â†’ Ci/Lij = 0,8
+- TSS: 60 mg/L (baku mutu: 50 mg/L) â†’ Ci/Lij = 1,2
 
-IP = √((1,5² + ((1,5+0,8+0,8+1,2)/4)²) / 2) = √((2,25 + 1,16) / 2) = √1,71 = **1,31** → **Cemar ringan**
+IP = âˆš((1,5Â² + ((1,5+0,8+0,8+1,2)/4)Â²) / 2) = âˆš((2,25 + 1,16) / 2) = âˆš1,71 = **1,31** â†’ **Cemar ringan**
 
 Metode indeks pencemaran ini digunakan secara luas oleh dinas lingkungan hidup daerah dalam pemantauan kualitas air sungai dan danau, serta menjadi dasar bagi penetapan status daya tampung.
 
@@ -323,16 +323,16 @@ Metode indeks pencemaran ini digunakan secara luas oleh dinas lingkungan hidup d
 
 Selain baku mutu air (media), terdapat baku mutu air limbah (sumber) yang mengatur kualitas air limbah yang diizinkan untuk dibuang ke badan air. Beberapa standar penting:
 
-**PermenLHK 5/2014 — Baku Mutu Air Limbah per Jenis Industri (48 Lampiran):**
+**PermenLHK 5/2014 â€” Baku Mutu Air Limbah per Jenis Industri (48 Lampiran):**
 
 | Jenis Industri | BOD (mg/L) | COD (mg/L) | TSS (mg/L) | Parameter Khusus |
 |----------------|------------|------------|------------|------------------|
 | Minyak sawit (Lamp. III) | 100 | 350 | 250 | Minyak/lemak 25 mg/L |
-| Pulp & kertas (Lamp. XXXV) | 150 | — | 150 | AOX 0,25 kg/ton |
+| Pulp & kertas (Lamp. XXXV) | 150 | â€” | 150 | AOX 0,25 kg/ton |
 | Tekstil (Lamp. XLII) | 60 | 150 | 50 | Warna 200 Pt-Co |
 | Industri umum (Lamp. XLVII) | 50 | 100 | 100 | pH 6-9 |
 
-**PermenLHK 68/2016 — Baku Mutu Air Limbah Domestik:**
+**PermenLHK 68/2016 â€” Baku Mutu Air Limbah Domestik:**
 
 | Parameter | Baku Mutu | Satuan |
 |-----------|-----------|--------|
@@ -340,7 +340,7 @@ Selain baku mutu air (media), terdapat baku mutu air limbah (sumber) yang mengat
 | COD | 100 | mg/L |
 | TSS | 30 | mg/L |
 | Minyak/lemak | 5 | mg/L |
-| pH | 6-9 | — |
+| pH | 6-9 | â€” |
 | Total coliform | 3.000 | MPN/100mL |
 
 ---
@@ -353,19 +353,19 @@ Selain baku mutu air (media), terdapat baku mutu air limbah (sumber) yang mengat
 
 | Parameter | Simbol | Waktu Pengukuran | Baku Mutu | Satuan | Sumber Utama |
 |-----------|--------|------------------|-----------|--------|--------------|
-| Sulfur dioksida | SO₂ | 1 jam | 150 | μg/m³ | Pembakaran bahan bakar fosil |
-| | | 24 jam | 75 | μg/m³ | |
-| Karbon monoksida | CO | 1 jam | 30.000 | μg/m³ | Kendaraan bermotor |
-| | | 8 jam | 10.000 | μg/m³ | |
-| Nitrogen dioksida | NO₂ | 1 jam | 200 | μg/m³ | Pembakaran, industri |
-| | | 1 tahun | 40 | μg/m³ | |
-| Ozon | O₃ | 1 jam | 150 | μg/m³ | Reaksi fotokimia |
-| | | 8 jam | 100 | μg/m³ | |
-| PM10 | PM10 | 24 jam | 75 | μg/m³ | Debu, pembakaran |
-| | | 1 tahun | 40 | μg/m³ | |
-| PM2.5 | PM2.5 | 24 jam | 55 | μg/m³ | Pembakaran, industri |
-| | | 1 tahun | 15 | μg/m³ | |
-| Timbal | Pb | 24 jam | 2 | μg/m³ | Industri, kendaraan |
+| Sulfur dioksida | SOâ‚‚ | 1 jam | 150 | Î¼g/mÂ³ | Pembakaran bahan bakar fosil |
+| | | 24 jam | 75 | Î¼g/mÂ³ | |
+| Karbon monoksida | CO | 1 jam | 30.000 | Î¼g/mÂ³ | Kendaraan bermotor |
+| | | 8 jam | 10.000 | Î¼g/mÂ³ | |
+| Nitrogen dioksida | NOâ‚‚ | 1 jam | 200 | Î¼g/mÂ³ | Pembakaran, industri |
+| | | 1 tahun | 40 | Î¼g/mÂ³ | |
+| Ozon | Oâ‚ƒ | 1 jam | 150 | Î¼g/mÂ³ | Reaksi fotokimia |
+| | | 8 jam | 100 | Î¼g/mÂ³ | |
+| PM10 | PM10 | 24 jam | 75 | Î¼g/mÂ³ | Debu, pembakaran |
+| | | 1 tahun | 40 | Î¼g/mÂ³ | |
+| PM2.5 | PM2.5 | 24 jam | 55 | Î¼g/mÂ³ | Pembakaran, industri |
+| | | 1 tahun | 15 | Î¼g/mÂ³ | |
+| Timbal | Pb | 24 jam | 2 | Î¼g/mÂ³ | Industri, kendaraan |
 
 ### 4.2 Definisi Pencemaran Udara
 
@@ -390,13 +390,13 @@ graph TD
     style C fill:#ffcdd2
 ```
 
-### 4.4 Contoh Kasus — Polusi Udara Jakarta
+### 4.4 Contoh Kasus â€” Polusi Udara Jakarta
 
 Kualitas udara DKI Jakarta menjadi perhatian nasional dan internasional. Pada tahun 2023, Jakarta sempat menduduki peringkat kota dengan kualitas udara terburuk di dunia menurut indeks IQAir.
 
 | Parameter | Baku Mutu (24 jam) | Pengukuran Rata-rata | Status |
 |-----------|---------------------|----------------------|--------|
-| PM2.5 | 55 μg/m³ | 60-80 μg/m³ (musim kering) | **TERCEMAR** |
+| PM2.5 | 55 Î¼g/mÂ³ | 60-80 Î¼g/mÂ³ (musim kering) | **TERCEMAR** |
 
 **Putusan Pengadilan Negeri Jakarta Pusat No. 374/Pdt.G/LH/2019/PN Jkt.Pst** (dikenal sebagai "Gugatan Warga Negara atas Polusi Udara Jakarta"):
 - Tujuh warga negara menggugat Presiden RI, Menteri LHK, Menteri Kesehatan, Gubernur DKI Jakarta, dan beberapa pejabat lainnya atas kelalaian dalam mengendalikan pencemaran udara
@@ -444,7 +444,7 @@ graph TD
     style G fill:#ffccbc
 ```
 
-### 5.4 Contoh Kasus — Pencemaran Teluk Jakarta
+### 5.4 Contoh Kasus â€” Pencemaran Teluk Jakarta
 
 Teluk Jakarta merupakan salah satu perairan paling tercemar di Indonesia. Sebagai muara dari 13 sungai yang melintasi kawasan Jakarta dan sekitarnya, Teluk Jakarta menerima beban pencemaran kumulatif yang sangat besar.
 
@@ -488,10 +488,10 @@ Getaran mekanik yang ditimbulkan oleh aktivitas industri, konstruksi, atau trans
 ### 6.3 Baku Mutu Kebauan
 
 Kebauan diatur berdasarkan ambang batas bau untuk beberapa zat tertentu:
-- Amoniak (NH₃): 2 ppm
-- Hidrogen sulfida (H₂S): 0,02 ppm
-- Metil merkaptan (CH₃SH): 0,002 ppm
-- Dimetil sulfida ((CH₃)₂S): 0,01 ppm
+- Amoniak (NHâ‚ƒ): 2 ppm
+- Hidrogen sulfida (Hâ‚‚S): 0,02 ppm
+- Metil merkaptan (CHâ‚ƒSH): 0,002 ppm
+- Dimetil sulfida ((CHâ‚ƒ)â‚‚S): 0,01 ppm
 
 ---
 
@@ -586,7 +586,7 @@ Pasal 14 UU 32/2009 menetapkan 13 instrumen pencegahan pencemaran dan/atau kerus
 - Pemanfaatan air limbah yang telah diolah (*water reuse*)
 
 #### c. Pengendalian Pencemaran Air
-- Kewajiban pengolahan air limbah sebelum dibuang (IPAL — Instalasi Pengolahan Air Limbah)
+- Kewajiban pengolahan air limbah sebelum dibuang (IPAL â€” Instalasi Pengolahan Air Limbah)
 - Pemantauan kualitas air limbah secara berkala
 - Pelaporan hasil pemantauan kepada instansi berwenang
 - Larangan pembuangan air limbah yang melampaui baku mutu
@@ -601,7 +601,7 @@ Pasal 14 UU 32/2009 menetapkan 13 instrumen pencegahan pencemaran dan/atau kerus
 Salah satu mekanisme pengendalian pencemaran air yang penting adalah **alokasi beban pencemaran** (*pollution load allocation*). Mekanisme ini membagi kapasitas daya tampung sungai kepada seluruh sumber pencemar di sepanjang aliran sungai:
 
 ```
-Total Daya Tampung Sungai = Σ Alokasi Beban per Sumber Pencemar
+Total Daya Tampung Sungai = Î£ Alokasi Beban per Sumber Pencemar
 ```
 
 Misalnya, jika sungai X memiliki daya tampung BOD sebesar 1.000 kg/hari, maka daya tampung tersebut dialokasikan:
@@ -680,7 +680,7 @@ Limbah B3 adalah sisa suatu usaha dan/atau kegiatan yang mengandung bahan berbah
 
 | Kategori | Tingkat Bahaya | Pengelolaan | Contoh |
 |----------|---------------|-------------|--------|
-| **Kategori 1** | Tinggi — akut dan/atau kronis terhadap kesehatan dan lingkungan | Pengelolaan sangat ketat, tidak dapat dimanfaatkan | Limbah sangat beracun, limbah infeksius |
+| **Kategori 1** | Tinggi â€” akut dan/atau kronis terhadap kesehatan dan lingkungan | Pengelolaan sangat ketat, tidak dapat dimanfaatkan | Limbah sangat beracun, limbah infeksius |
 | **Kategori 2** | Kronik terhadap kesehatan dan lingkungan | Dapat dimanfaatkan dan/atau diolah | Limbah elektronik, minyak pelumas bekas |
 
 ### 9.4 Tahapan Pengelolaan Limbah B3
@@ -706,16 +706,16 @@ graph TD
 
 Setiap penghasil, pengumpul, pengangkut, pemanfaat, dan pengolah limbah B3 wajib:
 
-1. **Memiliki izin** — Perizinan untuk setiap tahapan pengelolaan limbah B3
-2. **Melakukan pencatatan** — Neraca limbah B3, jenis, volume, karakteristik
-3. **Menggunakan manifest** — Dokumen yang menyertai setiap pengangkutan limbah B3
-4. **Menyimpan sesuai ketentuan** — Wadah khusus, simbol bahaya, batas waktu penyimpanan
-5. **Melapor secara berkala** — Kepada instansi lingkungan hidup yang berwenang
-6. **Bertanggung jawab** — Tanggung jawab penuh terhadap limbah B3 yang dihasilkan (*cradle to grave*)
+1. **Memiliki izin** â€” Perizinan untuk setiap tahapan pengelolaan limbah B3
+2. **Melakukan pencatatan** â€” Neraca limbah B3, jenis, volume, karakteristik
+3. **Menggunakan manifest** â€” Dokumen yang menyertai setiap pengangkutan limbah B3
+4. **Menyimpan sesuai ketentuan** â€” Wadah khusus, simbol bahaya, batas waktu penyimpanan
+5. **Melapor secara berkala** â€” Kepada instansi lingkungan hidup yang berwenang
+6. **Bertanggung jawab** â€” Tanggung jawab penuh terhadap limbah B3 yang dihasilkan (*cradle to grave*)
 
 ### 9.6 Prinsip *Cradle to Grave* dalam Pengelolaan Limbah B3
 
-Pengelolaan limbah B3 di Indonesia menganut prinsip *cradle to grave* — yaitu tanggung jawab pengelolaan dari titik dihasilkannya limbah hingga penimbunan akhir. Prinsip ini memiliki beberapa implikasi hukum penting:
+Pengelolaan limbah B3 di Indonesia menganut prinsip *cradle to grave* â€” yaitu tanggung jawab pengelolaan dari titik dihasilkannya limbah hingga penimbunan akhir. Prinsip ini memiliki beberapa implikasi hukum penting:
 
 **a. Tanggung jawab penghasil tidak berpindah:**
 Meskipun penghasil limbah B3 dapat menyerahkan pengelolaan kepada pihak ketiga (pengumpul, pengangkut, pengolah), tanggung jawab hukum tetap melekat pada penghasil. Jika pengolah limbah B3 menyebabkan pencemaran, penghasil turut bertanggung jawab secara hukum.
@@ -735,7 +735,7 @@ Indonesia memiliki sejumlah fasilitas pengolahan limbah B3 yang tersebar di bebe
 
 | Teknologi | Prinsip Kerja | Jenis Limbah yang Diolah | Kapasitas (contoh) |
 |-----------|---------------|--------------------------|---------------------|
-| **Insinerasi** | Pembakaran pada suhu tinggi (>850°C) | Limbah organik berbahaya, limbah medis | PT PPLI Bogor: ~100.000 ton/tahun |
+| **Insinerasi** | Pembakaran pada suhu tinggi (>850Â°C) | Limbah organik berbahaya, limbah medis | PT PPLI Bogor: ~100.000 ton/tahun |
 | **Stabilisasi/solidifikasi** | Pencampuran dengan binder untuk mengikat kontaminan | Limbah anorganik, logam berat | Bervariasi per fasilitas |
 | **Pengolahan fisika-kimia** | Netralisasi, presipitasi, oksidasi | Limbah cair B3, limbah asam/basa | Bervariasi per fasilitas |
 | **Landfill B3** | Penimbunan terkendali dengan lapisan kedap | Residu pengolahan, limbah stabil | Bervariasi per fasilitas |
@@ -789,7 +789,7 @@ Organisasi lingkungan hidup seperti WALHI mengkritik perubahan ini karena diangg
 
 ### 10.4 Pembiayaan Pemulihan
 
-Biaya pemulihan fungsi lingkungan hidup menjadi tanggung jawab penanggung jawab usaha/kegiatan yang menyebabkan pencemaran, sesuai prinsip *polluter pays* (pencemar membayar). PP 22/2021 juga mengatur kewajiban penyediaan dana penjaminan untuk pemulihan fungsi lingkungan hidup sebagai instrumen preventif — dana ini harus disiapkan sebelum kerusakan terjadi.
+Biaya pemulihan fungsi lingkungan hidup menjadi tanggung jawab penanggung jawab usaha/kegiatan yang menyebabkan pencemaran, sesuai prinsip *polluter pays* (pencemar membayar). PP 22/2021 juga mengatur kewajiban penyediaan dana penjaminan untuk pemulihan fungsi lingkungan hidup sebagai instrumen preventif â€” dana ini harus disiapkan sebelum kerusakan terjadi.
 
 ### 10.5 Studi Kasus Pemulihan: Program Citarum Harum
 
@@ -842,19 +842,19 @@ Pencemaran lingkungan hidup pada hakikatnya merupakan **indikator** bahwa daya t
 
 ```
 TAHAP 1: Beban Pencemar < Daya Tampung
-├─ Kondisi: Baku mutu terpenuhi
-├─ Status: TIDAK TERCEMAR
-└─ Tindakan: Pemantauan rutin, izin baru masih dimungkinkan
+â”œâ”€ Kondisi: Baku mutu terpenuhi
+â”œâ”€ Status: TIDAK TERCEMAR
+â””â”€ Tindakan: Pemantauan rutin, izin baru masih dimungkinkan
 
 TAHAP 2: Beban Pencemar = Daya Tampung
-├─ Kondisi: Tepat di ambang baku mutu
-├─ Status: KRITIS (belum tercemar secara hukum)
-└─ Tindakan: Moratorium izin baru, peningkatan pengendalian
+â”œâ”€ Kondisi: Tepat di ambang baku mutu
+â”œâ”€ Status: KRITIS (belum tercemar secara hukum)
+â””â”€ Tindakan: Moratorium izin baru, peningkatan pengendalian
 
 TAHAP 3: Beban Pencemar > Daya Tampung
-├─ Kondisi: Melampaui baku mutu
-├─ Status: TERCEMAR (secara hukum)
-└─ Tindakan: Penegakan hukum, pengurangan beban, pemulihan
+â”œâ”€ Kondisi: Melampaui baku mutu
+â”œâ”€ Status: TERCEMAR (secara hukum)
+â””â”€ Tindakan: Penegakan hukum, pengurangan beban, pemulihan
 ```
 
 ### 12.2 Perhitungan Beban Pencemaran
@@ -862,14 +862,14 @@ TAHAP 3: Beban Pencemar > Daya Tampung
 **Rumus Beban Pencemaran:**
 
 ```
-Beban Pencemaran (kg/hari) = Konsentrasi (mg/L) × Debit (L/hari) × 10⁻³
+Beban Pencemaran (kg/hari) = Konsentrasi (mg/L) Ã— Debit (L/hari) Ã— 10â»Â³
 ```
 
 **Contoh Perhitungan:**
 - Konsentrasi BOD air limbah = 50 mg/L
-- Debit air limbah = 100 m³/hari = 100.000 L/hari
+- Debit air limbah = 100 mÂ³/hari = 100.000 L/hari
 
-Beban BOD = 50 × 100.000 × 10⁻³ = **5.000 g/hari = 5 kg/hari**
+Beban BOD = 50 Ã— 100.000 Ã— 10â»Â³ = **5.000 g/hari = 5 kg/hari**
 
 ### 12.3 Baku Mutu Lokal yang Lebih Ketat
 
@@ -901,7 +901,7 @@ Contoh: DKI Jakarta menetapkan baku mutu air limbah lebih ketat untuk industri t
 **Konteks:** Pada tahun 2004, warga sekitar Teluk Buyat di Sulawesi Utara mengalami berbagai gangguan kesehatan yang diduga terkait dengan pembuangan tailing (limbah pertambangan) oleh PT Newmont Minahasa Raya ke dasar laut Teluk Buyat.
 
 **Aspek Teknis:**
-- PT Newmont menggunakan metode *Submarine Tailings Disposal* (STD) — pembuangan tailing melalui pipa ke kedalaman laut
+- PT Newmont menggunakan metode *Submarine Tailings Disposal* (STD) â€” pembuangan tailing melalui pipa ke kedalaman laut
 - Tailing mengandung logam berat termasuk merkuri (Hg) dan arsen (As)
 - Hasil pemeriksaan menunjukkan kadar merkuri dalam darah beberapa warga melebihi ambang batas normal
 - Terdapat perdebatan ilmiah mengenai apakah konsentrasi logam berat dalam air laut melampaui baku mutu
@@ -909,7 +909,7 @@ Contoh: DKI Jakarta menetapkan baku mutu air limbah lebih ketat untuk industri t
 **Analisis Hukum:**
 - Kasus ini menjadi perkara pidana lingkungan pertama yang melibatkan perusahaan multinasional besar di Indonesia
 - Pengadilan membebaskan PT Newmont dari dakwaan pidana pencemaran (Putusan Pengadilan Negeri Manado No. 284/Pid.B/2005/PN.Mdo), namun putusan ini kontroversial
-- Perdebatan berpusat pada pembuktian pelampauan baku mutu air laut — menunjukkan betapa krusialnya elemen "melampaui baku mutu" dalam definisi pencemaran
+- Perdebatan berpusat pada pembuktian pelampauan baku mutu air laut â€” menunjukkan betapa krusialnya elemen "melampaui baku mutu" dalam definisi pencemaran
 - Kasus ini mendorong diskusi tentang kecukupan baku mutu yang ada dan perlunya standar yang lebih ketat untuk pembuangan tailing laut
 
 **Pelajaran:**
@@ -1014,6 +1014,7 @@ Dari ketiga studi kasus di atas, dapat ditarik beberapa pelajaran penting bagi p
 ---
 
 **Navigasi:**
-- [[03_Perencanaan_Lingkungan|← Perencanaan Lingkungan]]
-- [[README|↑ Index]]
-- [[05_AMDAL_Perizinan|AMDAL dan Perizinan →]]
+- [[03_Perencanaan_Lingkungan|â† Perencanaan Lingkungan]]
+- [[README|â†‘ Index]]
+- [[05_AMDAL_Perizinan|AMDAL dan Perizinan â†’]]
+

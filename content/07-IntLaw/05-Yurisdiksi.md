@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yurisdiksi Negara dalam Hukum Internasional"
 tags:
   - hukum-internasional
@@ -31,7 +31,7 @@ Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
 
 ### 5.1.1 Definisi Yurisdiksi
 
-Yurisdiksi (*jurisdiction*) dalam hukum internasional merujuk pada kewenangan negara untuk mengatur perilaku orang, benda, dan peristiwa melalui hukum domestiknya. Istilah ini berasal dari bahasa Latin *juris dictio*, yang secara harfiah berarti "pernyataan hukum" atau "kekuasaan untuk menyatakan hukum." Dalam konteks hukum internasional publik, yurisdiksi merupakan manifestasi konkret dari kedaulatan negara—ia menentukan sejauh mana suatu negara dapat menjangkau individu, peristiwa, dan hubungan hukum melalui perangkat legislatif, yudikatif, dan eksekutifnya.
+Yurisdiksi (*jurisdiction*) dalam hukum internasional merujuk pada kewenangan negara untuk mengatur perilaku orang, benda, dan peristiwa melalui hukum domestiknya. Istilah ini berasal dari bahasa Latin *juris dictio*, yang secara harfiah berarti "pernyataan hukum" atau "kekuasaan untuk menyatakan hukum." Dalam konteks hukum internasional publik, yurisdiksi merupakan manifestasi konkret dari kedaulatan negaraâ€”ia menentukan sejauh mana suatu negara dapat menjangkau individu, peristiwa, dan hubungan hukum melalui perangkat legislatif, yudikatif, dan eksekutifnya.
 
 Malcolm N. Shaw mendefinisikan yurisdiksi sebagai "the power of a state to affect people, property and circumstances and reflects the basic principles of state sovereignty, equality of states and non-interference in domestic affairs." Definisi ini menegaskan bahwa yurisdiksi bukan sekadar kekuasaan teknis, melainkan cerminan dari prinsip-prinsip fundamental hubungan antarnegara.
 
@@ -55,11 +55,11 @@ Yurisdiksi ajudikatif merujuk pada kewenangan pengadilan suatu negara untuk meng
 
 Yurisdiksi eksekutif adalah kewenangan negara untuk memaksakan ketaatan terhadap aturan hukumnya, termasuk melalui penangkapan, penahanan, penyitaan, dan pelaksanaan putusan pengadilan. Dimensi ini paling terbatas jangkauannya karena secara prinsip, yurisdiksi eksekutif hanya dapat dilaksanakan di dalam wilayah negara bersangkutan. Sebagaimana ditegaskan dalam kasus *SS Lotus* (1927), suatu negara tidak boleh melaksanakan kekuasaan penegakan hukum di wilayah negara lain tanpa persetujuan negara tersebut.
 
-Perbedaan antara ketiga dimensi yurisdiksi ini sangat penting dalam praktik. Suatu negara dapat memiliki yurisdiksi preskriptif yang luas—misalnya, memberlakukan undang-undang antimonopoli yang mencakup perilaku di luar negeri—namun kemampuannya untuk menegakkan aturan tersebut (*enforcement*) terbatas pada apa yang dapat dilakukan di dalam wilayahnya sendiri.
+Perbedaan antara ketiga dimensi yurisdiksi ini sangat penting dalam praktik. Suatu negara dapat memiliki yurisdiksi preskriptif yang luasâ€”misalnya, memberlakukan undang-undang antimonopoli yang mencakup perilaku di luar negeriâ€”namun kemampuannya untuk menegakkan aturan tersebut (*enforcement*) terbatas pada apa yang dapat dilakukan di dalam wilayahnya sendiri.
 
 ### 5.1.3 Yurisdiksi dalam Hukum Internasional dan Hukum Domestik
 
-Penting untuk membedakan penggunaan istilah "yurisdiksi" dalam hukum internasional dan hukum domestik. Dalam hukum domestik, yurisdiksi umumnya merujuk pada kewenangan pengadilan tertentu untuk mengadili perkara—misalnya, yurisdiksi Pengadilan Negeri Jakarta Pusat atas suatu perkara perdata. Dalam hukum internasional, yurisdiksi memiliki makna lebih luas yang mencakup seluruh kekuasaan publik negara untuk mengatur kehidupan masyarakat.
+Penting untuk membedakan penggunaan istilah "yurisdiksi" dalam hukum internasional dan hukum domestik. Dalam hukum domestik, yurisdiksi umumnya merujuk pada kewenangan pengadilan tertentu untuk mengadili perkaraâ€”misalnya, yurisdiksi Pengadilan Negeri Jakarta Pusat atas suatu perkara perdata. Dalam hukum internasional, yurisdiksi memiliki makna lebih luas yang mencakup seluruh kekuasaan publik negara untuk mengatur kehidupan masyarakat.
 
 Hubungan antara yurisdiksi dalam hukum internasional dan hukum domestik bersifat komplementer. Hukum internasional menentukan batas-batas luar kewenangan negara, sementara hukum domestik mengatur tata cara pelaksanaan kewenangan tersebut di dalam kerangka konstitusional masing-masing negara.
 
@@ -87,7 +87,7 @@ graph TB
 
 Yurisdiksi teritorial merupakan dasar yurisdiksi yang paling utama dan paling banyak diterima dalam hukum internasional. Prinsip ini menyatakan bahwa setiap negara memiliki kewenangan penuh dan eksklusif atas segala orang, benda, dan peristiwa yang berada di dalam wilayahnya. Prinsip teritorialitas berakar pada konsep kedaulatan Westphalia yang memandang negara sebagai entitas berdaulat di dalam batas wilayahnya.
 
-Mahkamah Internasional (ICJ) dalam kasus *SS Lotus* (Prancis v. Turki, 1927) menyatakan: "Now the first and foremost restriction imposed by international law upon a State is that—failing the existence of a permissive rule to the contrary—it may not exercise its power in any form in the territory of another State." Pernyataan ini menegaskan bahwa yurisdiksi teritorial adalah titik tolak sekaligus batas bagi pelaksanaan kekuasaan negara.
+Mahkamah Internasional (ICJ) dalam kasus *SS Lotus* (Prancis v. Turki, 1927) menyatakan: "Now the first and foremost restriction imposed by international law upon a State is thatâ€”failing the existence of a permissive rule to the contraryâ€”it may not exercise its power in any form in the territory of another State." Pernyataan ini menegaskan bahwa yurisdiksi teritorial adalah titik tolak sekaligus batas bagi pelaksanaan kekuasaan negara.
 
 Wilayah negara yang menjadi dasar yurisdiksi teritorial mencakup:
 
@@ -119,7 +119,7 @@ Doktrin efek merupakan perluasan paling kontroversial dari prinsip teritorialita
 
 Doktrin efek paling intensif diterapkan oleh Amerika Serikat dalam bidang hukum persaingan usaha (*antitrust law*). Dalam kasus *United States v. Aluminium Co. of America (Alcoa)* (1945), Pengadilan Banding Amerika Serikat (Second Circuit) menyatakan bahwa Sherman Antitrust Act berlaku terhadap kartel yang dibentuk di luar negeri sepanjang kartel tersebut ditujukan untuk dan menghasilkan efek substansial terhadap perdagangan di Amerika Serikat.
 
-Penerapan doktrin efek ini memicu kontroversi besar dalam hubungan internasional. Banyak negara, termasuk negara-negara Eropa, menentang penerapan ekstrateritorial hukum persaingan usaha Amerika Serikat sebagai pelanggaran kedaulatan mereka. Beberapa negara bahkan mengeluarkan undang-undang pemblokiran (*blocking statutes*) untuk menangkal penerapan ekstrateritorial tersebut—misalnya, Inggris mengeluarkan Protection of Trading Interests Act 1980.
+Penerapan doktrin efek ini memicu kontroversi besar dalam hubungan internasional. Banyak negara, termasuk negara-negara Eropa, menentang penerapan ekstrateritorial hukum persaingan usaha Amerika Serikat sebagai pelanggaran kedaulatan mereka. Beberapa negara bahkan mengeluarkan undang-undang pemblokiran (*blocking statutes*) untuk menangkal penerapan ekstrateritorial tersebutâ€”misalnya, Inggris mengeluarkan Protection of Trading Interests Act 1980.
 
 Meskipun kontroversial, doktrin efek kini telah diterima secara lebih luas. Uni Eropa sendiri menerapkan doktrin serupa dalam kasus *Wood Pulp* (1988), di mana Pengadilan Eropa menyatakan bahwa hukum persaingan Uni Eropa berlaku terhadap perusahaan asing yang mengimplementasikan perjanjian kartel di dalam wilayah Uni Eropa.
 
@@ -139,7 +139,7 @@ Prinsip teritorialitas tidak bersifat mutlak. Beberapa pengecualian penting terh
 
 ### 5.3.1 Prinsip Nasionalitas Aktif (*Active Nationality Principle*)
 
-Prinsip nasionalitas aktif, juga dikenal sebagai prinsip personalitas aktif, memberikan yurisdiksi kepada suatu negara atas tindakan warga negaranya di mana pun tindakan tersebut dilakukan. Dasar pemikirannya adalah bahwa hubungan kewarganegaraan menciptakan ikatan hukum yang berkelanjutan antara negara dan warganya, sehingga negara berhak—dan dalam beberapa hal berkewajiban—mengatur perilaku warganya, termasuk ketika mereka berada di luar negeri.
+Prinsip nasionalitas aktif, juga dikenal sebagai prinsip personalitas aktif, memberikan yurisdiksi kepada suatu negara atas tindakan warga negaranya di mana pun tindakan tersebut dilakukan. Dasar pemikirannya adalah bahwa hubungan kewarganegaraan menciptakan ikatan hukum yang berkelanjutan antara negara dan warganya, sehingga negara berhakâ€”dan dalam beberapa hal berkewajibanâ€”mengatur perilaku warganya, termasuk ketika mereka berada di luar negeri.
 
 Prinsip ini diterima secara luas dalam hukum internasional, meskipun ruang lingkup penerapannya bervariasi antarnegara. Negara-negara dengan tradisi hukum sipil (*civil law*), seperti Prancis dan Jerman, menerapkan prinsip nasionalitas aktif secara luas, sedangkan negara-negara *common law*, seperti Inggris dan Amerika Serikat, cenderung lebih berhati-hati dan membatasi penerapannya pada tindak pidana tertentu yang dianggap serius.
 
@@ -147,11 +147,11 @@ Prinsip ini diterima secara luas dalam hukum internasional, meskipun ruang lingk
 
 Indonesia menerapkan prinsip ini melalui Pasal 5 ayat (1) KUHP, yang menyatakan bahwa ketentuan pidana dalam perundang-undangan Indonesia berlaku bagi warga negara Indonesia yang melakukan tindak pidana di luar Indonesia, dengan syarat bahwa perbuatan tersebut juga merupakan tindak pidana menurut hukum negara tempat perbuatan dilakukan (*double criminality*). Dalam KUHP baru (UU Nomor 1 Tahun 2023), prinsip ini diatur dalam Pasal 4 yang mengakui berlakunya hukum pidana Indonesia terhadap warga negara Indonesia yang melakukan tindak pidana di luar wilayah Negara Kesatuan Republik Indonesia.
 
-Prancis menerapkan prinsip nasionalitas aktif secara lebih luas. Pasal 113-6 Code pénal Prancis menyatakan bahwa hukum pidana Prancis berlaku terhadap setiap kejahatan (*crime*) yang dilakukan oleh warga negara Prancis di luar wilayah Prancis, dan untuk pelanggaran ringan (*délit*) dengan syarat *double criminality*.
+Prancis menerapkan prinsip nasionalitas aktif secara lebih luas. Pasal 113-6 Code pÃ©nal Prancis menyatakan bahwa hukum pidana Prancis berlaku terhadap setiap kejahatan (*crime*) yang dilakukan oleh warga negara Prancis di luar wilayah Prancis, dan untuk pelanggaran ringan (*dÃ©lit*) dengan syarat *double criminality*.
 
 ### 5.3.2 Prinsip Nasionalitas Pasif (*Passive Nationality Principle*)
 
-Prinsip nasionalitas pasif memberikan yurisdiksi kepada suatu negara atas tindakan yang dilakukan terhadap warga negaranya di luar negeri, tanpa memandang kewarganegaraan pelaku atau tempat terjadinya perbuatan. Prinsip ini lebih kontroversial dibandingkan nasionalitas aktif karena hubungan antara negara dan peristiwa yang diatur lebih renggang—satu-satunya titik taut adalah bahwa korban merupakan warga negara dari negara yang mengklaim yurisdiksi.
+Prinsip nasionalitas pasif memberikan yurisdiksi kepada suatu negara atas tindakan yang dilakukan terhadap warga negaranya di luar negeri, tanpa memandang kewarganegaraan pelaku atau tempat terjadinya perbuatan. Prinsip ini lebih kontroversial dibandingkan nasionalitas aktif karena hubungan antara negara dan peristiwa yang diatur lebih renggangâ€”satu-satunya titik taut adalah bahwa korban merupakan warga negara dari negara yang mengklaim yurisdiksi.
 
 Dalam kasus *SS Lotus*, PCIJ mengakui adanya praktik negara yang menerapkan prinsip nasionalitas pasif, meskipun tidak secara tegas menyatakan bahwa prinsip ini diterima secara universal. Opini Terpisah Hakim Moore justru menolak prinsip ini sebagai dasar yurisdiksi yang sah.
 
@@ -168,7 +168,7 @@ Pengadilan Distrik Amerika Serikat untuk District of Columbia mengakui kedua das
 Penentuan nasionalitas badan hukum (korporasi) untuk tujuan yurisdiksi merupakan persoalan yang lebih kompleks dibandingkan nasionalitas orang perseorangan. Terdapat beberapa kriteria yang digunakan:
 
 1. **Tempat pendirian (*place of incorporation*)**: Badan hukum memiliki nasionalitas negara tempat ia didirikan. Kriteria ini dominan dalam tradisi *common law*.
-2. **Tempat kedudukan sesungguhnya (*siège réel/real seat*)**: Badan hukum memiliki nasionalitas negara tempat kegiatan manajemen efektifnya berada. Kriteria ini dominan dalam tradisi *civil law* Eropa.
+2. **Tempat kedudukan sesungguhnya (*siÃ¨ge rÃ©el/real seat*)**: Badan hukum memiliki nasionalitas negara tempat kegiatan manajemen efektifnya berada. Kriteria ini dominan dalam tradisi *civil law* Eropa.
 3. **Kontrol efektif (*effective control*)**: Nasionalitas ditentukan berdasarkan siapa yang secara efektif mengendalikan badan hukum tersebut.
 
 ICJ dalam kasus *Barcelona Traction* (Belgia v. Spanyol, 1970) memutuskan bahwa negara yang berhak memberikan perlindungan diplomatik bagi suatu perusahaan adalah negara tempat perusahaan tersebut didirikan (*incorporation*), bukan negara dari para pemegang sahamnya. Keputusan ini menegaskan prinsip tempat pendirian sebagai kriteria utama penentuan nasionalitas badan hukum dalam hukum internasional.
@@ -201,7 +201,7 @@ Pasal 146 Konvensi Jenewa IV menyatakan: "Each High Contracting Party shall be u
 
 **Genosida (*Genocide*)**
 
-Meskipun Konvensi Genosida 1948 tidak secara eksplisit mengatur yurisdiksi universal—Pasal VI hanya menyebut pengadilan negara teritorial atau pengadilan pidana internasional—praktik negara dan putusan pengadilan internasional telah mengembangkan yurisdiksi universal atas genosida. Pengadilan-pengadilan Spanyol, Belgia, dan Jerman telah mengadili atau menginvestigasi pelaku genosida berdasarkan yurisdiksi universal.
+Meskipun Konvensi Genosida 1948 tidak secara eksplisit mengatur yurisdiksi universalâ€”Pasal VI hanya menyebut pengadilan negara teritorial atau pengadilan pidana internasionalâ€”praktik negara dan putusan pengadilan internasional telah mengembangkan yurisdiksi universal atas genosida. Pengadilan-pengadilan Spanyol, Belgia, dan Jerman telah mengadili atau menginvestigasi pelaku genosida berdasarkan yurisdiksi universal.
 
 **Kejahatan terhadap Kemanusiaan (*Crimes against Humanity*)**
 
@@ -223,9 +223,9 @@ Penerapan yurisdiksi universal menimbulkan beberapa perdebatan fundamental:
 
 Apakah yurisdiksi universal dapat dilaksanakan secara *in absentia*, atau apakah diperlukan kehadiran pelaku di wilayah negara yang mengadili? Praktik negara bervariasi dalam hal ini.
 
-Belgia pernah memiliki undang-undang yurisdiksi universal yang paling luas di dunia—Loi relative à la répression des violations graves du droit international humanitaire (1993/1999)—yang memungkinkan penuntutan *in absentia* tanpa persyaratan kehadiran pelaku. Undang-undang ini memicu serangkaian kontroversi, termasuk ancaman pemindahan markas besar NATO dari Brussels oleh Amerika Serikat, dan akhirnya diamendemen pada tahun 2003 untuk mensyaratkan adanya hubungan (*link*) dengan Belgia.
+Belgia pernah memiliki undang-undang yurisdiksi universal yang paling luas di duniaâ€”Loi relative Ã  la rÃ©pression des violations graves du droit international humanitaire (1993/1999)â€”yang memungkinkan penuntutan *in absentia* tanpa persyaratan kehadiran pelaku. Undang-undang ini memicu serangkaian kontroversi, termasuk ancaman pemindahan markas besar NATO dari Brussels oleh Amerika Serikat, dan akhirnya diamendemen pada tahun 2003 untuk mensyaratkan adanya hubungan (*link*) dengan Belgia.
 
-Jerman menerapkan pendekatan berbeda melalui Völkerstrafgesetzbuch (VStGB) tahun 2002, yang memungkinkan penuntutan berdasarkan yurisdiksi universal dengan persyaratan kehadiran pelaku di wilayah Jerman, namun penyelidikan awal dapat dimulai tanpa kehadiran pelaku.
+Jerman menerapkan pendekatan berbeda melalui VÃ¶lkerstrafgesetzbuch (VStGB) tahun 2002, yang memungkinkan penuntutan berdasarkan yurisdiksi universal dengan persyaratan kehadiran pelaku di wilayah Jerman, namun penyelidikan awal dapat dimulai tanpa kehadiran pelaku.
 
 **Hubungan dengan Imunitas Pejabat Negara**
 
@@ -259,7 +259,7 @@ graph LR
 
 ### 5.4.4 Kasus Pinochet (1998-2000)
 
-Kasus ekstradisi Augusto Pinochet merupakan tonggak bersejarah dalam perkembangan yurisdiksi universal. Pada tahun 1998, Hakim Baltasar Garzón dari Spanyol mengeluarkan surat perintah penangkapan internasional terhadap mantan diktator Chile, Augusto Pinochet, yang sedang berada di London untuk perawatan medis. Penangkapan didasarkan pada tuduhan penyiksaan dan penghilangan paksa terhadap warga negara Spanyol selama rezim militer Pinochet (1973-1990).
+Kasus ekstradisi Augusto Pinochet merupakan tonggak bersejarah dalam perkembangan yurisdiksi universal. Pada tahun 1998, Hakim Baltasar GarzÃ³n dari Spanyol mengeluarkan surat perintah penangkapan internasional terhadap mantan diktator Chile, Augusto Pinochet, yang sedang berada di London untuk perawatan medis. Penangkapan didasarkan pada tuduhan penyiksaan dan penghilangan paksa terhadap warga negara Spanyol selama rezim militer Pinochet (1973-1990).
 
 Kasus ini sampai ke House of Lords (kini Supreme Court) Inggris dalam dua putaran:
 
@@ -267,7 +267,7 @@ Kasus ini sampai ke House of Lords (kini Supreme Court) Inggris dalam dua putara
 
 **Putusan Kedua (*Pinochet No. 3*, Maret 1999)**: Setelah persidangan ulang, House of Lords memutuskan 6-1 bahwa Pinochet tidak menikmati imunitas untuk tuduhan penyiksaan yang dilakukan setelah berlakunya Konvensi Menentang Penyiksaan (CAT) bagi semua negara terkait (Inggris, Spanyol, dan Chile). Mayoritas hakim berpendapat bahwa penyiksaan tidak dapat dianggap sebagai fungsi resmi kepala negara karena CAT mendefinisikan penyiksaan sebagai tindakan yang dilakukan oleh pejabat publik, sehingga mengakui imunitas akan membuat konvensi tersebut kehilangan maknanya.
 
-Meskipun Pinochet pada akhirnya tidak diekstradisi ke Spanyol karena alasan kesehatan—ia dikembalikan ke Chile pada Maret 2000—kasus ini memiliki dampak transformatif:
+Meskipun Pinochet pada akhirnya tidak diekstradisi ke Spanyol karena alasan kesehatanâ€”ia dikembalikan ke Chile pada Maret 2000â€”kasus ini memiliki dampak transformatif:
 
 - Menegaskan bahwa mantan kepala negara tidak kebal dari yurisdiksi asing untuk kejahatan internasional tertentu
 - Mendorong penerapan yurisdiksi universal di berbagai negara Eropa
@@ -359,7 +359,7 @@ Berdasarkan teori restriktif dan sebagaimana dikodifikasi dalam UN Convention 20
 
 Kasus ini merupakan putusan ICJ terpenting terkait imunitas negara dalam konteks pelanggaran hak asasi manusia yang serius. Italia mengizinkan warga negaranya (dan warga negara Yunani) untuk menggugat Jerman di pengadilan Italia atas kejahatan perang yang dilakukan tentara Jerman selama Perang Dunia II, termasuk pembantaian dan kerja paksa.
 
-ICJ memutuskan bahwa Italia melanggar imunitas Jerman dengan mengizinkan gugatan tersebut. Pengadilan menekankan bahwa imunitas negara bersifat prosedural, bukan substantif—imunitas tidak menghapus tanggung jawab negara atas perbuatan melawan hukum internasional, tetapi menghalangi pengadilan domestik negara lain untuk mengadili klaim tersebut.
+ICJ memutuskan bahwa Italia melanggar imunitas Jerman dengan mengizinkan gugatan tersebut. Pengadilan menekankan bahwa imunitas negara bersifat prosedural, bukan substantifâ€”imunitas tidak menghapus tanggung jawab negara atas perbuatan melawan hukum internasional, tetapi menghalangi pengadilan domestik negara lain untuk mengadili klaim tersebut.
 
 Putusan ini kontroversial karena mengutamakan imunitas prosedural di atas akses korban terhadap keadilan. Pengadilan Konstitusi Italia (Corte Costituzionale) kemudian dalam Putusan No. 238/2014 menolak menerapkan putusan ICJ dengan alasan bahwa putusan tersebut bertentangan dengan prinsip-prinsip konstitusional Italia tentang perlindungan hak-hak fundamental. Sikap Italia ini menimbulkan pertanyaan besar tentang hubungan antara hukum internasional dan hukum konstitusional.
 
@@ -396,7 +396,7 @@ Kedua konvensi ini merupakan perjanjian internasional yang paling banyak diratif
 
 Terdapat tiga teori utama yang menjelaskan mengapa diplomat menikmati imunitas:
 
-**Teori Ekstrateritorialitas (*Extraterritoriality Theory*)**: Teori klasik yang menganggap gedung misi diplomatik sebagai bagian dari wilayah negara pengirim. Teori ini sudah ditinggalkan karena secara faktual tidak benar—gedung kedutaan tetap merupakan bagian dari wilayah negara penerima.
+**Teori Ekstrateritorialitas (*Extraterritoriality Theory*)**: Teori klasik yang menganggap gedung misi diplomatik sebagai bagian dari wilayah negara pengirim. Teori ini sudah ditinggalkan karena secara faktual tidak benarâ€”gedung kedutaan tetap merupakan bagian dari wilayah negara penerima.
 
 **Teori Representasi (*Representative Character Theory*)**: Diplomat menikmati imunitas karena ia merupakan representasi personifikasi dari negaranya. Menghukum seorang diplomat sama dengan menghina negara pengirimnya. Teori ini masih relevan tetapi tidak cukup menjelaskan mengapa anggota keluarga diplomat juga menikmati imunitas.
 
@@ -412,7 +412,7 @@ Prinsip inviolabilitas diuji dalam krisis penyanderaan Kedutaan Besar Amerika Se
 
 **Imunitas Agen Diplomatik (Pasal 31)**
 
-Agen diplomatik menikmati imunitas dari yurisdiksi pidana, perdata, dan administratif negara penerima. Imunitas pidana bersifat absolut—tidak ada pengecualian. Imunitas perdata memiliki tiga pengecualian:
+Agen diplomatik menikmati imunitas dari yurisdiksi pidana, perdata, dan administratif negara penerima. Imunitas pidana bersifat absolutâ€”tidak ada pengecualian. Imunitas perdata memiliki tiga pengecualian:
 
 1. Gugatan terkait properti pribadi yang terletak di wilayah negara penerima
 2. Gugatan di mana diplomat bertindak sebagai pelaksana wasiat, administrator, atau ahli waris dalam kapasitas pribadi
@@ -483,7 +483,7 @@ Dalam hukum internasional, tidak ada kewajiban umum untuk mengekstradisi. Kewaji
 
 **Prinsip Kejahatan Ganda (*Double Criminality*)**
 
-Perbuatan yang mendasari permintaan ekstradisi harus merupakan tindak pidana menurut hukum kedua negara—baik negara peminta maupun negara yang diminta. Prinsip ini memastikan bahwa seseorang tidak diekstradisi untuk perbuatan yang bukan merupakan kejahatan di negara tempatnya berada.
+Perbuatan yang mendasari permintaan ekstradisi harus merupakan tindak pidana menurut hukum kedua negaraâ€”baik negara peminta maupun negara yang diminta. Prinsip ini memastikan bahwa seseorang tidak diekstradisi untuk perbuatan yang bukan merupakan kejahatan di negara tempatnya berada.
 
 Penerapan prinsip kejahatan ganda dapat bersifat:
 - *In abstracto*: Cukup bahwa perbuatan tersebut secara substansi merupakan tindak pidana di kedua negara, tanpa harus memiliki kualifikasi hukum yang sama
@@ -573,7 +573,7 @@ Prinsip Lotus kini sering dipandang sebagai terlalu permisif. Perkembangan konte
 ### 5.9.2 Kasus Arrest Warrant (Republik Demokratik Kongo v. Belgia, 2002)
 
 **Fakta Kasus:**
-Pada April 2000, hakim investigasi Belgia mengeluarkan surat perintah penangkapan internasional terhadap Abdulaye Yerodia Ndombasi, yang pada saat itu menjabat sebagai Menteri Luar Negeri Republik Demokratik Kongo (RDK), atas tuduhan pelanggaran berat Konvensi Jenewa dan kejahatan terhadap kemanusiaan berupa hasutan kebencian rasial. Surat perintah didasarkan pada Loi relative à la répression des violations graves du droit international humanitaire (1993/1999) Belgia yang memberikan yurisdiksi universal.
+Pada April 2000, hakim investigasi Belgia mengeluarkan surat perintah penangkapan internasional terhadap Abdulaye Yerodia Ndombasi, yang pada saat itu menjabat sebagai Menteri Luar Negeri Republik Demokratik Kongo (RDK), atas tuduhan pelanggaran berat Konvensi Jenewa dan kejahatan terhadap kemanusiaan berupa hasutan kebencian rasial. Surat perintah didasarkan pada Loi relative Ã  la rÃ©pression des violations graves du droit international humanitaire (1993/1999) Belgia yang memberikan yurisdiksi universal.
 
 RDK mengajukan perkara ke ICJ, berargumen bahwa Belgia melanggar imunitas Menteri Luar Negeri yang sedang menjabat.
 
@@ -584,7 +584,7 @@ ICJ memutuskan bahwa Belgia melanggar hukum internasional dengan mengeluarkan da
 Putusan ini menetapkan bahwa:
 1. Imunitas pejabat tinggi negara yang sedang menjabat tidak memiliki pengecualian untuk kejahatan internasional
 2. Yurisdiksi universal tidak mengesampingkan imunitas
-3. Namun, imunitas tidak berarti impunitas—ada mekanisme alternatif untuk penuntutan
+3. Namun, imunitas tidak berarti impunitasâ€”ada mekanisme alternatif untuk penuntutan
 
 **Opini Terpisah dan Dissenting:**
 Beberapa hakim menulis opini terpisah yang kaya secara hukum. Opini bersama Hakim Higgins, Kooijmans, dan Buergenthal berpendapat bahwa ICJ seharusnya juga membahas legalitas yurisdiksi universal secara lebih mendalam. Mereka membedakan antara yurisdiksi universal yang memerlukan kehadiran pelaku (*universal jurisdiction requiring presence*) dan yang tidak (*universal jurisdiction in absentia*), dan berpendapat bahwa bentuk pertama didukung oleh hukum internasional.
@@ -606,7 +606,7 @@ Yunis dijatuhi hukuman 30 tahun penjara.
 
 ### 5.9.4 Kasus Sipadan-Ligitan dan Implikasi Yurisdiksi Indonesia
 
-Meskipun kasus Kedaulatan atas Pulau Ligitan dan Pulau Sipadan (Indonesia/Malaysia, 2002) pada dasarnya merupakan sengketa kedaulatan teritorial (yang akan dibahas lebih mendalam di Bab 8), kasus ini memiliki implikasi penting bagi yurisdiksi Indonesia. ICJ memutuskan bahwa Malaysia memiliki kedaulatan atas kedua pulau tersebut berdasarkan *effectivités*—tindakan nyata pelaksanaan kewenangan oleh British North Borneo Company dan kemudian Malaysia.
+Meskipun kasus Kedaulatan atas Pulau Ligitan dan Pulau Sipadan (Indonesia/Malaysia, 2002) pada dasarnya merupakan sengketa kedaulatan teritorial (yang akan dibahas lebih mendalam di Bab 8), kasus ini memiliki implikasi penting bagi yurisdiksi Indonesia. ICJ memutuskan bahwa Malaysia memiliki kedaulatan atas kedua pulau tersebut berdasarkan *effectivitÃ©s*â€”tindakan nyata pelaksanaan kewenangan oleh British North Borneo Company dan kemudian Malaysia.
 
 Kasus ini menunjukkan bahwa yurisdiksi teritorial tidak hanya memerlukan klaim formal tetapi juga pelaksanaan efektif kewenangan negara. Indonesia kehilangan kedua pulau karena gagal menunjukkan pelaksanaan yurisdiksi yang efektif dan berkelanjutan atas pulau-pulau tersebut.
 
@@ -673,23 +673,23 @@ Indonesia mengatur yurisdiksi atas kejahatan siber melalui UU Nomor 11 Tahun 200
 
 ### 5.11.2 Yurisdiksi atas Kejahatan Transnasional
 
-Kejahatan transnasional terorganisasi—termasuk perdagangan narkotika, perdagangan manusia, penyelundupan migran, dan pencucian uang—menuntut pendekatan yurisdiksi yang kooperatif. United Nations Convention against Transnational Organized Crime (UNTOC) 2000, yang diratifikasi Indonesia melalui UU Nomor 5 Tahun 2009, menetapkan kerangka yurisdiksi yang komprehensif dan mendorong kerja sama internasional.
+Kejahatan transnasional terorganisasiâ€”termasuk perdagangan narkotika, perdagangan manusia, penyelundupan migran, dan pencucian uangâ€”menuntut pendekatan yurisdiksi yang kooperatif. United Nations Convention against Transnational Organized Crime (UNTOC) 2000, yang diratifikasi Indonesia melalui UU Nomor 5 Tahun 2009, menetapkan kerangka yurisdiksi yang komprehensif dan mendorong kerja sama internasional.
 
 ### 5.11.3 Yurisdiksi dan Hak Asasi Manusia
 
 Terdapat ketegangan yang berkembang antara yurisdiksi ekstrateritorial untuk penegakan hak asasi manusia dan prinsip kedaulatan negara. Alien Tort Statute (ATS) Amerika Serikat memungkinkan warga negara asing untuk menggugat di pengadilan AS atas pelanggaran hukum bangsa-bangsa (*law of nations*). Namun, Mahkamah Agung AS dalam kasus *Kiobel v. Royal Dutch Petroleum* (2013) membatasi jangkauan ATS dengan menerapkan "presumption against extraterritoriality."
 
-Di Eropa, beberapa negara mengadopsi legislasi yang memungkinkan penuntutan atas pelanggaran HAM berat berdasarkan yurisdiksi universal. Jerman, melalui Völkerstrafgesetzbuch (2002), telah menjadi pemimpin dalam penerapan yurisdiksi universal, termasuk menuntut pelaku kejahatan perang di Suriah (kasus Al-Khatib dan lainnya).
+Di Eropa, beberapa negara mengadopsi legislasi yang memungkinkan penuntutan atas pelanggaran HAM berat berdasarkan yurisdiksi universal. Jerman, melalui VÃ¶lkerstrafgesetzbuch (2002), telah menjadi pemimpin dalam penerapan yurisdiksi universal, termasuk menuntut pelaku kejahatan perang di Suriah (kasus Al-Khatib dan lainnya).
 
 ---
 
 ## Ringkasan
 
-Yurisdiksi negara merupakan konsep sentral dalam hukum internasional yang menentukan batas kewenangan negara untuk mengatur kehidupan masyarakat. Tiga dimensi yurisdiksi—preskriptif, ajudikatif, dan eksekutif—memberikan kerangka analitis untuk memahami berbagai bentuk pelaksanaan kekuasaan negara.
+Yurisdiksi negara merupakan konsep sentral dalam hukum internasional yang menentukan batas kewenangan negara untuk mengatur kehidupan masyarakat. Tiga dimensi yurisdiksiâ€”preskriptif, ajudikatif, dan eksekutifâ€”memberikan kerangka analitis untuk memahami berbagai bentuk pelaksanaan kekuasaan negara.
 
 Prinsip teritorialitas tetap menjadi dasar yurisdiksi yang paling utama, namun perkembangan hukum internasional menghasilkan dasar-dasar yurisdiksi tambahan: nasionalitas (aktif dan pasif), universalitas, dan perlindungan. Masing-masing memiliki ruang lingkup dan batas yang berbeda.
 
-Imunitas—baik imunitas negara, diplomatik, maupun konsuler—merupakan pengecualian penting terhadap yurisdiksi yang didasarkan pada prinsip kedaulatan dan kebutuhan fungsional. Perkembangan dari teori imunitas absolut ke restriktif mencerminkan kebutuhan untuk menyeimbangkan kedaulatan negara dengan keadilan bagi pihak-pihak yang berkepentingan.
+Imunitasâ€”baik imunitas negara, diplomatik, maupun konsulerâ€”merupakan pengecualian penting terhadap yurisdiksi yang didasarkan pada prinsip kedaulatan dan kebutuhan fungsional. Perkembangan dari teori imunitas absolut ke restriktif mencerminkan kebutuhan untuk menyeimbangkan kedaulatan negara dengan keadilan bagi pihak-pihak yang berkepentingan.
 
 Ekstradisi dan bantuan hukum timbal balik menjadi mekanisme penting kerja sama internasional dalam penegakan hukum, sementara perkembangan kontemporer di bidang kejahatan siber, kejahatan transnasional, dan penegakan hak asasi manusia terus menantang dan membentuk kembali konsep yurisdiksi.
 
@@ -778,3 +778,4 @@ Ekstradisi dan bantuan hukum timbal balik menjadi mekanisme penting kerja sama i
 ---
 
 *Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[04-HI-Nasional]] untuk pembahasan tentang kedaulatan teritorial dan [[06-Perjanjian]] untuk pembahasan tentang perjanjian internasional yang menjadi dasar bagi banyak perjanjian ekstradisi dan bantuan hukum timbal balik.*
+

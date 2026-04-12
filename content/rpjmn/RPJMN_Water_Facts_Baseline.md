@@ -1,4 +1,4 @@
-# RPJMN Water Facts: Baseline Conditions and Challenges
+﻿# RPJMN Water Facts: Baseline Conditions and Challenges
 
 **Document Type:** Source Material (Facts Only)
 **Source:** RPJMN 2025-2029 - National Medium-Term Development Plan
@@ -20,9 +20,9 @@ This document contains verbatim quotes, data, and statistics regarding Indonesia
 
 ### Total Water Resources
 
-- **Surface water:** 2,783.3 billion m³/year
-- **Groundwater potential:** 20,903.3 billion m³/year
-- **Total potential:** Over 23,686 billion m³/year
+- **Surface water:** 2,783.3 billion mÂ³/year
+- **Groundwater potential:** 20,903.3 billion mÂ³/year
+- **Total potential:** Over 23,686 billion mÂ³/year
 
 ### Regional Distribution
 
@@ -158,3 +158,4 @@ This document contains verbatim quotes, data, and statistics regarding Indonesia
 ---
 
 **Tags:** #rpjmn #baseline #water-resources #contamination #watershed-degradation #facts #source-material
+

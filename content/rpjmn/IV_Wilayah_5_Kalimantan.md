@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "Wilayah Kalimantan"
 chapter: "BAB IV"
@@ -20,7 +20,7 @@ status: "validated"
 date: "2025-10-29"
 ---
 
-> **Navigation:** [[00_INDEX|🏠 Index]] | [[README|📖 About]]
+> **Navigation:** [[00_INDEX|ðŸ  Index]] | [[README|ðŸ“– About]]
 >
 > **You are here:** Wilayah Kalimantan
 
@@ -80,9 +80,9 @@ Wilayah Kalimantan diarahkan menjadi "Superhub Ekonomi Nusantara", untuk itu sas
 | PDRB per kapita | - | - | 8,6 |
 | Kontribusi PDRB Provinsi (%) | - | - | 9,0 |
 | Tingkat Kemiskinan (%) | 114,7 | - | - |
-| Indeks Modal Manusia | 4,23–4,58 | 4,24–5,24 | - |
+| Indeks Modal Manusia | 4,23â€“4,58 | 4,24â€“5,24 | - |
 | Rasio Gini | 167,5 | - | - |
-| TPT (%) | 3,45–4,25 | 2,52–3,52 | - |
+| TPT (%) | 3,45â€“4,25 | 2,52â€“3,52 | - |
 
 **Keterangan:** Laju Pertumbuhan Ekonomi (LPE); Produk Domestik Regional Bruto (PDRB); Tingkat Pengangguran Terbuka (TPT)
 
@@ -100,11 +100,11 @@ Wilayah Kalimantan diarahkan menjadi "Superhub Ekonomi Nusantara", untuk itu sas
 | Provinsi | Rasio Gini | Indeks Modal Manusia | Penurunan Intensitas Emisi GRK (%) | IKLH Daerah | TPT (%) |
 |----------|-----------|---------------------|-----------------------------------|------------|---------|
 | | 2025 | 2029 | 2025 | 2029 | 2025 | 2029 | 2025 | 2029 | 2025 | 2029 |
-| Kalimantan Barat | 0,315–0,321 | 0,271–0,275 | 0,51 | 0,54 | 67,73 | 85,43 | 77,51 | 78,07 | 4,73–4,86 | 3,32–3,91 |
-| Kalimantan Tengah | 0,311–0,315 | 0,242–0,246 | 0,55 | 0,58 | 76,00 | 90,18 | 76,34 | 77,01 | 3,86–4,25 | 4,60–5,14 |
-| Kalimantan Selatan | 0,307–0,311 | 0,274–0,278 | 0,57 | 0,61 | 75,97 | 80,99 | 72,32 | 73,10 | 3,90–3,94 | 3,46–4,52 |
-| Kalimantan Timur | 0,310–0,321 | 0,309–0,313 | 0,59 | 0,62 | 40,82 | 67,46 | 80,20 | 80,87 | 2,92–3,61 | 3,29–3,97 |
-| Kalimantan Utara | 0,263 | 0,257–0,261 | 0,56 | 0,59 | 55,77 | 81,05 | 77,77 | 78,57 | 4,14–4,77 | 2,70–3,45 |
+| Kalimantan Barat | 0,315â€“0,321 | 0,271â€“0,275 | 0,51 | 0,54 | 67,73 | 85,43 | 77,51 | 78,07 | 4,73â€“4,86 | 3,32â€“3,91 |
+| Kalimantan Tengah | 0,311â€“0,315 | 0,242â€“0,246 | 0,55 | 0,58 | 76,00 | 90,18 | 76,34 | 77,01 | 3,86â€“4,25 | 4,60â€“5,14 |
+| Kalimantan Selatan | 0,307â€“0,311 | 0,274â€“0,278 | 0,57 | 0,61 | 75,97 | 80,99 | 72,32 | 73,10 | 3,90â€“3,94 | 3,46â€“4,52 |
+| Kalimantan Timur | 0,310â€“0,321 | 0,309â€“0,313 | 0,59 | 0,62 | 40,82 | 67,46 | 80,20 | 80,87 | 2,92â€“3,61 | 3,29â€“3,97 |
+| Kalimantan Utara | 0,263 | 0,257â€“0,261 | 0,56 | 0,59 | 55,77 | 81,05 | 77,77 | 78,57 | 4,14â€“4,77 | 2,70â€“3,45 |
 
 ### Arah Pembangunan Wilayah Kalimantan
 
@@ -114,4 +114,5 @@ Wilayah Kalimantan diarahkan menjadi "Superhub Ekonomi Nusantara", untuk itu sas
 
 **Penurunan Tingkat Kemiskinan dan Peningkatan Kualitas SDM**
 
-#### Highlight Lokasi Prioritas Pembangunan 2025–2029 Wilayah Kalimantan
+#### Highlight Lokasi Prioritas Pembangunan 2025â€“2029 Wilayah Kalimantan
+

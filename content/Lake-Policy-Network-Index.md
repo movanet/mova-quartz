@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 title: "Lake Governance Policy Network Analysis"
 project: "Lake Governance - Indonesia"
@@ -15,7 +15,7 @@ This comprehensive analysis examines the governance dynamics of lake management 
 
 ## Interactive Visualization
 
-### [🌐 Policy-Network-Actor Diagram →](rawapening-network/index.html)
+### [ðŸŒ Policy-Network-Actor Diagram â†’](rawapening-network/index.html)
 
 An interactive D3.js visualization showing the complex relationships between 18 institutional actors, 11 policies, and 10 governance paradoxes.
 
@@ -75,9 +75,9 @@ An interactive D3.js visualization showing the complex relationships between 18 
 
 ## Analytical Themes (A-J)
 
-- **Theme A:** Sedimentation & Lake Degradation (48 million m³ crisis)
+- **Theme A:** Sedimentation & Lake Degradation (48 million mÂ³ crisis)
 - **Theme B:** Multi-Stakeholder Coordination (170 institutions, fragmentation)
-- **Theme C:** Water Hyacinth Management (21 ha → 280 ha explosion)
+- **Theme C:** Water Hyacinth Management (21 ha â†’ 280 ha explosion)
 - **Theme D:** Agriculture, Farming, Livelihoods (2.5-year ban, zero compensation)
 - **Theme E:** Policy, Regulation, Legal Framework (decree resistance)
 - **Theme F:** Inter-Agency Gaps & Fragmentation (institutional orphaning, exclusion)

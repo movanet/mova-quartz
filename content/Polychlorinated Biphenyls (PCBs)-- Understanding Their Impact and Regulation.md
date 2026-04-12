@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 ---
 
@@ -33,4 +33,5 @@ Due to the significant risks posed by PCBs, their production, use, and disposal 
 1. United States: In 1979, the US Environmental Protection Agency (EPA) banned the production and most uses of PCBs under the Toxic Substances Control Act (TSCA). The EPA also established strict disposal requirements and remediation guidelines for PCB-contaminated sites.
 2. European Union: The European Union banned the production and use of PCBs in 1985 and later adopted directives on the disposal and management of PCB-containing equipment.
 3. Stockholm Convention: In 2001, the international community adopted the Stockholm Convention on Persistent Organic Pollutants, which aims to protect human health and the environment from POPs, including PCBs. The Convention requires parties to take measures to eliminate or reduce the release of PCBs, properly manage and dispose of PCB-containing equipment, and promote research, information exchange, and public awareness.
+
 

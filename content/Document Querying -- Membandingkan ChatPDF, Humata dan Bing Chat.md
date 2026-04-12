@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 dg-publish: true
 permalink: published-document-querying-membandingkan-chat-pdf-humata-dan-bing-chat
@@ -56,7 +56,7 @@ Saya kemudian bertanya lagi ke Bing: can you provide another examples cited by t
 
 Answer:
 
-> The paper mentions several examples of water conflicts in Indonesia. In Southern Sumatera, utilization of water for inland fishery in the upstream area led to water scarcity in the downstream and precipitated conflict among farmers1. In West Sumatra, hydropower projects compete with irrigation needs. In Karanganyar, Central Java, some conflict arises between tourism local government and the private sector. In Klaten, Central Java, conflict occurred between smallholder farmers and companies. In Pandeglang, Banten, the religious community from Islamic Boarding Schools – led by their religious leaders (Kyai) – resist an industrial project from a company to control several springs. Conflict also occurs between farmers themselves, for example, in Southern Sumatera conflict occurred between water for rice fields and inland fishery.
+> The paper mentions several examples of water conflicts in Indonesia. In Southern Sumatera, utilization of water for inland fishery in the upstream area led to water scarcity in the downstream and precipitated conflict among farmers1. In West Sumatra, hydropower projects compete with irrigation needs. In Karanganyar, Central Java, some conflict arises between tourism local government and the private sector. In Klaten, Central Java, conflict occurred between smallholder farmers and companies. In Pandeglang, Banten, the religious community from Islamic Boarding Schools â€“ led by their religious leaders (Kyai) â€“ resist an industrial project from a company to control several springs. Conflict also occurs between farmers themselves, for example, in Southern Sumatera conflict occurred between water for rice fields and inland fishery.
 
 Jadi jawaban Bing cukup lumayan.
 

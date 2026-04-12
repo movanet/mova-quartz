@@ -1,4 +1,4 @@
-# RPJMN 2025-2029 (Rencana Pembangunan Jangka Menengah Nasional)
+﻿# RPJMN 2025-2029 (Rencana Pembangunan Jangka Menengah Nasional)
 
 ## Document Information
 
@@ -19,15 +19,15 @@ This document outlines Indonesia's Medium-Term National Development Plan for 202
 
 #### BAB I: Evaluasi dan Tantangan Pembangunan (3,555 lines)
 - [`I_Evaluasi_dan_Tantangan_Pembangunan.md`](./I_Evaluasi_dan_Tantangan_Pembangunan.md)
-- 1.1 Kilas Balik Pembangunan Tahun 2020–2024 dan Perkembangan Global
-- 1.2 Evaluasi Pembangunan Tahun 2020–2024
+- 1.1 Kilas Balik Pembangunan Tahun 2020â€“2024 dan Perkembangan Global
+- 1.2 Evaluasi Pembangunan Tahun 2020â€“2024
 - 1.3 Batasan Pembangunan (Development Constraint)
 - 1.4 Peluang dan Tantangan Pembangunan
 
 #### BAB II: Kebijakan Pembangunan (5,327 lines)
 - [`II_Kebijakan_Pembangunan.md`](./II_Kebijakan_Pembangunan.md)
 - 2.1 Prioritas Pembangunan Nasional
-- 2.2 Kerangka Pikir dan Kebijakan RPJMN Tahun 2025–2029
+- 2.2 Kerangka Pikir dan Kebijakan RPJMN Tahun 2025â€“2029
 - 2.3 Kerangka Ekonomi Makro
 
 #### BAB III: Prioritas Nasional (14,581 lines total)
@@ -117,3 +117,4 @@ All files are located in: `D:\Obsidian\regulationvault\01_INPUT\RPJMN_2025-2029\
 - **Prioritas 4** (SDM development) is the longest individual priority at 4,065 lines
 - Regional development sections (BAB IV) cover all major Indonesian regions
 - Document includes detailed implementation frameworks, funding mechanisms, and monitoring protocols
+

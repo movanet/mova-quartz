@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 tags:
   - environment
@@ -61,3 +61,4 @@ The recognition of EIA in the Rio Declaration reflects its growing importance in
 
 
 These international agreements demonstrate the growing recognition of EIA as a critical instrument for environmental protection and sustainable development in international law.
+

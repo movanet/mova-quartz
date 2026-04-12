@@ -1,4 +1,4 @@
----
+﻿---
 title: "Panduan Navigasi - Materi Hukum Lingkungan"
 description: "Panduan navigasi lengkap untuk Buku Ajar Hukum Lingkungan dan Modul Daya Dukung, Daya Tampung, dan Pencemaran"
 tags:
@@ -154,3 +154,4 @@ Modul tematik mendalam yang menguraikan keterkaitan tiga konsep kunci hukum ling
 
 *Terakhir diperbarui: April 2026*
 *Framework Architecture & Development: Mohamad Mova Al'Afghani (2025)*
+

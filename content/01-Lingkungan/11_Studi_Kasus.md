@@ -1,4 +1,4 @@
----
+﻿---
 title: "Studi Kasus Komprehensif Hukum Lingkungan"
 description: "Analisis mendalam lima studi kasus landmark hukum lingkungan Indonesia dengan metode IRAC penuh: Mandalawangi (strict liability), Polusi Udara Jakarta (citizen lawsuit), PT Lapindo Brantas (causation), Kebakaran Hutan dan Lahan (environmental damage calculation), dan Kali Brantas (multi-source pollution). Mencakup fakta kasus, isu hukum, dasar hukum, pertimbangan pengadilan, putusan, dan analisis kritis untuk pembelajaran aplikatif."
 date: 2026-04-09
@@ -24,8 +24,8 @@ publish: true
 # Studi Kasus Komprehensif Hukum Lingkungan
 
 **Navigasi:**
-- [[10_Isu_Kontemporer|← Sebelumnya: Isu Kontemporer]]
-- [[README|↑ Index Utama]]
+- [[10_Isu_Kontemporer|â† Sebelumnya: Isu Kontemporer]]
+- [[README|â†‘ Index Utama]]
 
 ---
 
@@ -45,7 +45,7 @@ Setelah mempelajari bab ini secara menyeluruh, mahasiswa mampu:
 
 ## Pengantar: Metode IRAC dalam Analisis Kasus Hukum Lingkungan
 
-Sebelum membahas studi kasus secara spesifik, perlu dipahami bahwa analisis hukum yang komprehensif menggunakan metode **IRAC** — singkatan dari **Issues, Rules, Analysis, Conclusion**. Metode ini adalah standar dalam pengajaran hukum di tradisi common law dan semakin diadopsi dalam pendidikan hukum Indonesia.
+Sebelum membahas studi kasus secara spesifik, perlu dipahami bahwa analisis hukum yang komprehensif menggunakan metode **IRAC** â€” singkatan dari **Issues, Rules, Analysis, Conclusion**. Metode ini adalah standar dalam pengajaran hukum di tradisi common law dan semakin diadopsi dalam pendidikan hukum Indonesia.
 
 ### Komponen Metode IRAC
 
@@ -63,7 +63,7 @@ Berdasarkan analisis tersebut, tarik kesimpulan tentang bagaimana hukum seharusn
 
 ---
 
-## STUDI KASUS 1: MANDALAWANGI — Landmark Kasus Strict Liability di Indonesia
+## STUDI KASUS 1: MANDALAWANGI â€” Landmark Kasus Strict Liability di Indonesia
 
 ### 1.1 Fakta Kasus (Facts)
 
@@ -121,10 +121,10 @@ Mahkamah Garut pada tingkat pertama mengabulkan gugatan sebagian, menyatakan pem
 Dalam **Putusan No. 1794 K/Pdt/2004**, Mahkamah Agung melakukan analisis yang komprehensif:
 
 1. **Mengenai Strict Liability dan Precautionary Principle:**
-   Mahkamah Agung mempertimbangkan bahwa meskipun perkara Mandalawangi terjadi sebelum UU 32/2009 diberlakukan, prinsip-prinsip strict liability dan precautionary principle telah diakui dalam hukum internasional sebagai jus cogens — norma-norma yang telah diterima secara universal oleh negara-negara beradab. Oleh karena itu, hakim memiliki wewenang untuk menerapkan prinsip-prinsip ini sebagai bagian dari penafsiran konsisten dengan hukum internasional.
+   Mahkamah Agung mempertimbangkan bahwa meskipun perkara Mandalawangi terjadi sebelum UU 32/2009 diberlakukan, prinsip-prinsip strict liability dan precautionary principle telah diakui dalam hukum internasional sebagai jus cogens â€” norma-norma yang telah diterima secara universal oleh negara-negara beradab. Oleh karena itu, hakim memiliki wewenang untuk menerapkan prinsip-prinsip ini sebagai bagian dari penafsiran konsisten dengan hukum internasional.
 
 2. **Mengenai Kewajiban Pemerintah:**
-   Mahkamah Agung menekankan bahwa Pasal 28H ayat (1) UUD 1945 menjamin hak setiap orang atas lingkungan hidup yang baik dan sehat sebagai hak asasi manusia. Kewajiban pemerintah untuk menjamin hak ini bukan hanya bersifat instruksi moral, melainkan kewajiban hukum yang mengikat. Kegagalan pemerintah melaksanakan kewajiban tersebut — dalam hal ini kegagalan mengawasi penebangan liar dan mengelola DAS secara terpadu — merupakan perbuatan melawan hukum yang dapat menimbulkan tanggung jawab ganti rugi.
+   Mahkamah Agung menekankan bahwa Pasal 28H ayat (1) UUD 1945 menjamin hak setiap orang atas lingkungan hidup yang baik dan sehat sebagai hak asasi manusia. Kewajiban pemerintah untuk menjamin hak ini bukan hanya bersifat instruksi moral, melainkan kewajiban hukum yang mengikat. Kegagalan pemerintah melaksanakan kewajiban tersebut â€” dalam hal ini kegagalan mengawasi penebangan liar dan mengelola DAS secara terpadu â€” merupakan perbuatan melawan hukum yang dapat menimbulkan tanggung jawab ganti rugi.
 
 3. **Mengenai Kausalitas dan Faktor Kontribusi:**
    Mahkamah Agung mengakui bahwa longsor mungkin terjadi karena kombinasi faktor alam (curah hujan tinggi) dan faktor manusia (deforestasi). Namun, faktor manusia yang dapat dikontrol tidak boleh diabaikan. Sebaliknya, kehadiran faktor manusia yang berkontribusi memperkuat tanggung jawab pihak-pihak yang melakukan perbuatan merusak lingkungan atau melalaikan pengawasan.
@@ -176,7 +176,7 @@ Kasus Mandalawangi sangat berkaitan dengan konsep-konsep di [[07_Tanggung_Jawab_
 
 ---
 
-## STUDI KASUS 2: GUGATAN POLUSI UDARA JAKARTA — Citizen Lawsuit sebagai Instrumen Penegakan Hak Lingkungan
+## STUDI KASUS 2: GUGATAN POLUSI UDARA JAKARTA â€” Citizen Lawsuit sebagai Instrumen Penegakan Hak Lingkungan
 
 ### 2.1 Fakta Kasus (Facts)
 
@@ -184,7 +184,7 @@ Pada tahun 2019, koalisi masyarakat **IBUKOTA** (Gerakan Inisiatif Bersihkan Uda
 
 **Kondisi Kualitas Udara Jakarta:**
 
-- **PM2.5**: Baku mutu nasional 15 μg/m³ (tahunan), WHO standard 5 μg/m³. Kondisi Jakarta sering 25-35 μg/m³, melampaui 100 μg/m³ pada musim kemarau.
+- **PM2.5**: Baku mutu nasional 15 Î¼g/mÂ³ (tahunan), WHO standard 5 Î¼g/mÂ³. Kondisi Jakarta sering 25-35 Î¼g/mÂ³, melampaui 100 Î¼g/mÂ³ pada musim kemarau.
 - **Sumber Utama**: Transportasi (~60%), industri (~20%), pembakaran domestik (~10%), transboundary (~5-10%).
 - **Dampak Kesehatan**: Estimasi 4.300-7.600 kematian per tahun akibat penyakit respirasi dan kardiovaskular.
 
@@ -241,7 +241,7 @@ Kasus Polusi Udara Jakarta merupakan **citizen lawsuit pertama yang berhasil** d
 
 2. **Justiciability of Complex Policy Issues**: Pengadilan menunjukkan bahwa isu-isu kompleks tentang manajemen lingkungan dan kualitas udara bukan hanya "political questions" yang sebaiknya diserahkan kepada branches of government lainnya, melainkan justiciable questions yang dapat diputuskan oleh pengadilan dengan mempertimbangkan bukti ilmiah dan policy expertise.
 
-3. **Preference for Injunctive Relief over Monetary Damages**: Berbeda dengan kasus-kasus lainnya yang memprioritaskan ganti rugi finansial, Putusan Jakarta memilih injunctive relief — yaitu perintah pengadilan untuk melakukan tindakan-tindakan konkret. Ini adalah shift paradigma yang penting: pengadilan tidak hanya menjadi pihak yang menghukum, melainkan co-regulator yang membimbing pemerintah untuk melaksanakan kewajiban mereka.
+3. **Preference for Injunctive Relief over Monetary Damages**: Berbeda dengan kasus-kasus lainnya yang memprioritaskan ganti rugi finansial, Putusan Jakarta memilih injunctive relief â€” yaitu perintah pengadilan untuk melakukan tindakan-tindakan konkret. Ini adalah shift paradigma yang penting: pengadilan tidak hanya menjadi pihak yang menghukum, melainkan co-regulator yang membimbing pemerintah untuk melaksanakan kewajiban mereka.
 
 **Tantangan dalam Implementasi:**
 
@@ -249,7 +249,7 @@ Kasus Polusi Udara Jakarta merupakan **citizen lawsuit pertama yang berhasil** d
 
 2. **Coordination Challenges**: Roadmap pengendalian pencemaran udara memerlukan koordinasi erat antara Kementerian LHK, Kementerian Perhubungan, Kementerian Perindustrian, Pemerintah Provinsi DKI, Pemerintah Jawa Barat, Pemerintah Banten, serta ribuan entitas bisnis (pabrik, bengkel, pompa bensin, armada transportasi). Kompleksitas koordinasi ini sering menjadi hambatan dalam implementasi yang efektif.
 
-3. **Attribution and Causation in Enforcement**: Meskipun putusan memerintahkan pemerintah melakukan pengawasan sumber pencemar, atribusi tanggung jawab tetap kompleks. Ketika tingkat polusi tidak menurun signifikan setelah beberapa tahun, tidak jelas siapa yang bertanggung jawab — apakah pemerintah karena pengawasan yang masih lemah, atau industri/transportasi karena tidak patuh dengan standar yang ditetapkan?
+3. **Attribution and Causation in Enforcement**: Meskipun putusan memerintahkan pemerintah melakukan pengawasan sumber pencemar, atribusi tanggung jawab tetap kompleks. Ketika tingkat polusi tidak menurun signifikan setelah beberapa tahun, tidak jelas siapa yang bertanggung jawab â€” apakah pemerintah karena pengawasan yang masih lemah, atau industri/transportasi karena tidak patuh dengan standar yang ditetapkan?
 
 4. **Measurement and Verification**: Apakah pengurangan emisi sudah memadai? Metrik apa yang digunakan untuk mengukur "success"? Bagaimana memverifikasi bahwa pemerintah benar-benar melaksanakan remediation yang dibutuhkan, atau hanya "compliance theater" (kegiatan yang terlihat seperti compliance tapi substantif minimal)?
 
@@ -263,7 +263,7 @@ Kasus ini sangat berkaitan dengan konsep-konsep di [[04_Pengendalian_Pencemaran|
 
 ---
 
-## STUDI KASUS 3: PT LAPINDO BRANTAS — Causation dan Strict Liability dalam Bencana Industri Ekstraktif
+## STUDI KASUS 3: PT LAPINDO BRANTAS â€” Causation dan Strict Liability dalam Bencana Industri Ekstraktif
 
 ### 3.1 Fakta Kasus (Facts)
 
@@ -353,7 +353,7 @@ Kasus Lapindo menunjukkan bahwa strict liability memiliki batas-batas dalam pene
 
 ---
 
-## STUDI KASUS 4: KEBAKARAN HUTAN DAN LAHAN (KARHUTLA) — Environmental Damage Calculation dan Corporate Accountability
+## STUDI KASUS 4: KEBAKARAN HUTAN DAN LAHAN (KARHUTLA) â€” Environmental Damage Calculation dan Corporate Accountability
 
 ### 4.1 Fakta Kasus (Facts)
 
@@ -406,9 +406,9 @@ Kasus Lapindo menunjukkan bahwa strict liability memiliki batas-batas dalam pene
 
 ### 4.6 Analisis dan Komentar Kritis
 
-**Environmental Damage Valuation — Methodological Sophistication:**
+**Environmental Damage Valuation â€” Methodological Sophistication:**
 
-Kasus PT JJP mendemonstrasikan bahwa pengadilan Indonesia semakin menerima metodologi ekonomi lingkungan yang sophisticated. Komponen ganti rugi mencakup replacement cost, ecosystem services, health costs, economic losses, dan administrative costs — menunjukkan pendekatan comprehensive yang jarang dilihat dalam yurisprudensi environmental law di negara-negara berkembang.
+Kasus PT JJP mendemonstrasikan bahwa pengadilan Indonesia semakin menerima metodologi ekonomi lingkungan yang sophisticated. Komponen ganti rugi mencakup replacement cost, ecosystem services, health costs, economic losses, dan administrative costs â€” menunjukkan pendekatan comprehensive yang jarang dilihat dalam yurisprudensi environmental law di negara-negara berkembang.
 
 **Corporate Enforcement and Deterrence:**
 
@@ -424,7 +424,7 @@ Kasus menunjukkan praktik mature dari strict liability dan environmental damage 
 
 ---
 
-## STUDI KASUS 5: PENCEMARAN KALI BRANTAS — Multi-Source Pollution dan Shared Liability
+## STUDI KASUS 5: PENCEMARAN KALI BRANTAS â€” Multi-Source Pollution dan Shared Liability
 
 ### 5.1 Fakta Kasus (Facts)
 
@@ -477,7 +477,7 @@ Sungai Brantas (Jawa Timur) yang mengalir melalui Malang, Kediri, Surabaya menun
 
 **Multi-Source Pollution: Attribution Problem yang Fundamental:**
 
-Kasus Brantas menunjukkan tantangan fundamental dalam environmental liability untuk polusi multi-source. Ketika ratusan pencemar berkontribusi, how do we allocate responsibility? Pengadilan di Indonesia umumnya menggunakan "per-source approach" — setiap pencemar dimintai pertanggungjawaban atas kontribusi individual mereka berdasarkan proporsi beban pencemaran yang mereka hasilkan. Namun, metode ini memiliki limitation:
+Kasus Brantas menunjukkan tantangan fundamental dalam environmental liability untuk polusi multi-source. Ketika ratusan pencemar berkontribusi, how do we allocate responsibility? Pengadilan di Indonesia umumnya menggunakan "per-source approach" â€” setiap pencemar dimintai pertanggungjawaban atas kontribusi individual mereka berdasarkan proporsi beban pencemaran yang mereka hasilkan. Namun, metode ini memiliki limitation:
 
 1. **Data Uncertainty**: Quantifying exact contribution dari setiap sumber seringkali sangat uncertain, terutama untuk diffuse sources seperti domestic wastewater dan agricultural runoff.
 
@@ -724,13 +724,13 @@ Formula klasik dari *Rylands v Fletcher*:
 
 Meskipun kasus Mandalawangi terjadi lebih dari seratus tahun kemudian, prinsip-prinsip yang diterapkan sangat sejalan dengan *Rylands v Fletcher*. Ini menunjukkan bahwa hukum lingkungan Indonesia mengadopsi wisdom dari tradisi common law meski Indonesia secara formal menganut civil law system.
 
-### Trail Smelter Arbitration (1938-1941) — International Environmental Law Foundation
+### Trail Smelter Arbitration (1938-1941) â€” International Environmental Law Foundation
 
 Kasus arbitration antara Amerika Serikat dan Kanada tentang polusi udara transboundary dari smelter di Trail, British Columbia, merupakan landmark dalam hukum lingkungan internasional. Arbitrator menyatakan bahwa:
 
 > "No state has the right to use or permit the use of its territory in such a manner as to cause injury by fumes in or to the territory of another..."
 
-Prinsip ini — yang kemudian dikenal sebagai "no-harm principle" atau prinsip tanggung jawab state — menjadi foundation untuk apa yang sekarang ada dalam UU 32/2009 Pasal 55 tentang kewajiban Indonesia untuk mencegah pencemaran lintas batas.
+Prinsip ini â€” yang kemudian dikenal sebagai "no-harm principle" atau prinsip tanggung jawab state â€” menjadi foundation untuk apa yang sekarang ada dalam UU 32/2009 Pasal 55 tentang kewajiban Indonesia untuk mencegah pencemaran lintas batas.
 
 ### Aplikasi di Kasus Karhutla dan Transboundary Haze
 
@@ -867,23 +867,23 @@ Mahasiswa yang mempelajari hukum lingkungan Indonesia harus memahami tidak hanya
 ```
 2003: Mandalawangi - Recognition of strict liability in broad environmental context
                     (pioneering but limited enforcement)
-         │
-         ▼
+         â”‚
+         â–¼
 2006: Lapindo - Limitations of strict liability recognized
               (causation difficulties highlighted)
-         │
-         ▼
+         â”‚
+         â–¼
 2009: Early developments in environmental law jurisprudence
-         │
-         ▼
+         â”‚
+         â–¼
 2015: Karhutla (PT JJP, etc.) - Mature application of strict liability
                                 + sophisticated environmental damage valuation
-         │
-         ▼
+         â”‚
+         â–¼
 2019: Polusi Udara Jakarta - Shift to constitutional rights enforcement
                              + citizen lawsuit legitimacy
-         │
-         ▼
+         â”‚
+         â–¼
 2020s: Consolidation phase - jurisprudence becomes more consistent and sophisticated
 ```
 
@@ -899,7 +899,7 @@ Mahasiswa yang mempelajari hukum lingkungan Indonesia harus memahami tidak hanya
 - Impact assessments dari Brantas River Foundation tentang watershed management pasca-Mandalawangi
 
 **Polusi Udara Jakarta:**
-- Media coverage dari awal gugatan (2019) hingga implementasi putusan (2022+) — cari di media.ina.news, BBC Indonesia, dlsb.
+- Media coverage dari awal gugatan (2019) hingga implementasi putusan (2022+) â€” cari di media.ina.news, BBC Indonesia, dlsb.
 - Technical documents from KLHK dan Dinas Lingkungan DKI tentang air quality standards
 - Comparative materials dari Urgenda (Netherlands) untuk citizen lawsuit precedents
 
@@ -921,7 +921,7 @@ Mahasiswa yang mempelajari hukum lingkungan Indonesia harus memahami tidak hanya
 ### Recommended Further Reading
 
 1. **On Strict Liability in Environmental Law:**
-   - Steinemann et al., "Environmental Law" (casebook format) — Chapter on strict liability
+   - Steinemann et al., "Environmental Law" (casebook format) â€” Chapter on strict liability
    - Indonesian environmental law textbooks: Soemartono, "Hukum Lingkungan Indonesia"
 
 2. **On Citizen Lawsuits and Public Interest Litigation:**
@@ -976,5 +976,6 @@ Bab ini dirancang untuk dipelajari dalam combination dengan bab-bab lain:
 ---
 
 **Navigasi:**
-- [[10_Isu_Kontemporer|← Bab 10: Isu Kontemporer Hukum Lingkungan]]
-- [[README|↑ Kembali ke Index Utama]]
+- [[10_Isu_Kontemporer|â† Bab 10: Isu Kontemporer Hukum Lingkungan]]
+- [[README|â†‘ Kembali ke Index Utama]]
+

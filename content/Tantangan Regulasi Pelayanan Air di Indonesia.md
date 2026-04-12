@@ -1,4 +1,4 @@
----
+﻿---
 publish: true
 dg-publish: true
 ---
@@ -57,24 +57,24 @@ Tujuan regulasi: *memastikan bahwa penyedia pelayanan air memberikan layanan yan
 ##### Bauran air nasional (2019)
 
 ![[Pasted image 20230324083458 1.png]]
-(Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
+(Sumber:Â [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 
 ##### Kapasitas produksi PDAM di Indonesia
 
 
 ![[Pasted image 20230324083649 1.png]]
-(Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
+(Sumber:Â [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 ##### Kemana tinja di Indonesia mengalir
 
 ![[Pasted image 20230324083830 1.png]]
-(Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
+(Sumber:Â [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 ##### Akses sanitasi di Indonesia
 
 ![[Pasted image 20230324083925 1.png]]
-(Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
+(Sumber:Â [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 ###### Pencemaran sumur oleh tinja
 
@@ -149,7 +149,7 @@ Lihat juga, [kertas posisi CRPG](https://cloud.crpg.info/docs/KK_02_2018.pdf), 2
 ![[Pasted image 20230324000627 1.png]]
 (Sumber: [AlAfghani dan Bisariyadi](https://deliverypdf.ssrn.com/delivery.php?ID=344118088088082072104016004002102065020088069085027026127090028120104104117116100073029114036013107061038027004001015073104120024069091048041112091119087011022010053019055067078089101093094000095122009102083112118105101125075069083067112022007094098&EXT=pdf&INDEX=TRUE), 2021)
 
-Lihat Juga "Anti-Privatisation Debates, Opaque Rules and ‘Privatised’ Water Services Provision: Some Lessons from Indonesia" [AlAfghani, 2012](https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/7480/IDSB_43_2_10.1111-j.1759-5436.2012.00303.x.pdf?sequence=1)
+Lihat Juga "Anti-Privatisation Debates, Opaque Rules and â€˜Privatisedâ€™ Water Services Provision: Some Lessons from Indonesia" [AlAfghani, 2012](https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/7480/IDSB_43_2_10.1111-j.1759-5436.2012.00303.x.pdf?sequence=1)
 
 ![[Pasted image 20230324000713 1.png]]
 (Sumber: [AlAfghani dan Bisariyadi](https://deliverypdf.ssrn.com/delivery.php?ID=344118088088082072104016004002102065020088069085027026127090028120104104117116100073029114036013107061038027004001015073104120024069091048041112091119087011022010053019055067078089101093094000095122009102083112118105101125075069083067112022007094098&EXT=pdf&INDEX=TRUE), 2021)
@@ -176,12 +176,12 @@ Lihat Juga "Anti-Privatisation Debates, Opaque Rules and ‘Privatised’ Water 
 ##### Regulasi monopoli alamiah / regulasi ekonomi
 
 
-> ...it is generally agreed that economic regulation is related to the tariff setting and the management of service standards. According to the World Bank, economic regulation consists of “the rules and organizations that set, monitor, enforce, and change the allowed tariffs and service standards for water providers”. The monitoring of compliance with drinking water quality or effluent discharge (as a part of service specification) and customer service issue is regarded as a part of economic regulation as they are a part of the natural monopoly problem. On the other hand, health issues arising out of drinking water quality and environmental issues from effluent discharge are considered to be outside of economic regulation. Also considered outside economic regulation are cross subsidy regimes, the protection of vulnerable groups and network extension to unserved areas. Nevertheless, the World Bank noted that the borderline is not always clear. 
+> ...it is generally agreed that economic regulation is related to the tariff setting and the management of service standards. According to the World Bank, economic regulation consists of â€œthe rules and organizations that set, monitor, enforce, and change the allowed tariffs and service standards for water providersâ€. The monitoring of compliance with drinking water quality or effluent discharge (as a part of service specification) and customer service issue is regarded as a part of economic regulation as they are a part of the natural monopoly problem. On the other hand, health issues arising out of drinking water quality and environmental issues from effluent discharge are considered to be outside of economic regulation. Also considered outside economic regulation are cross subsidy regimes, the protection of vulnerable groups and network extension to unserved areas. Nevertheless, the World Bank noted that the borderline is not always clear. 
 
 #### Tujuan regulasi menurut sarjana hukum publik
 
 
-> It is important to note that the “public lawyer” approaches have different motivation and values to promote than the “economic regulation” school and this may influence how transparency should be implemented in practice, especially if there is no direct justification of economic benefit. Aronson argued that the public lawyer concept of “public interest” is wider than only correcting market failure or granting cross subsidy. For them, public interest involves other values such as fairness, consistency, rationality, participation, legality, accountability and accessibility of judicial and administrative grievance procedures. Aronson further rejected the trade-off between transparency and commercial confidentiality and argued for the expansion (rather than contraction) of the governmental notion of transparency when it involves privatisation and contracting with private actors.
+> It is important to note that the â€œpublic lawyerâ€ approaches have different motivation and values to promote than the â€œeconomic regulationâ€ school and this may influence how transparency should be implemented in practice, especially if there is no direct justification of economic benefit. Aronson argued that the public lawyer concept of â€œpublic interestâ€ is wider than only correcting market failure or granting cross subsidy. For them, public interest involves other values such as fairness, consistency, rationality, participation, legality, accountability and accessibility of judicial and administrative grievance procedures. Aronson further rejected the trade-off between transparency and commercial confidentiality and argued for the expansion (rather than contraction) of the governmental notion of transparency when it involves privatisation and contracting with private actors.
 
 ([AlAfghani, 2012](https://discovery.dundee.ac.uk/ws/portalfiles/portal/28662139/Al_Afghani_Phd_Thesis_2012_Redacted.pdf) hal 32)
 
@@ -257,7 +257,7 @@ Eksplorasi peran asosiasi komunitas lokal dalam penyediaan dan regulasi layanan 
 
 > Secara teori, pelayanan air minum dan sanitasi bukanlah barang kompetitif. Artinya, kita tidak dapat memilih mau beli air dari penjual yang mana, karena di 1 kota hanya ada 1 PDAM dan sebagai konsekuensi, di 1 rumah hanya ada 1 keran. Ketika hanya ada 1 penjual sementara pembelinya 1 kota, maka pelayanan air menjadi monopoli. Kalau tidak diregulasi, si penjual bisa menetapkan harga jual seenaknya atau menentukan mau menjual ke siapa (misalnya, hanya mau menjual ke daerah elit karena pasti airnya akan dibayar ketimbang menjual ke daerah kumuh). Untuk pembahasan teori regulasi monopoli alamiah, silahkan lihat [Joskow](https://www.sciencedirect.com/science/article/abs/pii/S1574073007020166) atau [Posner](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2861&context=journal_articles).
 > 
-> Contoh lain dalam praktek adalah dalam regulasi air berbasis masyarakat/sistem komunal. Menurut [AlAfghani et al](https://www.water-alternatives.org/index.php/alldoc/articles/volume-12/v12issue1/490-a12-1-16/file) terdapat permasalahan institusional dalam sistem komunal: (i) tidak adanya badan hukum, (ii) kurangnya keamanan aset, (iii) sistem keuangan yang tidak berkalanjutan, dan (iv) kurangnya standar layanan. Kekurangan-kekurangan ini dapat memiliki implikasi tidak hanya dalam hal penggunaan infrastruktur jangka panjang, tetapi juga dalam mengimplementasikan hak asasi manusia atas air dalam sistem komunal. Artikel ini menjelaskan bahwa masalah-masalah tersebut salah satunya disebabkan oleh norma “pemberdayaan masyarakat” yang umum dianut. Alih-alih menyediakan dukungan pemerintah pasca-konstruksi, masyarakat “dibiarkan sendiri”.
+> Contoh lain dalam praktek adalah dalam regulasi air berbasis masyarakat/sistem komunal. Menurut [AlAfghani et al](https://www.water-alternatives.org/index.php/alldoc/articles/volume-12/v12issue1/490-a12-1-16/file) terdapat permasalahan institusional dalam sistem komunal: (i) tidak adanya badan hukum, (ii) kurangnya keamanan aset, (iii) sistem keuangan yang tidak berkalanjutan, dan (iv) kurangnya standar layanan. Kekurangan-kekurangan ini dapat memiliki implikasi tidak hanya dalam hal penggunaan infrastruktur jangka panjang, tetapi juga dalam mengimplementasikan hak asasi manusia atas air dalam sistem komunal. Artikel ini menjelaskan bahwa masalah-masalah tersebut salah satunya disebabkan oleh norma â€œpemberdayaan masyarakatâ€ yang umum dianut. Alih-alih menyediakan dukungan pemerintah pasca-konstruksi, masyarakat â€œdibiarkan sendiriâ€.
 > 
 > Dari diskusi di kelas diutarakan bahwa tuntutan konsumen air dengan merujuk pada UU Perlindungan Konsumen tidak cukup. Secara umum, konsumen air di Indonesia tidak punya jaminan hak untuk menuntut kegagalan pemenuhan standar pelayanan air -- karena standar dan hak nya tidak diatur detail. 
 

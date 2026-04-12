@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tanggung Jawab Negara dalam Hukum Internasional"
 tags:
   - hukum-internasional
@@ -31,11 +31,11 @@ Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
 
 ### 7.1.1 Pengertian dan Arti Penting
 
-Tanggung jawab negara (*state responsibility*) merupakan prinsip fundamental hukum internasional yang menyatakan bahwa setiap negara yang melakukan tindakan yang melawan hukum internasional wajib memikul konsekuensi hukum atas tindakannya tersebut. Prinsip ini telah ditegaskan oleh PCIJ dalam kasus *Chorzów Factory* (1928):
+Tanggung jawab negara (*state responsibility*) merupakan prinsip fundamental hukum internasional yang menyatakan bahwa setiap negara yang melakukan tindakan yang melawan hukum internasional wajib memikul konsekuensi hukum atas tindakannya tersebut. Prinsip ini telah ditegaskan oleh PCIJ dalam kasus *ChorzÃ³w Factory* (1928):
 
 > "It is a principle of international law that the breach of an engagement involves an obligation to make reparation in an adequate form."
 
-Tanggung jawab negara berfungsi sebagai mekanisme penegakan (*enforcement mechanism*) dalam sistem hukum internasional yang pada dasarnya bersifat desentralisasi—tidak ada polisi internasional atau kejaksaan internasional yang secara otomatis menegakkan hukum internasional. Melalui hukum tanggung jawab negara, negara yang dirugikan memiliki hak untuk menuntut reparasi dan, dalam keadaan tertentu, mengambil tindakan balasan (*countermeasures*).
+Tanggung jawab negara berfungsi sebagai mekanisme penegakan (*enforcement mechanism*) dalam sistem hukum internasional yang pada dasarnya bersifat desentralisasiâ€”tidak ada polisi internasional atau kejaksaan internasional yang secara otomatis menegakkan hukum internasional. Melalui hukum tanggung jawab negara, negara yang dirugikan memiliki hak untuk menuntut reparasi dan, dalam keadaan tertentu, mengambil tindakan balasan (*countermeasures*).
 
 ### 7.1.2 Perkembangan Historis
 
@@ -49,7 +49,7 @@ Pada fase ini, tanggung jawab negara terutama berkaitan dengan perlindungan warg
 
 Komisi Hukum Internasional (ILC) memulai proyek kodifikasi hukum tanggung jawab negara pada tahun 1949. Proyek ini merupakan salah satu yang paling panjang dalam sejarah ILC, melibatkan lima Pelapor Khusus selama lebih dari lima dekade:
 
-1. F.V. García Amador (1955-1961): Berfokus pada tanggung jawab terhadap orang asing
+1. F.V. GarcÃ­a Amador (1955-1961): Berfokus pada tanggung jawab terhadap orang asing
 2. Roberto Ago (1963-1979): Memisahkan aturan primer dan sekunder, mengembangkan kerangka dasar
 3. Willem Riphagen (1980-1986): Mengembangkan konsekuensi tanggung jawab
 4. Gaetano Arangio-Ruiz (1988-1996): Mengerjakan bagian tentang implementasi
@@ -74,9 +74,9 @@ ARSIWA bukan merupakan perjanjian internasional yang mengikat, tetapi sebagian b
 
 Roberto Ago memperkenalkan pembedaan fundamental antara *aturan primer* dan *aturan sekunder* yang menjadi landasan metodologis seluruh proyek kodifikasi:
 
-**Aturan Primer (*Primary Rules*)**: Norma-norma hukum internasional substantif yang menetapkan kewajiban negara—misalnya, kewajiban untuk tidak menggunakan kekerasan, kewajiban menghormati kedaulatan teritorial, kewajiban berdasarkan perjanjian. ARSIWA tidak mengatur aturan primer.
+**Aturan Primer (*Primary Rules*)**: Norma-norma hukum internasional substantif yang menetapkan kewajiban negaraâ€”misalnya, kewajiban untuk tidak menggunakan kekerasan, kewajiban menghormati kedaulatan teritorial, kewajiban berdasarkan perjanjian. ARSIWA tidak mengatur aturan primer.
 
-**Aturan Sekunder (*Secondary Rules*)**: Aturan-aturan yang menentukan konsekuensi hukum ketika aturan primer dilanggar—kapan suatu tindakan dapat diatribusikan kepada negara, kapan pelanggaran terjadi, apa konsekuensinya, dan siapa yang berhak menuntut pertanggungjawaban. ARSIWA mengatur aturan sekunder ini.
+**Aturan Sekunder (*Secondary Rules*)**: Aturan-aturan yang menentukan konsekuensi hukum ketika aturan primer dilanggarâ€”kapan suatu tindakan dapat diatribusikan kepada negara, kapan pelanggaran terjadi, apa konsekuensinya, dan siapa yang berhak menuntut pertanggungjawaban. ARSIWA mengatur aturan sekunder ini.
 
 Pembedaan ini sangat penting karena memungkinkan ARSIWA berlaku secara universal terhadap pelanggaran kewajiban internasional apa pun, tanpa perlu menentukan isi kewajiban tersebut.
 
@@ -108,11 +108,11 @@ Pasal 2 ARSIWA menetapkan dua elemen yang harus dipenuhi agar suatu tindakan neg
 > (a) is attributable to the State under international law; and
 > (b) constitutes a breach of an international obligation of the State."
 
-Kedua elemen ini—*atribusi* (*attribution*) dan *pelanggaran kewajiban* (*breach*)—bersifat kumulatif: keduanya harus terpenuhi secara bersamaan.
+Kedua elemen iniâ€”*atribusi* (*attribution*) dan *pelanggaran kewajiban* (*breach*)â€”bersifat kumulatif: keduanya harus terpenuhi secara bersamaan.
 
 Perlu dicatat bahwa ARSIWA tidak memasukkan *kerugian* (*damage/injury*) sebagai elemen tersendiri dari tanggung jawab negara, meskipun dalam praktik, kerugian hampir selalu ada dan menjadi pertimbangan penting dalam penentuan reparasi. Posisi ini mencerminkan pandangan bahwa pelanggaran kewajiban internasional sudah dengan sendirinya menimbulkan tanggung jawab, terlepas dari apakah kerugian material terjadi.
 
-ARSIWA juga tidak memasukkan elemen *kesalahan* (*fault*) sebagai persyaratan umum. Apakah kesalahan diperlukan bergantung pada aturan primer yang dilanggar—beberapa kewajiban bersifat *strict liability* (tanggung jawab mutlak), sementara yang lain mensyaratkan adanya kesengajaan atau kelalaian.
+ARSIWA juga tidak memasukkan elemen *kesalahan* (*fault*) sebagai persyaratan umum. Apakah kesalahan diperlukan bergantung pada aturan primer yang dilanggarâ€”beberapa kewajiban bersifat *strict liability* (tanggung jawab mutlak), sementara yang lain mensyaratkan adanya kesengajaan atau kelalaian.
 
 ### 7.2.2 Atribusi Tindakan kepada Negara
 
@@ -120,9 +120,9 @@ Negara adalah entitas abstrak yang hanya dapat bertindak melalui individu-indivi
 
 **Organ Negara (Pasal 4)**
 
-Tindakan organ negara—eksekutif, legislatif, yudikatif, atau organ lainnya—diatribusikan kepada negara, apa pun posisi organ tersebut dalam struktur pemerintahan dan apa pun sifat fungsinya (pemerintahan pusat atau daerah). Konsep "organ" ditentukan oleh hukum domestik negara bersangkutan.
+Tindakan organ negaraâ€”eksekutif, legislatif, yudikatif, atau organ lainnyaâ€”diatribusikan kepada negara, apa pun posisi organ tersebut dalam struktur pemerintahan dan apa pun sifat fungsinya (pemerintahan pusat atau daerah). Konsep "organ" ditentukan oleh hukum domestik negara bersangkutan.
 
-Pasal 4 mencerminkan prinsip *kesatuan negara* (*unity of the state*): di mata hukum internasional, negara merupakan satu entitas tunggal, dan tindakan setiap organ pemerintah—dari presiden hingga pegawai desa, dari hakim agung hingga polisi lalu lintas—diatribusikan kepada negara.
+Pasal 4 mencerminkan prinsip *kesatuan negara* (*unity of the state*): di mata hukum internasional, negara merupakan satu entitas tunggal, dan tindakan setiap organ pemerintahâ€”dari presiden hingga pegawai desa, dari hakim agung hingga polisi lalu lintasâ€”diatribusikan kepada negara.
 
 **Entitas yang Melaksanakan Kewenangan Pemerintahan (Pasal 5)**
 
@@ -136,7 +136,7 @@ Tindakan organ yang ditempatkan di bawah perintah negara lain diatribusikan kepa
 
 Tindakan organ negara atau entitas yang melaksanakan kewenangan pemerintahan tetap diatribusikan kepada negara bahkan jika organ tersebut melampaui kewenangannya atau bertentangan dengan instruksi. Prinsip *ultra vires* ini sangat penting karena mencegah negara mengelak dari tanggung jawab dengan berdalih bahwa organ yang melanggar bertindak di luar kewenangannya.
 
-ICJ dalam kasus *Caire* (1929) dan kemudian dalam *Velásquez Rodríguez* (Pengadilan HAM Inter-Amerika, 1988) menegaskan bahwa negara bertanggung jawab atas tindakan agennya yang melampaui kewenangan, asalkan agen tersebut bertindak dalam kapasitas resminya (*official capacity*).
+ICJ dalam kasus *Caire* (1929) dan kemudian dalam *VelÃ¡squez RodrÃ­guez* (Pengadilan HAM Inter-Amerika, 1988) menegaskan bahwa negara bertanggung jawab atas tindakan agennya yang melampaui kewenangan, asalkan agen tersebut bertindak dalam kapasitas resminya (*official capacity*).
 
 **Tindakan atas Arahan atau Pengendalian Negara (Pasal 8)**
 
@@ -144,15 +144,15 @@ Tindakan seseorang atau kelompok orang diatribusikan kepada negara jika orang at
 
 Standar pengendalian yang diperlukan menjadi perdebatan besar. Terdapat dua standar yang bersaing:
 
-**Standar Pengendalian Efektif (*Effective Control Test*) — ICJ**
+**Standar Pengendalian Efektif (*Effective Control Test*) â€” ICJ**
 
 Dalam kasus *Military and Paramilitary Activities in and against Nicaragua* (Nikaragua v. Amerika Serikat, 1986), ICJ menetapkan standar "pengendalian efektif" (*effective control*) untuk mengaitkan tindakan kelompok Contras di Nikaragua kepada Amerika Serikat. Meskipun AS memberikan pendanaan, pelatihan, dan dukungan substansial kepada Contras, ICJ memutuskan bahwa dukungan ini tidak cukup untuk mengatribusikan setiap tindakan Contras kepada AS. Diperlukan bukti bahwa AS secara efektif mengendalikan operasi spesifik di mana pelanggaran terjadi.
 
 ICJ kembali menerapkan standar ini dalam kasus *Genocide Convention (Bosnia-Herzegovina v. Serbia and Montenegro)* (2007), memutuskan bahwa Serbia tidak memiliki pengendalian efektif atas pasukan Republika Srpska yang melakukan genosida di Srebrenica, meskipun Serbia memberikan dukungan substansial.
 
-**Standar Pengendalian Keseluruhan (*Overall Control Test*) — ICTY**
+**Standar Pengendalian Keseluruhan (*Overall Control Test*) â€” ICTY**
 
-Sebaliknya, Pengadilan Pidana Internasional untuk bekas Yugoslavia (ICTY) dalam kasus *Tadić* (1999) menerapkan standar yang lebih rendah—"pengendalian keseluruhan" (*overall control*)—untuk menentukan bahwa konflik di Bosnia merupakan konflik bersenjata internasional karena keterlibatan Serbia. Berdasarkan standar ini, cukup jika negara memberikan dukungan umum (pendanaan, peralatan, pelatihan, koordinasi) dan berpartisipasi dalam perencanaan umum operasi militer, tanpa harus mengendalikan setiap operasi spesifik.
+Sebaliknya, Pengadilan Pidana Internasional untuk bekas Yugoslavia (ICTY) dalam kasus *TadiÄ‡* (1999) menerapkan standar yang lebih rendahâ€”"pengendalian keseluruhan" (*overall control*)â€”untuk menentukan bahwa konflik di Bosnia merupakan konflik bersenjata internasional karena keterlibatan Serbia. Berdasarkan standar ini, cukup jika negara memberikan dukungan umum (pendanaan, peralatan, pelatihan, koordinasi) dan berpartisipasi dalam perencanaan umum operasi militer, tanpa harus mengendalikan setiap operasi spesifik.
 
 ARSIWA, melalui Komentar Pasal 8, mengadopsi standar pengendalian efektif ICJ, bukan standar pengendalian keseluruhan ICTY.
 
@@ -166,7 +166,7 @@ Tindakan gerakan pemberontakan (*insurrectional movement*) yang berhasil menjadi
 
 **Tindakan yang Diakui dan Diadopsi oleh Negara (Pasal 11)**
 
-Tindakan yang awalnya tidak dapat diatribusikan kepada negara tetap dapat diatribusikan jika negara mengakui dan mengadopsinya sebagai tindakannya sendiri. Contoh paling terkenal adalah kasus *United States Diplomatic and Consular Staff in Tehran* (1980), di mana ICJ memutuskan bahwa tindakan mahasiswa militan yang menduduki kedutaan AS di Teheran—yang awalnya bukan tindakan negara Iran—menjadi tindakan negara Iran setelah Ayatollah Khomeini dan organ-organ negara Iran secara resmi mendukung dan mengadopsi tindakan tersebut.
+Tindakan yang awalnya tidak dapat diatribusikan kepada negara tetap dapat diatribusikan jika negara mengakui dan mengadopsinya sebagai tindakannya sendiri. Contoh paling terkenal adalah kasus *United States Diplomatic and Consular Staff in Tehran* (1980), di mana ICJ memutuskan bahwa tindakan mahasiswa militan yang menduduki kedutaan AS di Teheranâ€”yang awalnya bukan tindakan negara Iranâ€”menjadi tindakan negara Iran setelah Ayatollah Khomeini dan organ-organ negara Iran secara resmi mendukung dan mengadopsi tindakan tersebut.
 
 ```mermaid
 graph TB
@@ -179,7 +179,7 @@ graph TB
     A --> H[Pengakuan dan<br/>Adopsi - Ps 11]
     E --> I{Standar Pengendalian}
     I --> J[Effective Control<br/>ICJ - Nicaragua]
-    I --> K[Overall Control<br/>ICTY - Tadić]
+    I --> K[Overall Control<br/>ICTY - TadiÄ‡]
     style A fill:#2c3e50,color:#fff
     style E fill:#e74c3c,color:#fff
     style J fill:#2980b9,color:#fff
@@ -190,7 +190,7 @@ graph TB
 
 **Prinsip Umum (Pasal 12)**
 
-Suatu tindakan negara merupakan pelanggaran kewajiban internasional jika tindakan tersebut tidak sesuai dengan apa yang dituntut oleh kewajiban, apa pun asal-usul atau sifat kewajiban tersebut. Prinsip ini menegaskan bahwa aturan sekunder ARSIWA berlaku terhadap pelanggaran kewajiban apa pun—baik yang bersumber dari perjanjian, hukum kebiasaan, maupun prinsip hukum umum.
+Suatu tindakan negara merupakan pelanggaran kewajiban internasional jika tindakan tersebut tidak sesuai dengan apa yang dituntut oleh kewajiban, apa pun asal-usul atau sifat kewajiban tersebut. Prinsip ini menegaskan bahwa aturan sekunder ARSIWA berlaku terhadap pelanggaran kewajiban apa punâ€”baik yang bersumber dari perjanjian, hukum kebiasaan, maupun prinsip hukum umum.
 
 **Kewajiban Berlaku pada Saat Tindakan (Pasal 13)**
 
@@ -207,7 +207,7 @@ Perbedaan ini penting untuk menentukan kapan tanggung jawab dimulai, berapa lama
 
 **Pelanggaran yang Terdiri dari Tindakan Komposit (*Composite Act*) (Pasal 15)**
 
-Beberapa kewajiban internasional—khususnya larangan genosida, diskriminasi sistematis, atau kejahatan terhadap kemanusiaan—dilanggar bukan oleh satu tindakan tunggal, tetapi oleh serangkaian tindakan yang secara agregat membentuk pelanggaran. Pelanggaran dianggap terjadi ketika tindakan pertama dari rangkaian tersebut dilakukan dan berlangsung selama seluruh rangkaian tindakan.
+Beberapa kewajiban internasionalâ€”khususnya larangan genosida, diskriminasi sistematis, atau kejahatan terhadap kemanusiaanâ€”dilanggar bukan oleh satu tindakan tunggal, tetapi oleh serangkaian tindakan yang secara agregat membentuk pelanggaran. Pelanggaran dianggap terjadi ketika tindakan pertama dari rangkaian tersebut dilakukan dan berlangsung selama seluruh rangkaian tindakan.
 
 ---
 
@@ -215,7 +215,7 @@ Beberapa kewajiban internasional—khususnya larangan genosida, diskriminasi sis
 
 ### 7.3.1 Prinsip Umum
 
-Bab V ARSIWA (Pasal 20-27) mengatur *circumstances precluding wrongfulness*—keadaan-keadaan yang menghapuskan sifat melawan hukum suatu tindakan yang pada situasi normal akan merupakan pelanggaran kewajiban internasional. Keadaan ini tidak menghapuskan kewajiban itu sendiri, tetapi memberikan pembenaran (*justification*) atau alasan pemaaf (*excuse*) bagi tindakan negara.
+Bab V ARSIWA (Pasal 20-27) mengatur *circumstances precluding wrongfulness*â€”keadaan-keadaan yang menghapuskan sifat melawan hukum suatu tindakan yang pada situasi normal akan merupakan pelanggaran kewajiban internasional. Keadaan ini tidak menghapuskan kewajiban itu sendiri, tetapi memberikan pembenaran (*justification*) atau alasan pemaaf (*excuse*) bagi tindakan negara.
 
 Pasal 27 menegaskan dua hal penting:
 1. Keadaan-keadaan ini tidak mengesampingkan kewajiban kompensasi atas kerugian material yang disebabkan oleh tindakan tersebut
@@ -271,9 +271,9 @@ Keadaan darurat tidak dapat dijadikan dasar jika:
 - Kewajiban internasional yang bersangkutan mengecualikan kemungkinan invokasi keadaan darurat
 - Negara telah berkontribusi pada terjadinya keadaan darurat tersebut
 
-ICJ dalam kasus *Gabčíkovo-Nagymaros Project* (1997) memberikan analisis mendalam tentang keadaan darurat. Hungaria berargumen bahwa kekhawatiran lingkungan hidup membenarkan penghentian proyek bendungan berdasarkan keadaan darurat. ICJ menerima bahwa kepentingan lingkungan dapat menjadi "kepentingan esensial" tetapi menolak klaim Hungaria karena bahaya tidak bersifat segera (*imminent*) dan Hungaria memiliki alternatif lain.
+ICJ dalam kasus *GabÄÃ­kovo-Nagymaros Project* (1997) memberikan analisis mendalam tentang keadaan darurat. Hungaria berargumen bahwa kekhawatiran lingkungan hidup membenarkan penghentian proyek bendungan berdasarkan keadaan darurat. ICJ menerima bahwa kepentingan lingkungan dapat menjadi "kepentingan esensial" tetapi menolak klaim Hungaria karena bahaya tidak bersifat segera (*imminent*) dan Hungaria memiliki alternatif lain.
 
-Dalam konteks krisis ekonomi, beberapa pengadilan arbitrase investasi membahas apakah krisis ekonomi dapat dijadikan dasar keadaan darurat. Dalam kasus-kasus terkait krisis ekonomi Argentina 2001-2002, tribunal arbitrase ICSID memberikan putusan yang berbeda-beda—beberapa menerima, yang lain menolak argumen keadaan darurat Argentina.
+Dalam konteks krisis ekonomi, beberapa pengadilan arbitrase investasi membahas apakah krisis ekonomi dapat dijadikan dasar keadaan darurat. Dalam kasus-kasus terkait krisis ekonomi Argentina 2001-2002, tribunal arbitrase ICSID memberikan putusan yang berbeda-bedaâ€”beberapa menerima, yang lain menolak argumen keadaan darurat Argentina.
 
 | Keadaan | Pasal | Persyaratan Utama | Contoh |
 |---|---|---|---|
@@ -294,7 +294,7 @@ Pasal 31 ARSIWA menetapkan kewajiban reparasi penuh (*full reparation*) atas ker
 
 > "The responsible State is under an obligation to make full reparation for the injury caused by the internationally wrongful act."
 
-Prinsip reparasi penuh berasal dari putusan PCIJ dalam kasus *Chorzów Factory* (1928), yang merupakan salah satu putusan paling berpengaruh dalam hukum internasional:
+Prinsip reparasi penuh berasal dari putusan PCIJ dalam kasus *ChorzÃ³w Factory* (1928), yang merupakan salah satu putusan paling berpengaruh dalam hukum internasional:
 
 > "Reparation must, as far as possible, wipe out all the consequences of the illegal act and reestablish the situation which would, in all probability, have existed if that act had not been committed."
 
@@ -331,7 +331,7 @@ Satisfaksi merupakan bentuk reparasi untuk kerugian moral atau non-material yang
 
 Pasal 37 ayat (3) menegaskan bahwa satisfaksi tidak boleh tidak proporsional dengan kerugian dan tidak boleh berupa bentuk yang merendahkan (*humiliating*) bagi negara yang bertanggung jawab.
 
-ICJ dalam kasus *Corfu Channel* (Inggris v. Albania, 1949)—yang memiliki signifikansi historis sebagai kasus pertama yang diputus ICJ—menyatakan bahwa putusan Pengadilan yang mengakui pelanggaran Albania sudah merupakan satisfaksi yang memadai.
+ICJ dalam kasus *Corfu Channel* (Inggris v. Albania, 1949)â€”yang memiliki signifikansi historis sebagai kasus pertama yang diputus ICJâ€”menyatakan bahwa putusan Pengadilan yang mengakui pelanggaran Albania sudah merupakan satisfaksi yang memadai.
 
 Dalam kasus *Rainbow Warrior* (Selandia Baru v. Prancis, 1990), Tribunal Arbitrase memerintahkan Prancis untuk menyampaikan permintaan maaf resmi kepada Selandia Baru atas pelanggaran perjanjian antara kedua negara terkait penahanan agen-agen Prancis yang bertanggung jawab atas pengeboman kapal Rainbow Warrior.
 
@@ -372,7 +372,7 @@ Individu harus memiliki kewarganegaraan negara pelindung baik pada tanggal kerug
 
 **Kewarganegaraan Ganda**
 
-Dalam kasus kewarganegaraan ganda, negara dapat menjalankan perlindungan diplomatik terhadap negara di mana individu juga berkewarganegaraan, asalkan kewarganegaraan yang bersangkutan bersifat dominan dan efektif. Prinsip ini berasal dari kasus *Nottebohm* (Liechtenstein v. Guatemala, 1955), di mana ICJ memutuskan bahwa Liechtenstein tidak dapat menjalankan perlindungan diplomatik atas Friedrich Nottebohm karena kewarganegaraan Liechtenstein yang diberikan kepadanya tidak bersifat *genuine link*—Nottebohm memiliki hubungan yang jauh lebih erat dengan Guatemala tempat ia tinggal dan bekerja selama puluhan tahun.
+Dalam kasus kewarganegaraan ganda, negara dapat menjalankan perlindungan diplomatik terhadap negara di mana individu juga berkewarganegaraan, asalkan kewarganegaraan yang bersangkutan bersifat dominan dan efektif. Prinsip ini berasal dari kasus *Nottebohm* (Liechtenstein v. Guatemala, 1955), di mana ICJ memutuskan bahwa Liechtenstein tidak dapat menjalankan perlindungan diplomatik atas Friedrich Nottebohm karena kewarganegaraan Liechtenstein yang diberikan kepadanya tidak bersifat *genuine link*â€”Nottebohm memiliki hubungan yang jauh lebih erat dengan Guatemala tempat ia tinggal dan bekerja selama puluhan tahun.
 
 ### 7.5.3 Persyaratan Penyelesaian Upaya Hukum Domestik (*Exhaustion of Local Remedies*)
 
@@ -404,7 +404,7 @@ Pasal 48 ARSIWA memberikan hak kepada negara yang bukan "negara yang dirugikan" 
 
 Ketentuan ini mencerminkan perkembangan konsep *erga omnes obligations* yang diperkenalkan ICJ dalam kasus *Barcelona Traction* (1970):
 
-> "An essential distinction should be drawn between the obligations of a State towards the international community as a whole, and those arising vis-à-vis another State... By their very nature the former are the concern of all States. In view of the importance of the rights involved, all States can be held to have a legal interest in their protection; they are obligations erga omnes."
+> "An essential distinction should be drawn between the obligations of a State towards the international community as a whole, and those arising vis-Ã -vis another State... By their very nature the former are the concern of all States. In view of the importance of the rights involved, all States can be held to have a legal interest in their protection; they are obligations erga omnes."
 
 ICJ memberikan contoh kewajiban *erga omnes*: larangan agresi, genosida, perbudakan, dan diskriminasi rasial. Daftar ini tidak tertutup dan dapat berkembang.
 
@@ -468,15 +468,15 @@ Tribunal memutuskan bahwa Prancis melanggar perjanjian dan memerintahkan pernyat
 **Signifikansi:**
 Kasus ini mengilustrasikan penerapan prinsip-prinsip tanggung jawab negara (atribusi tindakan agen kepada negara, reparasi) dan juga membahas keadaan darurat medis sebagai kemungkinan pembenaran.
 
-### 7.7.3 Kasus Gabčíkovo-Nagymaros (Hungaria/Slovakia, 1997)
+### 7.7.3 Kasus GabÄÃ­kovo-Nagymaros (Hungaria/Slovakia, 1997)
 
 **Fakta:**
 Pada tahun 1977, Hungaria dan Cekoslowakia menandatangani perjanjian untuk membangun sistem bendungan di Sungai Danube. Pada akhir 1980-an, Hungaria menghentikan pekerjaannya dengan alasan kekhawatiran lingkungan. Cekoslowakia (kemudian Slovakia) melanjutkan pembangunan secara sepihak dengan solusi alternatif yang mengalihkan aliran sungai.
 
 **Putusan:**
 ICJ memutuskan bahwa:
-1. Hungaria tidak berhak menangguhkan dan menghentikan pekerjaannya—kekhawatiran lingkungan tidak memenuhi syarat keadaan darurat (*necessity*)
-2. Cekoslowakia/Slovakia tidak berhak mengoperasikan solusi alternatif secara sepihak—tindakan ini merupakan tindakan balasan yang tidak proporsional
+1. Hungaria tidak berhak menangguhkan dan menghentikan pekerjaannyaâ€”kekhawatiran lingkungan tidak memenuhi syarat keadaan darurat (*necessity*)
+2. Cekoslowakia/Slovakia tidak berhak mengoperasikan solusi alternatif secara sepihakâ€”tindakan ini merupakan tindakan balasan yang tidak proporsional
 3. Kedua pihak melanggar kewajiban mereka dan harus bernegosiasi dengan itikad baik
 
 **Signifikansi:**
@@ -495,7 +495,7 @@ ICJ memutuskan bahwa Serbia tidak melakukan genosida di Srebrenica tetapi melang
 
 Pada tahun 2011, ILC mengadopsi *Draft Articles on the Responsibility of International Organizations* (ARIO), yang memperluas kerangka tanggung jawab negara ke organisasi internasional. ARIO terdiri dari 67 pasal yang secara struktural mengikuti ARSIWA, dengan penyesuaian untuk karakteristik khusus organisasi internasional.
 
-ARIO menetapkan bahwa organisasi internasional bertanggung jawab atas tindakan melawan hukum internasional yang diatribusikan kepadanya, termasuk tindakan organ dan agennya. Persoalan atribusi menjadi lebih kompleks dalam konteks organisasi internasional karena organisasi seringkali beroperasi melalui organ yang "dipinjam" dari negara anggota—misalnya, pasukan perdamaian PBB yang merupakan kontingen nasional tetapi berada di bawah komando PBB.
+ARIO menetapkan bahwa organisasi internasional bertanggung jawab atas tindakan melawan hukum internasional yang diatribusikan kepadanya, termasuk tindakan organ dan agennya. Persoalan atribusi menjadi lebih kompleks dalam konteks organisasi internasional karena organisasi seringkali beroperasi melalui organ yang "dipinjam" dari negara anggotaâ€”misalnya, pasukan perdamaian PBB yang merupakan kontingen nasional tetapi berada di bawah komando PBB.
 
 ### 7.8.2 Tanggung Jawab PBB dalam Operasi Perdamaian
 
@@ -543,11 +543,11 @@ Indonesia merespons dengan mengkaji ulang kebijakan BIT-nya. Pada tahun 2014-201
 
 ### 7.10.1 Tanggung Jawab atas Perubahan Iklim
 
-Apakah negara-negara penghasil emisi besar dapat dimintai pertanggungjawaban atas dampak perubahan iklim terhadap negara-negara yang paling rentan—khususnya negara-negara kepulauan kecil (*Small Island Developing States*/SIDS)? Pertanyaan ini semakin relevan seiring meningkatnya dampak perubahan iklim.
+Apakah negara-negara penghasil emisi besar dapat dimintai pertanggungjawaban atas dampak perubahan iklim terhadap negara-negara yang paling rentanâ€”khususnya negara-negara kepulauan kecil (*Small Island Developing States*/SIDS)? Pertanyaan ini semakin relevan seiring meningkatnya dampak perubahan iklim.
 
 Persoalan hukum utama meliputi:
 - **Atribusi kausal**: Dapatkah perubahan iklim diatribusikan kepada negara tertentu?
-- **Pelanggaran kewajiban**: Kewajiban apa yang dilanggar—kewajiban perjanjian (UNFCCC, Perjanjian Paris) atau kewajiban kebiasaan (*due diligence*)?
+- **Pelanggaran kewajiban**: Kewajiban apa yang dilanggarâ€”kewajiban perjanjian (UNFCCC, Perjanjian Paris) atau kewajiban kebiasaan (*due diligence*)?
 - **Kerugian**: Bagaimana menghitung kerugian akibat perubahan iklim?
 
 Pada tahun 2023, Majelis Umum PBB meminta Advisory Opinion ICJ tentang kewajiban negara terkait perubahan iklim, yang pembahasannya masih berlangsung.
@@ -559,7 +559,7 @@ Penerapan hukum tanggung jawab negara terhadap operasi siber (*cyber operations*
 - Standar *due diligence*: Apakah negara bertanggung jawab jika aktor non-negara melancarkan serangan siber dari wilayahnya?
 - Tindakan balasan di ruang siber: Apakah tindakan balasan siber (*cyber countermeasures*) diizinkan?
 
-Tallinn Manual on the International Law Applicable to Cyber Operations (2013, edisi revisi 2017) memberikan panduan akademis tentang penerapan hukum internasional—termasuk hukum tanggung jawab negara—terhadap operasi siber.
+Tallinn Manual on the International Law Applicable to Cyber Operations (2013, edisi revisi 2017) memberikan panduan akademis tentang penerapan hukum internasionalâ€”termasuk hukum tanggung jawab negaraâ€”terhadap operasi siber.
 
 ### 7.10.3 Tanggung Jawab atas Tindakan di Luar Angkasa
 
@@ -569,7 +569,7 @@ Satu-satunya klaim yang pernah diajukan berdasarkan konvensi ini adalah kasus Co
 
 ### 7.10.4 Tanggung Jawab dan Kecerdasan Buatan
 
-Perkembangan kecerdasan buatan (*artificial intelligence*) menimbulkan pertanyaan baru tentang atribusi. Ketika sistem AI otonom yang dioperasikan oleh negara menyebabkan kerugian—misalnya, sistem senjata otonom yang menyerang target sipil—siapa yang bertanggung jawab? Kerangka ARSIWA, yang dibangun atas asumsi bahwa tindakan dilakukan oleh manusia yang bertindak sebagai organ atau agen negara, mungkin memerlukan penyesuaian untuk mengakomodasi skenario di mana keputusan dibuat oleh algoritma.
+Perkembangan kecerdasan buatan (*artificial intelligence*) menimbulkan pertanyaan baru tentang atribusi. Ketika sistem AI otonom yang dioperasikan oleh negara menyebabkan kerugianâ€”misalnya, sistem senjata otonom yang menyerang target sipilâ€”siapa yang bertanggung jawab? Kerangka ARSIWA, yang dibangun atas asumsi bahwa tindakan dilakukan oleh manusia yang bertindak sebagai organ atau agen negara, mungkin memerlukan penyesuaian untuk mengakomodasi skenario di mana keputusan dibuat oleh algoritma.
 
 Beberapa pendekatan yang diusulkan meliputi:
 - **Atribusi melalui pengoperasian**: Negara yang mengoperasikan sistem AI bertanggung jawab atas tindakan sistem tersebut, karena sistem merupakan "instrumen" negara
@@ -621,9 +621,9 @@ graph TB
 
 Hukum tanggung jawab negara merupakan pilar fundamental sistem hukum internasional yang mengatur konsekuensi hukum ketika negara melanggar kewajibannya. ARSIWA 2001 menyediakan kerangka hukum komprehensif yang mencakup elemen-elemen tanggung jawab (atribusi dan pelanggaran), keadaan yang menghapuskan sifat melawan hukum, reparasi, dan implementasi tanggung jawab.
 
-Aturan atribusi memastikan bahwa tindakan individu-individu tertentu—organ negara, entitas publik, dan dalam kondisi tertentu, aktor non-negara—dapat dikaitkan dengan negara. Keadaan penghapusan sifat melawan hukum memberikan fleksibilitas yang diperlukan dalam situasi luar biasa, sementara tetap menjaga integritas sistem pertanggungjawaban.
+Aturan atribusi memastikan bahwa tindakan individu-individu tertentuâ€”organ negara, entitas publik, dan dalam kondisi tertentu, aktor non-negaraâ€”dapat dikaitkan dengan negara. Keadaan penghapusan sifat melawan hukum memberikan fleksibilitas yang diperlukan dalam situasi luar biasa, sementara tetap menjaga integritas sistem pertanggungjawaban.
 
-Prinsip reparasi penuh—melalui restitusi, kompensasi, dan satisfaksi—memastikan bahwa pelanggaran tidak berlalu tanpa konsekuensi. Perlindungan diplomatik dan konsep kewajiban *erga omnes* memperluas lingkaran pihak yang dapat menginvokasi tanggung jawab, mencerminkan kepentingan masyarakat internasional dalam penegakan norma-norma fundamental.
+Prinsip reparasi penuhâ€”melalui restitusi, kompensasi, dan satisfaksiâ€”memastikan bahwa pelanggaran tidak berlalu tanpa konsekuensi. Perlindungan diplomatik dan konsep kewajiban *erga omnes* memperluas lingkaran pihak yang dapat menginvokasi tanggung jawab, mencerminkan kepentingan masyarakat internasional dalam penegakan norma-norma fundamental.
 
 ---
 
@@ -659,23 +659,23 @@ Prinsip reparasi penuh—melalui restitusi, kompensasi, dan satisfaksi—memasti
 ### Komentar ARSIWA
 
 - Crawford, James. *The International Law Commission's Articles on State Responsibility: Introduction, Text and Commentaries*. Cambridge: Cambridge University Press, 2002.
-- Caron, David D. dan Matti Pellonpää. "Choice of Law, State Responsibility, and the Law of Treaties." In *The Law of International Responsibility*, ed. Crawford et al. Oxford: Oxford University Press, 2010.
+- Caron, David D. dan Matti PellonpÃ¤Ã¤. "Choice of Law, State Responsibility, and the Law of Treaties." In *The Law of International Responsibility*, ed. Crawford et al. Oxford: Oxford University Press, 2010.
 
 ### Monograf Khusus
 
-- Ago, Roberto. "Le Délit international." *Recueil des cours* 68 (1939): 415-554.
+- Ago, Roberto. "Le DÃ©lit international." *Recueil des cours* 68 (1939): 415-554.
 - Brownlie, Ian. *System of the Law of Nations: State Responsibility, Part I*. Oxford: Clarendon Press, 1983.
 - Dupuy, Pierre-Marie. "Reviewing the Difficulties of Codification: On Ago's Classification of Obligations of Means and Obligations of Result in Relation to State Responsibility." *European Journal of International Law* 10 (1999): 371-385.
-- Nollkaemper, André. "Concurrence between Individual Responsibility and State Responsibility in International Law." *International and Comparative Law Quarterly* 52 (2003): 615-640.
+- Nollkaemper, AndrÃ©. "Concurrence between Individual Responsibility and State Responsibility in International Law." *International and Comparative Law Quarterly* 52 (2003): 615-640.
 
 ### Putusan Pengadilan Internasional
 
-- *Chorzów Factory* (Germany v. Poland), Jurisdiction, PCIJ Series A No. 9, 1927; Merits, PCIJ Series A No. 17, 1928.
+- *ChorzÃ³w Factory* (Germany v. Poland), Jurisdiction, PCIJ Series A No. 9, 1927; Merits, PCIJ Series A No. 17, 1928.
 - *Corfu Channel* (United Kingdom v. Albania), Merits, ICJ Reports 1949.
 - *Barcelona Traction, Light and Power Company, Limited* (Belgium v. Spain), ICJ Reports 1970.
 - *United States Diplomatic and Consular Staff in Tehran* (United States v. Iran), ICJ Reports 1980.
 - *Military and Paramilitary Activities in and against Nicaragua* (Nicaragua v. United States), Merits, ICJ Reports 1986.
-- *Gabčíkovo-Nagymaros Project* (Hungary/Slovakia), ICJ Reports 1997.
+- *GabÄÃ­kovo-Nagymaros Project* (Hungary/Slovakia), ICJ Reports 1997.
 - *Application of the Convention on the Prevention and Punishment of the Crime of Genocide* (Bosnia-Herzegovina v. Serbia and Montenegro), ICJ Reports 2007.
 - *Jurisdictional Immunities of the State* (Germany v. Italy: Greece Intervening), ICJ Reports 2012.
 
@@ -700,3 +700,4 @@ Prinsip reparasi penuh—melalui restitusi, kompensasi, dan satisfaksi—memasti
 ---
 
 *Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[06-Perjanjian]] untuk pembahasan tentang kewajiban perjanjian yang pelanggarannya dapat menimbulkan tanggung jawab negara, dan [[08-Sengketa]] untuk pembahasan tentang mekanisme penyelesaian sengketa yang digunakan untuk mengajukan klaim tanggung jawab negara.*
+

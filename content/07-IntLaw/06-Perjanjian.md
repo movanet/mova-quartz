@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hukum Perjanjian Internasional"
 tags:
   - hukum-internasional
@@ -48,7 +48,7 @@ Kodifikasi modern hukum perjanjian dimulai dengan karya Harvard Research in Inte
 
 ### 6.1.3 Vienna Convention on the Law of Treaties 1969
 
-VCLT diadopsi pada 22 Mei 1969 dan mulai berlaku pada 27 Januari 1980. Konvensi ini sering disebut sebagai "treaty on treaties"—perjanjian tentang perjanjian—karena mengatur aturan-aturan yang berlaku bagi perjanjian internasional itu sendiri.
+VCLT diadopsi pada 22 Mei 1969 dan mulai berlaku pada 27 Januari 1980. Konvensi ini sering disebut sebagai "treaty on treaties"â€”perjanjian tentang perjanjianâ€”karena mengatur aturan-aturan yang berlaku bagi perjanjian internasional itu sendiri.
 
 VCLT terdiri dari 85 pasal yang dikelompokkan dalam delapan bagian:
 
@@ -97,7 +97,7 @@ Definisi ini mengandung beberapa unsur esensial:
 
 **Antarnegara (*between States*)**: VCLT hanya mengatur perjanjian antarnegara. Perjanjian antara negara dan entitas non-negara (misalnya, perusahaan multinasional atau gerakan pembebasan nasional) tidak termasuk dalam lingkup VCLT, meskipun dapat memiliki dampak hukum internasional.
 
-**Dalam bentuk tertulis (*in written form*)**: VCLT hanya mengatur perjanjian tertulis. Namun, Pasal 3 VCLT menegaskan bahwa perjanjian yang tidak tertulis tidak kehilangan kekuatan hukumnya—hanya saja tidak diatur oleh konvensi ini.
+**Dalam bentuk tertulis (*in written form*)**: VCLT hanya mengatur perjanjian tertulis. Namun, Pasal 3 VCLT menegaskan bahwa perjanjian yang tidak tertulis tidak kehilangan kekuatan hukumnyaâ€”hanya saja tidak diatur oleh konvensi ini.
 
 **Diatur oleh hukum internasional (*governed by international law*)**: Unsur ini membedakan perjanjian internasional dari kontrak internasional yang diatur oleh hukum nasional tertentu. Perjanjian jual beli antara pemerintah suatu negara dan perusahaan asing yang tunduk pada hukum nasional tertentu bukan merupakan perjanjian internasional dalam pengertian VCLT.
 
@@ -157,7 +157,7 @@ Pasal 6 VCLT menyatakan bahwa setiap negara memiliki kapasitas untuk membuat per
 
 Selain negara, entitas lain yang memiliki kapasitas terbatas untuk membuat perjanjian meliputi organisasi internasional (sesuai dengan instrumen konstitutifnya), Takhta Suci (Vatikan), dan dalam beberapa konteks historis, entitas seperti Hong Kong dan Taiwan.
 
-Dalam federasi, kapasitas membuat perjanjian umumnya merupakan kewenangan pemerintah federal. Namun, beberapa konstitusi federal memberikan kewenangan terbatas kepada unit federasi untuk membuat perjanjian internasional—misalnya, konstitusi Belgia, Jerman (dalam batas-batas tertentu), dan Swiss.
+Dalam federasi, kapasitas membuat perjanjian umumnya merupakan kewenangan pemerintah federal. Namun, beberapa konstitusi federal memberikan kewenangan terbatas kepada unit federasi untuk membuat perjanjian internasionalâ€”misalnya, konstitusi Belgia, Jerman (dalam batas-batas tertentu), dan Swiss.
 
 ### 6.3.2 Full Powers (*Surat Kuasa Penuh*)
 
@@ -244,7 +244,7 @@ Reservasi merupakan instrumen yang memungkinkan negara untuk menjadi pihak pada 
 
 Pada abad ke-19 dan paruh pertama abad ke-20, hukum reservasi didasarkan pada "aturan kebulatan suara" (*unanimity rule*): reservasi hanya sah jika disetujui oleh semua negara pihak lainnya. Aturan ini melindungi integritas perjanjian tetapi membatasi partisipasi.
 
-Titik balik terjadi dengan Advisory Opinion ICJ dalam kasus *Reservations to the Convention on the Prevention and Punishment of the Crime of Genocide* (1951). PBB meminta pendapat ICJ mengenai hukum reservasi terhadap Konvensi Genosida, setelah beberapa negara—khususnya negara-negara blok Soviet—mengajukan reservasi yang ditolak oleh negara-negara lain.
+Titik balik terjadi dengan Advisory Opinion ICJ dalam kasus *Reservations to the Convention on the Prevention and Punishment of the Crime of Genocide* (1951). PBB meminta pendapat ICJ mengenai hukum reservasi terhadap Konvensi Genosida, setelah beberapa negaraâ€”khususnya negara-negara blok Sovietâ€”mengajukan reservasi yang ditolak oleh negara-negara lain.
 
 ICJ memutuskan bahwa suatu negara dapat menjadi pihak pada Konvensi Genosida meskipun reservasinya ditolak oleh negara lain, asalkan reservasi tersebut sejalan dengan tujuan dan maksud konvensi (*compatible with the object and purpose of the convention*). Pendapat ini merevolusi hukum reservasi dan menjadi dasar bagi rezim reservasi dalam VCLT.
 
@@ -342,9 +342,9 @@ Itikad baik merupakan prinsip umum hukum internasional yang mensyaratkan agar pe
 
 **Makna Biasa (*Ordinary Meaning*)**
 
-Kata-kata dalam perjanjian harus diberi makna biasa atau alaminya, bukan makna khusus atau teknis, kecuali jika Pasal 31 ayat (4) berlaku (lihat di bawah). Namun, "makna biasa" bukan berarti makna kamus secara sempit—makna harus ditentukan dalam konteks dan dengan mempertimbangkan tujuan perjanjian.
+Kata-kata dalam perjanjian harus diberi makna biasa atau alaminya, bukan makna khusus atau teknis, kecuali jika Pasal 31 ayat (4) berlaku (lihat di bawah). Namun, "makna biasa" bukan berarti makna kamus secara sempitâ€”makna harus ditentukan dalam konteks dan dengan mempertimbangkan tujuan perjanjian.
 
-ICJ dalam kasus *Territorial Dispute (Libya/Chad)* (1994) menyatakan: "Interpretation must be based above all upon the text of the treaty." Namun dalam kasus *LaGrand* (2001), ICJ memberi makna yang lebih luas pada kata "indicate" dalam Pasal 41 Statuta ICJ, menyimpulkan bahwa tindakan sementara (*provisional measures*) bersifat mengikat—penafsiran yang melampaui makna harfiah kata tersebut.
+ICJ dalam kasus *Territorial Dispute (Libya/Chad)* (1994) menyatakan: "Interpretation must be based above all upon the text of the treaty." Namun dalam kasus *LaGrand* (2001), ICJ memberi makna yang lebih luas pada kata "indicate" dalam Pasal 41 Statuta ICJ, menyimpulkan bahwa tindakan sementara (*provisional measures*) bersifat mengikatâ€”penafsiran yang melampaui makna harfiah kata tersebut.
 
 **Konteks (*Context*)**
 
@@ -368,11 +368,11 @@ Pasal 31 ayat (4) VCLT menyatakan bahwa suatu istilah harus diberi makna khusus 
 
 ### 6.5.4 Sarana Pelengkap Interpretasi: Pasal 32 VCLT
 
-Pasal 32 VCLT mengatur sarana pelengkap (*supplementary means*) interpretasi, termasuk travaux préparatoires (catatan persiapan) dan keadaan-keadaan saat perjanjian dibuat. Sarana pelengkap dapat digunakan untuk:
+Pasal 32 VCLT mengatur sarana pelengkap (*supplementary means*) interpretasi, termasuk travaux prÃ©paratoires (catatan persiapan) dan keadaan-keadaan saat perjanjian dibuat. Sarana pelengkap dapat digunakan untuk:
 - Memastikan (*confirm*) makna yang dihasilkan dari penerapan Pasal 31
 - Menentukan makna jika penerapan Pasal 31 menghasilkan makna yang ambigu, kabur, atau nyata-nyata absurd atau tidak masuk akal
 
-Hubungan antara Pasal 31 dan 32 bersifat hierarkis: sarana pelengkap hanya bersifat sekunder dan tidak dapat mengesampingkan hasil interpretasi berdasarkan Pasal 31. Dalam praktik, pengadilan internasional sering merujuk *travaux préparatoires* untuk memastikan hasil interpretasinya, bahkan ketika teks sudah jelas.
+Hubungan antara Pasal 31 dan 32 bersifat hierarkis: sarana pelengkap hanya bersifat sekunder dan tidak dapat mengesampingkan hasil interpretasi berdasarkan Pasal 31. Dalam praktik, pengadilan internasional sering merujuk *travaux prÃ©paratoires* untuk memastikan hasil interpretasinya, bahkan ketika teks sudah jelas.
 
 ### 6.5.5 Interpretasi Perjanjian dalam Berbagai Bahasa: Pasal 33 VCLT
 
@@ -384,7 +384,7 @@ Pasal 33 VCLT mengatur interpretasi perjanjian yang diautentikasi dalam dua baha
 - Istilah-istilah dalam perjanjian dianggap memiliki makna yang sama dalam setiap teks autentik (Pasal 33(3))
 - Jika terdapat perbedaan makna antara teks-teks autentik, makna yang paling mendamaikan teks-teks tersebut dan paling sesuai dengan tujuan perjanjian yang harus dipilih (Pasal 33(4))
 
-Kasus *LaGrand* (2001) merupakan contoh penting penerapan Pasal 33. ICJ membandingkan versi Inggris dan Prancis Pasal 41 Statuta ICJ—kata "indicate" (Inggris) dan "indiquer" (Prancis)—dan menyimpulkan bahwa tindakan sementara bersifat mengikat, sebuah interpretasi yang diperkuat oleh konteks dan tujuan Statuta.
+Kasus *LaGrand* (2001) merupakan contoh penting penerapan Pasal 33. ICJ membandingkan versi Inggris dan Prancis Pasal 41 Statuta ICJâ€”kata "indicate" (Inggris) dan "indiquer" (Prancis)â€”dan menyimpulkan bahwa tindakan sementara bersifat mengikat, sebuah interpretasi yang diperkuat oleh konteks dan tujuan Statuta.
 
 ---
 
@@ -426,7 +426,7 @@ Pasal 30 VCLT mengatur situasi di mana dua atau lebih perjanjian berturutan meng
 
 ### 6.6.5 Perjanjian dan Pihak Ketiga (*Pacta Tertiis*)
 
-Pasal 34 VCLT mengodifikasi prinsip *pacta tertiis nec nocent nec prosunt*: perjanjian tidak menciptakan kewajiban atau hak bagi negara ketiga tanpa persetujuannya. Prinsip ini merupakan konsekuensi logis dari kedaulatan negara—suatu negara tidak dapat dipaksa tunduk pada kewajiban yang tidak disepakatinya.
+Pasal 34 VCLT mengodifikasi prinsip *pacta tertiis nec nocent nec prosunt*: perjanjian tidak menciptakan kewajiban atau hak bagi negara ketiga tanpa persetujuannya. Prinsip ini merupakan konsekuensi logis dari kedaulatan negaraâ€”suatu negara tidak dapat dipaksa tunduk pada kewajiban yang tidak disepakatinya.
 
 Namun, VCLT mengakui dua pengecualian:
 
@@ -434,7 +434,7 @@ Namun, VCLT mengakui dua pengecualian:
 
 **Hak bagi Pihak Ketiga (Pasal 36)**: Perjanjian dapat memberikan hak kepada negara ketiga jika para pihak bermaksud demikian. Persetujuan negara ketiga diasumsikan selama tidak ada indikasi sebaliknya. Contoh klasik adalah Pasal 35 Piagam PBB yang memberikan hak kepada non-anggota PBB untuk mengajukan sengketa ke Dewan Keamanan.
 
-Perlu dicatat bahwa beberapa perjanjian—khususnya yang menciptakan rezim objektif (*objective regimes*)—diperdebatkan apakah mengikat negara ketiga. Perjanjian yang menetapkan status wilayah tertentu (misalnya, demiliterisasi Kepulauan Åland, internasionalisasi Terusan Suez) atau yang mengodifikasi hukum kebiasaan internasional dipandang oleh beberapa sarjana sebagai mengikat *erga omnes*.
+Perlu dicatat bahwa beberapa perjanjianâ€”khususnya yang menciptakan rezim objektif (*objective regimes*)â€”diperdebatkan apakah mengikat negara ketiga. Perjanjian yang menetapkan status wilayah tertentu (misalnya, demiliterisasi Kepulauan Ã…land, internasionalisasi Terusan Suez) atau yang mengodifikasi hukum kebiasaan internasional dipandang oleh beberapa sarjana sebagai mengikat *erga omnes*.
 
 ---
 
@@ -474,7 +474,7 @@ Jika persetujuan negara diperoleh melalui penyuapan perwakilannya oleh negara la
 
 **Paksaan terhadap Perwakilan Negara (*Coercion of a Representative*) (Pasal 51)**
 
-Persetujuan yang diperoleh melalui paksaan terhadap perwakilan negara—berupa ancaman atau tindakan yang ditujukan langsung kepada perwakilan tersebut—tidak memiliki akibat hukum apa pun. Ketidakabsahan bersifat absolut: perjanjian batal demi hukum (*void ab initio*).
+Persetujuan yang diperoleh melalui paksaan terhadap perwakilan negaraâ€”berupa ancaman atau tindakan yang ditujukan langsung kepada perwakilan tersebutâ€”tidak memiliki akibat hukum apa pun. Ketidakabsahan bersifat absolut: perjanjian batal demi hukum (*void ab initio*).
 
 **Paksaan terhadap Negara (*Coercion of a State*) (Pasal 52)**
 
@@ -509,7 +509,7 @@ Pasal 64 VCLT menambahkan bahwa jika suatu norma *jus cogens* baru muncul setela
 
 ### 6.8.1 Pengakhiran berdasarkan Ketentuan Perjanjian
 
-Perjanjian dapat berakhir sesuai dengan ketentuannya sendiri—misalnya, setelah jangka waktu tertentu berakhir atau setelah tujuan perjanjian tercapai (Pasal 54(a) VCLT). Perjanjian juga dapat berakhir kapan pun dengan persetujuan semua pihak (Pasal 54(b)).
+Perjanjian dapat berakhir sesuai dengan ketentuannya sendiriâ€”misalnya, setelah jangka waktu tertentu berakhir atau setelah tujuan perjanjian tercapai (Pasal 54(a) VCLT). Perjanjian juga dapat berakhir kapan pun dengan persetujuan semua pihak (Pasal 54(b)).
 
 ### 6.8.2 Penarikan Diri (*Withdrawal/Denunciation*)
 
@@ -530,7 +530,7 @@ Pasal 60 ayat (3) mendefinisikan "pelanggaran material" sebagai:
 - Penolakan perjanjian yang tidak diizinkan oleh VCLT, atau
 - Pelanggaran ketentuan yang penting untuk mencapai tujuan dan maksud perjanjian
 
-Penting: Pasal 60 ayat (5) mengecualikan perjanjian yang bersifat humaniter—khususnya ketentuan-ketentuan yang melindungi individu—dari penerapan aturan pelanggaran material. Ini berarti pelanggaran Konvensi Jenewa oleh satu pihak tidak membenarkan pihak lain untuk menghentikan perlindungan terhadap tawanan perang atau penduduk sipil.
+Penting: Pasal 60 ayat (5) mengecualikan perjanjian yang bersifat humaniterâ€”khususnya ketentuan-ketentuan yang melindungi individuâ€”dari penerapan aturan pelanggaran material. Ini berarti pelanggaran Konvensi Jenewa oleh satu pihak tidak membenarkan pihak lain untuk menghentikan perlindungan terhadap tawanan perang atau penduduk sipil.
 
 ### 6.8.4 Ketidakmungkinan Pelaksanaan (*Impossibility of Performance*) (Pasal 61)
 
@@ -546,7 +546,7 @@ Perubahan keadaan yang fundamental hanya dapat dijadikan dasar pengakhiran atau 
 
 Pasal 62 juga menetapkan dua pengecualian penting: doktrin *rebus sic stantibus* tidak berlaku terhadap perjanjian batas wilayah, dan tidak dapat diajukan oleh pihak yang menyebabkan perubahan keadaan tersebut.
 
-ICJ dalam kasus *Gabčíkovo-Nagymaros Project* (Hungaria/Slovakia, 1997) menolak argumen Hungaria yang mendalilkan perubahan keadaan fundamental sebagai pembenaran untuk menghentikan proyek bendungan bersama di Sungai Danube. Pengadilan menyatakan bahwa perubahan kondisi politik dan ekonomi setelah berakhirnya Perang Dingin, meskipun signifikan, tidak memenuhi ambang batas tinggi Pasal 62 VCLT.
+ICJ dalam kasus *GabÄÃ­kovo-Nagymaros Project* (Hungaria/Slovakia, 1997) menolak argumen Hungaria yang mendalilkan perubahan keadaan fundamental sebagai pembenaran untuk menghentikan proyek bendungan bersama di Sungai Danube. Pengadilan menyatakan bahwa perubahan kondisi politik dan ekonomi setelah berakhirnya Perang Dingin, meskipun signifikan, tidak memenuhi ambang batas tinggi Pasal 62 VCLT.
 
 Kasus *Fisheries Jurisdiction* (Inggris v. Islandia, 1973) merupakan contoh lain di mana ICJ menolak argumen *rebus sic stantibus*. Islandia berargumen bahwa perubahan dalam teknologi perikanan dan kondisi ekonominya merupakan perubahan keadaan fundamental yang membenarkan perluasan yurisdiksi perikanannya secara sepihak. ICJ menolak argumen ini, meskipun mengakui bahwa perubahan keadaan dapat relevan dalam konteks negosiasi ulang.
 
@@ -679,9 +679,9 @@ Perkembangan teknologi menimbulkan pertanyaan baru tentang prosedur pembuatan pe
 
 Hukum perjanjian internasional merupakan tulang punggung sistem hukum internasional kontemporer. VCLT 1969 menyediakan kerangka hukum komprehensif yang mengatur seluruh siklus kehidupan perjanjian: dari pembuatan hingga berakhirnya, termasuk interpretasi, ketidakabsahan, dan perubahan.
 
-Prinsip-prinsip fundamental hukum perjanjian—*pacta sunt servanda*, itikad baik, dan *pacta tertiis nec nocent nec prosunt*—mencerminkan keseimbangan antara kebutuhan akan kepastian hukum dan penghormatan terhadap kedaulatan negara. Aturan interpretasi dalam Pasal 31-33 VCLT memberikan kerangka metodologis yang digunakan secara universal oleh pengadilan internasional dan domestik.
+Prinsip-prinsip fundamental hukum perjanjianâ€”*pacta sunt servanda*, itikad baik, dan *pacta tertiis nec nocent nec prosunt*â€”mencerminkan keseimbangan antara kebutuhan akan kepastian hukum dan penghormatan terhadap kedaulatan negara. Aturan interpretasi dalam Pasal 31-33 VCLT memberikan kerangka metodologis yang digunakan secara universal oleh pengadilan internasional dan domestik.
 
-Praktik Indonesia dalam pembuatan perjanjian internasional diatur oleh UU 24/2000, yang membedakan antara perjanjian yang memerlukan pengesahan UU dan yang cukup dengan Keppres. Namun, beberapa persoalan—khususnya kedudukan perjanjian dalam hierarki hukum nasional—masih memerlukan kejelasan.
+Praktik Indonesia dalam pembuatan perjanjian internasional diatur oleh UU 24/2000, yang membedakan antara perjanjian yang memerlukan pengesahan UU dan yang cukup dengan Keppres. Namun, beberapa persoalanâ€”khususnya kedudukan perjanjian dalam hierarki hukum nasionalâ€”masih memerlukan kejelasan.
 
 ---
 
@@ -718,9 +718,9 @@ Praktik Indonesia dalam pembuatan perjanjian internasional diatur oleh UU 24/200
 
 - Corten, Olivier dan Pierre Klein, eds. *The Vienna Conventions on the Law of Treaties: A Commentary*. Oxford: Oxford University Press, 2011.
 - Gardiner, Richard. *Treaty Interpretation*. 2nd ed. Oxford: Oxford University Press, 2015.
-- Pellet, Alain dan Daniel Müller. "Reservations to Treaties: An Objection to a Reservation is Definitely Not an Acceptance." In *The Law of Treaties Beyond the Vienna Convention*, ed. Enzo Cannizzaro. Oxford: Oxford University Press, 2011.
+- Pellet, Alain dan Daniel MÃ¼ller. "Reservations to Treaties: An Objection to a Reservation is Definitely Not an Acceptance." In *The Law of Treaties Beyond the Vienna Convention*, ed. Enzo Cannizzaro. Oxford: Oxford University Press, 2011.
 - Klabbers, Jan. *The Concept of Treaty in International Law*. The Hague: Kluwer, 1996.
-- Dörr, Oliver dan Kirsten Schmalenbach, eds. *Vienna Convention on the Law of Treaties: A Commentary*. 2nd ed. Berlin: Springer, 2018.
+- DÃ¶rr, Oliver dan Kirsten Schmalenbach, eds. *Vienna Convention on the Law of Treaties: A Commentary*. 2nd ed. Berlin: Springer, 2018.
 
 ### Artikel Ilmiah
 
@@ -735,7 +735,7 @@ Praktik Indonesia dalam pembuatan perjanjian internasional diatur oleh UU 24/200
 - *North Sea Continental Shelf* (Federal Republic of Germany/Denmark; Federal Republic of Germany/Netherlands), ICJ Reports 1969.
 - *Fisheries Jurisdiction* (United Kingdom v. Iceland), Merits, ICJ Reports 1974.
 - *Nuclear Tests* (Australia v. France; New Zealand v. France), ICJ Reports 1974.
-- *Gabčíkovo-Nagymaros Project* (Hungary/Slovakia), ICJ Reports 1997.
+- *GabÄÃ­kovo-Nagymaros Project* (Hungary/Slovakia), ICJ Reports 1997.
 - *Maritime Delimitation and Territorial Questions between Qatar and Bahrain*, Jurisdiction and Admissibility, ICJ Reports 1994.
 - *LaGrand* (Germany v. United States of America), ICJ Reports 2001.
 - *Territorial Dispute* (Libyan Arab Jamahiriya/Chad), ICJ Reports 1994.
@@ -757,3 +757,4 @@ Praktik Indonesia dalam pembuatan perjanjian internasional diatur oleh UU 24/200
 ---
 
 *Bab ini merupakan bagian dari seri materi ajar Hukum Internasional. Lihat juga [[05-Yurisdiksi]] untuk pembahasan tentang yurisdiksi dan [[07-Tanggung-Jawab]] untuk pembahasan tentang tanggung jawab negara atas pelanggaran kewajiban internasional, termasuk kewajiban yang bersumber dari perjanjian.*
+

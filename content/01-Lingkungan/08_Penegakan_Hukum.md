@@ -1,4 +1,4 @@
----
+﻿---
 title: "Penegakan Hukum Lingkungan"
 description: "Pembahasan komprehensif tiga pilar penegakan hukum lingkungan di Indonesia: sanksi administratif (Pasal 71-83 UU 32/2009), gugatan perdata (class action, citizen lawsuit, hak gugat organisasi), dan ketentuan pidana (Pasal 97-120). Mencakup peran PPNS, yurisprudensi, penyelesaian sengketa lingkungan, dan peran PTUN."
 tags:
@@ -20,9 +20,9 @@ publish: true
 # Penegakan Hukum Lingkungan
 
 **Navigasi:**
-- [[07_Tanggung_Jawab_Mutlak|← Tanggung Jawab Mutlak]]
-- [[README|↑ Index]]
-- [[09_Hukum_Lingkungan_Internasional|Hukum Lingkungan Internasional →]]
+- [[07_Tanggung_Jawab_Mutlak|â† Tanggung Jawab Mutlak]]
+- [[README|â†‘ Index]]
+- [[09_Hukum_Lingkungan_Internasional|Hukum Lingkungan Internasional â†’]]
 
 ---
 
@@ -45,15 +45,15 @@ Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
 
 ### 1.1 Definisi dan Ruang Lingkup
 
-Penegakan hukum lingkungan (*environmental law enforcement*) adalah serangkaian upaya untuk memastikan kepatuhan terhadap norma-norma hukum lingkungan hidup, baik melalui pencegahan pelanggaran (preventif) maupun penindakan terhadap pelanggar (represif). Dalam sistem hukum Indonesia, penegakan hukum lingkungan dilaksanakan melalui tiga jalur yang bersifat kumulatif — artinya, ketiga jalur dapat diterapkan secara bersamaan terhadap satu pelanggaran yang sama.
+Penegakan hukum lingkungan (*environmental law enforcement*) adalah serangkaian upaya untuk memastikan kepatuhan terhadap norma-norma hukum lingkungan hidup, baik melalui pencegahan pelanggaran (preventif) maupun penindakan terhadap pelanggar (represif). Dalam sistem hukum Indonesia, penegakan hukum lingkungan dilaksanakan melalui tiga jalur yang bersifat kumulatif â€” artinya, ketiga jalur dapat diterapkan secara bersamaan terhadap satu pelanggaran yang sama.
 
 ### 1.2 Instrumen Preventif dan Represif
 
 Penegakan hukum lingkungan dapat dibedakan menjadi dua kategori besar:
 
-**Instrumen Preventif** — diterapkan sebelum terjadinya pelanggaran — bertujuan mencegah pencemaran dan kerusakan lingkungan. Instrumen ini meliputi Kajian Lingkungan Hidup Strategis (KLHS), Analisis Mengenai Dampak Lingkungan (AMDAL), penetapan baku mutu lingkungan, perizinan lingkungan (kini berupa persetujuan lingkungan), dan pengawasan berkala oleh Pejabat Pengawas Lingkungan Hidup (PPLH).
+**Instrumen Preventif** â€” diterapkan sebelum terjadinya pelanggaran â€” bertujuan mencegah pencemaran dan kerusakan lingkungan. Instrumen ini meliputi Kajian Lingkungan Hidup Strategis (KLHS), Analisis Mengenai Dampak Lingkungan (AMDAL), penetapan baku mutu lingkungan, perizinan lingkungan (kini berupa persetujuan lingkungan), dan pengawasan berkala oleh Pejabat Pengawas Lingkungan Hidup (PPLH).
 
-**Instrumen Represif** — diterapkan setelah terjadinya pelanggaran — bertujuan menghentikan pelanggaran, memulihkan fungsi lingkungan, dan memberikan efek jera. Instrumen represif terdiri dari tiga pilar: sanksi administratif, gugatan perdata, dan sanksi pidana.
+**Instrumen Represif** â€” diterapkan setelah terjadinya pelanggaran â€” bertujuan menghentikan pelanggaran, memulihkan fungsi lingkungan, dan memberikan efek jera. Instrumen represif terdiri dari tiga pilar: sanksi administratif, gugatan perdata, dan sanksi pidana.
 
 ### 1.3 Diagram Tiga Pilar Penegakan Hukum
 
@@ -66,26 +66,26 @@ flowchart TD
     
     E --> F["PILAR I: ADMINISTRATIF
     Pasal 71-83 UU 32/2009
-    • Teguran tertulis
-    • Paksaan pemerintah
-    • Pembekuan izin
-    • Pencabutan izin
-    • Denda keterlambatan"]
+    â€¢ Teguran tertulis
+    â€¢ Paksaan pemerintah
+    â€¢ Pembekuan izin
+    â€¢ Pencabutan izin
+    â€¢ Denda keterlambatan"]
     
     E --> G["PILAR II: PERDATA
     Pasal 84-93 UU 32/2009
-    • Ganti rugi (Pasal 87)
-    • Strict liability (Pasal 88)
-    • Class action (Pasal 91)
-    • Hak gugat organisasi (Pasal 92)
-    • Citizen lawsuit"]
+    â€¢ Ganti rugi (Pasal 87)
+    â€¢ Strict liability (Pasal 88)
+    â€¢ Class action (Pasal 91)
+    â€¢ Hak gugat organisasi (Pasal 92)
+    â€¢ Citizen lawsuit"]
     
     E --> H["PILAR III: PIDANA
     Pasal 97-120 UU 32/2009
-    • Delik formil & materiil
-    • Pidana penjara & denda
-    • Pertanggungjawaban korporasi
-    • Pidana tambahan"]
+    â€¢ Delik formil & materiil
+    â€¢ Pidana penjara & denda
+    â€¢ Pertanggungjawaban korporasi
+    â€¢ Pidana tambahan"]
     
     F --> I["Pasal 78: Tidak membebaskan dari
     tanggung jawab pemulihan dan pidana"]
@@ -157,10 +157,10 @@ Ketentuan ini memberikan kewenangan darurat kepada pemerintah untuk bertindak ce
 
 > "Setiap penanggung jawab usaha dan/atau kegiatan yang tidak melaksanakan paksaan pemerintah dapat dikenai **denda atas setiap keterlambatan** pelaksanaan sanksi paksaan pemerintah."
 
-Denda keterlambatan (*dwangsom*) bersifat akumulatif — dihitung per hari keterlambatan dan terus berjalan hingga penanggung jawab usaha melaksanakan paksaan pemerintah. Besaran denda ditetapkan dalam keputusan paksaan pemerintah.
+Denda keterlambatan (*dwangsom*) bersifat akumulatif â€” dihitung per hari keterlambatan dan terus berjalan hingga penanggung jawab usaha melaksanakan paksaan pemerintah. Besaran denda ditetapkan dalam keputusan paksaan pemerintah.
 
 **Ilustrasi Penerapan:**
-Misalkan sebuah pabrik diperintahkan untuk membangun Instalasi Pengolahan Air Limbah (IPAL) dalam jangka waktu 90 hari, dengan denda keterlambatan Rp 10 juta per hari. Apabila pabrik tersebut terlambat 60 hari, maka total uang paksa yang harus dibayar adalah 60 × Rp 10 juta = Rp 600 juta, di samping tetap wajib membangun IPAL.
+Misalkan sebuah pabrik diperintahkan untuk membangun Instalasi Pengolahan Air Limbah (IPAL) dalam jangka waktu 90 hari, dengan denda keterlambatan Rp 10 juta per hari. Apabila pabrik tersebut terlambat 60 hari, maka total uang paksa yang harus dibayar adalah 60 Ã— Rp 10 juta = Rp 600 juta, di samping tetap wajib membangun IPAL.
 
 ### 2.6 Kewenangan Substitusi Menteri
 
@@ -200,7 +200,7 @@ Penegakan hukum perdata dalam bidang lingkungan hidup diatur dalam **Pasal 84-93
 
 > "Hakim dapat menetapkan pembayaran uang paksa terhadap setiap hari keterlambatan atas pelaksanaan putusan pengadilan."
 
-Komponen ganti rugi meliputi: ganti rugi materiil (kerugian nyata yang dapat dihitung — hilangnya pendapatan, biaya pengobatan, kerusakan properti), ganti rugi immateriil (kerugian psikologis, penderitaan, hilangnya kenyamanan), dan biaya pemulihan lingkungan (remediasi, rehabilitasi, restorasi ekosistem). Untuk pembahasan mengenai tanggung jawab mutlak (*strict liability*) berdasarkan Pasal 88, lihat [[07_Tanggung_Jawab_Mutlak|Bab 7: Tanggung Jawab Mutlak]].
+Komponen ganti rugi meliputi: ganti rugi materiil (kerugian nyata yang dapat dihitung â€” hilangnya pendapatan, biaya pengobatan, kerusakan properti), ganti rugi immateriil (kerugian psikologis, penderitaan, hilangnya kenyamanan), dan biaya pemulihan lingkungan (remediasi, rehabilitasi, restorasi ekosistem). Untuk pembahasan mengenai tanggung jawab mutlak (*strict liability*) berdasarkan Pasal 88, lihat [[07_Tanggung_Jawab_Mutlak|Bab 7: Tanggung Jawab Mutlak]].
 
 ### 3.3 Gugatan Perwakilan Kelompok (*Class Action*)
 
@@ -275,9 +275,9 @@ Menariknya, *citizen lawsuit* tidak diatur secara eksplisit dalam peraturan peru
 | Aspek | *Class Action* | *Citizen Lawsuit* |
 |-------|---------------|-------------------|
 | **Tergugat** | Pencemar/perusak (umumnya swasta) | Penyelenggara negara (pemerintah) |
-| **Dasar gugatan** | Perbuatan (*action*) — pencemaran/perusakan | Kelalaian/pembiaran (*omission*) — tidak menjalankan kewajiban |
-| **Jenis tuntutan** | Ganti rugi materiil dan immateriil | *Condemnatoir* — mewajibkan tergugat melakukan tindakan tertentu |
-| **Legal standing** | Korban langsung atau wakilnya | **Setiap warga negara** — tidak perlu membuktikan kerugian langsung |
+| **Dasar gugatan** | Perbuatan (*action*) â€” pencemaran/perusakan | Kelalaian/pembiaran (*omission*) â€” tidak menjalankan kewajiban |
+| **Jenis tuntutan** | Ganti rugi materiil dan immateriil | *Condemnatoir* â€” mewajibkan tergugat melakukan tindakan tertentu |
+| **Legal standing** | Korban langsung atau wakilnya | **Setiap warga negara** â€” tidak perlu membuktikan kerugian langsung |
 | **Syarat notifikasi** | Tidak ada | Wajib mengirimkan notifikasi kepada tergugat 60 hari sebelum gugatan |
 | **Sifat putusan** | Ganti rugi finansial dan/atau pemulihan | Perintah melakukan kebijakan publik tertentu |
 | **Dasar hukum** | Pasal 91 UU 32/2009 jo. PERMA 1/2002 | Belum diatur eksplisit; diterima melalui yurisprudensi |
@@ -334,11 +334,11 @@ Wahana Lingkungan Hidup Indonesia (WALHI) merupakan organisasi lingkungan pertam
 
 Berdasarkan PP 54/2000, mekanisme penyelesaian sengketa di luar pengadilan meliputi:
 
-**Mediasi** — pihak ketiga netral (mediator) membantu para pihak mencapai kesepakatan bersama, tanpa wewenang memutus. Mediator bertindak sebagai fasilitator yang membantu komunikasi dan negosiasi antara pihak pencemar dan korban.
+**Mediasi** â€” pihak ketiga netral (mediator) membantu para pihak mencapai kesepakatan bersama, tanpa wewenang memutus. Mediator bertindak sebagai fasilitator yang membantu komunikasi dan negosiasi antara pihak pencemar dan korban.
 
-**Konsiliasi** — mirip dengan mediasi, tetapi konsiliator memiliki peran lebih aktif dalam mengusulkan solusi penyelesaian kepada para pihak.
+**Konsiliasi** â€” mirip dengan mediasi, tetapi konsiliator memiliki peran lebih aktif dalam mengusulkan solusi penyelesaian kepada para pihak.
 
-**Arbitrase** — pihak ketiga netral (arbiter) diberi wewenang untuk memutus sengketa. Putusan arbiter bersifat final dan mengikat (*final and binding*) para pihak.
+**Arbitrase** â€” pihak ketiga netral (arbiter) diberi wewenang untuk memutus sengketa. Putusan arbiter bersifat final dan mengikat (*final and binding*) para pihak.
 
 Selain ketiga mekanisme utama tersebut, dimungkinkan pula penyelesaian melalui negosiasi langsung, penilaian ahli (*expert assessment*), dan pencarian fakta netral (*neutral fact-finding*).
 
@@ -377,21 +377,21 @@ UU 32/2009 mengenal dua jenis delik:
 | **Delik Materiil** | Harus membuktikan **akibat** (pencemaran/kerusakan lingkungan) | Pasal 98-99 | Sengaja/lalai melakukan perbuatan yang mengakibatkan pencemaran yang melampaui baku mutu |
 | **Delik Formil** | Cukup membuktikan **perbuatan** yang melanggar ketentuan, tanpa perlu membuktikan akibat | Pasal 100-115 | Melampaui baku mutu tanpa perlu membuktikan pencemaran terjadi; membuang limbah B3 tanpa izin |
 
-Pembedaan ini memiliki signifikansi praktis yang besar: delik formil jauh lebih mudah dibuktikan karena tidak perlu membuktikan terjadinya pencemaran atau kerusakan lingkungan — cukup membuktikan bahwa pelaku melanggar ketentuan normatif (misalnya melampaui baku mutu atau tidak memiliki izin).
+Pembedaan ini memiliki signifikansi praktis yang besar: delik formil jauh lebih mudah dibuktikan karena tidak perlu membuktikan terjadinya pencemaran atau kerusakan lingkungan â€” cukup membuktikan bahwa pelaku melanggar ketentuan normatif (misalnya melampaui baku mutu atau tidak memiliki izin).
 
 ### 4.3 Ancaman Pidana dalam UU 32/2009
 
 #### 4.3.1 Delik Materiil
 
-**Pasal 98 ayat (1) UU 32/2009** — Pencemaran/perusakan yang dilakukan dengan **sengaja**:
+**Pasal 98 ayat (1) UU 32/2009** â€” Pencemaran/perusakan yang dilakukan dengan **sengaja**:
 
 > "Setiap orang yang dengan sengaja melakukan perbuatan yang mengakibatkan dilampauinya baku mutu udara ambien, baku mutu air, baku mutu air laut, atau kriteria baku kerusakan lingkungan hidup, dipidana dengan pidana penjara paling singkat **3 (tiga) tahun** dan paling lama **10 (sepuluh) tahun** dan denda paling sedikit **Rp3.000.000.000,00** (tiga miliar rupiah) dan paling banyak **Rp10.000.000.000,00** (sepuluh miliar rupiah)."
 
-**Pasal 98 ayat (2)** — Pemberatan jika mengakibatkan luka berat atau bahaya kesehatan: penjara 5-12 tahun, denda Rp5-12 miliar.
+**Pasal 98 ayat (2)** â€” Pemberatan jika mengakibatkan luka berat atau bahaya kesehatan: penjara 5-12 tahun, denda Rp5-12 miliar.
 
-**Pasal 98 ayat (3)** — Pemberatan jika mengakibatkan kematian: penjara 5-15 tahun, denda Rp5-15 miliar.
+**Pasal 98 ayat (3)** â€” Pemberatan jika mengakibatkan kematian: penjara 5-15 tahun, denda Rp5-15 miliar.
 
-**Pasal 99 UU 32/2009** — Pencemaran/perusakan karena **kelalaian** (*culpa*):
+**Pasal 99 UU 32/2009** â€” Pencemaran/perusakan karena **kelalaian** (*culpa*):
 
 | Ayat | Akibat | Penjara | Denda |
 |------|--------|---------|-------|
@@ -399,7 +399,7 @@ Pembedaan ini memiliki signifikansi praktis yang besar: delik formil jauh lebih 
 | (2) | Luka berat/bahaya kesehatan | 2-6 tahun | Rp2-6 miliar |
 | (3) | Kematian | 3-9 tahun | Rp3-9 miliar |
 
-#### 4.3.2 Delik Formil — Tabel Ringkasan
+#### 4.3.2 Delik Formil â€” Tabel Ringkasan
 
 | Pasal | Tindak Pidana | Penjara | Denda |
 |-------|---------------|---------|-------|
@@ -432,17 +432,17 @@ UU 32/2009 memperkenalkan **pidana minimum** untuk beberapa tindak pidana lingku
 
 Berdasarkan Pasal 116-118, pertanggungjawaban pidana korporasi diterapkan melalui tiga jalur:
 
-Pertama, **pertanggungjawaban korporasi langsung** (*direct corporate liability*) — korporasi sebagai entitas hukum dimintai pertanggungjawaban atas tindak pidana yang dilakukan untuk atau atas namanya. Kedua, **pertanggungjawaban pengurus** (*officer liability*) — direksi, komisaris, atau pejabat yang memberi perintah atau memimpin kegiatan yang mengandung tindak pidana dapat dipidana secara personal. Ketiga, **pertanggungjawaban kumulatif** — baik korporasi maupun pengurusnya dapat dipidana secara bersamaan.
+Pertama, **pertanggungjawaban korporasi langsung** (*direct corporate liability*) â€” korporasi sebagai entitas hukum dimintai pertanggungjawaban atas tindak pidana yang dilakukan untuk atau atas namanya. Kedua, **pertanggungjawaban pengurus** (*officer liability*) â€” direksi, komisaris, atau pejabat yang memberi perintah atau memimpin kegiatan yang mengandung tindak pidana dapat dipidana secara personal. Ketiga, **pertanggungjawaban kumulatif** â€” baik korporasi maupun pengurusnya dapat dipidana secara bersamaan.
 
 #### 4.4.3 Pidana Tambahan untuk Korporasi
 
 **Pasal 119 UU 32/2009** mengatur pidana tambahan yang khusus untuk korporasi:
 
-1. **Perampasan keuntungan** yang diperoleh dari tindak pidana — untuk menghilangkan insentif ekonomi kejahatan lingkungan
-2. **Penutupan seluruh atau sebagian tempat usaha dan/atau kegiatan** — sanksi terberat yang menghentikan operasi korporasi
-3. **Perbaikan akibat tindak pidana** — kewajiban memulihkan kerusakan lingkungan yang ditimbulkan
-4. **Kewajiban mengerjakan apa yang dilalaikan tanpa hak** — misalnya kewajiban membangun IPAL yang tidak dibangun
-5. **Penempatan perusahaan di bawah pengampuan** paling lama 3 tahun — pengelolaan perusahaan dialihkan kepada pihak yang ditunjuk pengadilan
+1. **Perampasan keuntungan** yang diperoleh dari tindak pidana â€” untuk menghilangkan insentif ekonomi kejahatan lingkungan
+2. **Penutupan seluruh atau sebagian tempat usaha dan/atau kegiatan** â€” sanksi terberat yang menghentikan operasi korporasi
+3. **Perbaikan akibat tindak pidana** â€” kewajiban memulihkan kerusakan lingkungan yang ditimbulkan
+4. **Kewajiban mengerjakan apa yang dilalaikan tanpa hak** â€” misalnya kewajiban membangun IPAL yang tidak dibangun
+5. **Penempatan perusahaan di bawah pengampuan** paling lama 3 tahun â€” pengelolaan perusahaan dialihkan kepada pihak yang ditunjuk pengadilan
 
 ### 4.5 *Ultimum Remedium* versus *Primum Remedium*
 
@@ -450,9 +450,9 @@ Pertama, **pertanggungjawaban korporasi langsung** (*direct corporate liability*
 
 Perdebatan mengenai kapan hukum pidana boleh diterapkan dalam penegakan hukum lingkungan terkristalisasi dalam dua pendekatan:
 
-**Ultimum Remedium** — hukum pidana sebagai upaya terakhir (*last resort*). Pendekatan ini mengutamakan sanksi administratif terlebih dahulu; pidana baru diterapkan apabila sanksi administratif gagal mencapai kepatuhan. Alasannya: sanksi administratif lebih cepat, lebih murah, dan lebih berorientasi pada pemulihan.
+**Ultimum Remedium** â€” hukum pidana sebagai upaya terakhir (*last resort*). Pendekatan ini mengutamakan sanksi administratif terlebih dahulu; pidana baru diterapkan apabila sanksi administratif gagal mencapai kepatuhan. Alasannya: sanksi administratif lebih cepat, lebih murah, dan lebih berorientasi pada pemulihan.
 
-**Primum Remedium** — hukum pidana dapat dijatuhkan langsung tanpa harus melalui sanksi administratif terlebih dahulu. Pendekatan ini diterapkan untuk pelanggaran yang sangat serius di mana penerapan sanksi administratif terlebih dahulu justru akan memperburuk kerusakan lingkungan.
+**Primum Remedium** â€” hukum pidana dapat dijatuhkan langsung tanpa harus melalui sanksi administratif terlebih dahulu. Pendekatan ini diterapkan untuk pelanggaran yang sangat serius di mana penerapan sanksi administratif terlebih dahulu justru akan memperburuk kerusakan lingkungan.
 
 #### 4.5.2 Penerapan dalam UU 32/2009
 
@@ -470,7 +470,7 @@ flowchart LR
     B -->|"Pelanggaran Baku Mutu
     (Pasal 100)"| C["ULTIMUM REMEDIUM
     Sanksi administratif dulu
-    → Pidana jika tidak patuh"]
+    â†’ Pidana jika tidak patuh"]
     B -->|"Pencemaran Serius
     (Pasal 98-99, 101-115)"| D["PRIMUM REMEDIUM
     Pidana dapat langsung
@@ -519,7 +519,7 @@ Meskipun PPNS memiliki kewenangan penyidikan mandiri, **Pasal 94 ayat (4)** mene
 
 **Pasal 96 UU 32/2009** memperluas alat bukti yang dapat digunakan dalam perkara pidana lingkungan di luar yang diatur dalam KUHAP. Alat bukti meliputi: keterangan saksi, keterangan ahli, surat, petunjuk, keterangan terdakwa, **serta alat bukti lain** termasuk informasi yang diucapkan, dikirimkan, diterima, atau disimpan secara elektronik, serta hasil penelitian dan data pemantauan kualitas lingkungan yang dilakukan dengan metode ilmiah.
 
-Perluasan alat bukti ini sangat krusial mengingat bahwa pembuktian tindak pidana lingkungan sering kali memerlukan bukti ilmiah dan teknis — seperti hasil uji laboratorium terhadap sampel air, udara, dan tanah; citra satelit yang menunjukkan perubahan tutupan lahan; data pemantauan emisi dan kualitas air secara kontinu; serta pendapat ahli di bidang toksikologi, ekologi, hidrologi, dan ilmu lingkungan lainnya.
+Perluasan alat bukti ini sangat krusial mengingat bahwa pembuktian tindak pidana lingkungan sering kali memerlukan bukti ilmiah dan teknis â€” seperti hasil uji laboratorium terhadap sampel air, udara, dan tanah; citra satelit yang menunjukkan perubahan tutupan lahan; data pemantauan emisi dan kualitas air secara kontinu; serta pendapat ahli di bidang toksikologi, ekologi, hidrologi, dan ilmu lingkungan lainnya.
 
 ### 5.6 Tantangan PPNS dalam Praktik
 
@@ -536,11 +536,11 @@ Pada 29 Mei 2006, terjadi semburan lumpur panas di lokasi pengeboran eksplorasi 
 
 **Jalur Hukum yang Ditempuh:**
 
-*Jalur Pidana:* Penyidikan tindak pidana terhadap PT Lapindo Brantas dilakukan tetapi menghadapi kendala pembuktian — khususnya terkait perdebatan ilmiah mengenai penyebab semburan (aktivitas pengeboran versus gempa bumi). Proses pidana berjalan sangat lambat dan tidak menghasilkan penghukuman pidana terhadap korporasi.
+*Jalur Pidana:* Penyidikan tindak pidana terhadap PT Lapindo Brantas dilakukan tetapi menghadapi kendala pembuktian â€” khususnya terkait perdebatan ilmiah mengenai penyebab semburan (aktivitas pengeboran versus gempa bumi). Proses pidana berjalan sangat lambat dan tidak menghasilkan penghukuman pidana terhadap korporasi.
 
 *Jalur Perdata:* Beberapa gugatan perdata diajukan oleh masyarakat korban. Mahkamah Agung melalui Putusan No. 2710 K/Pdt/2008 menolak gugatan perdata masyarakat. Masyarakat mengajukan *class action* ke Pengadilan Negeri Sidoarjo, tetapi tidak berhasil memperoleh putusan yang mengabulkan tuntutan ganti rugi.
 
-*Jalur Regulasi:* Pemerintah menangani kasus ini melalui pendekatan regulasi — Perpres No. 14/2007 yang kemudian diubah dengan Perpres No. 37/2012 — yang menetapkan kewajiban PT Lapindo Brantas untuk membeli tanah dan bangunan warga di area terdampak dengan pembayaran bertahap (20% tunai dan 80% melalui cicilan).
+*Jalur Regulasi:* Pemerintah menangani kasus ini melalui pendekatan regulasi â€” Perpres No. 14/2007 yang kemudian diubah dengan Perpres No. 37/2012 â€” yang menetapkan kewajiban PT Lapindo Brantas untuk membeli tanah dan bangunan warga di area terdampak dengan pembayaran bertahap (20% tunai dan 80% melalui cicilan).
 
 **Pelajaran:**
 Kasus Lapindo menunjukkan kelemahan penegakan hukum lingkungan Indonesia dalam menangani bencana lingkungan berskala besar: proses hukum yang lamban, sulitnya pembuktian kausalitas, dan kecenderungan penyelesaian melalui jalur politik/regulasi alih-alih jalur hukum yang memastikan pertanggungjawaban penuh.
@@ -570,7 +570,7 @@ PT Kaltim Prima Coal (KPC) adalah salah satu perusahaan tambang batu bara terbes
 KPC menghadapi berbagai tuntutan hukum terkait lingkungan, termasuk gugatan perdata dari masyarakat sekitar dan tindakan pengawasan dari instansi pemerintah. Perusahaan juga menjadi subjek sengketa pajak yang berkaitan dengan kewajiban lingkungannya. Di sisi lain, KPC termasuk perusahaan yang lahannya mengalami kebakaran berulang, menimbulkan pertanyaan mengenai kecukupan upaya pencegahan dan pengendalian kebakaran dalam areal konsesi.
 
 **Pelajaran:**
-Kasus KPC mengilustrasikan tantangan penegakan hukum lingkungan di sektor pertambangan — di mana kepentingan ekonomi (pendapatan daerah, lapangan kerja) sering kali bertentangan dengan kepentingan perlindungan lingkungan, dan di mana kapasitas penegakan hukum daerah tidak selalu memadai untuk mengawasi operasi pertambangan berskala besar.
+Kasus KPC mengilustrasikan tantangan penegakan hukum lingkungan di sektor pertambangan â€” di mana kepentingan ekonomi (pendapatan daerah, lapangan kerja) sering kali bertentangan dengan kepentingan perlindungan lingkungan, dan di mana kapasitas penegakan hukum daerah tidak selalu memadai untuk mengawasi operasi pertambangan berskala besar.
 
 ### 6.4 Kasus Kebakaran Hutan dan Lahan (Karhutla)
 
@@ -700,7 +700,7 @@ Pengakuan hak atas lingkungan hidup yang baik dan sehat sebagai hak konstitusion
 
 ### 10.2 Akses terhadap Keadilan Lingkungan
 
-Efektivitas penegakan hukum lingkungan sangat bergantung pada akses masyarakat terhadap keadilan (*access to justice*). Tiga pilar akses keadilan lingkungan — sebagaimana dirumuskan dalam Konvensi Aarhus 1998 — meliputi: akses terhadap informasi lingkungan, akses terhadap partisipasi publik dalam pengambilan keputusan lingkungan, dan akses terhadap keadilan (pengadilan) apabila hak-hak lingkungan dilanggar.
+Efektivitas penegakan hukum lingkungan sangat bergantung pada akses masyarakat terhadap keadilan (*access to justice*). Tiga pilar akses keadilan lingkungan â€” sebagaimana dirumuskan dalam Konvensi Aarhus 1998 â€” meliputi: akses terhadap informasi lingkungan, akses terhadap partisipasi publik dalam pengambilan keputusan lingkungan, dan akses terhadap keadilan (pengadilan) apabila hak-hak lingkungan dilanggar.
 
 Di Indonesia, akses terhadap keadilan lingkungan masih menghadapi beberapa hambatan: biaya litigasi yang tinggi dan tidak terjangkau oleh masyarakat miskin, ketiadaan mekanisme bantuan hukum khusus untuk perkara lingkungan, proses peradilan yang panjang dan berbelit, kesenjangan informasi dan pengetahuan hukum antara korporasi dan masyarakat, serta lokasi pengadilan yang jauh dari komunitas terdampak.
 
@@ -708,7 +708,7 @@ Beberapa inisiatif telah dilakukan untuk mengatasi hambatan ini, termasuk progra
 
 ### 10.3 Perlindungan Pembela Lingkungan (*Environmental Defenders*)
 
-Salah satu aspek kritis dalam penegakan hukum lingkungan adalah perlindungan terhadap aktivis dan pembela lingkungan yang sering kali menghadapi ancaman, intimidasi, dan kriminalisasi. Di Indonesia, terdapat sejumlah kasus di mana masyarakat atau aktivis yang memperjuangkan hak lingkungan justru dijerat dengan pasal pidana — baik melalui UU ITE, pasal pencemaran nama baik, maupun pasal-pasal lain dalam KUHP. Fenomena ini dikenal sebagai *strategic lawsuit against public participation* (SLAPP).
+Salah satu aspek kritis dalam penegakan hukum lingkungan adalah perlindungan terhadap aktivis dan pembela lingkungan yang sering kali menghadapi ancaman, intimidasi, dan kriminalisasi. Di Indonesia, terdapat sejumlah kasus di mana masyarakat atau aktivis yang memperjuangkan hak lingkungan justru dijerat dengan pasal pidana â€” baik melalui UU ITE, pasal pencemaran nama baik, maupun pasal-pasal lain dalam KUHP. Fenomena ini dikenal sebagai *strategic lawsuit against public participation* (SLAPP).
 
 Meskipun UU 32/2009 melalui Pasal 66 memberikan perlindungan hukum bahwa "setiap orang yang memperjuangkan hak atas lingkungan hidup yang baik dan sehat tidak dapat dituntut secara pidana maupun digugat secara perdata," implementasi ketentuan anti-SLAPP ini masih belum konsisten dalam praktik peradilan.
 
@@ -799,7 +799,7 @@ Path: `regulationvault/05_ACTIVE/UU/2009/UU_32_2009/`
 - **PERMA No. 1/2002** tentang Acara Gugatan Perwakilan Kelompok
 - **PERMA No. 6/2018** tentang Pedoman Penyelesaian Sengketa Administrasi Pemerintahan
 - **SK KMA No. 134/KMA/SK/IX/2011** tentang Sertifikasi Hakim Lingkungan Hidup
-- **KUHPerdata Pasal 1365** — Perbuatan Melawan Hukum
+- **KUHPerdata Pasal 1365** â€” Perbuatan Melawan Hukum
 
 ### Referensi Regulasi Lengkap
 - [[_referensi/REGULATION_INDEX|Indeks Regulasi Lingkungan]]
@@ -822,6 +822,7 @@ Path: `regulationvault/05_ACTIVE/UU/2009/UU_32_2009/`
 ---
 
 **Navigasi:**
-- [[07_Tanggung_Jawab_Mutlak|← Tanggung Jawab Mutlak]]
-- [[README|↑ Index]]
-- [[09_Hukum_Lingkungan_Internasional|Hukum Lingkungan Internasional →]]
+- [[07_Tanggung_Jawab_Mutlak|â† Tanggung Jawab Mutlak]]
+- [[README|â†‘ Index]]
+- [[09_Hukum_Lingkungan_Internasional|Hukum Lingkungan Internasional â†’]]
+
