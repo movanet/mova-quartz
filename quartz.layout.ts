@@ -40,11 +40,11 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       mapFn: (node) => {
-        // Clean up folder display names: "06-PerubahanIklim" → "Perubahan Iklim"
+        // Clean up folder display names from index.md titles to shorter labels
         const folderMap: Record<string, string> = {
-          "01-Lingkungan": "Hukum Lingkungan",
-          "06-PerubahanIklim": "Perubahan Iklim",
-          "07-IntLaw": "International Law",
+          "Hukum Lingkungan - Materi Pembelajaran": "Hukum Lingkungan",
+          "Buku Ajar Hukum Perubahan Iklim": "Perubahan Iklim",
+          "Hukum Internasional - Bahan Ajar": "Hukum Internasional",
         }
         if (node.isFolder && folderMap[node.displayName]) {
           node.displayName = folderMap[node.displayName]
@@ -76,11 +76,11 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       mapFn: (node) => {
-        // Clean up folder display names: "06-PerubahanIklim" → "Perubahan Iklim"
+        // Clean up folder display names from index.md titles to shorter labels
         const folderMap: Record<string, string> = {
-          "01-Lingkungan": "Hukum Lingkungan",
-          "06-PerubahanIklim": "Perubahan Iklim",
-          "07-IntLaw": "International Law",
+          "Hukum Lingkungan - Materi Pembelajaran": "Hukum Lingkungan",
+          "Buku Ajar Hukum Perubahan Iklim": "Perubahan Iklim",
+          "Hukum Internasional - Bahan Ajar": "Hukum Internasional",
         }
         if (node.isFolder && folderMap[node.displayName]) {
           node.displayName = folderMap[node.displayName]
