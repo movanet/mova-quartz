@@ -38,7 +38,19 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        // Clean up folder display names: "06-PerubahanIklim" → "Perubahan Iklim"
+        const folderMap: Record<string, string> = {
+          "01-Lingkungan": "Hukum Lingkungan",
+          "06-PerubahanIklim": "Perubahan Iklim",
+          "07-IntLaw": "International Law",
+        }
+        if (node.isFolder && folderMap[node.displayName]) {
+          node.displayName = folderMap[node.displayName]
+        }
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +74,19 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        // Clean up folder display names: "06-PerubahanIklim" → "Perubahan Iklim"
+        const folderMap: Record<string, string> = {
+          "01-Lingkungan": "Hukum Lingkungan",
+          "06-PerubahanIklim": "Perubahan Iklim",
+          "07-IntLaw": "International Law",
+        }
+        if (node.isFolder && folderMap[node.displayName]) {
+          node.displayName = folderMap[node.displayName]
+        }
+      },
+    }),
   ],
   right: [],
 }
