@@ -2,14 +2,13 @@
 
 ## Project Overview
 
-**mova-quartz** is a Quartz v4-based static site generator for publishing Obsidian notes to the web. The site is deployed on Netlify with password-protected sections using Edge Functions.
+**mova-quartz** is a Quartz v4-based static site generator for publishing Obsidian notes to the web. The site is deployed on Netlify.
 
 | Component | Technology |
 |-----------|------------|
 | Static Site Generator | Quartz v4.5.2 |
 | Content Source | Obsidian Markdown |
 | Hosting | Netlify |
-| Authentication | Netlify Edge Functions (Basic Auth) |
 | Version Control | GitHub |
 | Build System | Node.js 22+ |
 
@@ -23,7 +22,8 @@
 | **Netlify URL** | https://mova-quartz.netlify.app |
 | **GitHub Repo** | https://github.com/movanet/mova-quartz |
 | **Netlify Dashboard** | https://app.netlify.com/projects/mova-quartz |
-| **Protected Content** | https://note.alafghani.info/perubahan-iklim/ |
+| **Perubahan Iklim** | https://note.alafghani.info/06-PerubahanIklim/ |
+| **International Law** | https://note.alafghani.info/07-IntLaw/ |
 
 ---
 
@@ -33,34 +33,14 @@
 mova-quartz/
 ├── content/                          # Source markdown files (Obsidian notes)
 │   ├── index.md                      # Home page
-│   └── perubahan-iklim/              # Protected climate law course (22 files)
-│       ├── index.md                  # Course landing page
-│       ├── Tinjauan-Mata-Kuliah.md   # Course overview
-│       ├── BAB 1 -- Pengantar Hukum Perubahan Iklim --.md
-│       ├── BAB 2 -- Prinsip-Prinsip Hukum Lingkungan Internasional --.md
-│       ├── BAB 3 -- Arsitektur Rezim Iklim Internasional --.md
-│       ├── BAB 4 -- Kewajiban Mitigasi dalam Hukum Internasional --.md
-│       ├── BAB 5 -- Hukum Adaptasi Perubahan Iklim --.md
-│       ├── BAB 6 -- Pendanaan dan Mekanisme Iklim --.md
-│       ├── BAB 7 -- Kerangka Hukum Iklim Indonesia --.md
-│       ├── BAB 8 -- Nilai Ekonomi Karbon dan Bursa Karbon --.md
-│       ├── BAB 9 -- Studi Perbandingan Hukum Iklim --.md
-│       ├── BAB 10 -- Hukum Iklim Sektoral --.md
-│       ├── BAB 11 -- Litigasi Perubahan Iklim --.md
-│       ├── BAB 12 -- Masa Depan Hukum Perubahan Iklim --.md
-│       ├── BAB 13 -- Kerangka Hukum Adaptasi Internasional --.md
-│       ├── BAB 14 -- Hukum Adaptasi Sektoral Indonesia --.md
-│       ├── BAB 15 -- Loss and Damage dalam Hukum Iklim --.md
-│       ├── BAB 16 -- Litigasi Perubahan Iklim --.md
-│       ├── Daftar-Pustaka.md         # Bibliography
-│       ├── Glosarium.md              # Glossary
-│       ├── Indeks.md                 # Index
-│       └── Lampiran-04-Kunci-Jawaban.md  # Answer key
+│   ├── 01-Lingkungan/                # Environmental law course
+│   ├── 06-PerubahanIklim/            # Climate law course (22 files, BAB 1-16 + supplements)
+│   ├── 07-IntLaw/                    # International law course (12 chapters)
+│   └── rpjmn/                        # RPJMN 2025-2029 materials
 ├── quartz/                           # Quartz framework code (do not edit)
 ├── public/                           # Built output (generated, gitignored)
 ├── netlify/                          # Netlify configurations
-│   └── edge-functions/
-│       └── auth.ts                   # Basic Auth edge function
+│   └── edge-functions/               # (currently empty — Basic Auth removed 2026-04-12)
 ├── DOCUMENTATIONS/                   # Project documentation
 │   ├── Setup and Credentials.md      # Account info and credentials
 │   ├── Quartz Configuration.md       # Quartz config guide
@@ -71,7 +51,7 @@ mova-quartz/
 │       └── quartz-publisher/         # Custom publish plugin
 ├── netlify.toml                      # Netlify build configuration
 ├── quartz.config.ts                  # Quartz site configuration
-├── quartz.layout.ts                  # Layout configuration
+├── quartz.layout.ts                  # Layout configuration (includes Explorer mapFn)
 ├── package.json                      # Node.js dependencies
 └── CLAUDE.md                         # This file
 ```
@@ -103,94 +83,71 @@ npx quartz build
 
 ## Deployment
 
-### Method 1: Automatic (GitHub Push)
+### Method 1: Netlify CLI (Primary — git-triggered builds are broken)
 
-Push to `v4` branch triggers automatic Netlify build:
+**IMPORTANT:** Netlify's GitHub integration is broken for this repo (host key verification failed). All deploys must be done via the Netlify CLI locally.
 
 ```bash
+cd C:\Users\mova\obsidian\mova-quartz
+
+# Commit and push to git first
 git add .
 git commit -m "Update content"
 git push origin v4
-# Netlify automatically builds and deploys
+
+# Then deploy via CLI (this is the ONLY way that works)
+netlify deploy --build --prod
 ```
 
-### Method 2: Netlify CLI (Manual)
+The build takes ~2 minutes (Quartz build + CDN upload).
 
-```bash
-# Build and deploy in one command
-npx netlify-cli deploy --build --prod
-
-# Or separate steps
-npx quartz build
-npx netlify-cli deploy --dir=public --prod
-```
-
-### Method 3: Netlify API
-
-```bash
-# Trigger build via API
-curl -X POST \
-  -H "Authorization: Bearer nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815" \
-  "https://api.netlify.com/api/v1/sites/mova-quartz.netlify.app/builds"
-```
-
-### Method 4: Obsidian Plugin
+### Method 2: Obsidian Plugin
 
 1. Open note in Obsidian
 2. Press `Ctrl+P` → "Publish current note to Quartz"
-3. Plugin handles git commit, push, build, and deploy
+3. Plugin handles git commit and push (still needs manual `netlify deploy --build --prod`)
 
 ---
 
-## Protected Content
+## Content Folders (Teaching Materials)
 
-The `/perubahan-iklim/` path is password-protected using Netlify Edge Functions with HTTP Basic Auth.
+Course folders follow a numbered naming convention (`0x-Name`):
 
-### Access Credentials
+| Folder | Subject | Files |
+|--------|---------|-------|
+| `01-Lingkungan` | Hukum Lingkungan (Environmental Law) | 20+ files |
+| `06-PerubahanIklim` | Hukum Perubahan Iklim (Climate Change Law) | 22 files (BAB 1-16 + supplements) |
+| `07-IntLaw` | Hukum Internasional (International Law) | 14 files (12 chapters + READMEs) |
 
-| Field | Value |
-|-------|-------|
-| **URL** | https://note.alafghani.info/perubahan-iklim/ |
-| **Username** | `fhuika` |
-| **Password** | `fhuika2026` |
+All content is publicly accessible (no authentication). Each folder has an `index.md` with a descriptive title in frontmatter.
 
-### How It Works
+### Explorer Sidebar Display Names
 
-1. User navigates to `/perubahan-iklim/*`
-2. Edge function `netlify/edge-functions/auth.ts` intercepts request
-3. If no valid `Authorization` header, returns 401 with login prompt
-4. Browser shows Basic Auth dialog
-5. On valid credentials, request continues to content
+The Explorer sidebar uses a `mapFn` in `quartz.layout.ts` to override long index.md titles with the numbered folder names. This ensures the Explorer shows `01-Lingkungan`, `06-PerubahanIklim`, `07-IntLaw` instead of verbose titles like "Buku Ajar Hukum Perubahan Iklim".
 
-### Configuration Files
+**How it works:** Quartz's Explorer resolves folder `displayName` via a priority chain: `displayNameOverride` > index.md title > folder slug. For folders with an index.md that has a `title` frontmatter, the long title wins by default. The `mapFn` sets `displayNameOverride` to the numbered folder name.
 
-**Edge Function:** `netlify/edge-functions/auth.ts`
 ```typescript
-const VALID_USERNAME = Deno.env.get("AUTH_USERNAME") || "fhuika";
-const VALID_PASSWORD = Deno.env.get("AUTH_PASSWORD") || "fhuika2026";
-
-export const config = {
-  path: "/perubahan-iklim/*",
-};
+// In quartz.layout.ts — both Explorer instances (contentPage + listPage)
+Component.Explorer({
+  mapFn: (node) => {
+    const folderMap: Record<string, string> = {
+      "Hukum Lingkungan - Materi Pembelajaran": "01-Lingkungan",
+      "Buku Ajar Hukum Perubahan Iklim": "06-PerubahanIklim",
+      "Hukum Internasional - Bahan Ajar": "07-IntLaw",
+    }
+    if (node.isFolder && folderMap[node.displayName]) {
+      node.displayName = folderMap[node.displayName]
+    }
+  },
+})
 ```
 
-**Netlify Config:** `netlify.toml`
-```toml
-[[edge_functions]]
-  path = "/perubahan-iklim/*"
-  function = "auth"
+**When adding new course folders:** Add the index.md title → desired folder name mapping to BOTH Explorer instances in `quartz.layout.ts` (one in `defaultContentPageLayout`, one in `defaultListPageLayout`).
 
-[[headers]]
-  for = "/perubahan-iklim/*"
-  [headers.values]
-    Cache-Control = "private, no-cache, no-store, must-revalidate"
-```
+### Note on Basic Auth (removed 2026-04-12)
 
-### Override Credentials
-
-Set environment variables in Netlify Dashboard to override defaults:
-- `AUTH_USERNAME` - Custom username
-- `AUTH_PASSWORD` - Custom password
+Basic Auth via Netlify Edge Functions was previously used to protect `/perubahan-iklim/` (now `/06-PerubahanIklim/`). It was removed on 2026-04-12. The edge function `netlify/edge-functions/auth.ts` was deleted and the related `netlify.toml` entries were removed. To re-add auth protection for any path, create a new edge function and register it in `netlify.toml`.
 
 ---
 
@@ -240,8 +197,6 @@ Set in: Netlify Dashboard → Site Settings → Environment Variables
 
 | Variable | Purpose | Default |
 |----------|---------|---------|
-| `AUTH_USERNAME` | Protected content username | `fhuika` |
-| `AUTH_PASSWORD` | Protected content password | `fhuika2026` |
 | `NODE_VERSION` | Node.js version for builds | `22` |
 
 ### Local Environment
@@ -261,27 +216,13 @@ Git credentials are managed by Windows Credential Manager.
 3. Run `npx quartz build --serve` to preview
 4. Push to GitHub or deploy via Netlify CLI
 
-### Add New Protected Section
+### Add New Course Folder
 
-1. Create folder under `content/`
-2. Add path to `netlify.toml`:
-   ```toml
-   [[edge_functions]]
-     path = "/new-section/*"
-     function = "auth"
-
-   [[headers]]
-     for = "/new-section/*"
-     [headers.values]
-       Cache-Control = "private, no-cache, no-store, must-revalidate"
-   ```
-3. Update `netlify/edge-functions/auth.ts`:
-   ```typescript
-   export const config = {
-     path: ["/perubahan-iklim/*", "/new-section/*"],
-   };
-   ```
-4. Deploy
+1. Create folder under `content/` using naming convention `0x-Name`
+2. Add `index.md` with `publish: true` and a descriptive `title` in frontmatter
+3. Add all chapter files with `publish: true`
+4. Update `quartz.layout.ts` — add the index.md title → folder name mapping to BOTH Explorer `mapFn` instances
+5. Commit, push, and deploy with `netlify deploy --build --prod`
 
 ### Check Build Status
 
@@ -304,14 +245,14 @@ npx netlify-cli link
 # Select "mova-quartz"
 ```
 
-### Test Protected Content
+### Verify Site After Deploy
 
 ```bash
-# Without auth (should return 401)
-curl -I https://note.alafghani.info/perubahan-iklim/
+# Check sitemap for expected URLs
+curl -s https://note.alafghani.info/sitemap.xml | grep "06-PerubahanIklim"
 
-# With auth (should return 200)
-curl -u fhuika:fhuika2026 https://note.alafghani.info/perubahan-iklim/
+# Check a specific page loads (should return 200)
+curl -I https://note.alafghani.info/06-PerubahanIklim/
 ```
 
 ---
@@ -358,9 +299,9 @@ Quartz converts file names to URL slugs:
 
 | File Name | URL Path |
 |-----------|----------|
-| `BAB 1 -- Pengantar Hukum Perubahan Iklim --.md` | `/perubahan-iklim/bab-1----pengantar-hukum-perubahan-iklim---` |
-| `Tinjauan-Mata-Kuliah.md` | `/perubahan-iklim/tinjauan-mata-kuliah` |
-| `index.md` | `/perubahan-iklim/` |
+| `BAB 1 -- Pengantar Hukum Perubahan Iklim --.md` | `/06-PerubahanIklim/BAB-1----Pengantar-Hukum-Perubahan-Iklim---` |
+| `Tinjauan-Mata-Kuliah.md` | `/06-PerubahanIklim/Tinjauan-Mata-Kuliah` |
+| `index.md` | `/06-PerubahanIklim/` |
 
 **Rules:**
 - Spaces → `-`
@@ -379,18 +320,9 @@ Quartz converts file names to URL slugs:
 3. Check files exist in `public/` after build
 4. Clear browser cache or use incognito mode
 
-### Protected Content Not Working
+### Explorer Showing Wrong Folder Names
 
-1. Verify edge function deployed: Check Netlify Functions tab
-2. Test with curl:
-   ```bash
-   curl -I https://note.alafghani.info/perubahan-iklim/
-   # Should return 401 Unauthorized
-
-   curl -u fhuika:fhuika2026 https://note.alafghani.info/perubahan-iklim/
-   # Should return 200 OK
-   ```
-3. Check environment variables in Netlify dashboard
+The Explorer sidebar display names are controlled by the `mapFn` in `quartz.layout.ts`. Quartz resolves folder `displayName` via: `displayNameOverride` > index.md title > folder slug. If a folder's index.md has a `title` field, that title will show unless overridden by the mapFn. Update the `folderMap` in BOTH Explorer instances in `quartz.layout.ts`.
 
 ### Build Failing
 
@@ -410,9 +342,9 @@ npx quartz build
 
 ### Git Push Not Triggering Deploy
 
-1. Verify GitHub webhook in Netlify: Dashboard → Deploys → Deploy Settings
-2. Check branch is `v4`
-3. Manually trigger: `npx netlify-cli deploy --build --prod`
+**Known issue:** Netlify's GitHub integration is broken for this repo (host key verification failed). Git-triggered builds do NOT work. All previous successful deploys have `commit_ref: null` confirming they were manual CLI uploads.
+
+**Workaround:** Always deploy via `netlify deploy --build --prod` from the local machine after pushing to git.
 
 ### Wikilinks Not Working
 
@@ -453,6 +385,12 @@ npx quartz build
 
 | Date | Change |
 |------|--------|
+| 2026-04-12 | Renamed `perubahan-iklim/` → `06-PerubahanIklim/` (numbered folder convention) |
+| 2026-04-12 | Added `07-IntLaw/` international law course materials (12 chapters) |
+| 2026-04-12 | Removed Basic Auth from 06-PerubahanIklim (deleted edge function + netlify.toml entries) |
+| 2026-04-12 | Added Explorer `mapFn` in `quartz.layout.ts` to show numbered folder names instead of index.md titles |
+| 2026-04-12 | Updated all internal wikilinks from `perubahan-iklim` → `06-PerubahanIklim` |
+| 2026-04-12 | Discovered Netlify git-triggered builds are broken; must use `netlify deploy --build --prod` |
 | 2026-01-05 | Restructured perubahan-iklim to flat structure with titled BAB files |
 | 2026-01-05 | Changed baseUrl to note.alafghani.info |
 | 2026-01-05 | Added Netlify API token for programmatic access |
