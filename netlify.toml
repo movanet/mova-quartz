@@ -37,13 +37,3 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
 
-# Edge Function for protected content (Basic Auth)
-[[edge_functions]]
-  path = "/06-PerubahanIklim/*"
-  function = "auth"
-
-# Disable caching for protected content
-[[headers]]
-  for = "/06-PerubahanIklim/*"
-  [headers.values]
-    Cache-Control = "private, no-cache, no-store, must-revalidate"
