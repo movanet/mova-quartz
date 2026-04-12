@@ -29,5 +29,5 @@ export default async (request: Request, context: Context) => {
 };
 
 export const config = {
-  path: "/perubahan-iklim/*",
+  path: "/06-PerubahanIklim/*",
 };
