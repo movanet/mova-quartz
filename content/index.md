@@ -20,4 +20,7 @@ This site is still under development as I transition from other blogging platfor
 ## Content
 
 - [[01-Lingkungan/README_Navigation|Environmental Law Course Materials]]
+- **Ekologi Politik (Studi Kasus Film *Pesta Babi*)** — materi terlindungi password. Buka langsung di **[note.alafghani.info/EkologiPolitik](https://note.alafghani.info/EkologiPolitik/)** dan masukkan kata sandi dari pengajar.
+
+> **Catatan akses.** Untuk materi yang dilindungi password, gunakan tautan langsung di atas (bukan navigasi dari halaman ini). Browser akan meminta nama pengguna (isi bebas) dan kata sandi.
 
