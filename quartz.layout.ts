@@ -45,6 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
           "Hukum Lingkungan - Materi Pembelajaran": "01-Lingkungan",
           "Buku Ajar Hukum Perubahan Iklim": "06-PerubahanIklim",
           "Hukum Internasional - Bahan Ajar": "07-IntLaw",
+          "Ekologi Politik — Studi Kasus Film Pesta Babi": "EkologiPolitik",
         }
         if (node.isFolder && folderMap[node.displayName]) {
           node.displayName = folderMap[node.displayName]
@@ -81,6 +82,7 @@ export const defaultListPageLayout: PageLayout = {
           "Hukum Lingkungan - Materi Pembelajaran": "01-Lingkungan",
           "Buku Ajar Hukum Perubahan Iklim": "06-PerubahanIklim",
           "Hukum Internasional - Bahan Ajar": "07-IntLaw",
+          "Ekologi Politik — Studi Kasus Film Pesta Babi": "EkologiPolitik",
         }
         if (node.isFolder && folderMap[node.displayName]) {
           node.displayName = folderMap[node.displayName]
