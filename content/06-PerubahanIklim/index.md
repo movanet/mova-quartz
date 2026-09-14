@@ -80,6 +80,16 @@ Mulai dengan memahami konteks dan tujuan pembelajaran:
 
 ---
 
+## Naskah Kuliah
+
+Empat belas naskah kuliah naratif, satu untuk tiap pertemuan, ditulis untuk dibaca maupun
+didengarkan sebagai kuliah audio sepuluh sampai dua belas menit.
+
+- [[Naskah-Kuliah/index|Naskah Kuliah Hukum Perubahan Iklim]] - alur argumen tiap pertemuan, pelengkap buku ajar
+- [[Kuliah-Audio|Kuliah Audio Hukum Perubahan Iklim]] - 52 rekaman pendek, tiga sampai lima menit, satu halaman untuk seluruh mata kuliah
+
+---
+
 ## Materi Pendukung
 
 ### Referensi
@@ -101,5 +111,7 @@ Mulai dengan memahami konteks dan tujuan pembelajaran:
 2. **Mahasiswa S2/S3**: Pelajari seluruh bab dengan pendalaman pada BAB 4-6 dan 9
 3. **Praktisi**: Gunakan sebagai referensi untuk kasus-kasus spesifik
 
-> **Catatan**: Materi ini dilindungi password. Hubungi pengajar untuk akses.
+> **Catatan**: Materi ini terbuka untuk umum. Buku ajar dan naskah kuliah boleh dibaca,
+> dikutip, dan dipakai untuk keperluan pembelajaran dengan menyebutkan sumber.
+> Untuk pertanyaan mengenai mata kuliah, hubungi pengajar.
 
