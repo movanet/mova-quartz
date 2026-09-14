@@ -24,6 +24,8 @@ Naskah ini **melengkapi**, bukan menggantikan, [[06-PerubahanIklim/index|Buku Aj
 belas bab. Buku ajar memuat uraian lengkap, tabel, bagan, latihan, dan tes formatif.
 Naskah kuliah memuat alur argumennya.
 
+Tersedia pula versi audionya: [[06-PerubahanIklim/Kuliah-Audio|Kuliah Audio]], berisi 52 rekaman pendek berdurasi tiga sampai lima menit. Naskah audio itu ditulis terpisah dari naskah di halaman ini, dengan kalimat yang lebih pendek dan contoh yang lebih banyak, sebab ia disusun untuk didengarkan sekali jalan.
+
 ---
 
 ## Bagian I — Landasan

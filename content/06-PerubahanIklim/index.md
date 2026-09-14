@@ -86,6 +86,7 @@ Empat belas naskah kuliah naratif, satu untuk tiap pertemuan, ditulis untuk diba
 didengarkan sebagai kuliah audio sepuluh sampai dua belas menit.
 
 - [[Naskah-Kuliah/index|Naskah Kuliah Hukum Perubahan Iklim]] - alur argumen tiap pertemuan, pelengkap buku ajar
+- [[Kuliah-Audio|Kuliah Audio Hukum Perubahan Iklim]] - 52 rekaman pendek, tiga sampai lima menit, satu halaman untuk seluruh mata kuliah
 
 ---
 
