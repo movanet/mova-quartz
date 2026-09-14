@@ -116,7 +116,7 @@ Litigasi iklim dapat dikategorikan berdasarkan tergugat, dasar hukum, atau tujua
 
 [^6]: van Zeben J dan Rowell A (eds), *A Guide to EU Environmental Law* (University of California Press 2021) 350-370.
 [^7]: [Milieudefensie et al v Royal Dutch Shell](https://climatecasechart.com/non-us-case/milieudefensie-et-al-v-royal-dutch-shell-plc/) plc, ECLI:NL:RBDHA:2021:5339 (Rechtbank Den Haag, 26 May 2021).
-[^8]: Preston BJ, 'The Contribution of the Courts in Tackling Climate Change' (2016) 28 Journal of Environmental Law 11, 15-25.
+[^8]: Preston BJ, '[The Contribution of the Courts in Tackling Climate Change](https://doi.org/10.1093/jel/eqw004)' (2016) 28 Journal of Environmental Law 11, 15-25.
 [^9]: Setzer dan Higham (n 2) 25-30.
 
 ---
@@ -171,7 +171,7 @@ Pengadilan menetapkan bahwa Shell memiliki kewajiban *unwritten standard of care
 - Saat ini dalam proses banding[^17]
 
 [^14]: Ganguly, Setzer dan Heyvaert (n 5) 860-870.
-[^15]: Stuart-Smith RF et al, 'Filling the evidentiary gap in climate litigation' (2021) 11 Nature Climate Change 651.
+[^15]: Stuart-Smith RF et al, '[Filling the evidentiary gap in climate litigation](https://doi.org/10.1038/s41558-021-01086-7)' (2021) 11 Nature Climate Change 651.
 [^16]: Milieudefensie v Shell (n 7).
 [^17]: Shell mengajukan banding pada Juni 2021; putusan banding diharapkan 2024-2025.
 

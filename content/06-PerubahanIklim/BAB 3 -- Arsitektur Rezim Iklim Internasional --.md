@@ -598,7 +598,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^10]: UNFCCC (n 1) art 3.
 
-[^11]: Lavanya Rajamani, 'The Principle of Common but Differentiated Responsibility and the Balance of Commitments under the Climate Regime' (2000) 9 Review of European Community and International Environmental Law 120, 121-125.
+[^11]: Lavanya Rajamani, '[The Principle of Common but Differentiated Responsibility and the Balance of Commitments under the Climate Regime](https://doi.org/10.1111/1467-9388.00243)' (2000) 9 Review of European Community and International Environmental Law 120, 121-125.
 
 [^12]: Lavanya Rajamani, 'Ambition and Differentiation in the 2015 [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement): Interpretative Possibilities and Underlying Politics' (2016) 65 International and Comparative Law Quarterly 493, 495-500.
 

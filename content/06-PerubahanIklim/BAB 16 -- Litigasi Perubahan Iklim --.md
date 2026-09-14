@@ -783,11 +783,11 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^17]: Constitutional Court of Korea, 2020Hun-Ma389 (29 August 2024); [Sabin Center](https://climatecasechart.com/) for Climate Change Law, 'Constitutional Court of Korea Rules Climate Law is Partially Unconstitutional' (Climate Law Blog, 30 August 2024).
 
-[^18]: Stuart-Smith RF and others, 'Filling the Evidentiary Gap in Climate Litigation' (2021) 11 Nature Climate Change 651.
+[^18]: Stuart-Smith RF and others, '[Filling the Evidentiary Gap in Climate Litigation](https://doi.org/10.1038/s41558-021-01086-7)' (2021) 11 Nature Climate Change 651.
 
 [^19]: World Weather Attribution, [Scientific Methods](https://www.worldweatherattribution.org/about/scientific-methods/) accessed 15 December 2025; Philip S and others, 'Rapid Attribution Analysis of the Extraordinary Heat Wave on the Pacific Coast of the US and Canada in June 2021' (2022) 13 Earth System Dynamics 1689.
 
-[^20]: Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup, Pasal 91-92.
+[^20]: [Undang-Undang Nomor 32 Tahun 2009](https://peraturan.go.id/id/uu-no-32-tahun-2009) tentang Perlindungan dan Pengelolaan Lingkungan Hidup, Pasal 91-92.
 
 [^21]: Wibisana AG, 'Climate Change Litigation in Indonesia: Between Hope and Reality' (2023) 20 Indonesian Journal of International Law 45.
 

@@ -579,9 +579,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^4]: Bodansky, Brunnée and Rajamani (n 1) 18-22.
 
-[^5]: Daniel Bodansky, 'The Paris Climate Change Agreement: A New Hope?' (2016) 110 AJIL 288, 295.
+[^5]: Daniel Bodansky, '[The Paris Climate Change Agreement: A New Hope?](https://doi.org/10.5305/amerjintelaw.110.2.0288)' (2016) 110 AJIL 288, 295.
 
-[^6]: Joeri Rogelj and others, 'Estimating and Tracking the Remaining Carbon Budget for Stringent Climate Targets' (2019) 571 Nature 335.
+[^6]: Joeri Rogelj and others, '[Estimating and Tracking the Remaining Carbon Budget for Stringent Climate Targets](https://doi.org/10.1038/s41586-019-1368-z)' (2019) 571 Nature 335.
 
 [^7]: IPCC, 'Summary for Policymakers' in *Climate Change 2021: The Physical Science Basis* (CUP 2021) SPM-36.
 
@@ -615,9 +615,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^22]: Rajamani (n 19) 350-355.
 
-[^23]: Annalisa Savaresi and Joana Setzer, 'Rights-Based Litigation in the Climate Emergency: Mapping the Landscape and New Knowledge Frontiers' (2022) 13 JHRE 7, 12-15.
+[^23]: Annalisa Savaresi and Joana Setzer, '[Rights-Based Litigation in the Climate Emergency: Mapping the Landscape and New Knowledge Frontiers](https://doi.org/10.4337/jhre.2022.01.01)' (2022) 13 JHRE 7, 12-15.
 
-[^24]: Michael Mehling and others, 'Designing Border Carbon Adjustments for Enhanced Climate Action' (2019) 113 AJIL 433.
+[^24]: Michael Mehling and others, '[Designing Border Carbon Adjustments for Enhanced Climate Action](https://doi.org/10.1017/ajil.2019.22)' (2019) 113 AJIL 433.
 
 [^25]: Harro van Asselt, 'Governing Fossil Fuel Production in the Age of Climate Disruption' in Kati Kulovesi and Meinhard Doelle (eds), *The International Climate Regime* (CUP 2021) 155.
 
@@ -647,7 +647,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^38]: Committee on the Rights of the Child, 'General Comment No 26 on Children's Rights and the Environment with a Special Focus on Climate Change' (22 August 2023) UN Doc CRC/C/GC/26.
 
-[^39]: Robert P Barnidge Jr, 'The Due Diligence Principle under International Law' (2006) 8 ICLR 81.
+[^39]: Robert P Barnidge Jr, '[The Due Diligence Principle under International Law](https://doi.org/10.1163/187197306779173194)' (2006) 8 ICLR 81.
 
 [^40]: ITLOS, *Request for an Advisory Opinion Submitted by the Commission of Small Island States on Climate Change and International Law* (Advisory Opinion, 21 May 2024) ITLOS Case No 31 paras 135-156.
 
@@ -655,7 +655,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^42]: Mayer (n 2) 234-256.
 
-[^43]: Joana Setzer and Lisa Benjamin, 'Climate Litigation in the Global South: Constraints and Innovations' (2020) 9 TEL 77.
+[^43]: Joana Setzer and Lisa Benjamin, '[Climate Litigation in the Global South: Constraints and Innovations](https://doi.org/10.1017/s2047102519000268)' (2020) 9 TEL 77.
 
 [^44]: *[Neubauer](https://climatecasechart.com/non-us-case/neubauer-et-al-v-germany/) and Others v Germany* (Bundesverfassungsgericht, 24 March 2021) 1 BvR 2656/18 paras 183-198.
 
@@ -663,7 +663,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^46]: ibid arts 30-31.
 
-[^47]: Christina Voigt, 'State Responsibility for Climate Change Damages' (2008) 77 Nordic JIL 1.
+[^47]: Christina Voigt, '[State Responsibility for Climate Change Damages](https://doi.org/10.1163/090273508x290672)' (2008) 77 Nordic JIL 1.
 
 [^48]: See eg *Verein [KlimaSeniorinnen](https://climatecasechart.com/non-us-case/union-of-swiss-senior-women-for-climate-protection-v-swiss-federal-council-and-others/) Schweiz and Others v Switzerland* App no 53600/20 (ECtHR, pending); *Advisory Opinion OC-23/17* (IACtHR, 15 November 2017).
 

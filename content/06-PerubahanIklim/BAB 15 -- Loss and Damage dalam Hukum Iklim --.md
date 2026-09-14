@@ -661,7 +661,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^9]: Decision 1/CP.21, 'Adoption of the [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement)' (30 November - 13 December 2015) FCCC/CP/2015/10/Add.1, para 51.
 
-[^10]: Benoit Mayer, 'Climate Change Reparations and the Law and Practice of State Responsibility' (2017) 7 Asian Journal of International Law 185, 192-195.
+[^10]: Benoit Mayer, '[Climate Change Reparations and the Law and Practice of State Responsibility](https://doi.org/10.1017/s2044251315000351)' (2017) 7 Asian Journal of International Law 185, 192-195.
 
 [^11]: Decision 5/CMA.5, 'Operationalization of the New Funding Arrangements, Including the Fund, for Responding to Loss and Damage' (30 November - 12 December 2023) FCCC/PA/CMA/2023/16/Add.1.
 

@@ -210,7 +210,7 @@ Hukum perubahan iklim adalah bidang yang dinamis dan terus berkembang. Sebagai c
 
 [^9]: IPCC, 'Global Warming of 1.5°C: An IPCC Special Report on the Impacts of Global Warming of 1.5°C above Pre-industrial Levels' (Cambridge University Press 2018) ch 4.
 
-[^10]: Daniel Huppmann and others, 'The Role of Artificial Intelligence in Achieving the Sustainable Development Goals' (2019) 10 Nature Communications 4308.
+[^10]: Daniel Huppmann and others, '[The Role of Artificial Intelligence in Achieving the Sustainable Development Goals](https://doi.org/10.1038/s41467-019-14108-y)' (2019) 10 Nature Communications 4308.
 
 [^11]: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) [2024] OJ L1689/1.
 

@@ -566,7 +566,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^1]: IPCC, *[Climate Change 2023: Synthesis Report](https://www.ipcc.ch/report/ar6/syr/). Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change* (IPCC 2023) 4-5.
 
-[^2]: Myles R Allen and others, 'Warming Caused by Cumulative Carbon Emissions towards the Trillionth Tonne' (2009) 458 Nature 1163, 1165.
+[^2]: Myles R Allen and others, '[Warming Caused by Cumulative Carbon Emissions towards the Trillionth Tonne](https://doi.org/10.1038/nature08019)' (2009) 458 Nature 1163, 1165.
 
 [^3]: IPCC, *Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of [Working Group II](https://www.ipcc.ch/report/ar6/wg2/) to the Fifth Assessment Report* (CUP 2014) 1758.
 
@@ -576,13 +576,13 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^6]: Jonathan Verschuuren (ed), *Research Handbook on Climate Change Adaptation Law* (Edward Elgar 2013) 3-15.
 
-[^7]: Saleemul Huq and others, 'Mainstreaming Adaptation to Climate Change in Least Developed Countries (LDCs)' (2003) 3 Climate Policy 81, 85.
+[^7]: Saleemul Huq and others, '[Mainstreaming Adaptation to Climate Change in Least Developed Countries (LDCs)](https://doi.org/10.1080/14693062.2004.9685508)' (2003) 3 Climate Policy 81, 85.
 
 [^8]: CBD, *Connecting Biodiversity and Climate Change Mitigation and Adaptation: Report of the Second Ad Hoc Technical Expert Group on Biodiversity and Climate Change* (CBD Technical Series No 41, 2009) 25-30.
 
-[^9]: Jouni Paavola and W Neil Adger, 'Fair Adaptation to Climate Change' (2006) 56 Ecological Economics 594, 596.
+[^9]: Jouni Paavola and W Neil Adger, '[Fair Adaptation to Climate Change](https://doi.org/10.1016/j.ecolecon.2005.03.015)' (2006) 56 Ecological Economics 594, 596.
 
-[^10]: Rob Gillard and others, 'Transformational Responses to Climate Change: Beyond a Systems Perspective of Social Change in Mitigation and Adaptation' (2016) 7 WIREs Climate Change 251, 255.
+[^10]: Rob Gillard and others, '[Transformational Responses to Climate Change: Beyond a Systems Perspective of Social Change in Mitigation and Adaptation](https://doi.org/10.1002/wcc.384)' (2016) 7 WIREs Climate Change 251, 255.
 
 [^11]: IPCC, *Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of [Working Group II](https://www.ipcc.ch/report/ar6/wg2/) to the Sixth Assessment Report* (CUP 2022) 2915.
 
@@ -622,7 +622,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^29]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement), art 8.4.
 
-[^30]: Maxine Burkett, 'Loss and Damage' (2014) 4 Climate Law 119, 127-130.
+[^30]: Maxine Burkett, '[Loss and Damage](https://doi.org/10.1163/18786561-00402010)' (2014) 4 Climate Law 119, 127-130.
 
 [^31]: UNFCCC, 'Report of the Conference of the Parties on its Twenty-Seventh Session, Held in Sharm el-Sheikh from 6 to 20 November 2022' (17 March 2023) UN Doc FCCC/CP/2022/10/Add.1, Decision 2/CP.27.
 
@@ -656,13 +656,13 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^46]: Badan Perencanaan Pembangunan Nasional, *Rencana Aksi Nasional Adaptasi Perubahan Iklim (RAN-API)* (Bappenas 2014).
 
-[^47]: Peraturan Presiden Nomor 18 Tahun 2020 tentang Rencana Pembangunan Jangka Menengah Nasional Tahun 2020-2024.
+[^47]: [Peraturan Presiden Nomor 18 Tahun 2020](https://peraturan.go.id/id/perpres-no-18-tahun-2020) tentang Rencana Pembangunan Jangka Menengah Nasional Tahun 2020-2024.
 
 [^48]: Republic of Indonesia, *Indonesia Long-Term Strategy for Low Carbon and Climate Resilience 2050* (LTS-LCCR 2050) (Government of Indonesia 2021) 85-90.
 
 [^49]: World Bank, *Building Indonesia's Resilience to Disaster: Experiences from Mainstreaming Disaster Risk Reduction in Indonesia Program* (World Bank 2012) 25-28.
 
-[^50]: Ameyali Ramos-Castillo, Edward T Huerta and Ben Orlove, 'Indigenous Peoples, Local Communities and Climate Change Mitigation' (2017) 140 Climatic Change 1, 5-8.
+[^50]: Ameyali Ramos-Castillo, Edward T Huerta and Ben Orlove, '[Indigenous Peoples, Local Communities and Climate Change Mitigation](https://doi.org/10.1007/s10584-016-1873-0)' (2017) 140 Climatic Change 1, 5-8.
 
 ---
 

@@ -107,8 +107,8 @@ Beberapa ketentuan penting Perpres 112/2022:
 
 **Peraturan Pemerintah Nomor 40 Tahun 2025 tentang Dekarbonisasi Sektor Ketenagalistrikan** adalah regulasi terbaru yang mengatur roadmap pensiun dini PLTU batubara dan integrasi dengan sistem perdagangan emisi. PP ini menetapkan cap emisi untuk sektor ketenagalistrikan yang akan menurun secara bertahap, dengan target net zero sektor listrik pada 2060.[^5]
 
-[^2]: Peraturan Presiden Nomor 22 Tahun 2017 tentang Rencana Umum Energi Nasional, Lampiran.
-[^3]: Peraturan Presiden Nomor 112 Tahun 2022 tentang Percepatan Pengembangan Energi Terbarukan untuk Penyediaan Tenaga Listrik, ps 5-15.
+[^2]: [Peraturan Presiden Nomor 22 Tahun 2017](https://peraturan.go.id/id/perpres-no-22-tahun-2017) tentang Rencana Umum Energi Nasional, Lampiran.
+[^3]: [Peraturan Presiden Nomor 112 Tahun 2022](https://peraturan.go.id/id/perpres-no-112-tahun-2022) tentang Percepatan Pengembangan Energi Terbarukan untuk Penyediaan Tenaga Listrik, ps 5-15.
 [^4]: ibid ps 8.
 [^5]: Peraturan Pemerintah Nomor 40 Tahun 2025 tentang Dekarbonisasi Sektor Ketenagalistrikan, ps 10-20.
 
@@ -173,7 +173,7 @@ Substansi moratorium mencakup:
 Evaluasi efektivitas moratorium menunjukkan hasil beragam. Di satu sisi, kebijakan ini berhasil menurunkan laju deforestasi di kawasan yang tercakup. Di sisi lain, pengecualian dan inkonsistensi penegakan mengurangi dampaknya. Studi menunjukkan bahwa deforestasi bergeser ke kawasan di luar cakupan moratorium atau terjadi secara ilegal di dalam kawasan moratorium dengan penegakan yang lemah.[^16]
 
 [^15]: Instruksi Presiden Nomor 5 Tahun 2019 tentang Penghentian Pemberian Izin Baru dan Penyempurnaan Tata Kelola Hutan Alam Primer dan Lahan Gambut.
-[^16]: Busch J and others, 'What Drives Deforestation and What Stops It? A Meta-Analysis' (2019) 13 Review of Environmental Economics and Policy 3, 10-15.
+[^16]: Busch J and others, '[What Drives Deforestation and What Stops It? A Meta-Analysis](https://doi.org/10.1093/reep/rew013)' (2019) 13 Review of Environmental Economics and Policy 3, 10-15.
 
 #### 2.3 FOLU Net Sink 2030: Target dan Tantangan
 
@@ -215,7 +215,7 @@ Elemen kunci Perpres 55/2019:
 
 Tantangan implementasi mencakup harga KBLBB yang masih premium dibanding kendaraan konvensional, ketersediaan infrastruktur pengisian yang terbatas di luar kota besar, dan kapasitas jaringan listrik untuk mendukung pengisian massal.
 
-[^21]: Peraturan Presiden Nomor 55 Tahun 2019 tentang Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai untuk Transportasi Jalan, ps 5-15.
+[^21]: [Peraturan Presiden Nomor 55 Tahun 2019](https://peraturan.go.id/id/perpres-no-55-tahun-2019) tentang Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai untuk Transportasi Jalan, ps 5-15.
 [^22]: Peraturan Gubernur DKI Jakarta Nomor 3 Tahun 2020 tentang Insentif Pajak Daerah untuk Kendaraan Bermotor Listrik Berbasis Baterai.
 
 #### 3.2 Pengembangan Transportasi Publik Massal
@@ -257,7 +257,7 @@ Standar kinerja energi minimum untuk peralatan industri—seperti motor listrik,
 
 Efektivitas PP 70/2009 masih terbatas. Banyak industri melakukan compliance minimal—melakukan audit tetapi tidak mengimplementasikan rekomendasi penghematan karena tidak ada mekanisme penegakan yang efektif. Revisi PP atau regulasi tambahan diperlukan untuk memperkuat insentif dan sanksi.[^27]
 
-[^26]: Peraturan Pemerintah Nomor 70 Tahun 2009 tentang Konservasi Energi, ps 10-20.
+[^26]: [Peraturan Pemerintah Nomor 70 Tahun 2009](https://peraturan.go.id/id/pp-no-70-tahun-2009) tentang Konservasi Energi, ps 10-20.
 [^27]: Nugroho H dan Widodo P, 'Evaluasi Implementasi Kebijakan Konservasi Energi di Indonesia' (2021) 15 Jurnal Energi dan Lingkungan 25, 30-35.
 
 #### 4.2 Dekarbonisasi Industri Berat: Tantangan dan Pathway

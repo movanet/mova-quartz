@@ -128,7 +128,7 @@ Makna normatif dari ketentuan ini adalah bahwa pengelolaan sumber daya alam dan 
 
 Kaitan antara Pasal 33 ayat (3) tentang penguasaan negara atas sumber daya alam dengan ayat (4) tentang keberlanjutan juga memiliki implikasi pada pengelolaan sumber daya energi fosil. Mahkamah Konstitusi dalam berbagai putusannya telah menafsirkan bahwa "penguasaan negara" mencakup kewenangan untuk mengatur (*regelendaad*), mengurus (*bestuursdaad*), mengelola (*beheersdaad*), dan mengawasi (*toezichthoudensdaad*) pemanfaatan sumber daya alam "untuk sebesar-besar kemakmuran rakyat."[^7] Kemakmuran rakyat yang berkelanjutan dan berwawasan lingkungan mensyaratkan transisi dari ekonomi berbasis fosil—sebuah implikasi yang semakin relevan dalam konteks komitmen iklim Indonesia.
 
-[^5]: Wibisana AG, 'Campur Tangan Pemerintah dalam Pengelolaan Lingkungan: Sebuah Penelusuran Teoretis Berdasarkan Analisis Ekonomi atas Hukum' (2017) 47 Jurnal Hukum & Pembangunan 151, 160-165.
+[^5]: Wibisana AG, '[Campur Tangan Pemerintah dalam Pengelolaan Lingkungan: Sebuah Penelusuran Teoretis Berdasarkan Analisis Ekonomi atas Hukum](https://doi.org/10.21143/jhp.vol47.no2.812)' (2017) 47 Jurnal Hukum & Pembangunan 151, 160-165.
 [^6]: Santosa MA, *Good Governance dan Hukum Lingkungan* (ICEL 2001) 85-90.
 [^7]: Mahkamah Konstitusi RI, 'Putusan No. 36/PUU-X/2012' (2012) 99-100.
 
@@ -179,7 +179,7 @@ Implikasi praktis dari pendekatan ini:
 > [!warning] **Perhatian: Dualisme Hukum Indonesia**
 > Sistem dualisme moderat Indonesia mengharuskan komitmen internasional diterjemahkan ke dalam hierarki peraturan domestik: UU, PP, Perpres, Permen, hingga Perda. Kesenjangan antara ratifikasi dan implementasi—yang disebut *implementation gap*—menjadi tantangan serius dalam efektivitas hukum iklim nasional.
 
-[^12]: Undang-Undang Nomor 24 Tahun 2000 tentang Perjanjian Internasional, ps 10 ayat (1).
+[^12]: [Undang-Undang Nomor 24 Tahun 2000](https://peraturan.go.id/id/uu-no-24-tahun-2000) tentang Perjanjian Internasional, ps 10 ayat (1).
 [^13]: Kusumaatmadja M dan Sidharta BA, *Pengantar Hukum Internasional* (Alumni 2012) 85-90.
 [^14]: Agusman DH, 'Praktik Indonesia dalam Pemberlakuan Perjanjian Internasional' (2015) 12 Jurnal Hukum Internasional 449, 460-465.
 
@@ -208,7 +208,7 @@ graph TD
 
 Setiap tingkatan memiliki fungsi berbeda: UU menetapkan norma pokok, PP/Perpres mengatur pelaksanaan, Permen memberikan aturan teknis, dan Perda mengimplementasikan di tingkat daerah. Dalam konteks iklim, keterkaitan vertikal ini menjadi krusial karena kebijakan nasional harus dapat dioperasionalkan hingga tingkat daerah.
 
-[^16]: Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan, ps 7 ayat (1) sebagaimana diubah dengan Undang-Undang Nomor 13 Tahun 2022.
+[^16]: [Undang-Undang Nomor 12 Tahun 2011](https://peraturan.go.id/id/uu-no-12-tahun-2011) tentang Pembentukan Peraturan Perundang-undangan, ps 7 ayat (1) sebagaimana diubah dengan Undang-Undang Nomor 13 Tahun 2022.
 
 #### 3.2 UU No. 32 Tahun 2009 tentang PPLH sebagai Payung Hukum
 
@@ -222,7 +222,7 @@ Setiap tingkatan memiliki fungsi berbeda: UU menetapkan norma pokok, PP/Perpres 
 
 **Instrumen AMDAL** (Pasal 22-33) mengatur kajian dampak lingkungan untuk kegiatan yang berpotensi menimbulkan dampak penting. Dalam konteks iklim, AMDAL seharusnya mencakup analisis emisi GRK yang dihasilkan proyek dan ketahanan proyek terhadap dampak iklim. Namun, integrasi aspek iklim dalam AMDAL masih memerlukan penguatan.[^21]
 
-[^17]: Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup, Penjelasan Umum.
+[^17]: [Undang-Undang Nomor 32 Tahun 2009](https://peraturan.go.id/id/uu-no-32-tahun-2009) tentang Perlindungan dan Pengelolaan Lingkungan Hidup, Penjelasan Umum.
 [^18]: ibid ps 2.
 [^19]: ibid ps 3.
 [^20]: ibid ps 15-17.
@@ -249,7 +249,7 @@ Perpres NEK juga mengatur tata kelola kelembagaan pasar karbon, termasuk pembent
 
 **PP 40/2025 tentang Dekarbonisasi Sektor Ketenagalistrikan** adalah regulasi terbaru yang mengatur transisi energi di sektor listrik—sektor dengan emisi terbesar setelah FOLU. PP ini menetapkan roadmap pensiun dini PLTU batubara, cap emisi untuk sektor listrik, dan integrasi dengan sistem perdagangan emisi.[^23]
 
-[^22]: Peraturan Presiden Nomor 98 Tahun 2021 tentang Penyelenggaraan Nilai Ekonomi Karbon untuk Pencapaian Target Kontribusi yang Ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca dalam Pembangunan Nasional, ps 4-20.
+[^22]: [Peraturan Presiden Nomor 98 Tahun 2021](https://peraturan.go.id/id/perpres-no-98-tahun-2021) tentang Penyelenggaraan Nilai Ekonomi Karbon untuk Pencapaian Target Kontribusi yang Ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca dalam Pembangunan Nasional, ps 4-20.
 [^23]: Peraturan Pemerintah Nomor 40 Tahun 2025 tentang Dekarbonisasi Sektor Ketenagalistrikan untuk Pencapaian Target Kontribusi yang Ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca.
 
 ---
@@ -340,7 +340,7 @@ Implementasi NDC bukan sekadar dokumen komitmen—ia memerlukan penerjemahan ke 
 **Climate Budget Tagging**: Kementerian Keuangan telah mengimplementasikan sistem pelabelan anggaran iklim untuk melacak alokasi APBN yang berkontribusi pada mitigasi dan adaptasi. Sistem ini meningkatkan transparansi dan akuntabilitas pendanaan iklim domestik.
 
 [^34]: Bappenas, *RPJMN 2020-2024: Rencana Pembangunan Jangka Menengah Nasional* (Perpres 18/2020) Lampiran Bidang Lingkungan Hidup.
-[^35]: Peraturan Presiden Nomor 61 Tahun 2011 tentang Rencana Aksi Nasional Penurunan Emisi Gas Rumah Kaca, sebagaimana diubah dengan Perpres 98/2021.
+[^35]: [Peraturan Presiden Nomor 61 Tahun 2011](https://peraturan.go.id/id/perpres-no-61-tahun-2011) tentang Rencana Aksi Nasional Penurunan Emisi Gas Rumah Kaca, sebagaimana diubah dengan Perpres 98/2021.
 [^36]: KLHK, *Indonesia Third Biennial Update Report Under the UNFCCC* (2021) 10-15.
 
 ---
@@ -349,7 +349,7 @@ Implementasi NDC bukan sekadar dokumen komitmen—ia memerlukan penerjemahan ke 
 
 Perubahan iklim adalah masalah yang bersifat lintas-sektor (*cross-cutting*) dan lintas-tingkat pemerintahan (*multi-level*). Emisi gas rumah kaca berasal dari hampir semua sektor ekonomi—energi, industri, transportasi, pertanian, kehutanan, dan limbah. Dampaknya menyentuh berbagai aspek kehidupan—kesehatan, ketahanan pangan, infrastruktur, dan ekosistem. Dengan demikian, tata kelola iklim yang efektif memerlukan koordinasi kelembagaan yang kompleks—suatu tantangan yang tidak mudah dalam sistem pemerintahan yang terdesentralisasi seperti Indonesia.[^37]
 
-[^37]: Jagers SC dan Stripple J, 'Climate Governance Beyond the State' (2003) 3 Global Governance 385, 390-395.
+[^37]: Jagers SC dan Stripple J, '[Climate Governance Beyond the State](https://doi.org/10.1163/19426720-00903009)' (2003) 3 Global Governance 385, 390-395.
 
 #### 5.1 Arsitektur Kelembagaan Nasional
 
@@ -385,7 +385,7 @@ Mengingat sifat lintas-sektor dari kebijakan iklim, berbagai mekanisme koordinas
 
 **Sekretariat** menyediakan dukungan administratif dan teknis untuk seluruh struktur koordinasi, termasuk penyiapan dokumen, fasilitasi pertemuan, dan dokumentasi keputusan.
 
-[^39]: Peraturan Presiden Nomor 16 Tahun 2015 tentang Kementerian Lingkungan Hidup dan Kehutanan jo. Perpres terkait pembagian tugas kabinet.
+[^39]: [Peraturan Presiden Nomor 16 Tahun 2015](https://peraturan.go.id/id/perpres-no-16-tahun-2015) tentang Kementerian Lingkungan Hidup dan Kehutanan jo. Perpres terkait pembagian tugas kabinet.
 
 #### 5.3 Peran Pemerintah Daerah dalam Tata Kelola Iklim
 
@@ -405,7 +405,7 @@ Implikasi praktisnya, keberhasilan pencapaian target NDC sangat bergantung pada 
 > - **Insentif berbeda**: Daerah memiliki insentif ekonomi jangka pendek (PAD dari tambang/perkebunan) yang dapat bertentangan dengan target iklim jangka panjang
 > - **Koordinasi lemah**: Mekanisme koordinasi vertikal dan horizontal belum optimal
 
-[^40]: Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, Lampiran Pembagian Urusan Pemerintahan.
+[^40]: [Undang-Undang Nomor 23 Tahun 2014](https://peraturan.go.id/id/uu-no-23-tahun-2014) tentang Pemerintahan Daerah, Lampiran Pembagian Urusan Pemerintahan.
 [^41]: Peraturan Presiden Nomor 61 Tahun 2011 (n 35) ps 7-9.
 
 ---
