@@ -13,6 +13,8 @@ tags:
   - teaching
   - pertemuan-04
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
 
 # Pertemuan 4 — Kewajiban Mitigasi dalam Hukum Internasional
 

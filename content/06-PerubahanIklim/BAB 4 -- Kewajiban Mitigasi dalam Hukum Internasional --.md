@@ -12,6 +12,11 @@ tags:
   - due-diligence
   - kewajiban-negara
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
+
+> [!abstract] Ringkasan Perkuliahan (Audio)
+> Rekaman pendek yang meringkas materi bab ini, tiga sampai lima menit per bagian: [[06-PerubahanIklim/Kuliah-Audio#Pertemuan 4 — Kewajiban Mitigasi dalam Hukum Internasional|Dengarkan Pertemuan 4 — Kewajiban Mitigasi dalam Hukum Internasional]].
 
 # BAB 4: Kewajiban Mitigasi dalam Hukum Internasional
 
@@ -37,7 +42,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Mitigasiâ€”upaya mengurangi emisi gas rumah kacaâ€”adalah pilar utama respons terhadap perubahan iklim. Namun, apakah negara benar-benar memiliki kewajiban hukum untuk mengurangi emisi? Jika ya, seberapa besar dan dari mana kewajiban itu berasal? Bab ini akan mengajak Anda menelusuri berbagai sumber kewajiban mitigasi dalam hukum internasional, mulai dari traktat iklim hingga hukum kebiasaan dan hak asasi manusia.
+Mitigasi—upaya mengurangi emisi gas rumah kaca—adalah pilar utama respons terhadap perubahan iklim. Namun, apakah negara benar-benar memiliki kewajiban hukum untuk mengurangi emisi? Jika ya, seberapa besar dan dari mana kewajiban itu berasal? Bab ini akan mengajak Anda menelusuri berbagai sumber kewajiban mitigasi dalam hukum internasional, mulai dari traktat iklim hingga hukum kebiasaan dan hak asasi manusia.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -89,28 +94,28 @@ Sebelum membahas kewajiban hukum, penting untuk memahami apa yang dimaksud denga
 
 Dalam kerangka hukum internasional, mitigasi dipahami sebagai seperangkat tindakan yang bertujuan untuk membatasi laju dan skala perubahan iklim melalui pengurangan emisi gas rumah kaca antropogenik.[^2] Definisi ini mencakup dua dimensi utama: pertama, pengurangan emisi dari sumber-sumber seperti pembangkit listrik, transportasi, dan industri; kedua, peningkatan kapasitas penyerapan karbon melalui hutan, lahan, dan lautan. Intergovernmental Panel on Climate Change (IPCC) mendefinisikan mitigasi secara lebih teknis sebagai "a human intervention to reduce emissions or enhance the sinks of greenhouse gases."[^3]
 
-Mitigasi berbeda secara fundamental dari **adaptasi** yang berfokus pada penyesuaian terhadap dampak iklim yang sudah atau akan terjadi. Keduanya saling melengkapi dalam arsitektur respons terhadap perubahan iklimâ€”mitigasi mengatasi penyebab dengan mengurangi konsentrasi gas rumah kaca di atmosfer, sementara adaptasi mengatasi akibat dengan meningkatkan ketahanan sistem manusia dan alam terhadap dampak yang tidak dapat dihindari.[^4] Sebagaimana dikemukakan oleh Bodansky, hubungan antara mitigasi dan adaptasi bersifat dinamis: semakin berhasil upaya mitigasi global, semakin sedikit kebutuhan adaptasi, dan sebaliknya.[^5]
+Mitigasi berbeda secara fundamental dari **adaptasi** yang berfokus pada penyesuaian terhadap dampak iklim yang sudah atau akan terjadi. Keduanya saling melengkapi dalam arsitektur respons terhadap perubahan iklim—mitigasi mengatasi penyebab dengan mengurangi konsentrasi gas rumah kaca di atmosfer, sementara adaptasi mengatasi akibat dengan meningkatkan ketahanan sistem manusia dan alam terhadap dampak yang tidak dapat dihindari.[^4] Sebagaimana dikemukakan oleh Bodansky, hubungan antara mitigasi dan adaptasi bersifat dinamis: semakin berhasil upaya mitigasi global, semakin sedikit kebutuhan adaptasi, dan sebaliknya.[^5]
 
 #### 1.2 Target Global Mitigasi dan Carbon Budget
 
-Pemahaman ilmiah tentang sistem iklim telah memungkinkan para peneliti untuk menghitung "carbon budget" atau anggaran karbonâ€”jumlah total emisi karbon dioksida yang masih dapat dilepaskan ke atmosfer sambil mempertahankan peluang tertentu untuk membatasi pemanasan pada tingkat tertentu.[^6] Konsep ini memiliki implikasi hukum yang mendalam karena mentransformasikan target temperatur abstrak menjadi batas kuantitatif yang konkret.
+Pemahaman ilmiah tentang sistem iklim telah memungkinkan para peneliti untuk menghitung "carbon budget" atau anggaran karbon—jumlah total emisi karbon dioksida yang masih dapat dilepaskan ke atmosfer sambil mempertahankan peluang tertentu untuk membatasi pemanasan pada tingkat tertentu.[^6] Konsep ini memiliki implikasi hukum yang mendalam karena mentransformasikan target temperatur abstrak menjadi batas kuantitatif yang konkret.
 
-Laporan IPCC AR6 menetapkan bahwa untuk memiliki peluang 50% membatasi pemanasan pada 1,5Â°C, sisa carbon budget global sejak awal 2020 adalah sekitar 500 GtCOâ‚‚.[^7] Dengan tingkat emisi saat ini sekitar 40 GtCOâ‚‚ per tahun, anggaran ini akan habis dalam waktu sekitar 12-13 tahun. Implikasi dari kalkulasi ini adalah kebutuhan pengurangan emisi yang sangat drastis dalam waktu singkat:
+Laporan IPCC AR6 menetapkan bahwa untuk memiliki peluang 50% membatasi pemanasan pada 1,5°C, sisa carbon budget global sejak awal 2020 adalah sekitar 500 GtCO₂.[^7] Dengan tingkat emisi saat ini sekitar 40 GtCO₂ per tahun, anggaran ini akan habis dalam waktu sekitar 12-13 tahun. Implikasi dari kalkulasi ini adalah kebutuhan pengurangan emisi yang sangat drastis dalam waktu singkat:
 
 | Skenario | Target 2030 | Target 2035 | Target 2050 |
 |----------|-------------|-------------|-------------|
-| 1,5Â°C | -43% dari 2019 | -60% dari 2019 | Net zero COâ‚‚ |
-| 2Â°C | -27% dari 2019 | -40% dari 2019 | Net zero COâ‚‚ (2070) |
+| 1,5°C | -43% dari 2019 | -60% dari 2019 | Net zero CO₂ |
+| 2°C | -27% dari 2019 | -40% dari 2019 | Net zero CO₂ (2070) |
 
 **Tabel 4.1.** Target pengurangan emisi global menurut IPCC AR6
 
-Target 1,5Â°C dan 2Â°C yang tercantum dalam Persetujuan Paris memiliki dasar ilmiah yang kuat. Penelitian menunjukkan bahwa setiap tambahan 0,5Â°C pemanasan akan meningkatkan frekuensi dan intensitas gelombang panas, hujan ekstrem, dan kekeringan secara signifikan.[^8] Dengan demikian, target temperatur ini bukan angka arbitrer melainkan ambang batas yang memiliki konsekuensi nyata bagi kelangsungan hidup manusia dan ekosistem.
+Target 1,5°C dan 2°C yang tercantum dalam Persetujuan Paris memiliki dasar ilmiah yang kuat. Penelitian menunjukkan bahwa setiap tambahan 0,5°C pemanasan akan meningkatkan frekuensi dan intensitas gelombang panas, hujan ekstrem, dan kekeringan secara signifikan.[^8] Dengan demikian, target temperatur ini bukan angka arbitrer melainkan ambang batas yang memiliki konsekuensi nyata bagi kelangsungan hidup manusia dan ekosistem.
 
 #### 1.3 Sektor-Sektor Mitigasi
 
 Upaya mitigasi harus mencakup seluruh sektor ekonomi karena emisi gas rumah kaca berasal dari berbagai sumber yang saling terkait. Pendekatan sektoral memungkinkan identifikasi potensi pengurangan emisi yang spesifik dan pengembangan kebijakan yang tepat sasaran.[^9]
 
-Sektor **energi** merupakan kontributor terbesar emisi global, menyumbang sekitar 73% dari total emisi gas rumah kaca.[^10] Transisi dari bahan bakar fosil ke sumber energi terbarukan seperti tenaga surya, angin, dan hidro menjadi kunci utama mitigasi. Kemajuan teknologi telah menurunkan biaya energi terbarukan secara dramatisâ€”biaya listrik tenaga surya turun 89% antara 2010 dan 2020.[^11]
+Sektor **energi** merupakan kontributor terbesar emisi global, menyumbang sekitar 73% dari total emisi gas rumah kaca.[^10] Transisi dari bahan bakar fosil ke sumber energi terbarukan seperti tenaga surya, angin, dan hidro menjadi kunci utama mitigasi. Kemajuan teknologi telah menurunkan biaya energi terbarukan secara dramatis—biaya listrik tenaga surya turun 89% antara 2010 dan 2020.[^11]
 
 Sektor **transportasi** menyumbang sekitar 16% emisi global dan merupakan salah satu sektor dengan pertumbuhan emisi tercepat.[^12] Elektrifikasi kendaraan, pengembangan transportasi publik massal, dan perencanaan kota yang berorientasi pada pengurangan kebutuhan perjalanan merupakan strategi mitigasi utama di sektor ini.
 
@@ -125,7 +130,7 @@ Sektor **limbah**, meskipun kontribusinya relatif kecil (sekitar 3% emisi global
 > [!example] **Contoh: Mitigasi di Indonesia**
 > NDC Indonesia mencakup target mitigasi per sektor:
 > - **Energi:** Bauran energi terbarukan 23% pada 2025
-> - **FOLU:** Net sink 140 MtCOâ‚‚e pada 2030
+> - **FOLU:** Net sink 140 MtCO₂e pada 2030
 > - **Limbah:** Pengurangan 10,4% dari baseline
 >
 > Sektor kehutanan dan lahan (FOLU) menyumbang porsi terbesar dalam target Indonesia karena potensi besar dari penghentian deforestasi.
@@ -134,7 +139,7 @@ Sektor **limbah**, meskipun kontribusinya relatif kecil (sekitar 3% emisi global
 
 ### 2. Kewajiban Mitigasi dalam Rezim Iklim
 
-Sumber pertama dan paling jelas untuk kewajiban mitigasi adalah rezim iklim itu sendiriâ€”UNFCCC, Protokol Kyoto, dan Persetujuan Paris. Ketiga instrumen ini membentuk suatu continuum normatif yang secara progresif mengembangkan dan memperkuat kewajiban negara dalam mengurangi emisi gas rumah kaca.
+Sumber pertama dan paling jelas untuk kewajiban mitigasi adalah rezim iklim itu sendiri—UNFCCC, Protokol Kyoto, dan Persetujuan Paris. Ketiga instrumen ini membentuk suatu continuum normatif yang secara progresif mengembangkan dan memperkuat kewajiban negara dalam mengurangi emisi gas rumah kaca.
 
 #### 2.1 UNFCCC: Kewajiban Umum
 
@@ -144,15 +149,15 @@ UNFCCC Pasal 4 menetapkan komitmen untuk semua Pihak, meskipun dengan tingkat ke
 
 > [!quote] **Kutipan**
 > "All Parties... shall: (a) Develop, periodically update, publish and make available... national inventories of anthropogenic emissions by sources and removals by sinks..."
-> â€” *Pasal 4.1(a), UNFCCC 1992*
+> — *Pasal 4.1(a), UNFCCC 1992*
 
 Untuk negara maju yang tercantum dalam Annex I, Pasal 4.2 menambahkan kewajiban yang lebih spesifik:
 
 > [!quote] **Kutipan**
 > "Each of these Parties shall adopt national policies and take corresponding measures on the mitigation of climate change..."
-> â€” *Pasal 4.2(a), UNFCCC 1992*
+> — *Pasal 4.2(a), UNFCCC 1992*
 
-Namun, sebagaimana dianalisis oleh Rajamani, kewajiban dalam UNFCCC pada dasarnya bersifat **prosedural**â€”negara wajib menyusun kebijakan dan melaporkan kemajuanâ€”bukan **substantif** dalam arti mencapai target pengurangan emisi tertentu.[^19] Ketiadaan target kuantitatif yang mengikat ini merupakan kelemahan struktural yang kemudian dicoba diatasi melalui Protokol Kyoto.
+Namun, sebagaimana dianalisis oleh Rajamani, kewajiban dalam UNFCCC pada dasarnya bersifat **prosedural**—negara wajib menyusun kebijakan dan melaporkan kemajuan—bukan **substantif** dalam arti mencapai target pengurangan emisi tertentu.[^19] Ketiadaan target kuantitatif yang mengikat ini merupakan kelemahan struktural yang kemudian dicoba diatasi melalui Protokol Kyoto.
 
 #### 2.2 Persetujuan Paris: NDC dan Arsitektur Kewajiban
 
@@ -160,10 +165,10 @@ Persetujuan Paris yang diadopsi pada tahun 2015 memperkenalkan pendekatan baru y
 
 Arsitektur kewajiban dalam Persetujuan Paris dapat dipahami sebagai campuran antara elemen yang mengikat keras (*hard law*) dan yang lebih lunak (*soft law*). Pada sisi yang mengikat keras terdapat kewajiban prosedural: negara wajib menyampaikan NDC sesuai Pasal 4.2, memperbarui NDC setiap lima tahun sesuai Pasal 4.9, melaporkan kemajuan melalui Enhanced Transparency Framework berdasarkan Pasal 13, dan berpartisipasi dalam Global Stocktake berdasarkan Pasal 14.[^21]
 
-Di sisi lain, kewajiban substantif dalam Persetujuan Paris dirumuskan dengan bahasa yang lebih lunak. Pasal 4.2 menggunakan frasa "shall pursue domestic mitigation measures" yang menunjukkan kewajiban upaya (*obligation of conduct*) bukan kewajiban hasil (*obligation of result*).[^22] Demikian pula, Pasal 4.3 mensyaratkan bahwa NDC berikutnya harus mencerminkan "highest possible ambition" dan menunjukkan "progression"â€”namun standar ini tidak didefinisikan secara kuantitatif dan penilaiannya bersifat self-determined.
+Di sisi lain, kewajiban substantif dalam Persetujuan Paris dirumuskan dengan bahasa yang lebih lunak. Pasal 4.2 menggunakan frasa "shall pursue domestic mitigation measures" yang menunjukkan kewajiban upaya (*obligation of conduct*) bukan kewajiban hasil (*obligation of result*).[^22] Demikian pula, Pasal 4.3 mensyaratkan bahwa NDC berikutnya harus mencerminkan "highest possible ambition" dan menunjukkan "progression"—namun standar ini tidak didefinisikan secara kuantitatif dan penilaiannya bersifat self-determined.
 
 > [!warning] **Perhatian: Apakah NDC Mengikat?**
-> Ini adalah pertanyaan hukum yang krusial. **Target dalam NDC sendiri tidak mengikat secara hukum**â€”negara tidak dapat dituntut jika gagal mencapai targetnya. Yang mengikat adalah:
+> Ini adalah pertanyaan hukum yang krusial. **Target dalam NDC sendiri tidak mengikat secara hukum**—negara tidak dapat dituntut jika gagal mencapai targetnya. Yang mengikat adalah:
 > - Kewajiban menyampaikan NDC
 > - Kewajiban *pursue* (mengupayakan) langkah-langkah domestik
 > - Kewajiban melaporkan secara transparan
@@ -184,7 +189,7 @@ Persetujuan Paris Pasal 6 menyediakan kerangka hukum untuk kerjasama internasion
 
 **Tabel 4.2.** Mekanisme Pasal 6 Persetujuan Paris
 
-Pasal 6.2 mengatur pendekatan kooperatif bilateral atau plurilateral yang memungkinkan transfer "internationally transferred mitigation outcomes" (ITMOs) antar negara. Mekanisme ini menuntut penerapan "corresponding adjustments" untuk menghindari penghitungan ganda (*double counting*)â€”suatu negara yang mentransfer hasil mitigasi harus mengurangi klaim pengurangan emisinya, sementara negara penerima dapat menambahkannya.[^25]
+Pasal 6.2 mengatur pendekatan kooperatif bilateral atau plurilateral yang memungkinkan transfer "internationally transferred mitigation outcomes" (ITMOs) antar negara. Mekanisme ini menuntut penerapan "corresponding adjustments" untuk menghindari penghitungan ganda (*double counting*)—suatu negara yang mentransfer hasil mitigasi harus mengurangi klaim pengurangan emisinya, sementara negara penerima dapat menambahkannya.[^25]
 
 Pasal 6.4 membentuk mekanisme baru yang menggantikan Clean Development Mechanism (CDM) Protokol Kyoto dengan standar integritas lingkungan yang lebih tinggi. Mekanisme ini mensyaratkan kontribusi terhadap "overall mitigation in global emissions" yang berarti sebagian kredit karbon harus dibatalkan dan tidak digunakan untuk memenuhi NDC siapa pun.[^26]
 
@@ -207,7 +212,7 @@ Prinsip ini kemudian dikodifikasi dalam Prinsip 21 Deklarasi Stockholm (1972) da
 
 Pertanyaan krusialnya adalah apakah prinsip ini berlaku untuk emisi gas rumah kaca. Argumentasi untuk penerapannya cukup jelas: emisi GRK dari satu negara berkontribusi terhadap perubahan iklim global; perubahan iklim menyebabkan kerusakan di seluruh dunia termasuk kenaikan muka laut, cuaca ekstrem, dan hilangnya keanekaragaman hayati; oleh karena itu, emisi GRK yang berlebihan melanggar prinsip *no harm*.
 
-Namun penerapan prinsip *no harm* dalam konteks perubahan iklim menghadapi tantangan konseptual dan praktis yang signifikan. Pertama, kausalitas bersifat kompleks dan terdifusiâ€”tidak mungkin mengaitkan kerusakan spesifik di satu lokasi dengan emisi dari satu negara tertentu. Kedua, emisi satu negara secara individual mungkin tidak cukup untuk menyebabkan kerusakan "signifikan" sebagaimana disyaratkan oleh prinsip ini. Ketiga, terdapat ketidakjelasan mengenai tingkat emisi yang "diperbolehkan" mengingat semua aktivitas ekonomi modern menghasilkan emisi.[^30]
+Namun penerapan prinsip *no harm* dalam konteks perubahan iklim menghadapi tantangan konseptual dan praktis yang signifikan. Pertama, kausalitas bersifat kompleks dan terdifusi—tidak mungkin mengaitkan kerusakan spesifik di satu lokasi dengan emisi dari satu negara tertentu. Kedua, emisi satu negara secara individual mungkin tidak cukup untuk menyebabkan kerusakan "signifikan" sebagaimana disyaratkan oleh prinsip ini. Ketiga, terdapat ketidakjelasan mengenai tingkat emisi yang "diperbolehkan" mengingat semua aktivitas ekonomi modern menghasilkan emisi.[^30]
 
 #### 3.2 ICJ Advisory Opinion 2025: Klarifikasi Otoritatif
 
@@ -215,9 +220,9 @@ Ketidakpastian hukum mengenai penerapan prinsip *no harm* terhadap perubahan ikl
 
 > [!quote] **Kutipan**
 > "States have an obligation under customary international law to ensure that activities within their jurisdiction or control do not cause significant harm to the climate system..."
-> â€” *ICJ Advisory Opinion on Climate Change, 2025*
+> — *ICJ Advisory Opinion on Climate Change, 2025*
 
-ICJ menegaskan bahwa prinsip *no harm* memang berlaku untuk emisi gas rumah kaca, dengan beberapa klarifikasi penting. Pertama, Mahkamah mengakui bahwa sistem iklim merupakan *global commons* yang dilindungi oleh hukum internasional, sehingga kerusakan terhadap sistem iklim dapat memicu tanggung jawab negara terlepas dari apakah kerusakan tersebut terjadi di wilayah negara tertentu.[^31] Kedua, Mahkamah menerapkan pendekatan kontribusi kumulatifâ€”bahwa setiap negara bertanggung jawab atas bagiannya dalam kerusakan kolektif, bukan hanya untuk kerusakan yang dapat diatribusikan secara langsung dan eksklusif kepada emisinya.
+ICJ menegaskan bahwa prinsip *no harm* memang berlaku untuk emisi gas rumah kaca, dengan beberapa klarifikasi penting. Pertama, Mahkamah mengakui bahwa sistem iklim merupakan *global commons* yang dilindungi oleh hukum internasional, sehingga kerusakan terhadap sistem iklim dapat memicu tanggung jawab negara terlepas dari apakah kerusakan tersebut terjadi di wilayah negara tertentu.[^31] Kedua, Mahkamah menerapkan pendekatan kontribusi kumulatif—bahwa setiap negara bertanggung jawab atas bagiannya dalam kerusakan kolektif, bukan hanya untuk kerusakan yang dapat diatribusikan secara langsung dan eksklusif kepada emisinya.
 
 Temuan kunci ICJ mencakup empat elemen fundamental. Pertama, prinsip *no harm* berlaku untuk emisi GRK dan negara tidak dapat berlindung di balik argumen bahwa emisi mereka "tidak cukup signifikan" secara individual. Kedua, negara memiliki kewajiban *due diligence* untuk mencegah kerusakan iklim dengan mengambil langkah-langkah yang wajar sesuai dengan kapasitas mereka. Ketiga, kewajiban ini bersumber dari hukum kebiasaan internasional dan diperkuat oleh rezim iklim berbasis perjanjian. Keempat, negara dapat bertanggung jawab atas kontribusi mereka terhadap perubahan iklim meskipun mekanisme spesifik pertanggungjawaban memerlukan elaborasi lebih lanjut.
 
@@ -234,7 +239,7 @@ Sumber ketiga kewajiban mitigasi adalah hukum hak asasi manusia internasional. P
 
 #### 4.1 Hak yang Terancam oleh Perubahan Iklim
 
-Hubungan antara perubahan iklim dan hak asasi manusia bersifat multidimensional. Perubahan iklim tidak hanya mengancam satu atau dua hak, melainkan berpotensi mengganggu penikmatan hampir seluruh spektrum hak asasi manusiaâ€”baik hak sipil dan politik maupun hak ekonomi, sosial, dan budaya. Human Rights Council telah secara eksplisit mengakui bahwa perubahan iklim "poses an immediate and far-reaching threat to people and communities around the world and has adverse implications for the full enjoyment of human rights."[^33]
+Hubungan antara perubahan iklim dan hak asasi manusia bersifat multidimensional. Perubahan iklim tidak hanya mengancam satu atau dua hak, melainkan berpotensi mengganggu penikmatan hampir seluruh spektrum hak asasi manusia—baik hak sipil dan politik maupun hak ekonomi, sosial, dan budaya. Human Rights Council telah secara eksplisit mengakui bahwa perubahan iklim "poses an immediate and far-reaching threat to people and communities around the world and has adverse implications for the full enjoyment of human rights."[^33]
 
 | Hak | Instrumen | Ancaman dari Perubahan Iklim |
 |-----|-----------|------------------------------|
@@ -273,7 +278,7 @@ Office of the High Commissioner for Human Rights (OHCHR) secara konsisten menerb
 
 ### 5. Sifat Kewajiban: *Due Diligence* dan Standar Kehati-hatian
 
-Setelah memahami berbagai sumber kewajiban mitigasi, pertanyaan fundamental berikutnya adalah: seberapa besar upaya yang harus dilakukan negara untuk memenuhi kewajibannya? Jawaban atas pertanyaan ini terletak pada konsep ***due diligence*** atau uji tuntasâ€”suatu standar perilaku yang telah lama dikenal dalam hukum internasional dan semakin penting dalam konteks perubahan iklim.
+Setelah memahami berbagai sumber kewajiban mitigasi, pertanyaan fundamental berikutnya adalah: seberapa besar upaya yang harus dilakukan negara untuk memenuhi kewajibannya? Jawaban atas pertanyaan ini terletak pada konsep ***due diligence*** atau uji tuntas—suatu standar perilaku yang telah lama dikenal dalam hukum internasional dan semakin penting dalam konteks perubahan iklim.
 
 #### 5.1 Konsep *Due Diligence*
 
@@ -322,7 +327,7 @@ Setelah menetapkan bahwa negara memiliki kewajiban mitigasi dari berbagai sumber
 
 #### 6.1 Tanggung Jawab Negara (*State Responsibility*)
 
-Hukum tanggung jawab negara internasional, sebagaimana dikodifikasi dalam Articles on Responsibility of States for Internationally Wrongful Acts yang diadopsi oleh International Law Commission (ILC) pada tahun 2001, menetapkan bahwa setiap pelanggaran kewajiban internasional oleh negara menimbulkan tanggung jawab internasional.[^45] Ketika negara melanggar kewajiban mitigasiâ€”baik yang bersumber dari rezim iklim, hukum kebiasaan, maupun hukum HAMâ€”konsekuensi hukum dapat timbul.
+Hukum tanggung jawab negara internasional, sebagaimana dikodifikasi dalam Articles on Responsibility of States for Internationally Wrongful Acts yang diadopsi oleh International Law Commission (ILC) pada tahun 2001, menetapkan bahwa setiap pelanggaran kewajiban internasional oleh negara menimbulkan tanggung jawab internasional.[^45] Ketika negara melanggar kewajiban mitigasi—baik yang bersumber dari rezim iklim, hukum kebiasaan, maupun hukum HAM—konsekuensi hukum dapat timbul.
 
 Berdasarkan Articles on State Responsibility, negara yang bertanggung jawab atas internationally wrongful act berkewajiban untuk: pertama, menghentikan pelanggaran (*cessation*) jika tindakan tersebut masih berlangsung; kedua, memberikan jaminan dan assurances yang layak bahwa pelanggaran tidak akan terulang (*non-repetition*); ketiga, memberikan reparasi penuh atas kerugian yang ditimbulkan, baik dalam bentuk restitusi, kompensasi, maupun satisfaksi.[^46]
 
@@ -344,7 +349,7 @@ Berbagai forum tersedia untuk menyelesaikan sengketa terkait kewajiban mitigasi,
 
 Mahkamah Internasional (ICJ) memiliki yurisdiksi untuk menyelesaikan sengketa antar negara, namun yurisdiksinya bergantung pada consent para pihak. Advisory opinion ICJ 2025 tentang perubahan iklim, meskipun tidak mengikat secara hukum, memberikan interpretasi otoritatif yang kemungkinan akan mempengaruhi perkembangan hukum di berbagai forum.
 
-ITLOS melalui Advisory Opinion 2024 telah menunjukkan kesediaan untuk menafsirkan kewajiban lingkungan dalam UNCLOS secara luas untuk mencakup perubahan iklim. Pengadilan HAM regional seperti European Court of Human Rights dan Inter-American Court of Human Rights memiliki potensi signifikan untuk mengembangkan yurisprudensi tentang kewajiban iklim berbasis HAMâ€”beberapa kasus penting sedang menunggu putusan.[^48]
+ITLOS melalui Advisory Opinion 2024 telah menunjukkan kesediaan untuk menafsirkan kewajiban lingkungan dalam UNCLOS secara luas untuk mencakup perubahan iklim. Pengadilan HAM regional seperti European Court of Human Rights dan Inter-American Court of Human Rights memiliki potensi signifikan untuk mengembangkan yurisprudensi tentang kewajiban iklim berbasis HAM—beberapa kasus penting sedang menunggu putusan.[^48]
 
 Pengadilan domestik telah menjadi forum yang paling aktif untuk litigasi iklim, dengan ratusan kasus yang diajukan di berbagai yurisdiksi. Forum ini menawarkan keuntungan dalam hal aksesibilitas bagi penggugat individu dan organisasi masyarakat sipil, serta potensi untuk putusan yang mengikat dan dapat dipaksakan.
 
@@ -352,7 +357,7 @@ Pengadilan domestik telah menjadi forum yang paling aktif untuk litigasi iklim, 
 
 Persetujuan Paris Pasal 8 mengakui pentingnya mengatasi *loss and damage* (kerugian dan kerusakan) akibat perubahan iklim. Pengakuan ini diperkuat dengan keputusan bersejarah pada COP27 di Sharm el-Sheikh (2022) yang menyepakati pembentukan fund khusus untuk membantu negara-negara rentan mengatasi loss and damage dari dampak iklim yang tidak dapat diadaptasi.[^49]
 
-Dari perspektif hukum, loss and damage fund dapat dilihat sebagai bentuk "reparasi" kolektif untuk kerusakan yang ditimbulkan oleh emisi historis negara-negara maju. Namun formulasinya dengan hati-hati menghindari istilah tanggung jawab (*liability*) atau kompensasi (*compensation*) secara eksplisitâ€”suatu kompromi politik yang diperlukan untuk mencapai kesepakatan namun yang juga membatasi potensi preseden hukum dari mekanisme ini.[^50]
+Dari perspektif hukum, loss and damage fund dapat dilihat sebagai bentuk "reparasi" kolektif untuk kerusakan yang ditimbulkan oleh emisi historis negara-negara maju. Namun formulasinya dengan hati-hati menghindari istilah tanggung jawab (*liability*) atau kompensasi (*compensation*) secara eksplisit—suatu kompromi politik yang diperlukan untuk mencapai kesepakatan namun yang juga membatasi potensi preseden hukum dari mekanisme ini.[^50]
 
 ---
 
@@ -366,7 +371,7 @@ Bayangkan sebuah negara "N" yang menyampaikan NDC dengan target pengurangan emis
 
 **Fakta Kunci:**
 1. Negara N adalah ekonomi menengah dengan GDP per kapita USD 15.000
-2. Emisi per kapita N adalah 8 ton COâ‚‚/tahun (rata-rata global: 4,7 ton)
+2. Emisi per kapita N adalah 8 ton CO₂/tahun (rata-rata global: 4,7 ton)
 3. N memiliki potensi energi terbarukan yang besar namun belum dimanfaatkan optimal
 4. Konstitusi N menjamin hak atas lingkungan yang sehat
 5. Studi menunjukkan N mampu mencapai target 35% dengan investasi moderat
@@ -558,21 +563,21 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - [[04-Akademik-Buku_Mayer_2022_Mitigation]] - Referensi akademis utama
 
 **Navigasi Buku:**
-- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3: Arsitektur Rezim Iklim Internasional]]
-- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-05-Hukum-Adaptasi_BAB-05|BAB 5: Hukum Adaptasi Perubahan Iklim]]
-- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-06-PerubahanIklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3: Arsitektur Rezim Iklim Internasional]]
+- → [[Buku-Ajar-Hukum-06-PerubahanIklim-05-Hukum-Adaptasi_BAB-05|BAB 5: Hukum Adaptasi Perubahan Iklim]]
+- ↑ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 ## Catatan Kaki
 
-[^1]: Daniel Bodansky, Jutta BrunnÃ©e and Lavanya Rajamani, *International Climate Change Law* (OUP 2017) 1-15.
+[^1]: Daniel Bodansky, Jutta Brunnée and Lavanya Rajamani, *International Climate Change Law* (OUP 2017) 1-15.
 
 [^2]: Benoit Mayer, *International Law Obligations on Climate Change Mitigation* (OUP 2022) 23-45.
 
-[^3]: IPCC, 'Annex I: Glossary' in *Climate Change 2023: Synthesis Report* (IPCC 2023) 1793.
+[^3]: IPCC, 'Annex I: Glossary' in *[Climate Change 2023: Synthesis Report](https://www.ipcc.ch/report/ar6/syr/)* (IPCC 2023) 1793.
 
-[^4]: Bodansky, BrunnÃ©e and Rajamani (n 1) 18-22.
+[^4]: Bodansky, Brunnée and Rajamani (n 1) 18-22.
 
 [^5]: Daniel Bodansky, 'The Paris Climate Change Agreement: A New Hope?' (2016) 110 AJIL 288, 295.
 
@@ -580,7 +585,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^7]: IPCC, 'Summary for Policymakers' in *Climate Change 2021: The Physical Science Basis* (CUP 2021) SPM-36.
 
-[^8]: IPCC, 'Summary for Policymakers' in *Global Warming of 1.5Â°C* (IPCC 2018) 7-12.
+[^8]: IPCC, 'Summary for Policymakers' in *Global Warming of 1.5°C* (IPCC 2018) 7-12.
 
 [^9]: Mayer (n 2) 156-178.
 
@@ -598,15 +603,15 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^16]: IPCC, 'Waste' in *Climate Change 2022: Mitigation of Climate Change* (CUP 2022) 1285.
 
-[^17]: United Nations Framework Convention on Climate Change (adopted 9 May 1992, entered into force 21 March 1994) 1771 UNTS 107.
+[^17]: [United Nations Framework Convention on Climate Change](https://unfccc.int/process-and-meetings/what-is-the-united-nations-framework-convention-on-climate-change) (adopted 9 May 1992, entered into force 21 March 1994) 1771 UNTS 107.
 
 [^18]: UNFCCC, art 2.
 
-[^19]: Lavanya Rajamani, 'The 2015 Paris Agreement: Interplay Between Hard, Soft and Non-Obligations' (2016) 28 JEL 337, 340-345.
+[^19]: Lavanya Rajamani, 'The 2015 [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement): Interplay Between Hard, Soft and Non-Obligations' (2016) 28 JEL 337, 340-345.
 
-[^20]: Paris Agreement (adopted 12 December 2015, entered into force 4 November 2016) UNTS 3156.
+[^20]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement) (adopted 12 December 2015, entered into force 4 November 2016) UNTS 3156.
 
-[^21]: Christina Voigt and Felipe Ferreira, 'Dynamic Differentiation: The Principles of CBDR-RC, Progression and Highest Possible Ambition in the Paris Agreement' (2016) 5 TEL 285.
+[^21]: Christina Voigt and Felipe Ferreira, 'Dynamic Differentiation: The Principles of CBDR-RC, Progression and Highest Possible Ambition in the [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement)' (2016) 5 TEL 285.
 
 [^22]: Rajamani (n 19) 350-355.
 
@@ -616,9 +621,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^25]: Harro van Asselt, 'Governing Fossil Fuel Production in the Age of Climate Disruption' in Kati Kulovesi and Meinhard Doelle (eds), *The International Climate Regime* (CUP 2021) 155.
 
-[^26]: Axel Michaelowa, Aglaja Espelage and Benito MÃ¼ller, 'Negotiating Cooperation under Article 6 of the Paris Agreement' (2019) 13 Carbon & Climate Law Review 15.
+[^26]: Axel Michaelowa, Aglaja Espelage and Benito Müller, 'Negotiating Cooperation under Article 6 of the [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement)' (2019) 13 Carbon & Climate Law Review 15.
 
-[^27]: Paris Agreement, art 10; UNFCCC Decision 1/CP.21 para 66-71.
+[^27]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement), art 10; UNFCCC Decision 1/CP.21 para 66-71.
 
 [^28]: Trail Smelter Case (United States v Canada) (1941) 3 RIAA 1905, 1965.
 
@@ -636,7 +641,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^35]: Savaresi and Setzer (n 23) 18-22.
 
-[^36]: *Urgenda Foundation v State of the Netherlands* [2019] Hoge Raad 19/00135 paras 5.7.1-5.7.9.
+[^36]: *[Urgenda Foundation v State of the Netherlands](https://climatecasechart.com/non-us-case/urgenda-foundation-v-kingdom-of-the-netherlands/)* [2019] Hoge Raad 19/00135 paras 5.7.1-5.7.9.
 
 [^37]: UNGA Res 76/300 (28 July 2022) UN Doc A/RES/76/300.
 
@@ -652,7 +657,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^43]: Joana Setzer and Lisa Benjamin, 'Climate Litigation in the Global South: Constraints and Innovations' (2020) 9 TEL 77.
 
-[^44]: *Neubauer and Others v Germany* (Bundesverfassungsgericht, 24 March 2021) 1 BvR 2656/18 paras 183-198.
+[^44]: *[Neubauer](https://climatecasechart.com/non-us-case/neubauer-et-al-v-germany/) and Others v Germany* (Bundesverfassungsgericht, 24 March 2021) 1 BvR 2656/18 paras 183-198.
 
 [^45]: ILC, 'Articles on Responsibility of States for Internationally Wrongful Acts' (2001) UN Doc A/56/10 art 1.
 
@@ -660,11 +665,11 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^47]: Christina Voigt, 'State Responsibility for Climate Change Damages' (2008) 77 Nordic JIL 1.
 
-[^48]: See eg *Verein KlimaSeniorinnen Schweiz and Others v Switzerland* App no 53600/20 (ECtHR, pending); *Advisory Opinion OC-23/17* (IACtHR, 15 November 2017).
+[^48]: See eg *Verein [KlimaSeniorinnen](https://climatecasechart.com/non-us-case/union-of-swiss-senior-women-for-climate-protection-v-swiss-federal-council-and-others/) Schweiz and Others v Switzerland* App no 53600/20 (ECtHR, pending); *Advisory Opinion OC-23/17* (IACtHR, 15 November 2017).
 
 [^49]: UNFCCC Decision 2/CP.27 'Funding Arrangements for Responding to Loss and Damage Associated with the Adverse Effects of Climate Change' (20 November 2022) FCCC/CP/2022/10/Add.1.
 
-[^50]: Paris Agreement, art 8(3) (explicitly stating that art 8 'does not involve or provide a basis for any liability or compensation').
+[^50]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement), art 8(3) (explicitly stating that art 8 'does not involve or provide a basis for any liability or compensation').
 
 ---
 

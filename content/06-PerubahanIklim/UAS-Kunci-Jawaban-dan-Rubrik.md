@@ -9,6 +9,8 @@ tags:
   - grading
   - 06-PerubahanIklim
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
 
 # UAS KUNCI JAWABAN DAN RUBRIK PENILAIAN
 **Mata Kuliah: Hukum Perubahan Iklim**
@@ -16,13 +18,13 @@ tags:
 
 ---
 
-## BAGIAN A: MATERI REFERENSI â€” KASUS LITIGASI IKLIM NYATA
+## BAGIAN A: MATERI REFERENSI — KASUS LITIGASI IKLIM NYATA
 
 **Catatan:** Bagian ini berisi ringkasan preseden kasus yang TIDAK diberikan kepada mahasiswa. Ini adalah materi referensi untuk dosen dalam menilai jawaban mahasiswa. Mahasiswa diharapkan menjawab berdasarkan pengetahuan yang telah dipelajari dalam 16 BAB mata kuliah.
 
 ---
 
-## BAGIAN A: MATERI REFERENSI â€” KASUS LITIGASI IKLIM NYATA
+## BAGIAN A: MATERI REFERENSI — KASUS LITIGASI IKLIM NYATA
 
 Bagian ini menyajikan ringkasan kasus-kasus litigasi iklim nyata, baik dari Indonesia maupun internasional, yang menjadi rujukan untuk memahami dan menjawab studi kasus fiktif pada Bagian B. Mahasiswa diharapkan menggunakan preseden-preseden ini sebagai dasar argumentasi hukum dalam menjawab pertanyaan ujian.
 
@@ -117,10 +119,10 @@ Para penggugat mengalami kerugian konkret:
 Gugatan diajukan pada Januari 2023 di pengadilan Swiss berdasarkan:
 1. **Hukum Perdata Swiss:** Pasal 41 Swiss Code of Obligations tentang tanggung jawab tort (duty of care)
 2. **Pelanggaran Hak Asasi Manusia:** Hak atas kehidupan, kesehatan, dan mata pencaharian
-3. **Kontribusi Emisi:** Holcim sebagai salah satu produsen semen terbesar dunia bertanggung jawab atas sekitar 0,42% emisi COâ‚‚ global kumulatif sejak Revolusi Industri
+3. **Kontribusi Emisi:** Holcim sebagai salah satu produsen semen terbesar dunia bertanggung jawab atas sekitar 0,42% emisi CO₂ global kumulatif sejak Revolusi Industri
 
 **Petitum (Tuntutan):**
-1. Memerintahkan Holcim untuk mengurangi emisi COâ‚‚ sebesar 43% pada 2030 dan mencapai net-zero pada 2050 (sejalan dengan target Paris Agreement)
+1. Memerintahkan Holcim untuk mengurangi emisi CO₂ sebesar 43% pada 2030 dan mencapai net-zero pada 2050 (sejalan dengan target Paris Agreement)
 2. Membayar kompensasi atas kerusakan yang telah terjadi kepada para penggugat
 3. Berkontribusi pada biaya adaptasi perubahan iklim di Pulau Pari (seperti tanggul pelindung, restorasi mangrove, dan relokasi infrastruktur)
 
@@ -165,24 +167,24 @@ PLTU Tanjung Jati A adalah proyek pembangkit listrik tenaga uap (coal-fired powe
 **Dasar Gugatan:**
 WALHI mengajukan gugatan pembatalan izin lingkungan dengan argumen:
 1. **Izin telah kedaluwarsa:** Berdasarkan peraturan, izin lingkungan berlaku 3 tahun sejak diterbitkan. Karena diterbitkan 2009 tanpa aktivitas konstruksi hingga 2020-an, izin dianggap tidak lagi valid
-2. **AMDAL tidak memadai:** Dokumen AMDAL tidak menganalisis dampak emisi COâ‚‚ dan kontribusi proyek terhadap perubahan iklim
+2. **AMDAL tidak memadai:** Dokumen AMDAL tidak menganalisis dampak emisi CO₂ dan kontribusi proyek terhadap perubahan iklim
 3. **Inkonsistensi dengan komitmen iklim:** Proyek bertentangan dengan komitmen Indonesia dalam Paris Agreement dan NDC (Nationally Determined Contribution)
 4. **Ancaman terhadap hak konstitusional:** Emisi dari PLTU akan memperburuk perubahan iklim dan mengancam hak warga atas lingkungan sehat (UUD 1945 Pasal 28H)
 
 **Fakta Emisi:**
-- PLTU Tanjung Jati A akan menghasilkan sekitar 530 juta ton COâ‚‚ selama 30 tahun masa operasi
+- PLTU Tanjung Jati A akan menghasilkan sekitar 530 juta ton CO₂ selama 30 tahun masa operasi
 - Emisi ini setara dengan emisi tahunan seluruh sektor transportasi Indonesia
 
 **Putusan PTUN Bandung (Oktober 2022):**
 Pengadilan mengabulkan gugatan WALHI dan membatalkan izin lingkungan PLTU Tanjung Jati A, dengan pertimbangan:
 1. **Izin lingkungan kedaluwarsa** karena tidak ada tindak lanjut konstruksi dalam jangka waktu yang ditentukan
-2. **Analisis dampak lingkungan tidak memadai**, khususnya terkait emisi COâ‚‚ dan dampak perubahan iklim
-3. **Proyek tidak layak secara lingkungan** karena ancaman emisi COâ‚‚ yang masif terhadap kehidupan dan lingkungan
-4. Pengadilan menyatakan: *"Dalam ketiadaan analisis pelepasan COâ‚‚, proyek PLTU Tanjung Jati A dianggap tidak layak karena mengancam kehidupan dan lingkungan."*
+2. **Analisis dampak lingkungan tidak memadai**, khususnya terkait emisi CO₂ dan dampak perubahan iklim
+3. **Proyek tidak layak secara lingkungan** karena ancaman emisi CO₂ yang masif terhadap kehidupan dan lingkungan
+4. Pengadilan menyatakan: *"Dalam ketiadaan analisis pelepasan CO₂, proyek PLTU Tanjung Jati A dianggap tidak layak karena mengancam kehidupan dan lingkungan."*
 
 **Signifikansi Hukum:**
 - **Kasus pertama di Indonesia** di mana pengadilan membatalkan izin lingkungan dengan **alasan perubahan iklim** sebagai pertimbangan yuridis
-- Menetapkan preseden bahwa **analisis emisi COâ‚‚ dan dampak iklim adalah bagian wajib** dari dokumen AMDAL untuk proyek besar
+- Menetapkan preseden bahwa **analisis emisi CO₂ dan dampak iklim adalah bagian wajib** dari dokumen AMDAL untuk proyek besar
 - Menunjukkan bahwa komitmen iklim internasional (Paris Agreement, NDC) dapat menjadi dasar pengujian legalitas izin proyek domestik
 - Memperkuat peran gugatan TUN (Tata Usaha Negara) sebagai instrumen litigasi iklim preventif
 
@@ -218,8 +220,8 @@ Kasus serupa di Cirebon (PLTU Cirebon expansion) mengalami nasib berbeda: gugata
 **Dasar Gugatan:**
 1. **Tort Law:** Perbuatan melawan hukum (onrechtmatige daad) berdasarkan Pasal 6:162 Dutch Civil Code
 2. **Hak Asasi Manusia:**
-   - Pasal 2 ECHR (European Convention on Human Rights) â€” hak atas kehidupan
-   - Pasal 8 ECHR â€” hak atas kehidupan pribadi dan keluarga, yang mencakup hak atas lingkungan yang aman
+   - Pasal 2 ECHR (European Convention on Human Rights) — hak atas kehidupan
+   - Pasal 8 ECHR — hak atas kehidupan pribadi dan keluarga, yang mencakup hak atas lingkungan yang aman
 3. **Prinsip Kehati-hatian (Precautionary Principle)** dalam hukum lingkungan internasional
 4. **Konsensus Ilmiah:** Target pengurangan emisi berdasarkan laporan IPCC
 
@@ -295,7 +297,7 @@ Putusan ini memaksa pemerintah Jerman merevisi KSG. Pada **Mei 2021**, pemerinta
 
 **Pengaruh Internasional:**
 Putusan ini menginspirasi gugatan serupa di berbagai negara, termasuk:
-- **Prancis:** L'Affaire du SiÃ¨cle (Greenpeace v. France)
+- **Prancis:** L'Affaire du Siècle (Greenpeace v. France)
 - **Korea Selatan:** Youth Climate Case (meminta Mahkamah Konstitusi Korea menilai UU iklim)
 - **Brasil:** Gugatan pemuda terhadap target NDC Brasil
 
@@ -321,20 +323,20 @@ Putusan ini menginspirasi gugatan serupa di berbagai negara, termasuk:
 Shell adalah salah satu perusahaan energi terbesar dunia dengan emisi Scope 1, 2, dan 3 yang sangat besar. Penggugat berargumen bahwa Shell, melalui operasi dan produknya, berkontribusi signifikan terhadap perubahan iklim dan gagal mengambil tindakan yang memadai untuk mengurangi emisi sesuai Paris Agreement.
 
 **Dasar Gugatan:**
-1. **Hukum Tort (Perbuatan Melawan Hukum):** Pasal 6:162 Burgerlijk Wetboek (Dutch Civil Code) â€” duty of care (kewajiban kehati-hatian)
+1. **Hukum Tort (Perbuatan Melawan Hukum):** Pasal 6:162 Burgerlijk Wetboek (Dutch Civil Code) — duty of care (kewajiban kehati-hatian)
 2. **Hak Asasi Manusia:**
    - Pasal 2 ECHR (hak atas kehidupan)
    - Pasal 8 ECHR (hak atas kehidupan pribadi dan keluarga)
 3. **OECD Guidelines for Multinational Enterprises:** Standar perilaku korporasi yang bertanggung jawab
-4. **Paris Agreement:** Kewajiban untuk mendukung upaya global membatasi pemanasan di bawah 1,5Â°C
+4. **Paris Agreement:** Kewajiban untuk mendukung upaya global membatasi pemanasan di bawah 1,5°C
 
 **Petitum:**
 Penggugat meminta pengadilan memerintahkan Shell untuk:
-1. Mengurangi emisi COâ‚‚ sebesar **45% pada 2030** (dibandingkan level 2019)
+1. Mengurangi emisi CO₂ sebesar **45% pada 2030** (dibandingkan level 2019)
 2. Pengurangan mencakup **Scope 1, 2, dan 3** emissions:
    - **Scope 1:** Emisi langsung dari operasi Shell (pengeboran, refinery, dll.)
    - **Scope 2:** Emisi tidak langsung dari konsumsi energi Shell
-   - **Scope 3:** Emisi dari penggunaan produk Shell oleh konsumen (end-use emissions) â€” misalnya, emisi dari pembakaran bensin yang dijual Shell
+   - **Scope 3:** Emisi dari penggunaan produk Shell oleh konsumen (end-use emissions) — misalnya, emisi dari pembakaran bensin yang dijual Shell
 
 **Putusan District Court (26 Mei 2021):**
 Pengadilan Den Haag mengabulkan gugatan dan memerintahkan Shell untuk mengurangi emisi 45% pada 2030, termasuk **Scope 3 emissions**.
@@ -401,8 +403,8 @@ ICJ mengeluarkan Advisory Opinion dengan **suara bulat** (unanimous), yang meneg
 - Kewajiban ini berlaku untuk **semua negara**, terlepas dari apakah mereka pihak pada perjanjian iklim tertentu (seperti UNFCCC atau Paris Agreement)
 - Negara-negara harus mengambil tindakan untuk mencapai pengurangan emisi yang "**deep, rapid, and sustained**" (dalam, cepat, dan berkelanjutan)
 
-**2. Target 1,5Â°C adalah Kewajiban Hukum yang Mengikat**
-- ICJ menegaskan bahwa target **membatasi pemanasan global pada 1,5Â°C** di atas level pra-industri adalah **legally binding** berdasarkan Paris Agreement
+**2. Target 1,5°C adalah Kewajiban Hukum yang Mengikat**
+- ICJ menegaskan bahwa target **membatasi pemanasan global pada 1,5°C** di atas level pra-industri adalah **legally binding** berdasarkan Paris Agreement
 - Negara-negara maju harus mengambil tindakan ambisius sesuai sains terbaik yang tersedia (best available science)
 - IPCC reports dianggap sebagai **standar sains** yang relevan untuk menentukan tingkat ambisi yang diperlukan
 
@@ -511,7 +513,7 @@ ICJ mengeluarkan Advisory Opinion dengan **suara bulat** (unanimous), yang meneg
   - Memberikan rekomendasi yang feasible dan strategis
 
 **Contoh Kualitas Jawaban Level A:**
-> "Meskipun ICJ Advisory Opinion 2025 secara teknis non-binding, ia memiliki kekuatan persuasif tinggi dalam konteks domestik karena tiga alasan: Pertama, sebagai interpretasi otoritatif atas hukum kebiasaan internasional, ia dapat digunakan untuk menafsirkan kewajiban Indonesia yang telah meratifikasi Paris Agreement (UU 16/2016). Pengadilan Indonesia telah menggunakan penafsiran serupa dalam kasus [X]. Kedua, Advisory Opinion dapat memperkuat argumen bahwa target 1,5Â°C adalah kewajiban hukum yang mengikat, bukan hanya aspirasi politik, sehingga kelalaian pemerintah mencapai target ini dapat dikualifikasi sebagai perbuatan melawan hukum. Ketiga..."
+> "Meskipun ICJ Advisory Opinion 2025 secara teknis non-binding, ia memiliki kekuatan persuasif tinggi dalam konteks domestik karena tiga alasan: Pertama, sebagai interpretasi otoritatif atas hukum kebiasaan internasional, ia dapat digunakan untuk menafsirkan kewajiban Indonesia yang telah meratifikasi Paris Agreement (UU 16/2016). Pengadilan Indonesia telah menggunakan penafsiran serupa dalam kasus [X]. Kedua, Advisory Opinion dapat memperkuat argumen bahwa target 1,5°C adalah kewajiban hukum yang mengikat, bukan hanya aspirasi politik, sehingga kelalaian pemerintah mencapai target ini dapat dikualifikasi sebagai perbuatan melawan hukum. Ketiga..."
 
 #### Level B (70-84)
 **Karakteristik:**
@@ -522,7 +524,7 @@ ICJ mengeluarkan Advisory Opinion dengan **suara bulat** (unanimous), yang meneg
 - Kepraktisan dipertimbangkan meskipun tidak selalu detail
 
 **Contoh Kualitas Jawaban Level B:**
-> "ICJ Advisory Opinion dapat digunakan dalam litigasi domestik karena Indonesia telah meratifikasi Paris Agreement. Advisory Opinion menyatakan bahwa target 1,5Â°C adalah kewajiban hukum. Meskipun non-binding, pengadilan Indonesia dapat menggunakannya sebagai referensi untuk menafsirkan kewajiban pemerintah."
+> "ICJ Advisory Opinion dapat digunakan dalam litigasi domestik karena Indonesia telah meratifikasi Paris Agreement. Advisory Opinion menyatakan bahwa target 1,5°C adalah kewajiban hukum. Meskipun non-binding, pengadilan Indonesia dapat menggunakannya sebagai referensi untuk menafsirkan kewajiban pemerintah."
 
 #### Level C (56-69)
 **Karakteristik:**
@@ -579,7 +581,7 @@ ICJ mengeluarkan Advisory Opinion dengan **suara bulat** (unanimous), yang meneg
 
 Para penggugat dapat menggunakan beberapa dasar hukum yang saling memperkuat. Berikut adalah tiga dasar hukum terkuat:
 
-**1. UUD 1945 Pasal 28H ayat (1) â€” Hak Konstitusional atas Lingkungan Sehat (Dasar Hukum Konstitusional)**
+**1. UUD 1945 Pasal 28H ayat (1) — Hak Konstitusional atas Lingkungan Sehat (Dasar Hukum Konstitusional)**
 
 *Bunyi Pasal:*
 > "Setiap orang berhak hidup sejahtera lahir dan batin, bertempat tinggal, dan mendapatkan lingkungan hidup yang baik dan sehat serta berhak memperoleh pelayanan kesehatan."
@@ -590,7 +592,7 @@ Para penggugat dapat berargumen bahwa kelalaian para tergugat dalam mengatasi pe
 *Kekuatan:*
 - **Hierarki norma tertinggi:** Sebagai norma konstitusional, UUD 1945 berada di puncak hierarki peraturan perundang-undangan Indonesia (UU 12/2011 Pasal 7)
 - **Preseden Jakarta Air Pollution:** Pengadilan Negeri Jakarta Pusat dalam perkara 374/Pdt.G/LH/2019 telah mengabulkan gugatan warga berdasarkan Pasal 28H ayat (1), menetapkan bahwa negara memiliki kewajiban konstitusional untuk melindungi hak warga atas lingkungan sehat
-- **Kewajiban positif negara:** Pasal 28I ayat (4) UUD 1945 menegaskan bahwa "perlindungan, pemajuan, penegakan, dan pemenuhan hak asasi manusia adalah tanggung jawab negara, terutama pemerintah" â€” ini menciptakan kewajiban positif (positive obligation) bagi Tergugat I-IV
+- **Kewajiban positif negara:** Pasal 28I ayat (4) UUD 1945 menegaskan bahwa "perlindungan, pemajuan, penegakan, dan pemenuhan hak asasi manusia adalah tanggung jawab negara, terutama pemerintah" — ini menciptakan kewajiban positif (positive obligation) bagi Tergugat I-IV
 - **Justiciability:** Mahkamah Konstitusi telah menegaskan dalam berbagai putusan bahwa hak konstitusional adalah justiciable (dapat ditegakkan melalui pengadilan)
 
 *Kelemahan:*
@@ -603,7 +605,7 @@ Para penggugat dapat berargumen bahwa kelalaian para tergugat dalam mengatasi pe
 
 ---
 
-**2. UU No. 32 Tahun 2009 tentang PPLH Pasal 91 â€” Gugatan Warga Negara (Citizen Lawsuit)**
+**2. UU No. 32 Tahun 2009 tentang PPLH Pasal 91 — Gugatan Warga Negara (Citizen Lawsuit)**
 
 *Bunyi Pasal:*
 > "Masyarakat berhak mengajukan gugatan terhadap pemerintah jika pemerintah melakukan kelalaian dalam perlindungan dan pengelolaan lingkungan hidup yang mengakibatkan kerusakan dan/atau pencemaran lingkungan hidup yang merugikan kehidupan masyarakat."
@@ -626,7 +628,7 @@ Pasal ini memberikan standing (kedudukan hukum) yang jelas bagi penggugat indivi
 *Kelemahan:*
 - **Hanya berlaku untuk Tergugat Pemerintah (I-IV):** Pasal 91 tidak dapat digunakan untuk menggugat Tergugat V (PT BNE) karena hanya berlaku untuk gugatan terhadap pemerintah. Untuk korporasi, harus menggunakan dasar hukum lain (Pasal 1365 KUH Perdata)
 - **Interpretasi "kelalaian":** Pengadilan mungkin memerlukan standar yang jelas untuk menentukan apa yang dimaksud dengan "kelalaian" dalam konteks perubahan iklim. Apakah tidak memenuhi target NDC sudah cukup? Apakah tidak memiliki UU iklim nasional = kelalaian?
-- **Pembuktian kerugian:** Harus dibuktikan bahwa kelalaian "mengakibatkan kerusakan dan/atau pencemaran lingkungan hidup yang merugikan kehidupan masyarakat" â€” ini memerlukan bukti kausal yang kuat
+- **Pembuktian kerugian:** Harus dibuktikan bahwa kelalaian "mengakibatkan kerusakan dan/atau pencemaran lingkungan hidup yang merugikan kehidupan masyarakat" — ini memerlukan bukti kausal yang kuat
 
 *Preseden Pendukung:*
 - **Jakarta Air Pollution:** Menggunakan Pasal 91, pengadilan menyatakan pemerintah lalai dan memerintahkan tindakan konkret
@@ -634,19 +636,19 @@ Pasal ini memberikan standing (kedudukan hukum) yang jelas bagi penggugat indivi
 
 ---
 
-**3. Paris Agreement (UU No. 16 Tahun 2016) + ICJ Advisory Opinion 2025 â€” Kewajiban Hukum Internasional**
+**3. Paris Agreement (UU No. 16 Tahun 2016) + ICJ Advisory Opinion 2025 — Kewajiban Hukum Internasional**
 
 *Dasar Ratifikasi:*
 Indonesia telah meratifikasi Paris Agreement melalui UU No. 16 Tahun 2016, yang berarti Paris Agreement memiliki kekuatan hukum mengikat di Indonesia berdasarkan UU No. 24 Tahun 2000 tentang Perjanjian Internasional.
 
 *Kewajiban Kunci dalam Paris Agreement:*
-1. **Article 2.1(a):** "Holding the increase in the global average temperature to well below 2Â°C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5Â°C"
+1. **Article 2.1(a):** "Holding the increase in the global average temperature to well below 2°C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5°C"
 2. **Article 4.2:** Setiap negara pihak harus "prepare, communicate and maintain successive nationally determined contributions (NDCs)" dan "pursue domestic mitigation measures, with the aim of achieving the objectives of such contributions"
 3. **Article 7.1:** "Parties hereby establish the global goal on adaptation of enhancing adaptive capacity, strengthening resilience and reducing vulnerability to climate change"
 
 *ICJ Advisory Opinion 2025 sebagai Interpretasi Otoritatif:*
 ICJ Advisory Opinion (23 Juli 2025) memberikan interpretasi otoritatif atas kewajiban negara berdasarkan Paris Agreement dan hukum kebiasaan internasional:
-1. **Target 1,5Â°C adalah legally binding:** Bukan hanya aspirasi politik
+1. **Target 1,5°C adalah legally binding:** Bukan hanya aspirasi politik
 2. **Adaptasi adalah kewajiban hukum:** Bukan kebijakan opsional
 3. **Due diligence standard:** Negara harus mengambil tindakan yang "deep, rapid, and sustained" untuk mengurangi emisi
 
@@ -707,17 +709,17 @@ Tergugat berargumen bahwa Penggugat 11-20 (aktivis muda usia 21-27 tahun) tidak 
 Intergenerational equity adalah prinsip bahwa generasi sekarang memiliki kewajiban untuk tidak mengompromikan kemampuan generasi mendatang untuk memenuhi kebutuhan mereka. Dalam konteks perubahan iklim, prinsip ini berarti bahwa generasi muda (Penggugat 11-20) memiliki hak untuk tidak menanggung beban pengurangan emisi yang tidak proporsional akibat kelalaian generasi sebelumnya.
 
 *Dasar Hukum Prinsip Ini:*
-1. **UUD 1945 Pasal 33 ayat (4):** Perekonomian nasional diselenggarakan dengan prinsip "berkelanjutan" â€” ini mengimplikasikan perhatian pada generasi mendatang
-2. **UU PPLH Pasal 2 huruf f:** Perlindungan lingkungan hidup dilaksanakan berdasarkan asas "keadilan" â€” termasuk keadilan antargenerasi
+1. **UUD 1945 Pasal 33 ayat (4):** Perekonomian nasional diselenggarakan dengan prinsip "berkelanjutan" — ini mengimplikasikan perhatian pada generasi mendatang
+2. **UU PPLH Pasal 2 huruf f:** Perlindungan lingkungan hidup dilaksanakan berdasarkan asas "keadilan" — termasuk keadilan antargenerasi
 3. **Paris Agreement:** Preamble menyebutkan "intergenerational equity" sebagai prinsip yang harus dipertimbangkan dalam aksi iklim
 
 *Aplikasi dalam Kasus Barito:*
 Penggugat 11-20 akan menanggung dampak perubahan iklim yang jauh lebih berat di masa depan jika aksi iklim tidak segera diambil:
-- **Carbon budget:** Studi atribusi menunjukkan bahwa pada pemanasan 2Â°C (sekitar 2040-2050, saat Penggugat 11-20 berusia 40-55 tahun), frekuensi banjir serupa akan meningkat menjadi setiap 7-10 tahun. Mereka akan mengalami 5-7 banjir ekstrem selama hidup mereka
+- **Carbon budget:** Studi atribusi menunjukkan bahwa pada pemanasan 2°C (sekitar 2040-2050, saat Penggugat 11-20 berusia 40-55 tahun), frekuensi banjir serupa akan meningkat menjadi setiap 7-10 tahun. Mereka akan mengalami 5-7 banjir ekstrem selama hidup mereka
 - **Economic burden:** Biaya adaptasi dan pemulihan akan semakin mahal di masa depan, membebani generasi muda secara tidak proporsional
 - **Lost opportunities:** Kerusakan lingkungan dan bencana berulang akan mengurangi kualitas hidup dan peluang ekonomi generasi muda
 
-**2. Preseden Neubauer v. Germany (2021) â€” Hak Generasi Mendatang Dilindungi Konstitusi**
+**2. Preseden Neubauer v. Germany (2021) — Hak Generasi Mendatang Dilindungi Konstitusi**
 
 *Ringkas Preseden:*
 Dalam Neubauer v. Germany, Bundesverfassungsgericht (Mahkamah Konstitusi Jerman) menyatakan bahwa Federal Climate Protection Act 2019 **inkonstitusional sepanjang** tidak menetapkan target pengurangan yang jelas untuk periode pasca-2030. Penggugat adalah kelompok pemuda Jerman yang berargumen bahwa UU yang terlalu longgar di periode 2020-2030 akan membebankan pengurangan emisi yang tidak proporsional kepada mereka setelah 2030.
@@ -728,7 +730,7 @@ Dalam Neubauer v. Germany, Bundesverfassungsgericht (Mahkamah Konstitusi Jerman)
 Mahkamah menyatakan bahwa:
 1. **Hak dasar (fundamental rights) melindungi tidak hanya generasi saat ini, tetapi juga generasi mendatang**
 2. **Kelalaian hari ini yang membebankan generasi mendatang secara tidak proporsional adalah pelanggaran konstitusional**
-3. **Intergenerational equity adalah prinsip konstitusional yang justiciable** â€” artinya dapat ditegakkan melalui pengadilan
+3. **Intergenerational equity adalah prinsip konstitusional yang justiciable** — artinya dapat ditegakkan melalui pengadilan
 
 *Aplikasi Preseden Neubauer ke Kasus Barito:*
 Meskipun Neubauer adalah kasus Jerman, prinsip-prinsip yang sama dapat diterapkan di Indonesia:
@@ -750,12 +752,12 @@ Penggugat 11-20, yang saat ini berusia 21-27 tahun, memiliki **harapan hidup hin
 *Kerugian yang Dapat Diprediksi (Foreseeable Harm):*
 Berbeda dengan kerugian yang "spekulatif", kerugian yang akan dialami Penggugat 11-20 adalah **dapat diprediksi** berdasarkan:
 1. **Proyeksi ilmiah:** Studi atribusi memproyeksikan frekuensi banjir ekstrem di Kalimantan akan meningkat 250-300%
-2. **IPCC reports:** AR6 memprediksi peningkatan risiko banjir, kekeringan, dan dampak kesehatan di Asia Tenggara pada pemanasan 1,5-2Â°C
+2. **IPCC reports:** AR6 memprediksi peningkatan risiko banjir, kekeringan, dan dampak kesehatan di Asia Tenggara pada pemanasan 1,5-2°C
 3. **Tren historis:** Banjir Kalimantan telah meningkat frekuensi dan intensitasnya dalam 20 tahun terakhir
 
 Karena kerugian dapat diprediksi dengan tingkat kepastian ilmiah yang tinggi, maka Penggugat 11-20 memiliki **kepentingan hukum yang cukup** untuk menuntut perlindungan hak konstitusional mereka.
 
-**4. Standing Berdasarkan UU PPLH Pasal 91 â€” "Masyarakat" Tidak Dibatasi pada Korban Langsung**
+**4. Standing Berdasarkan UU PPLH Pasal 91 — "Masyarakat" Tidak Dibatasi pada Korban Langsung**
 
 *Interpretasi "Masyarakat":*
 Pasal 91 menyatakan: "**Masyarakat** berhak mengajukan gugatan terhadap pemerintah jika pemerintah melakukan kelalaian..."
@@ -805,7 +807,7 @@ Meskipun ICJ Advisory Opinion 2025 secara teknis **tidak mengikat secara langsun
 
 *Contoh Aplikasi:*
 Penggugat dapat berargumen:
-> "Tergugat I-III berargumen bahwa target NDC Indonesia (31,89% unconditional) sudah memadai dan sesuai dengan Paris Agreement. Namun, ICJ Advisory Opinion 2025 telah menegaskan bahwa target 1,5Â°C adalah legally binding, dan negara-negara maju serta major emitters harus mengambil tindakan yang 'deep, rapid, and sustained' sesuai best available science (IPCC). Berdasarkan IPCC AR6, untuk membatasi pemanasan pada 1,5Â°C, negara-negara harus mengurangi emisi minimal 45% pada 2030 (dibandingkan 2010). Target Indonesia saat ini tidak selaras dengan interpretasi ICJ atas kewajiban Paris Agreement, sehingga kelalaian dalam menaikkan ambisi NDC merupakan pelanggaran kewajiban hukum internasional yang telah menjadi hukum nasional."
+> "Tergugat I-III berargumen bahwa target NDC Indonesia (31,89% unconditional) sudah memadai dan sesuai dengan Paris Agreement. Namun, ICJ Advisory Opinion 2025 telah menegaskan bahwa target 1,5°C adalah legally binding, dan negara-negara maju serta major emitters harus mengambil tindakan yang 'deep, rapid, and sustained' sesuai best available science (IPCC). Berdasarkan IPCC AR6, untuk membatasi pemanasan pada 1,5°C, negara-negara harus mengurangi emisi minimal 45% pada 2030 (dibandingkan 2010). Target Indonesia saat ini tidak selaras dengan interpretasi ICJ atas kewajiban Paris Agreement, sehingga kelalaian dalam menaikkan ambisi NDC merupakan pelanggaran kewajiban hukum internasional yang telah menjadi hukum nasional."
 
 **b) Sebagai Sumber Hukum Kebiasaan Internasional**
 
@@ -916,7 +918,7 @@ Penggugat dapat berargumen:
 - ICJ Advisory Opinion **mengakui CBDR-RC** dan tidak mengharuskan semua negara mengambil tindakan yang sama
 - Namun, CBDR-RC **bukan alasan untuk tidak melakukan apapun**. ICJ menegaskan bahwa semua negara, including developing countries, memiliki kewajiban due diligence yang disesuaikan dengan kapasitas mereka
 - Indonesia sebagai **major emitter** (emitter terbesar di Asia Tenggara, top 10 global) memiliki **tanggung jawab yang lebih besar** dibandingkan negara berkembang kecil
-- Kelalaian adaptasi (seperti tidak ada early warning system di Barito) **tidak dapat dibenarkan** dengan argumen pembangunan â€” ini adalah kewajiban dasar melindungi warga yang tidak memerlukan biaya sangat besar
+- Kelalaian adaptasi (seperti tidak ada early warning system di Barito) **tidak dapat dibenarkan** dengan argumen pembangunan — ini adalah kewajiban dasar melindungi warga yang tidak memerlukan biaya sangat besar
 
 **e) Kesulitan Pembuktian Kausalitas**
 
@@ -984,7 +986,7 @@ Kekuatan persuasifnya tinggi karena otoritas ICJ, proses rigorous, dan konsensus
    **Analisis Tambahan (untuk nilai A):**
    - "But for" test: Tanpa perubahan iklim, banjir mungkin tetap terjadi, tetapi **tidak seintens ini**. Jadi perubahan iklim adalah **necessary condition** untuk tingkat kerusakan yang terjadi
    - **NESS test** (Necessary Element of a Sufficient Set): Perubahan iklim adalah elemen yang diperlukan dari sekumpulan kondisi (curah hujan tinggi + degradasi lahan + perubahan iklim) yang sufficient untuk menyebabkan banjir ekstrem
-   - Studi atribusi menunjukkan bahwa perubahan iklim meningkatkan **probability** kejadian 250-300% â€” ini adalah bukti kausalitas probabilistik yang kuat
+   - Studi atribusi menunjukkan bahwa perubahan iklim meningkatkan **probability** kejadian 250-300% — ini adalah bukti kausalitas probabilistik yang kuat
 
 **Kriteria Nilai Tinggi:**
 - Menjelaskan metodologi studi atribusi dengan jelas (tidak hanya menyebut, tapi menjelaskan bagaimana bekerja)
@@ -1003,25 +1005,25 @@ Kekuatan persuasifnya tinggi karena otoritas ICJ, proses rigorous, dan konsensus
    - Cukup bahwa tindakan defendant adalah **material contributing factor**
    - Standar "material": kontribusi yang **significant** dan **not trivial**
 
-2. **Apakah 18 juta ton COâ‚‚e per tahun = Material Contribution:**
+2. **Apakah 18 juta ton CO₂e per tahun = Material Contribution:**
 
    **Analisis Multi-Level:**
 
    **a) Skala Global:**
-   - 18 juta ton COâ‚‚e = 0,045% dari emisi global tahunan (~40 Gt COâ‚‚e)
+   - 18 juta ton CO₂e = 0,045% dari emisi global tahunan (~40 Gt CO₂e)
    - Angka kecil dalam konteks global, **tetapi**...
 
    **b) Skala Nasional:**
-   - 18 juta ton = 3,5% dari emisi nasional Indonesia (~500 Mt COâ‚‚e)
+   - 18 juta ton = 3,5% dari emisi nasional Indonesia (~500 Mt CO₂e)
    - Ini adalah kontribusi yang **significant** dalam konteks nasional
 
    **c) Kumulatif:**
    - PT BNE beroperasi sejak 2018 dan akan beroperasi hingga 2040-2050 (30 tahun PLTU lifecycle)
-   - Emisi kumulatif: 18 juta x 30 tahun = **540 juta ton COâ‚‚e**
+   - Emisi kumulatif: 18 juta x 30 tahun = **540 juta ton CO₂e**
    - Ini adalah kontribusi kumulatif yang sangat besar
 
    **d) Preseden Pari Island v. Holcim:**
-   - Holcim: 0,42% emisi global kumulatif â€” pengadilan Swiss menerima ini sebagai cukup material untuk standing
+   - Holcim: 0,42% emisi global kumulatif — pengadilan Swiss menerima ini sebagai cukup material untuk standing
    - PT BNE: meskipun lebih kecil, tetapi **proximity** lebih dekat (satu provinsi dengan lokasi bencana)
    - Proximity meningkatkan material contribution
 
@@ -1040,7 +1042,7 @@ Kekuatan persuasifnya tinggi karena otoritas ICJ, proses rigorous, dan konsensus
 - **Argumen Pemerintah Belanda:** "Pengurangan emisi Belanda terlalu kecil (hanya 1-2% emisi global) untuk membuat perbedaan terhadap perubahan iklim global"
 - **Jawaban Pengadilan:**
   - "Every bit counts" principle: Setiap pengurangan emisi berkontribusi pada upaya global
-  - Negara tidak dapat menghindari kewajiban dengan alasan bahwa kontribusinya "kecil" â€” ini adalah free-rider problem
+  - Negara tidak dapat menghindari kewajiban dengan alasan bahwa kontribusinya "kecil" — ini adalah free-rider problem
   - Jika semua negara menggunakan alasan yang sama, tidak akan ada aksi iklim
 
 **Aplikasi ke Kasus Barito:**
@@ -1075,7 +1077,7 @@ Kekuatan persuasifnya tinggi karena otoritas ICJ, proses rigorous, dan konsensus
 
 **c) Menyamakan Advisory Opinion dengan Putusan yang Mengikat**
 - **Salah:** "ICJ Advisory Opinion 2025 mewajibkan Indonesia mengurangi emisi 50% pada 2030"
-- **Benar:** "ICJ Advisory Opinion 2025 menegaskan bahwa negara memiliki kewajiban hukum untuk mencapai target 1,5Â°C, yang berdasarkan IPCC memerlukan pengurangan sekitar 45-50% pada 2030. Meskipun Advisory Opinion non-binding, ia memiliki persuasive authority tinggi"
+- **Benar:** "ICJ Advisory Opinion 2025 menegaskan bahwa negara memiliki kewajiban hukum untuk mencapai target 1,5°C, yang berdasarkan IPCC memerlukan pengurangan sekitar 45-50% pada 2030. Meskipun Advisory Opinion non-binding, ia memiliki persuasive authority tinggi"
 
 **d) Mengira Kausalitas Harus 100%**
 - **Salah:** "Karena perubahan iklim hanya menyebabkan 30-40% peningkatan intensitas, maka tidak ada kausalitas hukum"
@@ -1229,7 +1231,7 @@ Dosen dapat memberikan **bonus hingga 5 poin** untuk:
 - **Practical insight:** Memberikan saran strategis yang sangat realistis dan sophisticated
 
 **Contoh:**
-> Mahasiswa A tidak hanya menjawab pertanyaan, tetapi juga mengidentifikasi bahwa "combining citizen lawsuit (Pasal 91) with TUN action against PLTU permit would be a two-pronged strategy that addresses both government failure and corporate wrongdoing simultaneously." Ini adalah insight praktis yang tidak ditanyakan tetapi sangat valuable â†’ **+3 bonus points**
+> Mahasiswa A tidak hanya menjawab pertanyaan, tetapi juga mengidentifikasi bahwa "combining citizen lawsuit (Pasal 91) with TUN action against PLTU permit would be a two-pronged strategy that addresses both government failure and corporate wrongdoing simultaneously." Ini adalah insight praktis yang tidak ditanyakan tetapi sangat valuable → **+3 bonus points**
 
 ---
 
@@ -1282,19 +1284,19 @@ Dosen dapat memberikan **bonus hingga 5 poin** untuk:
 
 **Pertanyaan 1a: Mahasiswa A**
 
-> "Para penggugat memiliki tiga dasar hukum terkuat yang dapat digunakan secara kumulatif. **Pertama**, UUD 1945 Pasal 28H ayat (1) yang menjamin hak atas lingkungan sehat. Pasal ini memiliki kekuatan hierarki tertinggi dan telah digunakan dengan sukses dalam Jakarta Air Pollution Case (374/Pdt.G/LH/2019). Pengadilan Negeri Jakarta Pusat menyatakan bahwa negara memiliki kewajiban positif untuk melindungi hak konstitusional ini. Dalam konteks Barito, kelalaian Tergugat I-IV dalam mitigasi dan adaptasi iklim secara langsung melanggar hak Pasal 28H karena banjir ekstrem yang diperberat perubahan iklim mengancam hak atas kehidupan (47 korban), kesehatan (320 luka), dan tempat tinggal (14.850 mengungsi). Kekuatan dasar hukum ini adalah status konstitusional dan preseden yang jelas. Kelemahannya adalah abstraksi tinggi â€” pengadilan harus menafsirkan bagaimana hak atas lingkungan sehat menimbulkan kewajiban spesifik terkait iklim. Namun, dengan mengutip ICJ Advisory Opinion 2025 yang menetapkan standar due diligence, interpretasi ini dapat diperkuat.
+> "Para penggugat memiliki tiga dasar hukum terkuat yang dapat digunakan secara kumulatif. **Pertama**, UUD 1945 Pasal 28H ayat (1) yang menjamin hak atas lingkungan sehat. Pasal ini memiliki kekuatan hierarki tertinggi dan telah digunakan dengan sukses dalam Jakarta Air Pollution Case (374/Pdt.G/LH/2019). Pengadilan Negeri Jakarta Pusat menyatakan bahwa negara memiliki kewajiban positif untuk melindungi hak konstitusional ini. Dalam konteks Barito, kelalaian Tergugat I-IV dalam mitigasi dan adaptasi iklim secara langsung melanggar hak Pasal 28H karena banjir ekstrem yang diperberat perubahan iklim mengancam hak atas kehidupan (47 korban), kesehatan (320 luka), dan tempat tinggal (14.850 mengungsi). Kekuatan dasar hukum ini adalah status konstitusional dan preseden yang jelas. Kelemahannya adalah abstraksi tinggi — pengadilan harus menafsirkan bagaimana hak atas lingkungan sehat menimbulkan kewajiban spesifik terkait iklim. Namun, dengan mengutip ICJ Advisory Opinion 2025 yang menetapkan standar due diligence, interpretasi ini dapat diperkuat.
 >
 > **Kedua**, UU PPLH Pasal 91 tentang citizen lawsuit. Pasal ini secara eksplisit memberikan standing kepada masyarakat untuk menggugat pemerintah yang lalai dalam perlindungan lingkungan. Kelalaian yang dapat didalilkan meliputi: (1) tidak memperbarui RAD-GRK Kalsel sejak 2012, (2) tidak ada early warning system banjir, (3) terus mengizinkan ekspansi PLTU yang meningkatkan emisi. Kekuatan Pasal 91 adalah standing eksplisit dan fokus pada kelalaian substantif, bukan hanya keputusan administratif. Ini sudah terbukti dalam preseden Jakarta. Kelemahannya adalah Pasal 91 hanya berlaku untuk Tergugat I-IV (pemerintah), tidak untuk Tergugat V (PT BNE). Untuk korporasi, harus menggunakan Pasal 1365 KUH Perdata.
 >
-> **Ketiga**, Paris Agreement (UU 16/2016) yang diperkuat oleh ICJ Advisory Opinion 2025. Indonesia telah meratifikasi Paris Agreement, sehingga kewajiban Article 4.2 (pursue domestic mitigation) dan Article 7 (adaptation) mengikat secara hukum. ICJ Advisory Opinion memberikan interpretasi otoritatif bahwa target 1,5Â°C adalah legally binding dan adaptasi adalah kewajiban, bukan pilihan. Dengan Climate Action Tracker menunjukkan Indonesia off-track untuk NDC, ini adalah bukti kelalaian. Kekuatan pendekatan ini adalah standar internasional yang konkret dan momentum global litigasi iklim (Urgenda, Neubauer). Kelemahannya adalah Advisory Opinion non-binding dan mungkin dianggap non-self-executing. Namun, preseden Urgenda menunjukkan bahwa pengadilan dapat menegakkan kewajiban internasional tanpa UU pelaksana yang spesifik."
+> **Ketiga**, Paris Agreement (UU 16/2016) yang diperkuat oleh ICJ Advisory Opinion 2025. Indonesia telah meratifikasi Paris Agreement, sehingga kewajiban Article 4.2 (pursue domestic mitigation) dan Article 7 (adaptation) mengikat secara hukum. ICJ Advisory Opinion memberikan interpretasi otoritatif bahwa target 1,5°C adalah legally binding dan adaptasi adalah kewajiban, bukan pilihan. Dengan Climate Action Tracker menunjukkan Indonesia off-track untuk NDC, ini adalah bukti kelalaian. Kekuatan pendekatan ini adalah standar internasional yang konkret dan momentum global litigasi iklim (Urgenda, Neubauer). Kelemahannya adalah Advisory Opinion non-binding dan mungkin dianggap non-self-executing. Namun, preseden Urgenda menunjukkan bahwa pengadilan dapat menegakkan kewajiban internasional tanpa UU pelaksana yang spesifik."
 
 **Nilai:** 9.5/10
 **Rationale:**
-- Identifikasi tiga dasar hukum yang sangat strategis âœ“
-- Analisis kekuatan/kelemahan mendalam dengan pertimbangan preseden âœ“
-- Aplikasi ke kasus Barito jelas dan konkret âœ“
-- Mengantisipasi counterargument (non-self-executing) dan membantahnya âœ“
-- Struktur jelas dan logis âœ“
+- Identifikasi tiga dasar hukum yang sangat strategis ✓
+- Analisis kekuatan/kelemahan mendalam dengan pertimbangan preseden ✓
+- Aplikasi ke kasus Barito jelas dan konkret ✓
+- Mengantisipasi counterargument (non-self-executing) dan membantahnya ✓
+- Struktur jelas dan logis ✓
 
 ---
 
@@ -1310,15 +1312,15 @@ Dosen dapat memberikan **bonus hingga 5 poin** untuk:
 
 **Nilai:** 7/10
 **Rationale:**
-- Identifikasi tiga dasar hukum yang tepat âœ“
-- Analisis kekuatan/kelemahan sangat minim (hanya menyebutkan, tidak mendalami) âœ—
-- Preseden disebutkan tapi tidak dianalisis âœ—
-- Aplikasi ke kasus Barito ada tetapi kurang detail âœ—
-- Tidak mengidentifikasi kelemahan atau counterargument âœ—
-- Bahasa informal ("kasih hak", "jelas lalai") â€” kurang formal untuk ujian S2 âœ—
+- Identifikasi tiga dasar hukum yang tepat ✓
+- Analisis kekuatan/kelemahan sangat minim (hanya menyebutkan, tidak mendalami) ✗
+- Preseden disebutkan tapi tidak dianalisis ✗
+- Aplikasi ke kasus Barito ada tetapi kurang detail ✗
+- Tidak mengidentifikasi kelemahan atau counterargument ✗
+- Bahasa informal ("kasih hak", "jelas lalai") — kurang formal untuk ujian S2 ✗
 
 **Feedback untuk Mahasiswa B:**
-"Anda berhasil mengidentifikasi tiga dasar hukum yang relevan, tetapi analisisnya masih perlu diperdalam. Untuk setiap dasar hukum, sebaiknya jelaskan: (1) bunyi pasal/kewajiban spesifik, (2) kekuatan (mengapa kuat), (3) kelemahan (apa yang mungkin diargumentasikan lawan), dan (4) bagaimana preseden mendukung. Perhatikan juga formalitas bahasa â€” gunakan bahasa Indonesia yang lebih akademis."
+"Anda berhasil mengidentifikasi tiga dasar hukum yang relevan, tetapi analisisnya masih perlu diperdalam. Untuk setiap dasar hukum, sebaiknya jelaskan: (1) bunyi pasal/kewajiban spesifik, (2) kekuatan (mengapa kuat), (3) kelemahan (apa yang mungkin diargumentasikan lawan), dan (4) bagaimana preseden mendukung. Perhatikan juga formalitas bahasa — gunakan bahasa Indonesia yang lebih akademis."
 
 ---
 
@@ -1330,11 +1332,11 @@ Dosen dapat memberikan **bonus hingga 5 poin** untuk:
 
 **Nilai:** 5.5/10
 **Rationale:**
-- Identifikasi dasar hukum sangat umum (tidak sebutkan pasal spesifik) âœ—
-- Tidak ada analisis kekuatan/kelemahan âœ—
-- Tidak merujuk preseden sama sekali âœ—
-- Aplikasi ke kasus sangat dangkal âœ—
-- Panjang jawaban terlalu singkat (tidak memenuhi ekspektasi analisis mendalam) âœ—
+- Identifikasi dasar hukum sangat umum (tidak sebutkan pasal spesifik) ✗
+- Tidak ada analisis kekuatan/kelemahan ✗
+- Tidak merujuk preseden sama sekali ✗
+- Aplikasi ke kasus sangat dangkal ✗
+- Panjang jawaban terlalu singkat (tidak memenuhi ekspektasi analisis mendalam) ✗
 
 **Feedback untuk Mahasiswa C:**
 "Jawaban Anda terlalu singkat dan umum. Untuk level S2, diharapkan analisis yang jauh lebih mendalam. Sebutkan pasal-pasal spesifik (misal: UUD 1945 Pasal 28H ayat 1, bukan hanya 'UUD 1945'). Jelaskan bagaimana setiap dasar hukum berlaku dalam kasus Barito. Gunakan preseden dari Bagian A untuk mendukung argumen Anda. Panjang jawaban untuk sub-pertanyaan ini seharusnya 800-1000 kata, bukan 50 kata."

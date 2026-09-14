@@ -1,6 +1,8 @@
 ﻿---
 publish: true
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
 
 # Glosarium
 
@@ -200,9 +202,9 @@ Glosarium ini menyusun istilah-istilah kunci dari seluruh 16 bab dalam buku ajar
 ---
 
 **Navigasi:**
-- â† [[Daftar-Pustaka|Daftar Pustaka]]
-- â†’ [[Indeks|Indeks]]
-- â†‘ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Daftar-Pustaka|Daftar Pustaka]]
+- → [[Indeks|Indeks]]
+- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
