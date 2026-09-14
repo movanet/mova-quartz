@@ -12,6 +12,11 @@ tags:
   - Paris-Agreement
   - climate-migration
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
+
+> [!abstract] Ringkasan Perkuliahan (Audio)
+> Rekaman pendek yang meringkas materi bab ini, tiga sampai lima menit per bagian: [[06-PerubahanIklim/Kuliah-Audio#Pertemuan 15 — Loss and Damage dan Sintesis Delapan Asas RUU Iklim|Dengarkan Pertemuan 15 — Loss and Damage dan Sintesis Delapan Asas RUU Iklim]].
 
 # BAB 15: Loss and Damage dalam Hukum Iklim
 
@@ -37,7 +42,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Ada batas untuk adaptasi. Ketika kenaikan muka laut menenggelamkan pulau-pulau kecil, ketika kekeringan berkepanjangan merusak pertanian secara permanen, ketika badai menghancurkan infrastruktur vitalâ€”kerugian dan kerusakan (*loss and damage*) terjadi melampaui apa yang dapat diatasi oleh adaptasi. Bab ini akan membahas konsep *loss and damage*, kerangka hukum internasional yang sedang berkembang, dan implikasinya bagi Indonesia sebagai salah satu negara paling rentan terhadap dampak perubahan iklim.
+Ada batas untuk adaptasi. Ketika kenaikan muka laut menenggelamkan pulau-pulau kecil, ketika kekeringan berkepanjangan merusak pertanian secara permanen, ketika badai menghancurkan infrastruktur vital—kerugian dan kerusakan (*loss and damage*) terjadi melampaui apa yang dapat diatasi oleh adaptasi. Bab ini akan membahas konsep *loss and damage*, kerangka hukum internasional yang sedang berkembang, dan implikasinya bagi Indonesia sebagai salah satu negara paling rentan terhadap dampak perubahan iklim.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -133,7 +138,7 @@ Untuk menuntut kompensasi atas *loss and damage*, diperlukan bukti kausalitas an
 
 > [!quote] **Kutipan**
 > "For 70% of the days when data are available, the probability of the observed daily maximum temperature can be attributed to human influence."
-> â€” *World Weather Attribution, 2022*[^3]
+> — *World Weather Attribution, 2022*[^3]
 
 **Implikasi Hukum:**
 Kemajuan ilmu atribusi memperkuat dasar ilmiah untuk klaim kompensasi dan litigasi iklim. Semakin jelas hubungan kausal antara emisi dan dampak, semakin kuat pula dasar hukum untuk menuntut pertanggungjawaban.
@@ -236,7 +241,7 @@ Para ahli hukum internasional seperti Benoit Mayer berpendapat bahwa Paragraf 51
 
 #### 4.1 Terobosan Sharm el-Sheikh 2022
 
-COP27 di Mesir menghasilkan terobosan bersejarah: persetujuan untuk membentuk **dana khusus untuk *loss and damage***â€”setelah 30 tahun perjuangan sejak proposal AOSIS 1991.
+COP27 di Mesir menghasilkan terobosan bersejarah: persetujuan untuk membentuk **dana khusus untuk *loss and damage***—setelah 30 tahun perjuangan sejak proposal AOSIS 1991.
 
 **Konteks:**
 - Banjir Pakistan 2022: 1.700 korban jiwa, USD 30 miliar kerugian
@@ -306,7 +311,7 @@ COP27 menetapkan struktur kelembagaan Santiago Network:[^14]
 
 #### 6.1 Konsep Climate Mobility
 
-*Loss and damage* seringkali menghasilkan mobilitas manusiaâ€”baik sukarela maupun terpaksa:
+*Loss and damage* seringkali menghasilkan mobilitas manusia—baik sukarela maupun terpaksa:
 
 | Jenis | Deskripsi | Kerangka Hukum |
 |-------|-----------|----------------|
@@ -445,7 +450,7 @@ Indonesia memerlukan kerangka hukum domestik untuk *loss and damage*:
 
 **Latar Belakang:**
 
-Berdasarkan proyeksi IPCC, kenaikan muka laut global diperkirakan mencapai 0,5-1 meter pada 2100. Bagi Indonesia, ini berarti ribuan pulau kecil terancam tenggelamâ€”sebagian mungkin sudah tidak dapat dihuni pada 2050.
+Berdasarkan proyeksi IPCC, kenaikan muka laut global diperkirakan mencapai 0,5-1 meter pada 2100. Bagi Indonesia, ini berarti ribuan pulau kecil terancam tenggelam—sebagian mungkin sudah tidak dapat dihuni pada 2050.
 
 Pulau Pari di Kepulauan Seribu, Jakarta, menjadi simbol ancaman ini. Beberapa warga Pulau Pari telah mengajukan gugatan terhadap Holcim, perusahaan semen Swiss, di pengadilan Swiss, menuntut kompensasi atas kerugian akibat perubahan iklim yang disebabkan emisi perusahaan tersebut.
 
@@ -460,7 +465,7 @@ Pulau Pari di Kepulauan Seribu, Jakarta, menjadi simbol ancaman ini. Beberapa wa
 **Isu Hukum:**
 
 1. Bagaimana membuktikan kausalitas antara emisi Holcim dan kerusakan di Pulau Pari?
-2. Jalur hukum mana yang dapat digunakanâ€”domestik atau internasional?
+2. Jalur hukum mana yang dapat digunakan—domestik atau internasional?
 3. Apa kewajiban pemerintah Indonesia terhadap warganya yang terdampak?
 4. Bagaimana mengkompensasi kerugian non-ekonomi (hilangnya tanah air, budaya)?
 
@@ -493,7 +498,7 @@ Pada bab ini, kita telah mempelajari:
 
 - **Paragraf 51:** Mengecualikan tanggung jawab dan kompensasi berdasarkan Pasal 8, namun tidak menutup jalur hukum lain.
 
-- **L&D Fund:** Terobosan bersejarah namun dengan kesenjangan pendanaan masifâ€”komitmen <0,2% dari kebutuhan.
+- **L&D Fund:** Terobosan bersejarah namun dengan kesenjangan pendanaan masif—komitmen <0,2% dari kebutuhan.
 
 - **Climate Mobility:** Kekosongan hukum internasional untuk "pengungsi iklim" memerlukan pengembangan kerangka baru.
 
@@ -642,19 +647,19 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^2]: Alliance of Small Island States, 'Proposal for an Insurance Mechanism' (Submission to the Intergovernmental Negotiating Committee, Fourth Session, Geneva, 1991).
 
-[^3]: Friederike EL Otto and others, 'Climate Change Increased Extreme Monsoon Rainfall, Flooding Highly Vulnerable Communities in Pakistan' (2022) World Weather Attribution <https://www.worldweatherattribution.org> accessed 15 December 2024.
+[^3]: Friederike EL Otto and others, [Climate Change Increased Extreme Monsoon Rainfall, Flooding Highly Vulnerable Communities in Pakistan](https://www.worldweatherattribution.org) (2022) World Weather Attribution accessed 15 December 2024.
 
 [^4]: Decision 2/CP.19, 'Warsaw International Mechanism for Loss and Damage associated with Climate Change Impacts' (11-23 November 2013) FCCC/CP/2013/10/Add.1.
 
-[^5]: Yeb Sano, 'Statement of the Philippines at the Opening Session of COP19' (Warsaw, 11 November 2013) <https://unfccc.int> accessed 15 December 2024.
+[^5]: Yeb Sano, [Statement of the Philippines at the Opening Session of COP19](https://unfccc.int) (Warsaw, 11 November 2013) accessed 15 December 2024.
 
 [^6]: Decision 3/CP.22, 'Warsaw International Mechanism for Loss and Damage associated with Climate Change Impacts' (7-18 November 2016) FCCC/CP/2016/10/Add.1.
 
-[^7]: Paris Agreement (adopted 12 December 2015, entered into force 4 November 2016) UNTS 3156 (Paris Agreement) art 8(1).
+[^7]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement) (adopted 12 December 2015, entered into force 4 November 2016) UNTS 3156 (Paris Agreement) art 8(1).
 
 [^8]: Meinhard Doelle, 'The Climate Change Regime and the Emergence of Loss and Damage' in Meinhard Doelle and Sara L Seck (eds), *Research Handbook on Climate Change Law and Loss & Damage* (Edward Elgar 2021) 3-25.
 
-[^9]: Decision 1/CP.21, 'Adoption of the Paris Agreement' (30 November - 13 December 2015) FCCC/CP/2015/10/Add.1, para 51.
+[^9]: Decision 1/CP.21, 'Adoption of the [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement)' (30 November - 13 December 2015) FCCC/CP/2015/10/Add.1, para 51.
 
 [^10]: Benoit Mayer, 'Climate Change Reparations and the Law and Practice of State Responsibility' (2017) 7 Asian Journal of International Law 185, 192-195.
 
@@ -671,9 +676,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 **Navigasi Buku:**
-- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14: Hukum Adaptasi Sektoral Indonesia]]
-- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-16-Litigasi-06-PerubahanIklim_BAB-16|BAB 16: Litigasi Perubahan Iklim]]
-- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-06-PerubahanIklim-14-Hukum-Adaptasi-Sektoral_BAB-14|BAB 14: Hukum Adaptasi Sektoral Indonesia]]
+- → [[Buku-Ajar-Hukum-06-PerubahanIklim-16-Litigasi-06-PerubahanIklim_BAB-16|BAB 16: Litigasi Perubahan Iklim]]
+- ↑ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

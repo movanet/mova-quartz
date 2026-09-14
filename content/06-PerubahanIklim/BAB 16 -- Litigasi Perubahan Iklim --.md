@@ -13,6 +13,11 @@ tags:
   - climate-litigation
   - HAM
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
+
+> [!abstract] Ringkasan Perkuliahan (Audio)
+> Rekaman pendek yang meringkas materi bab ini, tiga sampai lima menit per bagian: [[06-PerubahanIklim/Kuliah-Audio#Pertemuan 13 — Litigasi Iklim Domestik dan Komparatif — Analisis IRAC|Dengarkan Pertemuan 13 — Litigasi Iklim Domestik dan Komparatif — Analisis IRAC]].
 
 # BAB 16: Litigasi Perubahan Iklim
 
@@ -38,7 +43,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Pengadilan telah menjadi arena penting dalam perjuangan iklim. Dari Belanda hingga Jerman, dari Shell hingga pemerintah, litigasi iklim meningkat pesat dengan lebih dari 3.000 kasus di seluruh dunia. Bab ini akan memandu Anda memahami lanskap litigasi iklim global, menganalisis putusan-putusan landmark, dan mengeksplorasi potensi serta tantangan litigasi iklim di Indonesiaâ€”termasuk implikasi Advisory Opinion ICJ yang bersejarah.
+Pengadilan telah menjadi arena penting dalam perjuangan iklim. Dari Belanda hingga Jerman, dari Shell hingga pemerintah, litigasi iklim meningkat pesat dengan lebih dari 3.000 kasus di seluruh dunia. Bab ini akan memandu Anda memahami lanskap litigasi iklim global, menganalisis putusan-putusan landmark, dan mengeksplorasi potensi serta tantangan litigasi iklim di Indonesia—termasuk implikasi Advisory Opinion ICJ yang bersejarah.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -192,7 +197,7 @@ Meski AS mendominasi jumlah kasus, litigasi iklim kini menyebar ke seluruh dunia
 | Temuan | Implikasi |
 |--------|-----------|
 | **Paris Agreement creates binding obligations** | Bukan sekadar political commitment |
-| **1.5Â°C as primary temperature goal** | Target mengikat, bukan aspirasional |
+| **1.5°C as primary temperature goal** | Target mengikat, bukan aspirasional |
 | **Due diligence obligation** | Negara wajib menggunakan semua sarana yang tersedia |
 | **NDC not purely discretionary** | Diskresi dalam menyusun NDC tidak tak terbatas |
 | **Human rights link** | Hak lingkungan sebagai prasyarat hak fundamental |
@@ -202,7 +207,7 @@ Meski AS mendominasi jumlah kasus, litigasi iklim kini menyebar ke seluruh dunia
 
 > [!quote] **Kutipan**
 > "States must act with due diligence and do their utmost to mitigate climate change, including through action on fossil fuel production and consumption."
-> â€” *ICJ Advisory Opinion, 2025*[^4]
+> — *ICJ Advisory Opinion, 2025*[^4]
 
 **Signifikansi:**
 - Pertama kali pengadilan internasional tertinggi menyatakan pendapat tentang kewajiban iklim
@@ -227,7 +232,7 @@ International Tribunal for the Law of the Sea (ITLOS) mengeluarkan pendapat yang
 
 > [!quote] **Kutipan**
 > "The absorption of anthropogenic greenhouse gas emissions by the marine environment constitutes pollution of the marine environment within the meaning of UNCLOS."
-> â€” *ITLOS Advisory Opinion, 2024*[^6]
+> — *ITLOS Advisory Opinion, 2024*[^6]
 
 #### 3.3 Inter-American Court of Human Rights (IACtHR) Advisory Opinion (Mei 2025)
 
@@ -247,7 +252,7 @@ IACtHR mengeluarkan Advisory Opinion atas permintaan Kolombia dan Chili yang men
 
 > [!quote] **Kutipan**
 > "Climate change constitutes an urgent threat to human rights, and States have an immediate obligation to prevent foreseeable harm to present and future generations."
-> â€” *IACtHR Advisory Opinion OC-31/25, 2025*[^16]
+> — *IACtHR Advisory Opinion OC-31/25, 2025*[^16]
 
 ---
 
@@ -267,7 +272,7 @@ IACtHR mengeluarkan Advisory Opinion atas permintaan Kolombia dan Chili yang men
 
 | Tingkat | Tahun | Putusan |
 |---------|-------|---------|
-| District Court | 2015 | Mengabulkanâ€”25% reduksi |
+| District Court | 2015 | Mengabulkan—25% reduksi |
 | Court of Appeal | 2018 | Menguatkan |
 | Supreme Court | 2019 | Menguatkan |
 
@@ -284,7 +289,7 @@ IACtHR mengeluarkan Advisory Opinion atas permintaan Kolombia dan Chili yang men
 
 > [!quote] **Kutipan**
 > "There is a legal obligation on the State to reduce greenhouse gas emissions... The Netherlands must reduce emissions by at least 25% by the end of 2020."
-> â€” *Hoge Raad der Nederlanden, 2019*[^8]
+> — *Hoge Raad der Nederlanden, 2019*[^8]
 
 **Impact:**
 - Model untuk "Urgenda-style cases" di seluruh dunia
@@ -307,8 +312,8 @@ UU Iklim Jerman dinyatakan **sebagian inkonstitusional** karena:
 **Konsep Revolusioner: Kebebasan Antargenerasi (*Intertemporal Freedom*):**
 
 > [!quote] **Kutipan**
-> "Fundamental rightsâ€”as intertemporal guarantees of freedomâ€”afford protection against greenhouse gas reduction burdens being unilaterally offloaded onto the future."
-> â€” *Bundesverfassungsgericht, 2021*[^10]
+> "Fundamental rights—as intertemporal guarantees of freedom—afford protection against greenhouse gas reduction burdens being unilaterally offloaded onto the future."
+> — *Bundesverfassungsgericht, 2021*[^10]
 
 **Impact:**
 - Jerman merevisi target: 65% reduksi 2030, net zero 2045 (maju dari 2050)
@@ -744,7 +749,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 ### 7. Catatan Kaki
 
-[^1]: Setzer, J. & Higham, C. (2023). *Global Trends in Climate Change Litigation: 2023 Snapshot*. London: Grantham Research Institute on Climate Change and the Environment.
+[^1]: Setzer, J. & Higham, C. (2023). *Global Trends in Climate Change Litigation: 2023 Snapshot*. London: [Grantham Research Institute](https://www.lse.ac.uk/granthaminstitute/) on Climate Change and the Environment.
 
 [^2]: Statute of the International Court of Justice, Article 65.
 
@@ -762,25 +767,25 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^9]: Bundesverfassungsgericht. Press Release No. 31/2021 of 29 April 2021.
 
-[^10]: *Neubauer et al. v. Germany*, 1 BvR 2656/18, paragraph 183.
+[^10]: *[Neubauer](https://climatecasechart.com/non-us-case/neubauer-et-al-v-germany/) et al. v. Germany*, 1 BvR 2656/18, paragraph 183.
 
 [^11]: *Milieudefensie et al. v. Royal Dutch Shell*, ECLI:NL:RBDHA:2021:5339.
 
-[^12]: *Verein KlimaSeniorinnen Schweiz and Others v. Switzerland*, Application no. 53600/20 (ECtHR, 2024).
+[^12]: *Verein [KlimaSeniorinnen](https://climatecasechart.com/non-us-case/union-of-swiss-senior-women-for-climate-protection-v-swiss-federal-council-and-others/) Schweiz and Others v. Switzerland*, Application no. 53600/20 (ECtHR, 2024).
 
 [^13]: Putusan Pengadilan Negeri Jakarta Pusat Nomor 374/Pdt.G/LH/2019/PN.Jkt.Pst.
 
-[^14]: Peel J and Osofsky HM, *Climate Change Litigation: Regulatory Pathways to Cleaner Energy* (Cambridge University Press 2015) 4-7; Setzer J and Higham C, 'Global Trends in Climate Change Litigation: 2024 Snapshot' (Grantham Research Institute on Climate Change and the Environment 2024) 12-15.
+[^14]: Peel J and Osofsky HM, *Climate Change Litigation: Regulatory Pathways to Cleaner Energy* (Cambridge University Press 2015) 4-7; Setzer J and Higham C, 'Global Trends in Climate Change Litigation: 2024 Snapshot' ([Grantham Research Institute](https://www.lse.ac.uk/granthaminstitute/) on Climate Change and the Environment 2024) 12-15.
 
 [^15]: *Request for an Advisory Opinion Submitted by the Republic of Colombia and the Republic of Chile* (Advisory Opinion) IACtHR OC-31/25 (29 May 2025).
 
 [^16]: ibid para 112.
 
-[^17]: Constitutional Court of Korea, 2020Hun-Ma389 (29 August 2024); Sabin Center for Climate Change Law, 'Constitutional Court of Korea Rules Climate Law is Partially Unconstitutional' (Climate Law Blog, 30 August 2024).
+[^17]: Constitutional Court of Korea, 2020Hun-Ma389 (29 August 2024); [Sabin Center](https://climatecasechart.com/) for Climate Change Law, 'Constitutional Court of Korea Rules Climate Law is Partially Unconstitutional' (Climate Law Blog, 30 August 2024).
 
 [^18]: Stuart-Smith RF and others, 'Filling the Evidentiary Gap in Climate Litigation' (2021) 11 Nature Climate Change 651.
 
-[^19]: World Weather Attribution, 'Scientific Methods' <https://www.worldweatherattribution.org/about/scientific-methods/> accessed 15 December 2025; Philip S and others, 'Rapid Attribution Analysis of the Extraordinary Heat Wave on the Pacific Coast of the US and Canada in June 2021' (2022) 13 Earth System Dynamics 1689.
+[^19]: World Weather Attribution, [Scientific Methods](https://www.worldweatherattribution.org/about/scientific-methods/) accessed 15 December 2025; Philip S and others, 'Rapid Attribution Analysis of the Extraordinary Heat Wave on the Pacific Coast of the US and Canada in June 2021' (2022) 13 Earth System Dynamics 1689.
 
 [^20]: Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup, Pasal 91-92.
 
@@ -791,8 +796,8 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 ---
 
 **Navigasi Buku:**
-- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]]
-- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-06-PerubahanIklim-15-Loss-and-Damage_BAB-15|BAB 15: Loss and Damage dalam Hukum Iklim]]
+- ↑ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
@@ -804,7 +809,7 @@ Terima kasih telah mempelajari Hukum Perubahan Iklim. Semoga pengetahuan ini ber
 1. Kerjakan semua tes formatif dan latihan
 2. Diskusikan studi kasus dengan dosen dan teman
 3. Ikuti perkembangan terkini melalui sumber-sumber yang dirujuk
-4. Pertimbangkan untuk terlibat dalam aksi iklimâ€”melalui karir hukum, advokasi, penelitian, atau warga aktif
+4. Pertimbangkan untuk terlibat dalam aksi iklim—melalui karir hukum, advokasi, penelitian, atau warga aktif
 
 ---
 

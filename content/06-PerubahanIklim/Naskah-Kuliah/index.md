@@ -7,6 +7,8 @@ tags:
   - hukum-06-PerubahanIklim
   - teaching
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
 
 # Naskah Kuliah Hukum Perubahan Iklim
 

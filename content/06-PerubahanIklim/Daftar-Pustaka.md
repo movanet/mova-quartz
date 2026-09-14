@@ -1,6 +1,8 @@
 ﻿---
 publish: true
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
 
 # Daftar Pustaka
 
@@ -63,7 +65,7 @@ publish: true
 
 ### Buku
 
-1. Bodansky D, BrunnÃ©e J and Rajamani L, *International Climate Change Law* (Oxford University Press 2017).
+1. Bodansky D, Brunnée J and Rajamani L, *International Climate Change Law* (Oxford University Press 2017).
 2. Coplan KS and others, *Climate Change Law: An Introduction* (Edward Elgar 2021).
 3. Doelle M and Seck S (eds), *Research Handbook on Climate Change Law and Loss & Damage* (Edward Elgar 2021).
 4. Dubash NK (ed), *Handbook of Climate Change and India: Development, Politics, and Governance* (Oxford University Press 2021).
@@ -80,7 +82,7 @@ publish: true
 
 ### Artikel Jurnal
 
-1. Ekwurzel B and others, 'The rise in global atmospheric COâ‚‚, surface temperature, and sea level from emissions traced to major carbon producers, 1880-2010' (2017) 144 Climatic Change 579.
+1. Ekwurzel B and others, 'The rise in global atmospheric CO₂, surface temperature, and sea level from emissions traced to major carbon producers, 1880-2010' (2017) 144 Climatic Change 579.
 2. Falkner R, 'The Paris Agreement and the new logic of international climate politics' (2016) 92(5) International Affairs 1107.
 3. Heede R, 'Tracing anthropogenic carbon dioxide and methane emissions to fossil fuel and cement producers, 1854-2010' (2014) 122 Climatic Change 229.
 4. Milly PCD and others, 'Stationarity is Dead: Whither Water Management?' (2008) 319(5863) Science 573.
@@ -139,7 +141,7 @@ publish: true
 
 ## F. Sumber Internet
 
-1. Climate Case Chart â€“ Sabin Center for Climate Change Law <https://climatecasechart.com/>
+1. Climate Case Chart – Sabin Center for Climate Change Law <https://climatecasechart.com/>
 2. UNFCCC <https://unfccc.int/>
 3. Green Climate Fund <https://www.greenclimate.fund/>
 4. Adaptation Fund <https://www.adaptation-fund.org/>
@@ -158,9 +160,9 @@ publish: true
 ---
 
 **Navigasi:**
-- â† [[BAB 16 -- Litigasi Perubahan Iklim --|BAB 16: Litigasi Perubahan Iklim]]
-- â†’ [[Glosarium|Glosarium]]
-- â†‘ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[BAB 16 -- Litigasi Perubahan Iklim --|BAB 16: Litigasi Perubahan Iklim]]
+- → [[Glosarium|Glosarium]]
+- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

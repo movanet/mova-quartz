@@ -1,6 +1,8 @@
 ﻿---
 publish: true
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
 
 # Indeks
 
@@ -183,9 +185,9 @@ Indeks ini menyusun topik-topik utama secara alfabetis dengan referensi ke bab y
 ---
 
 **Navigasi:**
-- â† [[Glosarium|Glosarium]]
-- â†’ [[Lampiran-04-Kunci-Jawaban|Lampiran 4: Kunci Jawaban]]
-- â†‘ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Glosarium|Glosarium]]
+- → [[Lampiran-04-Kunci-Jawaban|Lampiran 4: Kunci Jawaban]]
+- ↑ [[Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 

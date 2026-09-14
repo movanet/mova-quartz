@@ -13,6 +13,11 @@ tags:
   - CBDR
   - precautionary-principle
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
+
+> [!abstract] Ringkasan Perkuliahan (Audio)
+> Rekaman pendek yang meringkas materi bab ini, tiga sampai lima menit per bagian: [[06-PerubahanIklim/Kuliah-Audio#Pertemuan 2 — Prinsip-Prinsip Hukum Lingkungan Internasional|Dengarkan Pertemuan 2 — Prinsip-Prinsip Hukum Lingkungan Internasional]].
 
 # BAB 2: Prinsip-Prinsip Hukum Lingkungan Internasional
 
@@ -96,7 +101,7 @@ Dari 26 prinsip yang diadopsi di Stockholm, Prinsip 21 menjadi yang paling berpe
 
 > [!quote] **Kutipan**
 > "States have, in accordance with the Charter of the United Nations and the principles of international law, the sovereign right to exploit their own resources pursuant to their own environmental policies, **and the responsibility to ensure that activities within their jurisdiction or control do not cause damage to the environment of other States or of areas beyond the limits of national jurisdiction.**"
-> â€” *Prinsip 21, Deklarasi Stockholm 1972*
+> — *Prinsip 21, Deklarasi Stockholm 1972*
 
 Prinsip 21 memuat dua elemen fundamental yang saling melengkapi dan mencerminkan ketegangan abadi dalam hukum internasional antara kedaulatan negara dan kepentingan komunitas internasional. Elemen pertama menegaskan hak kedaulatan permanen negara atas sumber daya alamnya, sebuah prinsip yang sangat penting bagi negara-negara berkembang yang baru merdeka dan ingin memastikan kontrol penuh atas kekayaan alam mereka.[^7] Elemen kedua, yang dikenal sebagai prinsip *sic utere tuo ut alienum non laedas* (gunakan milikmu sedemikian rupa sehingga tidak merugikan milik orang lain), menetapkan batasan terhadap kedaulatan tersebut dengan mewajibkan negara untuk tidak menyebabkan kerusakan lingkungan lintas batas.[^8]
 
@@ -141,7 +146,7 @@ Perbedaan formulasi antara Stockholm dan Rio, meskipun terlihat kecil, memiliki 
 
 > [!quote] **Kutipan**
 > "The right to development must be fulfilled so as to equitably meet developmental and environmental needs of present and future generations."
-> â€” *Prinsip 3, Deklarasi Rio 1992*
+> — *Prinsip 3, Deklarasi Rio 1992*
 
 Prinsip 3 Deklarasi Rio mengkodifikasi konsep pembangunan berkelanjutan (*sustainable development*) yang telah dipopulerkan oleh Laporan Brundtland pada tahun 1987. Komisi Dunia untuk Lingkungan dan Pembangunan yang dipimpin oleh Gro Harlem Brundtland, Perdana Menteri Norwegia, mendefinisikan pembangunan berkelanjutan sebagai "pembangunan yang memenuhi kebutuhan generasi sekarang tanpa mengorbankan kemampuan generasi mendatang untuk memenuhi kebutuhan mereka sendiri."[^16]
 
@@ -158,7 +163,7 @@ Prinsip 7 Deklarasi Rio memperkenalkan konsep yang menjadi sangat penting dan se
 
 > [!quote] **Kutipan**
 > "States shall cooperate in a spirit of global partnership to conserve, protect and restore the health and integrity of the Earth's ecosystem. In view of the different contributions to global environmental degradation, States have **common but differentiated responsibilities**."
-> â€” *Prinsip 7, Deklarasi Rio 1992*
+> — *Prinsip 7, Deklarasi Rio 1992*
 
 #### 3.1 Makna CBDR
 
@@ -201,7 +206,7 @@ Prinsip 15 Deklarasi Rio mengkodifikasi pendekatan kehati-hatian (*precautionary
 
 > [!quote] **Kutipan**
 > "In order to protect the environment, the precautionary approach shall be widely applied by States according to their capabilities. Where there are threats of serious or irreversible damage, **lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures** to prevent environmental degradation."
-> â€” *Prinsip 15, Deklarasi Rio 1992*
+> — *Prinsip 15, Deklarasi Rio 1992*
 
 #### 4.1 Makna Prinsip Kehati-hatian
 
@@ -232,7 +237,7 @@ Prinsip pencemar membayar (*polluter pays principle*) yang tercantum dalam Prins
 
 > [!quote] **Kutipan**
 > "National authorities should endeavour to promote the internalization of environmental costs and the use of economic instruments, taking into account the approach that **the polluter should, in principle, bear the cost of pollution**..."
-> â€” *Prinsip 16, Deklarasi Rio 1992*
+> — *Prinsip 16, Deklarasi Rio 1992*
 
 #### 5.1 Makna Polluter Pays
 
@@ -486,7 +491,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 **Sumber Sekunder:**
 - Sands, P. & Peel, J. (2018). *Principles of International Environmental Law*. 4th ed. Cambridge: CUP.
-- Bodansky, D., BrunnÃ©e, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP.
+- Bodansky, D., Brunnée, J., & Rajamani, L. (2017). *International Climate Change Law*. Oxford: OUP.
 - Weiss, E. B. (1989). *In Fairness to Future Generations*. Tokyo: UNU.
 
 **Sumber Pendukung:**
@@ -504,9 +509,9 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - [[02-Yurisprudensi-Internasional_ICJ_Climate_AO_2025]] - Penerapan prinsip-prinsip dalam yurisprudensi
 
 **Navigasi Buku:**
-- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-01-Pengantar-Hukum-06-PerubahanIklim_BAB-01|BAB 1: Pengantar Hukum Perubahan Iklim]]
-- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3: Arsitektur Rezim Iklim Internasional]]
-- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-06-PerubahanIklim-01-Pengantar-Hukum-06-PerubahanIklim_BAB-01|BAB 1: Pengantar Hukum Perubahan Iklim]]
+- → [[Buku-Ajar-Hukum-06-PerubahanIklim-03-Arsitektur-Rezim-Iklim_BAB-03|BAB 3: Arsitektur Rezim Iklim Internasional]]
+- ↑ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
@@ -554,11 +559,11 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^19]: Christopher D Stone, 'Common but Differentiated Responsibilities in International Law' (2004) 98 AJIL 276.
 
-[^20]: Intergovernmental Panel on Climate Change, *Climate Change 2014: Mitigation of Climate Change* (CUP 2015) 126-127.
+[^20]: [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/report/ar6/syr/), *Climate Change 2014: Mitigation of Climate Change* (CUP 2015) 126-127.
 
-[^21]: United Nations Framework Convention on Climate Change (adopted 9 May 1992, entered into force 21 March 1994) 1771 UNTS 107, arts 4(1)-(2).
+[^21]: [United Nations Framework Convention on Climate Change](https://unfccc.int/process-and-meetings/what-is-the-united-nations-framework-convention-on-climate-change) (adopted 9 May 1992, entered into force 21 March 1994) 1771 UNTS 107, arts 4(1)-(2).
 
-[^22]: Paris Agreement (adopted 12 December 2015, entered into force 4 November 2016) UN Doc FCCC/CP/2015/10/Add.1, art 4(3).
+[^22]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement) (adopted 12 December 2015, entered into force 4 November 2016) UN Doc FCCC/CP/2015/10/Add.1, art 4(3).
 
 [^23]: Daniel Bodansky, 'The Paris Climate Change Agreement: A New Hope?' (2016) 110 AJIL 288, 306-308.
 
@@ -570,7 +575,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^27]: Timothy M Lenton and others, 'Tipping Elements in the Earth's Climate System' (2008) 105 PNAS 1786.
 
-[^28]: Hoge Raad der Nederlanden, *Urgenda Foundation v State of the Netherlands* (20 December 2019) ECLI:NL:HR:2019:2007.
+[^28]: Hoge Raad der Nederlanden, *[Urgenda Foundation v State of the Netherlands](https://climatecasechart.com/non-us-case/urgenda-foundation-v-kingdom-of-the-netherlands/)* (20 December 2019) ECLI:NL:HR:2019:2007.
 
 [^29]: OECD, *Recommendation of the Council on Guiding Principles concerning International Economic Aspects of Environmental Policies* C(72)128 (26 May 1972).
 
@@ -588,5 +593,5 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^36]: Nicholas Stern, *The Economics of Climate Change: The Stern Review* (CUP 2007) 31-35.
 
-[^37]: Bundesverfassungsgericht, *Neubauer et al v Germany* (24 March 2021) 1 BvR 2656/18, 1 BvR 78/20, 1 BvR 96/20, 1 BvR 288/20.
+[^37]: Bundesverfassungsgericht, *[Neubauer](https://climatecasechart.com/non-us-case/neubauer-et-al-v-germany/) et al v Germany* (24 March 2021) 1 BvR 2656/18, 1 BvR 78/20, 1 BvR 96/20, 1 BvR 288/20.
 

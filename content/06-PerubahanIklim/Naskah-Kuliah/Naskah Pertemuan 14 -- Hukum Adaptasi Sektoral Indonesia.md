@@ -13,6 +13,8 @@ tags:
   - teaching
   - pertemuan-14
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
 
 # Pertemuan 14 — Hukum Adaptasi Sektoral Indonesia
 

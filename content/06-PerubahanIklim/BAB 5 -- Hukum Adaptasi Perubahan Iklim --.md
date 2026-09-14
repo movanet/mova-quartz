@@ -11,6 +11,11 @@ tags:
   - resilience
   - loss-and-damage
 ---
+> [!info] Atribusi
+> Modul ini diorkestrasi oleh **[[Mohamad Mova AlAfghani -- Curriculum Vitae|Mohamad Mova AlAfghani]]** menggunakan **Claude** beserta beberapa model bahasa besar (*large language model*) dan *harness* pendukungnya.
+
+> [!abstract] Ringkasan Perkuliahan (Audio)
+> Rekaman pendek yang meringkas materi bab ini, tiga sampai lima menit per bagian: [[06-PerubahanIklim/Kuliah-Audio#Pertemuan 5 — Hukum Adaptasi Perubahan Iklim (Internasional)|Dengarkan Pertemuan 5 — Hukum Adaptasi Perubahan Iklim (Internasional)]].
 
 # BAB 5: Hukum Adaptasi Perubahan Iklim
 
@@ -36,7 +41,7 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ### 3. Deskripsi Singkat
 
-Meskipun mitigasi sangat penting, realitasnya perubahan iklim sudah terjadi dan dampaknya tidak terelakkan. Adaptasiâ€”penyesuaian terhadap dampak iklimâ€”menjadi semakin krusial. Bab ini akan mengajak Anda memahami bagaimana hukum internasional mengatur adaptasi, kesenjangan yang masih ada, dan tantangan khusus yang dihadapi Indonesia sebagai negara kepulauan yang sangat rentan.
+Meskipun mitigasi sangat penting, realitasnya perubahan iklim sudah terjadi dan dampaknya tidak terelakkan. Adaptasi—penyesuaian terhadap dampak iklim—menjadi semakin krusial. Bab ini akan mengajak Anda memahami bagaimana hukum internasional mengatur adaptasi, kesenjangan yang masih ada, dan tantangan khusus yang dihadapi Indonesia sebagai negara kepulauan yang sangat rentan.
 
 ### 4. Hubungan dengan Bab Lain
 
@@ -174,7 +179,7 @@ Persetujuan Paris 2015 merupakan titik balik dalam pengaturan adaptasi internasi
 
 > [!quote] **Kutipan**
 > "Parties hereby establish the global goal on adaptation of enhancing adaptive capacity, strengthening resilience and reducing vulnerability to climate change, with a view to contributing to sustainable development..."
-> â€” *Pasal 7.1, Persetujuan Paris 2015*
+> — *Pasal 7.1, Persetujuan Paris 2015*
 
 Pasal 7.1 menetapkan *Global Goal on Adaptation* (GGA) yang bertujuan meningkatkan kapasitas adaptif, memperkuat ketahanan, dan mengurangi kerentanan terhadap perubahan iklim, dengan maksud berkontribusi pada pembangunan berkelanjutan dan memastikan respons adaptasi yang memadai dalam konteks target suhu yang disebutkan dalam Pasal 2.[^16] Berbeda dengan target mitigasi yang dapat dikuantifikasi (misalnya 1,5 atau 2 derajat Celsius), GGA bersifat lebih kualitatif, yang mencerminkan sifat kontekstual adaptasi yang sangat bergantung pada kondisi lokal masing-masing negara.
 
@@ -242,7 +247,7 @@ Persetujuan Paris memberikan pengakuan hukum tertinggi terhadap *loss and damage
 
 > [!quote] **Kutipan**
 > "Parties recognize the importance of averting, minimizing and addressing loss and damage associated with the adverse effects of climate change..."
-> â€” *Pasal 8.1, Persetujuan Paris 2015*
+> — *Pasal 8.1, Persetujuan Paris 2015*
 
 Pasal 8 menetapkan pendekatan tiga lapis terhadap *loss and damage*: *averting* (mencegah), *minimizing* (meminimalkan), dan *addressing* (menangani). Pasal ini juga mengidentifikasi berbagai area kerja sama termasuk sistem peringatan dini, kesiapsiagaan darurat, peristiwa lambat, peristiwa yang mungkin melibatkan kerugian permanen dan tidak dapat dipulihkan, penilaian dan manajemen risiko komprehensif, fasilitas asuransi risiko, kerugian non-ekonomi, serta ketahanan komunitas.[^29]
 
@@ -551,19 +556,19 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 - [[03-Peraturan-Indonesia_NDC_Indonesia]] - Komponen adaptasi NDC Indonesia
 
 **Navigasi Buku:**
-- â† [[Buku-Ajar-Hukum-06-PerubahanIklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4: Kewajiban Mitigasi dalam Hukum Internasional]]
-- â†’ [[Buku-Ajar-Hukum-06-PerubahanIklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6: Pendanaan dan Mekanisme Iklim]]
-- â†‘ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
+- ← [[Buku-Ajar-Hukum-06-PerubahanIklim-04-Kewajiban-Mitigasi_BAB-04|BAB 4: Kewajiban Mitigasi dalam Hukum Internasional]]
+- → [[Buku-Ajar-Hukum-06-PerubahanIklim-06-Pendanaan-Mekanisme-Iklim_BAB-06|BAB 6: Pendanaan dan Mekanisme Iklim]]
+- ↑ [[Buku-Ajar-Hukum-06-PerubahanIklim-00-Front-Matter_09-Tinjauan-Mata-Kuliah|Kembali ke Tinjauan Mata Kuliah]]
 
 ---
 
 ### 8. Catatan Kaki
 
-[^1]: IPCC, *Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change* (IPCC 2023) 4-5.
+[^1]: IPCC, *[Climate Change 2023: Synthesis Report](https://www.ipcc.ch/report/ar6/syr/). Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change* (IPCC 2023) 4-5.
 
 [^2]: Myles R Allen and others, 'Warming Caused by Cumulative Carbon Emissions towards the Trillionth Tonne' (2009) 458 Nature 1163, 1165.
 
-[^3]: IPCC, *Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report* (CUP 2014) 1758.
+[^3]: IPCC, *Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of [Working Group II](https://www.ipcc.ch/report/ar6/wg2/) to the Fifth Assessment Report* (CUP 2014) 1758.
 
 [^4]: W Neil Adger and others, 'Assessment of Adaptation Practices, Options, Constraints and Capacity' in Martin Parry and others (eds), *Climate Change 2007: Impacts, Adaptation and Vulnerability* (CUP 2007) 719-720.
 
@@ -579,21 +584,21 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^10]: Rob Gillard and others, 'Transformational Responses to Climate Change: Beyond a Systems Perspective of Social Change in Mitigation and Adaptation' (2016) 7 WIREs Climate Change 251, 255.
 
-[^11]: IPCC, *Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report* (CUP 2022) 2915.
+[^11]: IPCC, *Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of [Working Group II](https://www.ipcc.ch/report/ar6/wg2/) to the Sixth Assessment Report* (CUP 2022) 2915.
 
 [^12]: Benoit Mayer, *The International Law on Climate Change* (CUP 2018) 178-180.
 
-[^13]: United Nations Framework Convention on Climate Change (adopted 9 May 1992, entered into force 21 March 1994) 1771 UNTS 107 (UNFCCC) art 4.1(b).
+[^13]: [United Nations Framework Convention on Climate Change](https://unfccc.int/process-and-meetings/what-is-the-united-nations-framework-convention-on-climate-change) (adopted 9 May 1992, entered into force 21 March 1994) 1771 UNTS 107 (UNFCCC) art 4.1(b).
 
 [^14]: UNFCCC, 'Report of the Conference of the Parties on its Seventh Session, Held at Marrakesh from 29 October to 10 November 2001' (21 January 2002) UN Doc FCCC/CP/2001/13/Add.1, Decision 5/CP.7.
 
 [^15]: UNFCCC, 'Report of the Conference of the Parties on its Sixteenth Session, Held in Cancun from 29 November to 10 December 2010' (15 March 2011) UN Doc FCCC/CP/2010/7/Add.1, Decision 1/CP.16, paras 11-35.
 
-[^16]: Paris Agreement (adopted 12 December 2015, entered into force 4 November 2016) 55 ILM 740 (Paris Agreement) art 7.1.
+[^16]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement) (adopted 12 December 2015, entered into force 4 November 2016) 55 ILM 740 (Paris Agreement) art 7.1.
 
-[^17]: Paris Agreement, art 7.2.
+[^17]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement), art 7.2.
 
-[^18]: Paris Agreement, arts 7.9-7.14; Daniel Bodansky, Jutta BrunnÃ©e and Lavanya Rajamani, *International Climate Change Law* (OUP 2017) 231-235.
+[^18]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement), arts 7.9-7.14; Daniel Bodansky, Jutta Brunnée and Lavanya Rajamani, *International Climate Change Law* (OUP 2017) 231-235.
 
 [^19]: UNFCCC, 'National Adaptation Plans: Technical Guidelines for the National Adaptation Plan Process' (LDC Expert Group, December 2012) 11-15.
 
@@ -615,13 +620,13 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^28]: WIM Executive Committee, 'Five-Year Rolling Workplan of the Executive Committee of the Warsaw International Mechanism for Loss and Damage' (2017) 3-8.
 
-[^29]: Paris Agreement, art 8.4.
+[^29]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement), art 8.4.
 
 [^30]: Maxine Burkett, 'Loss and Damage' (2014) 4 Climate Law 119, 127-130.
 
 [^31]: UNFCCC, 'Report of the Conference of the Parties on its Twenty-Seventh Session, Held in Sharm el-Sheikh from 6 to 20 November 2022' (17 March 2023) UN Doc FCCC/CP/2022/10/Add.1, Decision 2/CP.27.
 
-[^32]: UNEP, *Adaptation Gap Report 2023: Underfinanced. Underprepared. Inadequate Investment and Planning on Climate Adaptation Leaves World Exposed* (UNEP 2023) xii.
+[^32]: UNEP, *[Adaptation Gap Report](https://www.unep.org/resources/adaptation-gap-report-2023) 2023: Underfinanced. Underprepared. Inadequate Investment and Planning on Climate Adaptation Leaves World Exposed* (UNEP 2023) xii.
 
 [^33]: Henry Shue, *Climate Justice: Vulnerability and Protection* (OUP 2014) 15-35.
 
@@ -633,13 +638,13 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^37]: ibid 25.
 
-[^38]: UNFCCC, art 3.1; Paris Agreement, art 2.2.
+[^38]: UNFCCC, art 3.1; [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement), art 2.2.
 
 [^39]: John H Knox, 'Human Rights Principles and Climate Change' in Kevin R Gray, Richard Tarasofsky and Cinnamon Carlarne (eds), *The Oxford Handbook of International Climate Change Law* (OUP 2016) 213-235.
 
 [^40]: Sumudu Atapattu, *Human Rights Approaches to Climate Change: Challenges and Opportunities* (Routledge 2016) 145-150.
 
-[^41]: Joana Setzer and Catherine Higham, *Global Trends in Climate Change Litigation: 2023 Snapshot* (Grantham Research Institute on Climate Change and the Environment 2023) 8-12.
+[^41]: Joana Setzer and Catherine Higham, *Global Trends in Climate Change Litigation: 2023 Snapshot* ([Grantham Research Institute](https://www.lse.ac.uk/granthaminstitute/) on Climate Change and the Environment 2023) 8-12.
 
 [^42]: Republic of Indonesia, *Indonesia Third National Communication under the UNFCCC* (Ministry of Environment and Forestry 2017) 149-165.
 
