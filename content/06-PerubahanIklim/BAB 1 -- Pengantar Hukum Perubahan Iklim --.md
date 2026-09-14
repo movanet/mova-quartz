@@ -491,7 +491,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^5]: Roger Revelle and Hans E Suess, 'Carbon Dioxide Exchange Between Atmosphere and Ocean and the Question of an Increase of Atmospheric CO2 during the Past Decades' (1957) 9 Tellus 18.
 
-[^6]: Charles D Keeling, 'The Concentration and Isotopic Abundances of Carbon Dioxide in the Atmosphere' (1960) 12 Tellus 200.
+[^6]: Charles D Keeling, '[The Concentration and Isotopic Abundances of Carbon Dioxide in the Atmosphere](https://doi.org/10.1111/j.2153-3490.1960.tb01300.x)' (1960) 12 Tellus 200.
 
 [^7]: Ralph Keeling and Charles D Keeling, [Scripps CO2 Program](https://scrippsco2.ucsd.edu) (Scripps Institution of Oceanography 2017).
 
@@ -521,7 +521,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^20]: [United Nations Framework Convention on Climate Change](https://unfccc.int/process-and-meetings/what-is-the-united-nations-framework-convention-on-climate-change) (adopted 9 May 1992, entered into force 21 March 1994) 1771 UNTS 107 (UNFCCC) art 3(1).
 
-[^21]: Lavanya Rajamani, 'The Principle of Common but Differentiated Responsibility and the Balance of Commitments under the Climate Regime' (2000) 9 Review of European Community and International Environmental Law 120.
+[^21]: Lavanya Rajamani, '[The Principle of Common but Differentiated Responsibility and the Balance of Commitments under the Climate Regime](https://doi.org/10.1111/1467-9388.00243)' (2000) 9 Review of European Community and International Environmental Law 120.
 
 [^22]: [Rio Declaration](https://www.un.org/en/conferences/environment/rio1992) on Environment and Development (14 June 1992) UN Doc A/CONF.151/26 (vol I) principle 10.
 
@@ -539,7 +539,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^29]: Bodansky, Brunnee and Rajamani (n 2) 8-15.
 
-[^30]: Kelly Levin and others, 'Overcoming the Tragedy of Super Wicked Problems: Constraining Our Future Selves to Ameliorate Global Climate Change' (2012) 45 Policy Sciences 123.
+[^30]: Kelly Levin and others, '[Overcoming the Tragedy of Super Wicked Problems: Constraining Our Future Selves to Ameliorate Global Climate Change](https://doi.org/10.1007/s11077-012-9151-0)' (2012) 45 Policy Sciences 123.
 
 [^31]: Montreal Protocol on Substances that Deplete the Ozone Layer (adopted 16 September 1987, entered into force 1 January 1989) 1522 UNTS 3.
 

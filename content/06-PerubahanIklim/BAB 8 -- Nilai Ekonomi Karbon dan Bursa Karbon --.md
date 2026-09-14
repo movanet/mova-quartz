@@ -99,7 +99,7 @@ Indonesia mengadopsi pendekatan internalisasi ini melalui Perpres 98/2021 yang m
 [^1]: Stern N, *The Economics of Climate Change: The Stern Review* (Cambridge University Press 2007) 27-35.
 [^2]: Pigou AC, *The Economics of Welfare* (4th edn, Macmillan 1932) Part II Ch 9.
 [^3]: Stern (n 1) Executive Summary, vi.
-[^4]: Peraturan Presiden Nomor 98 Tahun 2021 tentang Penyelenggaraan Nilai Ekonomi Karbon untuk Pencapaian Target Kontribusi yang Ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca dalam Pembangunan Nasional, ps 1 angka 1.
+[^4]: [Peraturan Presiden Nomor 98 Tahun 2021](https://peraturan.go.id/id/perpres-no-98-tahun-2021) tentang Penyelenggaraan Nilai Ekonomi Karbon untuk Pencapaian Target Kontribusi yang Ditetapkan Secara Nasional dan Pengendalian Emisi Gas Rumah Kaca dalam Pembangunan Nasional, ps 1 angka 1.
 
 #### 1.2 Instrumen Penetapan Harga Karbon
 
@@ -136,10 +136,10 @@ Sekitar 30 yurisdiksi telah menerapkan pajak karbon, dengan tarif bervariasi dar
 [^5]: Bodansky D, Brunnée J and Rajamani L, *International Climate Change Law* (Oxford University Press 2017) 248-253.
 [^6]: ICAP, *Emissions Trading Worldwide: Status Report 2023* (ICAP Secretariat 2023) 32.
 [^7]: Bodansky, Brunnée and Rajamani (n 5) 254-258.
-[^8]: Wara M, 'Is the Global Carbon Market Working?' (2007) 445 Nature 595.
+[^8]: Wara M, '[Is the Global Carbon Market Working?](https://doi.org/10.1038/445595a)' (2007) 445 Nature 595.
 [^9]: World Bank, *State and Trends of Carbon Pricing 2023* (World Bank Group 2023) 20-25.
 [^10]: ibid 22.
-[^11]: Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan, ps 13.
+[^11]: [Undang-Undang Nomor 7 Tahun 2021](https://peraturan.go.id/id/uu-no-7-tahun-2021) tentang Harmonisasi Peraturan Perpajakan, ps 13.
 
 ---
 

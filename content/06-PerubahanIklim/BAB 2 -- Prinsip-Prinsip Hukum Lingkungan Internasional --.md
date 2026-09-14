@@ -539,7 +539,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^9]: Patricia Birnie, Alan Boyle and Catherine Redgwell, *International Law and the Environment* (3rd edn, OUP 2009) 111-116.
 
-[^10]: Maria Ivanova, 'Designing the United Nations Environment Programme: A Story of Compromise and Confrontation' (2007) 7 International Environmental Agreements: Politics, Law and Economics 337.
+[^10]: Maria Ivanova, '[Designing the United Nations Environment Programme: A Story of Compromise and Confrontation](https://doi.org/10.1007/s10784-007-9052-4)' (2007) 7 International Environmental Agreements: Politics, Law and Economics 337.
 
 [^11]: Barbara Ward and Rene Dubos, *Only One Earth: The Care and Maintenance of a Small Planet* (WW Norton 1972).
 
@@ -549,11 +549,11 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^14]: Legality of the Threat or Use of Nuclear Weapons (Advisory Opinion) [1996] ICJ Rep 226, para 29.
 
-[^15]: Lavanya Rajamani, 'The Principle of Common but Differentiated Responsibility and the Balance of Commitments under the Climate Regime' (2000) 9 RECIEL 120, 122-123.
+[^15]: Lavanya Rajamani, '[The Principle of Common but Differentiated Responsibility and the Balance of Commitments under the Climate Regime](https://doi.org/10.1111/1467-9388.00243)' (2000) 9 RECIEL 120, 122-123.
 
 [^16]: World Commission on Environment and Development, *Our Common Future* (OUP 1987) 43.
 
-[^17]: Virginie Barral, 'Sustainable Development in International Law: Nature and Operation of an Evolutive Legal Norm' (2012) 23 EJIL 377.
+[^17]: Virginie Barral, '[Sustainable Development in International Law: Nature and Operation of an Evolutive Legal Norm](https://doi.org/10.1093/ejil/chs016)' (2012) 23 EJIL 377.
 
 [^18]: Johannesburg Declaration on Sustainable Development, UN Doc A/CONF.199/20 (2002) para 5.
 
@@ -565,7 +565,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^22]: [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement) (adopted 12 December 2015, entered into force 4 November 2016) UN Doc FCCC/CP/2015/10/Add.1, art 4(3).
 
-[^23]: Daniel Bodansky, 'The Paris Climate Change Agreement: A New Hope?' (2016) 110 AJIL 288, 306-308.
+[^23]: Daniel Bodansky, '[The Paris Climate Change Agreement: A New Hope?](https://doi.org/10.5305/amerjintelaw.110.2.0288)' (2016) 110 AJIL 288, 306-308.
 
 [^24]: Tuula Honkonen, *The Common but Differentiated Responsibility Principle in Multilateral Environmental Agreements: Regulatory and Policy Aspects* (Kluwer Law International 2009) 71-92.
 
@@ -585,7 +585,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^32]: Decision 2/CP.27, 'Funding Arrangements for Responding to Loss and Damage Associated with the Adverse Effects of Climate Change' FCCC/CP/2022/10/Add.1.
 
-[^33]: Richard Heede, 'Tracing Anthropogenic Carbon Dioxide and Methane Emissions to Fossil Fuel and Cement Producers, 1854-2010' (2014) 122 Climatic Change 229.
+[^33]: Richard Heede, '[Tracing Anthropogenic Carbon Dioxide and Methane Emissions to Fossil Fuel and Cement Producers, 1854-2010](https://doi.org/10.1007/s10584-013-0986-y)' (2014) 122 Climatic Change 229.
 
 [^34]: Declaration of the United Nations Conference on the Human Environment (Stockholm, 16 June 1972) UN Doc A/CONF.48/14/Rev.1, Preamble para 6.
 

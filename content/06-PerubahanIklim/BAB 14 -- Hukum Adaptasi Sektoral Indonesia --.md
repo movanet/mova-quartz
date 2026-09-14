@@ -850,43 +850,43 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^2]: World Bank. (2022). *Indonesia Climate Risk Country Profile*. Washington DC.
 
-[^3]: Undang-Undang Nomor 27 Tahun 2007 tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil, Pasal 4.
+[^3]: [Undang-Undang Nomor 27 Tahun 2007](https://peraturan.go.id/id/uu-no-27-tahun-2007) tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil, Pasal 4.
 
 [^4]: BPS. (2023). *Statistik Indonesia 2023*. Jakarta: Badan Pusat Statistik.
 
-[^5]: Undang-Undang Nomor 22 Tahun 2019 tentang Sistem Budidaya Pertanian Berkelanjutan, Pasal 3.
+[^5]: [Undang-Undang Nomor 22 Tahun 2019](https://peraturan.go.id/id/uu-no-22-tahun-2019) tentang Sistem Budidaya Pertanian Berkelanjutan, Pasal 3.
 
 [^6]: Lancet Countdown. (2022). *Health and Climate Change: Country Profile Indonesia*.
 
 [^7]: CBD. (2009). *Connecting Biodiversity and Climate Change Mitigation and Adaptation: Report of the Second Ad Hoc Technical Expert Group on Biodiversity and Climate Change*. Technical Series No. 41.
 
-[^8]: Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor 5059).
+[^8]: [Undang-Undang Nomor 32 Tahun 2009](https://peraturan.go.id/id/uu-no-32-tahun-2009) tentang Perlindungan dan Pengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor 5059).
 
-[^9]: Peraturan Pemerintah Nomor 32 Tahun 2019 tentang Rencana Tata Ruang Laut (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 89, Tambahan Lembaran Negara Republik Indonesia Nomor 6344).
+[^9]: [Peraturan Pemerintah Nomor 32 Tahun 2019](https://peraturan.go.id/id/pp-no-32-tahun-2019) tentang Rencana Tata Ruang Laut (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 89, Tambahan Lembaran Negara Republik Indonesia Nomor 6344).
 
-[^10]: Peraturan Presiden Nomor 73 Tahun 2012 tentang Strategi Nasional Pengelolaan Ekosistem Mangrove.
+[^10]: [Peraturan Presiden Nomor 73 Tahun 2012](https://peraturan.go.id/id/perpres-no-73-tahun-2012) tentang Strategi Nasional Pengelolaan Ekosistem Mangrove.
 
 [^11]: KLHK. (2021). *Peta Jalan Rehabilitasi Mangrove Nasional 2021-2024*. Jakarta: Kementerian Lingkungan Hidup dan Kehutanan.
 
-[^12]: Undang-Undang Nomor 17 Tahun 2019 tentang Sumber Daya Air (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 190, Tambahan Lembaran Negara Republik Indonesia Nomor 6405).
+[^12]: [Undang-Undang Nomor 17 Tahun 2019](https://peraturan.go.id/id/uu-no-17-tahun-2019) tentang Sumber Daya Air (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 190, Tambahan Lembaran Negara Republik Indonesia Nomor 6405).
 
-[^13]: Peraturan Pemerintah Nomor 22 Tahun 2021 tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 6634).
+[^13]: [Peraturan Pemerintah Nomor 22 Tahun 2021](https://peraturan.go.id/id/pp-no-22-tahun-2021) tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 6634).
 
 [^14]: Peraturan Menteri Pertanian Nomor 40 Tahun 2015 tentang Fasilitasi Asuransi Pertanian sebagaimana telah diubah beberapa kali.
 
-[^15]: Undang-Undang Nomor 36 Tahun 2009 tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 144, Tambahan Lembaran Negara Republik Indonesia Nomor 5063).
+[^15]: [Undang-Undang Nomor 36 Tahun 2009](https://peraturan.go.id/id/uu-no-36-tahun-2009) tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 144, Tambahan Lembaran Negara Republik Indonesia Nomor 5063).
 
-[^16]: Undang-Undang Nomor 28 Tahun 2002 tentang Bangunan Gedung (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 134, Tambahan Lembaran Negara Republik Indonesia Nomor 4247).
+[^16]: [Undang-Undang Nomor 28 Tahun 2002](https://peraturan.go.id/id/uu-no-28-tahun-2002) tentang Bangunan Gedung (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 134, Tambahan Lembaran Negara Republik Indonesia Nomor 4247).
 
-[^17]: Undang-Undang Nomor 26 Tahun 2007 tentang Penataan Ruang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 4725).
+[^17]: [Undang-Undang Nomor 26 Tahun 2007](https://peraturan.go.id/id/uu-no-26-tahun-2007) tentang Penataan Ruang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 4725).
 
-[^18]: Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang.
+[^18]: [Undang-Undang Nomor 41 Tahun 1999](https://peraturan.go.id/id/uu-no-41-tahun-1999) tentang Kehutanan sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang.
 
-[^19]: Peraturan Pemerintah Nomor 71 Tahun 2014 tentang Perlindungan dan Pengelolaan Ekosistem Gambut sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 57 Tahun 2016.
+[^19]: [Peraturan Pemerintah Nomor 71 Tahun 2014](https://peraturan.go.id/id/pp-no-71-tahun-2014) tentang Perlindungan dan Pengelolaan Ekosistem Gambut sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 57 Tahun 2016.
 
-[^20]: Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan sebagaimana telah diubah dengan Undang-Undang Nomor 45 Tahun 2009 (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 154, Tambahan Lembaran Negara Republik Indonesia Nomor 5073).
+[^20]: [Undang-Undang Nomor 31 Tahun 2004](https://peraturan.go.id/id/uu-no-31-tahun-2004) tentang Perikanan sebagaimana telah diubah dengan Undang-Undang Nomor 45 Tahun 2009 (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 154, Tambahan Lembaran Negara Republik Indonesia Nomor 5073).
 
-[^21]: Peraturan Presiden Nomor 78 Tahun 2005 tentang Pengelolaan Pulau-Pulau Kecil Terluar.
+[^21]: [Peraturan Presiden Nomor 78 Tahun 2005](https://peraturan.go.id/id/perpres-no-78-tahun-2005) tentang Pengelolaan Pulau-Pulau Kecil Terluar.
 
 ---
 

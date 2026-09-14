@@ -784,7 +784,7 @@ $$Tingkat\ Penguasaan = \frac{Jumlah\ Jawaban\ Benar}{10} \times 100\%$$
 
 [^10]: Jonathan Verschuuren, 'Climate Change Adaptation: Introduction and Overview' in Jonathan Verschuuren (ed), *Research Handbook on Climate Change Adaptation Law* (Edward Elgar 2022) 1-18.
 
-[^11]: AR Siders, 'Adaptive Capacity to Climate Change: A Synthesis of Concepts, Methods, and Findings in a Fragmented Field' (2019) 10 WIREs Climate Change e573; see also MC Lemos and others, 'To Co-Produce or Not to Co-Produce' (2018) 1 Nature Sustainability 722.
+[^11]: AR Siders, '[Adaptive Capacity to Climate Change: A Synthesis of Concepts, Methods, and Findings in a Fragmented Field](https://doi.org/10.1002/wcc.573)' (2019) 10 WIREs Climate Change e573; see also MC Lemos and others, 'To Co-Produce or Not to Co-Produce' (2018) 1 Nature Sustainability 722.
 
 [^12]: Decision 7/CP.7, Funding under the Convention, 2001 (Marrakech Accords); Decision 10/CP.7, Funding under the [Kyoto Protocol](https://unfccc.int/kyoto_protocol), 2001.
 

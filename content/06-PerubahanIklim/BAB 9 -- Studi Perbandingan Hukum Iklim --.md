@@ -279,7 +279,7 @@ Target-target ini kemudian diintegrasikan ke dalam dokumen perencanaan formal:
 
 [^42]: ICAP (n 9) 58-65.
 [^43]: Ministry of Ecology and Environment, 'Interim Regulations on Carbon Emissions Trading Management' (2024).
-[^44]: Zhang D, Karplus VJ dan Cassisa C, 'Emissions Trading in China: Progress and Prospects' (2014) 75 Energy Policy 9.
+[^44]: Zhang D, Karplus VJ dan Cassisa C, '[Emissions Trading in China: Progress and Prospects](https://doi.org/10.1016/j.enpol.2014.01.022)' (2014) 75 Energy Policy 9.
 [^45]: ICAP (n 9) 60-62.
 
 ---
@@ -301,7 +301,7 @@ Tabel berikut merangkum perbandingan karakteristik utama dari ketiga model:
 | **Peran yudisial** | Signifikan (*Urgenda*-style) | Sangat kuat | Minimal | Terbatas |
 | **Integrasi sektoral** | Tinggi (Green Deal) | Rendah (silo) | Tinggi (1+N) | Berkembang |
 
-[^46]: Jotzo F dan Löschel A, 'Emissions Trading in China: Emerging Experiences and International Lessons' (2014) 75 Energy Policy 3.
+[^46]: Jotzo F dan Löschel A, '[Emissions Trading in China: Emerging Experiences and International Lessons](https://doi.org/10.1016/j.enpol.2014.09.019)' (2014) 75 Energy Policy 3.
 
 #### 4.2 Elemen yang Dapat Diadaptasi untuk Indonesia
 

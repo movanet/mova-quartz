@@ -323,7 +323,7 @@ Pendanaan publik—meskipun penting—tidak akan pernah cukup untuk memenuhi keb
 Keuangan berkelanjutan mengintegrasikan pertimbangan lingkungan, sosial, dan tata kelola (ESG) ke dalam keputusan investasi dan pembiayaan. Ini bukan sekadar "berbuat baik"—ada bukti bahwa perusahaan dengan kinerja ESG kuat cenderung memiliki risiko lebih rendah dan kinerja keuangan jangka panjang lebih baik.[^46] Dengan demikian, keuangan berkelanjutan selaras dengan kepentingan fiduciary investor.
 
 [^45]: Smits R (ed), *Sustainable Finance and Climate Change: Law and Regulation* (Edward Elgar 2024) 1-15.
-[^46]: Friede G, Busch T and Bassen A, 'ESG and Financial Performance: Aggregated Evidence from More than 2000 Empirical Studies' (2015) 5 Journal of Sustainable Finance & Investment 210, 222.
+[^46]: Friede G, Busch T and Bassen A, '[ESG and Financial Performance: Aggregated Evidence from More than 2000 Empirical Studies](https://doi.org/10.1080/20430795.2015.1118917)' (2015) 5 Journal of Sustainable Finance & Investment 210, 222.
 
 #### 4.1 Taksonomi Hijau (*Green Taxonomy*)
 
@@ -430,7 +430,7 @@ Konsep BPDLH sebagai **one-stop shop** untuk pendanaan lingkungan dimaksudkan un
 
 Indonesia juga telah menerapkan **Climate Budget Tagging** (CBT) dalam APBN—sistem untuk mengidentifikasi dan melacak alokasi anggaran yang terkait iklim di seluruh kementerian/lembaga. CBT menjadi alat transparansi dan akuntabilitas sekaligus dasar untuk mengklaim *co-financing* domestik dalam proyek pendanaan internasional.[^67]
 
-[^65]: Peraturan Pemerintah Nomor 14 Tahun 2021 tentang Perubahan atas Peraturan Pemerintah Nomor 46 Tahun 2017 tentang Instrumen Ekonomi Lingkungan Hidup, ps 35-40.
+[^65]: [Peraturan Pemerintah Nomor 14 Tahun 2021](https://peraturan.go.id/id/pp-no-14-tahun-2021) tentang Perubahan atas Peraturan Pemerintah Nomor 46 Tahun 2017 tentang Instrumen Ekonomi Lingkungan Hidup, ps 35-40.
 [^66]: BPDLH, *Strategic Plan 2020-2024* (2020) 8-12.
 [^67]: Ministry of Finance, *Climate Budget Tagging: Indonesia's Experience* (2020) 3-8.
 
