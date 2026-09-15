@@ -1,0 +1,4 @@
+# Folder renamed perubahan-iklim -> 06-PerubahanIklim (PR #13).
+# Keep old bookmarks and shared links working.
+/perubahan-iklim/*  /06-perubahaniklim/:splat  301
+/perubahan-iklim    /06-perubahaniklim/        301
