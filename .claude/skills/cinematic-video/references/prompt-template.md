@@ -1,8 +1,11 @@
-# Prompt template: code-rendered cinematic video
+# Prompt templates: code-rendered films
 
-Use this as (a) the brief the user fills in, or (b) your own checklist when the user gives you a one-liner. Any field left blank takes the default shown.
+Use these as (a) the brief the user fills in, or (b) your own checklist when the user gives you a one-liner. Any field left blank takes the default shown. There are two:
 
-## The general prompt (copy, fill, send)
+- **A. Product film** (below): Apple-style, a 3D object in a black void, driven by the beat.
+- **B. Narrated film** (further down): an explainer or essay film with an OmniVoice voiceover, in any 2D art style (hand-drawn collage by default), driven by the narration.
+
+## A. The product-film prompt (copy, fill, send)
 
 ```text
 Make me a {LENGTH=30}s {FORMAT=vertical 1080×1920 | horizontal 1920×1080 | square 1080×1080},
@@ -91,3 +94,60 @@ INPUTS
 **Event / announcement:** "Inputs: date, venue, speakers' photos. Kinetic typography only (no 3D), black void, one word per beat on the build, key date in brand colour, CTA on end card."
 
 **Silent website hero loop:** "No audio. 8–12s, seamless loop (first frame = last frame), ≤4 MB MP4 + WebM, 1920×1080 and 1080×1350."
+
+---
+
+## B. The narrated-film prompt (copy, fill, send)
+
+```text
+Make a {LENGTH=30–60}s narrated animated film, rendered in pure JavaScript (Canvas/SVG/three.js,
+frame by frame in headless Chromium, encoded with ffmpeg; no AI video or image generation),
+on the topic: "{TOPIC or QUESTION}".
+
+AUDIENCE & TONE: {general public | students | clients}; {whimsical and warm | calm and reflective | punchy}.
+FORMAT: {1920×1080 | 1080×1920 | 1080×1080}, 30 fps, captions {on}, language {English | Indonesian}.
+STYLE: {hand-drawn cut-paper collage | ink-and-watercolour | flat geometric | chalkboard}, all assets
+drawn in code (no stock images unless I supply them in {./assets}).
+VOICE: OmniVoice (local, VoiceStudio on MMAPC, 127.0.0.1:3900) with
+{instruct "female, middle-aged, low pitch, british accent" | my cloned voice profile dfa49469}, speed {0.95}.
+MUSIC & SFX: generated in code, {whimsical plucked | ambient | cinematic}, ducked under the voice;
+foley that matches the style (paper pops, pencil scribbles, sheet rustles). Mix to -14 LUFS.
+
+YOU OWN: the concept, the script (≈150 wpm, one idea per line, every line drawable), the art
+direction, the assets, the animation, the sound and the edit.
+QUALITY BAR: professional. No overlaps, no placeholder art in the final, every visual lands on its
+spoken word, cuts on the beat, opens and closes on black. Review your own stills and a preview
+at least twice and fix what you find before rendering the final.
+
+AUTONOMY: I'm away. Don't stop to ask; make reasonable decisions and note them. If something is
+blocked (e.g. OmniVoice unreachable), finish everything else, use placeholder timing, and leave me
+the exact commands to complete it.
+DELIVER: film.mp4, poster frame, script, and a short report of decisions and anything outstanding.
+```
+
+## What changed vs. the second Reddit prompt ("purpose of life" collage), and why
+
+| Original | Improved | Why |
+|---|---|---|
+| "high quality TTS … open router API key in .env" | OmniVoice on MMAPC via VoiceStudio, voice given as a valid `instruct` or a profile id | Local, free, private, and the voice is specified rather than left to chance |
+| Topic and style hard-coded | `{TOPIC}`, `{STYLE}`, `{TONE}`, `{AUDIENCE}`, `{FORMAT}` slots | The same brief works for any explainer |
+| "high production value … spend your time" | An explicit quality bar and a self-review loop | "Spend time" is not checkable; overlaps, sync and placeholders are |
+| "use any tools … resources on the internet" | All assets drawn in code unless supplied | No licensing risk, fully reproducible, works offline |
+| "work autonomously until done" | Autonomy rules plus what to do when blocked | Stops the agent from either stalling on a question or silently substituting a different TTS |
+| No format, captions or language | Size, fps, captions, language | Muted autoplay needs captions; Indonesian narration needs `language` set and no accent |
+| No deliverables | MP4, poster, script, decision report | You can review what was decided while you were away |
+
+## Filled example (the original request, cleaned up)
+
+```text
+Make a 30–60s narrated animated film in pure JavaScript on the question "What is the purpose of life?"
+AUDIENCE & TONE: general public; whimsical, warm, balanced across philosophy, faith and personal meaning.
+FORMAT: 1920×1080, 30 fps, captions on, English.
+STYLE: hand-drawn cut-paper collage (torn paper, ink doodles, handwritten type, stop-motion on twos).
+VOICE: OmniVoice, instruct "female, middle-aged, low pitch, british accent", speed 0.95.
+MUSIC & SFX: whimsical plucked bed at 90 BPM in F, paper pops, scribbles, sheet rustles; chime at the end.
+(YOU OWN, QUALITY BAR, AUTONOMY and DELIVER as in template B.)
+```
+
+`templates/collage-script.json` and `templates/collage.html` are this film, built.
+

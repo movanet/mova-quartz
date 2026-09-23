@@ -10,12 +10,14 @@
 ## The generated soundtrack (`scripts/audio.mjs`)
 
 - **Bed:** a detuned sine/saw pad playing i–VI–III–VII in a minor key (cinematic and loopable), with kicks on beats 1 and 3 (every beat for `driving`, none for `ambient`) and hats on the off-beats.
+- **Whimsical bed** (`mood: "whimsical"`, for Mode B): a major I–vi–IV–V on a plucked mallet voice. It has bass on beats 1 and 3, off-beat chord plucks, a shaker on 8ths, and a seeded pentatonic melody that rests two bars in eight so the narration has room.
 - **SFX:**
   - `boom`: a kick plus a 38 Hz sub tail of about 2.5 s. Use it on the hero reveal.
   - `whoosh`: filtered noise that swells and pans left→right, centred on `t`. Use it on spins and whips.
   - `chime`: FM bells on root + 5th + octave. Use it on the logo.
   - `tick`: a 2.2 kHz click. Use it on taps and highlights.
   - `riser`: noise with a rising filter that *ends* at `t`. Use it before the reveal.
+  - `pop`: a short pitched blip for a paper piece landing. `paper`: a crackly rustle for a sheet wipe (`len` in seconds). `scribble`: pencil on paper for handwriting or ink drawn on (`len` = draw time).
 - **Master:** a 20 ms fade-in, a fade-out of `fadeOut` seconds to digital silence (so the film loops), gentle tanh soft-clip, peak normalisation to −1 dBFS, and 16-bit 48 kHz stereo output.
 - `SCENE.cues()` in the template derives cues from the shot list, so the picture and sound can't drift apart. Add custom cues by editing `cues()` rather than hand-writing times.
 - It's deterministic: a seeded mulberry32 PRNG, so the same cues always produce a byte-identical WAV.
@@ -33,3 +35,13 @@
 - Target about −14 LUFS integrated for social platforms, with a true peak ≤ −1 dBTP. With ffmpeg, a two-pass `loudnorm` does this: `ffmpeg -i music.wav -af loudnorm=I=-14:TP=-1:LRA=11 -ar 48000 music-norm.wav` (run the measurement pass first for exact values).
 - Hierarchy: boom > whoosh > bed > tick. Keep the chime clear of the bed by letting the bed fade under it.
 - A silent version (`--audio` omitted in encode.mjs) is for website heroes. Reels and TikTok autoplay muted, so titles have to carry the story without sound.
+
+## Narration (Mode B)
+
+- The voice comes from OmniVoice via `scripts/tts.mjs` (see `narrated-collage.md` §3). Lines are trimmed of silence and start on the half-beat grid, and the film's length is rounded up to a whole bar.
+- `scripts/mix.mjs` builds the final track:
+  - The voice is centred, high-passed at 80 Hz, with +2 dB of presence at 3 kHz.
+  - The music is sidechain-compressed by the voice: threshold 0.02, ratio 8, attack 60 ms, release 600 ms. That ducks it roughly 12 dB while someone speaks, and it swells back in the pauses.
+  - The mix is loudness-normalised to −14 LUFS / −1 dBTP.
+- Check intelligibility on laptop speakers as well as headphones. If the melody fights the voice, lower the music (`volume=` in `mix.mjs`) or use `mood: "ambient"`.
+

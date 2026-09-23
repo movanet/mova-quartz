@@ -1,0 +1,428 @@
+<!doctype html>
+<!--
+  Hand-drawn collage film template (pure JS, Canvas 2D). Narrated: timing comes from narration.json.
+    node scripts/tts.mjs    --script script.json --out narration      (OmniVoice; --placeholder without it)
+    node scripts/render.mjs --scene collage.html --out frames --cues cues.json
+    node scripts/audio.mjs  --cues cues.json --out music.wav
+    node scripts/mix.mjs    --narration narration/narration.json --music music.wav --out mix.wav
+    node scripts/encode.mjs --frames frames --audio mix.wav --out film.mp4
+  Scrub a frame: collage.html?t=12.5
+-->
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+  @font-face { font-family: "Hand"; font-weight: 700;
+    src: url("node_modules/@fontsource/caveat/files/caveat-latin-700-normal.woff2") format("woff2"); }
+  @font-face { font-family: "Print"; font-weight: 400;
+    src: url("node_modules/@fontsource/patrick-hand/files/patrick-hand-latin-400-normal.woff2") format("woff2"); }
+  html, body { margin: 0; background: #000; overflow: hidden; }
+  canvas { display: block; }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<script type="module">
+// ============================================================================
+// FILM — edit this. Coordinates are in a 1920×1080 frame. `at` is in beats from the
+// scene's narration line start, or "@word" to land on that word as it is spoken.
+// ============================================================================
+const C = { cream: "#f3ead8", kraft: "#c9a57a", ink: "#2b2622", red: "#e2553f", mustard: "#e8b33c",
+  teal: "#2f8f8a", blue: "#3a6ea5", pink: "#ef9fb0", green: "#6aa84f", navy: "#26324f", white: "#fbf7ee", grey: "#9a948a" }
+const FILM = {
+  width: 1920, height: 1080, fps: 30,
+  narration: "narration/narration.json",
+  mood: "whimsical", key: "F",
+  captions: true,
+  scenes: [
+    { line: "s1", bg: C.cream, camera: "push", items: [
+      { kind: "text", text: "What is the purpose", x: 900, y: 300, size: 150, color: C.ink, anim: "write", at: 0, len: 2.5 },
+      { kind: "text", text: "of life?", x: 900, y: 510, size: 200, color: C.red, cutout: true, anim: "drop", at: "@life", len: 1 },
+      { kind: "shape", shape: "star", x: 250, y: 170, w: 90, h: 90, color: C.mustard, anim: "pop", at: 0.5 },
+      { kind: "shape", shape: "star", x: 1650, y: 190, w: 70, h: 70, color: C.pink, anim: "pop", at: 1 },
+      { kind: "shape", shape: "star", x: 330, y: 760, w: 50, h: 50, color: C.teal, anim: "pop", at: 1.5 },
+      { kind: "figure", x: 1500, y: 980, s: 1.05, color: C.blue, pose: "think", anim: "slide-u", at: 1.5 },
+    ] },
+    { line: "s2", bg: C.kraft, camera: "drift", items: [
+      { kind: "custom", draw: skyCycle, at: 0 },
+      { kind: "figure", x: 560, y: 930, s: 1.2, color: C.teal, pose: "think", anim: "pop", at: "@philosophers" },
+      { kind: "bubble", x: 470, y: 470, w: 220, h: 140, tail: [70, 120], content: "scribble", anim: "pop", at: "@philosophers", seed: 3 },
+      { kind: "figure", x: 960, y: 930, s: 1.2, color: C.red, pose: "wave", anim: "pop", at: "@poets" },
+      { kind: "bubble", x: 960, y: 450, w: 220, h: 140, tail: [0, 130], content: "heart", anim: "pop", at: "@poets" },
+      { kind: "figure", x: 1360, y: 930, s: 1.2, color: C.navy, pose: "stand", anim: "pop", at: "@prophets" },
+      { kind: "bubble", x: 1450, y: 470, w: 220, h: 140, tail: [-70, 120], content: "star", anim: "pop", at: "@prophets" },
+    ] },
+    { line: "s3", bg: C.teal, camera: "tilt", items: [
+      { kind: "text", text: "happiness", x: 520, y: 320, size: 110, color: C.ink, label: C.white, rot: -4, anim: "drop", at: "@happiness" },
+      { kind: "text", text: "duty", x: 1400, y: 320, size: 110, color: C.ink, label: C.mustard, rot: 3, anim: "drop", at: "@duty" },
+      { kind: "text", text: "faith", x: 520, y: 740, size: 110, color: C.ink, label: C.pink, rot: 2, anim: "drop", at: "@faith" },
+      { kind: "text", text: "legacy", x: 1400, y: 740, size: 110, color: C.ink, label: C.white, rot: -3, anim: "drop", at: "@behind" },
+      { kind: "ink", path: "arrow", from: [790, 300], to: [1250, 290], bend: -70, color: C.white, width: 6, anim: "draw", at: "@duty", len: 1 },
+      { kind: "ink", path: "arrow", from: [1330, 410], to: [640, 650], bend: 90, color: C.white, width: 6, anim: "draw", at: "@faith", len: 1 },
+      { kind: "ink", path: "arrow", from: [690, 760], to: [1200, 760], bend: 70, color: C.white, width: 6, anim: "draw", at: "@behind", len: 1 },
+    ] },
+    { line: "s4", bg: C.cream, camera: "push", items: [
+      { kind: "custom", draw: pavement, at: 0 },
+      { kind: "shape", shape: "circle", x: 1180, y: 850, w: 110, h: 110, color: C.mustard, anim: "drop", at: 1, dots: true },
+      { kind: "custom", draw: magnifier, at: 0.5, len: 5 },
+      { kind: "ink", path: "cross", x: 960, y: 520, s: 330, color: C.red, width: 16, anim: "draw", at: "@find", len: 0.8 },
+    ] },
+    { line: "s5", bg: C.mustard, camera: "drift", items: [
+      { kind: "figure", x: 620, y: 930, s: 1.3, color: C.navy, pose: "wave", anim: "slide-l", at: 0 },
+      { kind: "shape", shape: "rect", x: 1150, y: 850, w: 380, h: 150, color: C.red, anim: "drop", at: "@make" },
+      { kind: "shape", shape: "rect", x: 1150, y: 700, w: 320, h: 150, color: C.teal, anim: "drop", at: 2.5 },
+      { kind: "shape", shape: "tri", x: 1150, y: 545, w: 400, h: 170, color: C.navy, anim: "drop", at: 3.5 },
+      { kind: "shape", shape: "heart", x: 1150, y: 700, w: 80, h: 70, color: C.pink, anim: "pop", at: "@time" },
+      { kind: "text", text: "make", x: 1150, y: 300, size: 150, color: C.ink, anim: "write", at: "@make", len: 1.2 },
+      { kind: "ink", path: "underline", x: 1150, y: 345, w: 300, color: C.red, width: 9, anim: "draw", at: 2, len: 0.8 },
+    ] },
+    { line: "s6", bg: C.cream, camera: "push", items: [
+      { kind: "bubble", x: 400, y: 420, w: 330, h: 220, tail: [60, 170], content: "heart", anim: "pop", at: "@kind" },
+      { kind: "figure", x: 470, y: 930, s: 1.1, color: C.red, pose: "wave", anim: "pop", at: "@kind" },
+      { kind: "custom", draw: ground, at: "@seed" },
+      { kind: "plant", x: 960, y: 900, h: 420, color: C.pink, anim: "grow", at: "@seed", len: 3.5 },
+      { kind: "bubble", x: 1500, y: 420, w: 300, h: 240, tail: [-60, 180], content: "?", anim: "pop", at: "@question" },
+      { kind: "figure", x: 1440, y: 930, s: 1.1, color: C.teal, pose: "think", anim: "pop", at: "@question" },
+    ] },
+    { line: "s7", bg: C.navy, camera: "push", end: true, items: [
+      { kind: "custom", draw: nightStars, at: 0 },
+      { kind: "plant", x: 380, y: 1000, h: 300, color: C.pink, anim: "grow", at: 0, len: 3 },
+      { kind: "plant", x: 700, y: 1010, h: 380, color: C.mustard, anim: "grow", at: 1, len: 3 },
+      { kind: "plant", x: 1240, y: 1010, h: 340, color: C.red, anim: "grow", at: 1.5, len: 3 },
+      { kind: "plant", x: 1560, y: 1000, h: 280, color: C.white, anim: "grow", at: 2.5, len: 3 },
+      { kind: "text", text: "to make it", x: 960, y: 330, size: 140, color: C.white, anim: "write", at: "@make", len: 1 },
+      { kind: "text", text: "mean something.", x: 960, y: 500, size: 170, color: C.mustard, cutout: true, anim: "write", at: "@mean", len: 1.6 },
+    ] },
+  ],
+}
+// ============================================================================
+
+const P = new URLSearchParams(location.search)
+const W = FILM.width, H = FILM.height
+const cv = document.getElementById("c"); cv.width = W; cv.height = H
+const ctx = cv.getContext("2d")
+const N = await (await fetch(FILM.narration)).json()
+const BEAT = 60 / N.bpm, DURATION = N.duration, TRANS = BEAT * 0.75
+const lines = Object.fromEntries(N.segments.map((s) => [s.id, s]))
+const STEP = 1 / 12 // stop-motion: animate "on twos" at 12 fps
+const q12 = (t) => Math.floor(t / STEP + 1e-6) * STEP
+
+// ---------- seeded randomness ----------------------------------------------------
+const hash = (s) => { let h = 2166136261; for (const ch of String(s)) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return h >>> 0 }
+const rng = (seed) => () => { seed |= 0; seed = (seed + 0x6d2b79f5) | 0; let t = Math.imul(seed ^ (seed >>> 15), 1 | seed)
+  t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296 }
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x))
+const lerp = (a, b, x) => a + (b - a) * x
+const easeOut = (x) => 1 - (1 - x) ** 3
+const easeInOut = (x) => (x < 0.5 ? 4 * x * x * x : 1 - (-2 * x + 2) ** 3 / 2)
+const back = (x) => 1 + 2.2 * (x - 1) ** 3 + 1.2 * (x - 1) ** 2 // overshoot
+const bounce = (x) => (x < 0.7 ? (x / 0.7) ** 2 : 1 - Math.sin(((x - 0.7) / 0.3) * Math.PI) * 0.08 * (1 - x) / 0.3)
+
+// ---------- timeline -------------------------------------------------------------------
+// Each scene hangs off its narration line; it starts half a beat before the voice so the picture leads.
+FILM.scenes.forEach((s, i) => {
+  const L = lines[s.line]; if (!L) throw new Error(`scene ${i}: no narration line "${s.line}"`)
+  s.L = L; s.start = i === 0 ? 0 : L.start - BEAT / 2; s.seed = hash(s.line)
+})
+FILM.scenes.forEach((s, i) => (s.end = FILM.scenes[i + 1]?.start ?? DURATION))
+// "@word" -> when that word is spoken, estimated from its character offset within the line.
+function wordTime(L, word) {
+  const i = L.text.toLowerCase().indexOf(word.toLowerCase())
+  if (i < 0) throw new Error(`"@${word}" not in line ${L.id}: ${L.text}`)
+  return L.start + L.dur * (i / L.text.length) * 0.96
+}
+const itemStart = (s, it) => (typeof it.at === "string" ? wordTime(s.L, it.at.slice(1)) : s.L.start + (it.at ?? 0) * BEAT)
+
+// ---------- paper textures (generated once) ---------------------------------------------
+function paperTexture(size, seed, strength = 1) {
+  const c = document.createElement("canvas"); c.width = c.height = size
+  const x = c.getContext("2d"), r = rng(seed), img = x.createImageData(size, size)
+  for (let i = 0; i < size * size; i++) {
+    const v = 255 - r() * 22 * strength
+    img.data[i * 4] = img.data[i * 4 + 1] = img.data[i * 4 + 2] = v; img.data[i * 4 + 3] = 255
+  }
+  x.putImageData(img, 0, 0)
+  x.globalAlpha = 0.08 * strength; x.strokeStyle = "#6b5a44"; x.lineWidth = 0.7
+  for (let i = 0; i < size / 3; i++) { // fibres
+    const px = r() * size, py = r() * size, a = r() * Math.PI
+    x.beginPath(); x.moveTo(px, py); x.quadraticCurveTo(px + Math.cos(a) * 12 + r() * 6, py + Math.sin(a) * 12, px + Math.cos(a) * 24, py + Math.sin(a) * 24); x.stroke()
+  }
+  x.globalAlpha = 0.05 * strength; x.fillStyle = "#5a4a36"
+  for (let i = 0; i < 8; i++) { const g = x.createRadialGradient(r() * size, r() * size, 0, r() * size, r() * size, size * 0.4); g.addColorStop(0, "#5a4a36"); g.addColorStop(1, "transparent"); x.fillStyle = g; x.fillRect(0, 0, size, size) }
+  return c
+}
+const TEX = paperTexture(512, 11)
+const TEX_PAT = ctx.createPattern(TEX, "repeat")
+const GRAIN = [0, 1, 2, 3].map((k) => { // film grain tiles, cycled on the stop-motion step
+  const c = document.createElement("canvas"); c.width = c.height = 256
+  const x = c.getContext("2d"), r = rng(100 + k), img = x.createImageData(256, 256)
+  for (let i = 0; i < 256 * 256; i++) { const v = r() * 255; img.data.set([v, v, v, 28], i * 4) }
+  x.putImageData(img, 0, 0); return ctx.createPattern(c, "repeat")
+})
+
+// ---------- drawing library ---------------------------------------------------------------
+// Every outline gets a fixed "torn" deviation (stable silhouette) plus a tiny per-step "boil".
+function densify(pts, step = 14) {
+  const out = []
+  for (let i = 0; i < pts.length; i++) {
+    const [ax, ay] = pts[i], [bx, by] = pts[(i + 1) % pts.length], n = Math.max(1, Math.ceil(Math.hypot(bx - ax, by - ay) / step))
+    for (let k = 0; k < n; k++) out.push([lerp(ax, bx, k / n), lerp(ay, by, k / n)])
+  }
+  return out
+}
+function outline(shape, w, h, seed) {
+  const r = rng(seed), pts = []
+  if (shape === "circle" || shape === "blob" || shape === "cloud") {
+    const n = 64, wob = shape === "blob" ? [r() * 0.12, r() * 6, r() * 0.08, r() * 6] : [0, 0, 0, 0]
+    for (let i = 0; i < n; i++) {
+      const a = (i / n) * Math.PI * 2
+      let k = 1 + wob[0] * Math.sin(2 * a + wob[1]) + wob[2] * Math.sin(3 * a + wob[3])
+      if (shape === "cloud") k = 0.82 + 0.18 * Math.abs(Math.sin(a * 3.5))
+      pts.push([Math.cos(a) * w / 2 * k, Math.sin(a) * h / 2 * k])
+    }
+    return pts
+  }
+  if (shape === "star") {
+    const s = []; for (let i = 0; i < 10; i++) { const a = -Math.PI / 2 + (i * Math.PI) / 5, k = i % 2 ? 0.45 : 1; s.push([Math.cos(a) * w / 2 * k, Math.sin(a) * h / 2 * k]) }
+    return densify(s, 10)
+  }
+  if (shape === "heart") {
+    for (let i = 0; i < 64; i++) { const a = (i / 64) * Math.PI * 2, x = 16 * Math.sin(a) ** 3, y = -(13 * Math.cos(a) - 5 * Math.cos(2 * a) - 2 * Math.cos(3 * a) - Math.cos(4 * a)); pts.push([x / 34 * w, y / 32 * h]) }
+    return pts
+  }
+  if (shape === "tri") return densify([[0, -h / 2], [w / 2, h / 2], [-w / 2, h / 2]])
+  return densify([[-w / 2, -h / 2], [w / 2, -h / 2], [w / 2, h / 2], [-w / 2, h / 2]]) // rect
+}
+function tear(pts, seed, boil, amount = 3) {
+  const r = rng(seed), b = rng(seed ^ boil)
+  return pts.map(([x, y], i) => {
+    const d = Math.hypot(x, y) || 1, n = (r() - 0.5) * amount * 2 + (b() - 0.5) * 1.4
+    return [x + (x / d) * n, y + (y / d) * n]
+  })
+}
+function pathOf(pts) { const p = new Path2D(); pts.forEach(([x, y], i) => (i ? p.lineTo(x, y) : p.moveTo(x, y))); p.closePath(); return p }
+// A cut-paper piece: white torn border (cut from a magazine), colour, paper texture, contact shadow.
+function paper(shape, w, h, color, seed, boil, { edge = true, dots = false, lift = 0 } = {}) {
+  const base = outline(shape, w, h, seed)
+  ctx.save()
+  ctx.shadowColor = "rgba(40,25,10,0.28)"; ctx.shadowBlur = 6 + lift * 20; ctx.shadowOffsetX = 3 + lift * 10; ctx.shadowOffsetY = 5 + lift * 18
+  if (edge) { ctx.fillStyle = C.white; ctx.fill(pathOf(tear(base.map(([x, y]) => [x * (1 + 10 / w), y * (1 + 10 / h)]), seed + 1, boil, 3.5))) }
+  const body = pathOf(tear(base, seed, boil, 1.6))
+  ctx.fillStyle = color; ctx.fill(body)
+  ctx.restore()
+  ctx.save(); ctx.clip(body)
+  if (dots) { ctx.fillStyle = "rgba(255,255,255,0.35)"; for (let y = -h / 2; y < h / 2; y += 12) for (let x = -w / 2 + ((y / 12) % 2) * 6; x < w / 2; x += 12) { ctx.beginPath(); ctx.arc(x, y, 2.4, 0, 7); ctx.fill() } }
+  ctx.globalCompositeOperation = "multiply"; ctx.globalAlpha = 0.55; ctx.fillStyle = TEX_PAT; ctx.fillRect(-w, -h, w * 2, h * 2)
+  ctx.restore()
+}
+// Ink strokes: smoothed polyline, drawn up to progress p, trembling slightly per step.
+function ink(pts, p, color, width, boil, seed = 1) {
+  const n = Math.max(2, Math.floor(pts.length * clamp(p)))
+  if (p <= 0) return
+  const b = rng(seed ^ boil), P2 = pts.slice(0, n).map(([x, y]) => [x + (b() - 0.5) * 1.6, y + (b() - 0.5) * 1.6])
+  ctx.save(); ctx.strokeStyle = color; ctx.lineCap = ctx.lineJoin = "round"
+  for (const [wk, a] of [[1, 1], [0.55, 0.5]]) { // double pass = pen pressure texture
+    ctx.lineWidth = width * wk; ctx.globalAlpha = a
+    ctx.beginPath(); ctx.moveTo(...P2[0])
+    for (let i = 1; i < P2.length - 1; i++) ctx.quadraticCurveTo(P2[i][0], P2[i][1], (P2[i][0] + P2[i + 1][0]) / 2, (P2[i][1] + P2[i + 1][1]) / 2)
+    ctx.lineTo(...P2.at(-1)); ctx.stroke()
+  }
+  ctx.restore()
+}
+const inkPaths = {
+  arrow: (it) => { const [ax, ay] = it.from, [bx, by] = it.to, mx = (ax + bx) / 2, my = (ay + by) / 2, nx = -(by - ay), ny = bx - ax, d = Math.hypot(nx, ny)
+    const cx = mx + (nx / d) * (it.bend ?? 0), cy = my + (ny / d) * (it.bend ?? 0), pts = []
+    for (let i = 0; i <= 40; i++) { const t = i / 40; pts.push([(1 - t) ** 2 * ax + 2 * (1 - t) * t * cx + t * t * bx, (1 - t) ** 2 * ay + 2 * (1 - t) * t * cy + t * t * by]) }
+    return pts },
+  underline: (it) => Array.from({ length: 40 }, (_, i) => [it.x - it.w / 2 + (i / 39) * it.w, it.y + Math.sin(i / 3) * 4]),
+  cross: (it) => { const s = it.s / 2, a = [], b = []; for (let i = 0; i <= 20; i++) { a.push([it.x - s + (2 * s * i) / 20, it.y - s + (2 * s * i) / 20]); b.push([it.x + s - (2 * s * i) / 20, it.y - s + (2 * s * i) / 20]) } return [a, b] }, // two strokes
+}
+function arrowHead(pts, color, width, boil) {
+  const [x1, y1] = pts.at(-6), [x2, y2] = pts.at(-1), a = Math.atan2(y2 - y1, x2 - x1)
+  for (const s of [1, -1]) ink([[x2, y2], [x2 - Math.cos(a + s * 0.5) * 36, y2 - Math.sin(a + s * 0.5) * 36]], 1, color, width, boil, 9 + s)
+}
+function text(it, p, boil) {
+  ctx.save(); ctx.font = `700 ${it.size}px Hand`; ctx.textAlign = "center"; ctx.textBaseline = "middle"
+  const tw = ctx.measureText(it.text).width
+  if (it.label) { // paper label behind, taped at the top
+    paper("rect", tw + it.size * 0.6, it.size * 1.05, it.label, hash(it.text), boil)
+    tape(0, -it.size * 0.55, it.size * 0.9, hash(it.text) % 20 - 10, boil)
+  }
+  if (it.anim === "write") { ctx.beginPath(); ctx.rect(-tw / 2 - 20, -it.size, (tw + 40) * p, it.size * 2); ctx.clip() }
+  if (it.cutout) { ctx.lineJoin = "round"; ctx.lineWidth = it.size * 0.16; ctx.strokeStyle = C.white
+    ctx.shadowColor = "rgba(40,25,10,0.3)"; ctx.shadowOffsetY = 6; ctx.shadowBlur = 8; ctx.strokeText(it.text, 0, 0); ctx.shadowColor = "transparent" }
+  ctx.fillStyle = it.color; ctx.fillText(it.text, 0, 0)
+  ctx.restore()
+}
+function tape(x, y, w, rotDeg, boil) {
+  ctx.save(); ctx.translate(x, y); ctx.rotate((rotDeg * Math.PI) / 180); ctx.globalAlpha = 0.72
+  ctx.fillStyle = "#e9dcbc"; ctx.fill(pathOf(tear(densify([[-w / 2, -16], [w / 2, -16], [w / 2, 16], [-w / 2, 16]], 6), hash(w), boil, 2.5)))
+  ctx.restore()
+}
+function figure(it, boil, lt) {
+  const s = it.s ?? 1, skin = "#f2c9a0"
+  ctx.save(); ctx.scale(s, s)
+  ink([[-18, -95], [-24, -40], [-30, 0]], 1, C.ink, 7, boil, 1); ink([[18, -95], [24, -40], [30, 0]], 1, C.ink, 7, boil, 2)
+  const wave = Math.sin(q12(lt) * 7) * 0.35
+  if (it.pose === "wave") { ink([[-38, -190], [-80, -150], [-100, -110]], 1, C.ink, 7, boil, 3); ink([[38, -190], [80, -230], [100 + wave * 30, -290]], 1, C.ink, 7, boil, 4) }
+  else if (it.pose === "think") { ink([[-38, -190], [-80, -150], [-95, -105]], 1, C.ink, 7, boil, 3); ink([[38, -190], [60, -220], [20, -262]], 1, C.ink, 7, boil, 4) }
+  else { ink([[-38, -190], [-70, -140], [-80, -95]], 1, C.ink, 7, boil, 3); ink([[38, -190], [70, -140], [80, -95]], 1, C.ink, 7, boil, 4) }
+  ctx.save(); ctx.translate(0, -150); paper("tri", 110, 130, it.color, hash(it.color) + 7, boil); ctx.restore()
+  ctx.save(); ctx.translate(0, -262); paper("circle", 92, 96, skin, 77, boil)
+  ctx.fillStyle = C.ink; for (const ex of [-15, 15]) { ctx.beginPath(); ctx.arc(ex, -4, 4.5, 0, 7); ctx.fill() }
+  ink([[-12, 18], [0, 25], [12, 18]], 1, C.ink, 4, boil, 5); ctx.restore()
+  ctx.restore()
+}
+function plant(it, p, boil) {
+  const h = it.h, stem = Array.from({ length: 30 }, (_, i) => [Math.sin(i / 6) * 14, -(i / 29) * h])
+  ink(stem, clamp(p / 0.6), "#3d7a3a", 10, boil, hash(it.x))
+  for (const [k, side] of [[0.35, 1], [0.55, -1]]) {
+    const lp = clamp((p - k * 0.6) / 0.2); if (lp <= 0) continue
+    ctx.save(); ctx.translate(stem[Math.floor(k * 29)][0], -k * h); ctx.rotate(side * 0.7); ctx.scale(back(lp), back(lp))
+    ctx.translate(side * 40, 0); paper("blob", 90, 40, C.green, hash(it.x) + k * 100, boil, { edge: false }); ctx.restore()
+  }
+  const fp = clamp((p - 0.6) / 0.35); if (fp <= 0) return
+  ctx.save(); ctx.translate(stem.at(-1)[0], -h); ctx.scale(back(fp), back(fp)); ctx.rotate(q12(p) * 0.2)
+  for (let i = 0; i < 6; i++) { ctx.save(); ctx.rotate((i / 6) * Math.PI * 2); ctx.translate(0, -48); paper("blob", 56, 80, it.color, hash(it.x) + i, boil); ctx.restore() }
+  paper("circle", 58, 58, C.mustard, hash(it.x) + 50, boil, { dots: true }); ctx.restore()
+}
+function bubble(it, boil) {
+  const [tx, ty] = it.tail
+  ctx.save(); ctx.shadowColor = "rgba(40,25,10,0.25)"; ctx.shadowOffsetY = 6; ctx.shadowBlur = 8
+  ctx.fillStyle = C.white; ctx.beginPath(); ctx.moveTo(tx * 0.2 - 22, it.h * 0.3); ctx.lineTo(tx, ty); ctx.lineTo(tx * 0.2 + 22, it.h * 0.3); ctx.fill(); ctx.restore()
+  paper("cloud", it.w, it.h, C.white, hash(it.x + it.y), boil, { edge: false })
+  if (it.content === "scribble") { const r = rng(it.seed ?? 1); for (let l = 0; l < 3; l++) ink(Array.from({ length: 24 }, (_, i) => [-it.w * 0.3 + (i / 23) * it.w * (0.6 - l * 0.12), -30 + l * 30 + Math.sin(i * 1.3 + r() * 6) * 5]), 1, C.ink, 5, boil, l) }
+  else if (it.content === "heart") { ctx.save(); ctx.scale(0.9, 0.9); paper("heart", it.h * 0.55, it.h * 0.5, C.red, 41, boil); ctx.restore() }
+  else if (it.content === "star") paper("star", it.h * 0.6, it.h * 0.6, C.mustard, 42, boil)
+  else { ctx.font = `700 ${it.h * 0.7}px Hand`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillStyle = C.red; ctx.fillText(it.content, 0, 6) }
+}
+const LIB = { paper, ink, text, tape, figure, plant, bubble, rng, hash, q12, lerp, clamp, easeOut, C }
+
+// ---------- custom scene pieces (bespoke drawings are just functions) -----------------------
+function skyCycle(p, lt, boil) { // sun and moon trading places: "thousands of years"
+  const a = q12(lt) * 1.1
+  for (const [k, col, shape] of [[0, C.mustard, "circle"], [Math.PI, C.white, "circle"]]) {
+    ctx.save(); ctx.translate(960 + Math.cos(a + k) * 820, 640 - Math.sin(a + k) * 540)
+    if (col === C.mustard) for (let i = 0; i < 10; i++) { const ra = (i / 10) * Math.PI * 2 + a; ink([[Math.cos(ra) * 70, Math.sin(ra) * 70], [Math.cos(ra) * 100, Math.sin(ra) * 100]], 1, C.mustard, 8, boil, i) }
+    paper(shape, 110, 110, col, 60 + k, boil); ctx.restore()
+  }
+}
+function pavement(p, lt, boil) { for (let i = 0; i < 6; i++) { ctx.save(); ctx.translate(160 + i * 330, 930); paper("rect", 310, 130, i % 2 ? "#b9b2a6" : "#c8c1b4", 200 + i, boil, { edge: false }); ctx.restore() } }
+function ground(p, lt, boil) { ctx.save(); ctx.translate(960, 940); ctx.scale(easeOut(clamp(p * 3)), 1); paper("blob", 520, 90, "#7a5a3a", 300, boil); ctx.restore() }
+function magnifier(p, lt, boil) { // sweeps the pavement looking for the coin
+  const x = lerp(520, 1220, easeInOut(clamp(p))), y = 600 + Math.sin(p * 9) * 30
+  ctx.save(); ctx.translate(x, y); ctx.rotate(-0.5)
+  ink([[70, 70], [170, 170]], 1, "#6b4a2b", 24, boil, 1)
+  ctx.globalAlpha = 0.18; ctx.fillStyle = "#bfe3f2"; ctx.beginPath(); ctx.arc(0, 0, 95, 0, 7); ctx.fill(); ctx.globalAlpha = 1
+  ink(Array.from({ length: 41 }, (_, i) => [Math.cos(i / 40 * 7) * 100, Math.sin(i / 40 * 7) * 100]), 1, C.ink, 12, boil, 2)
+  ctx.restore()
+}
+function nightStars(p, lt, boil) { const r = rng(5); for (let i = 0; i < 26; i++) { const x = r() * W, y = r() * 600, s = 14 + r() * 26, tw = (Math.floor(lt * 3 + i) % 5) === 0 ? 0.6 : 1
+  ctx.save(); ctx.translate(x, y); ctx.scale(tw * easeOut(clamp(p * 4 - i / 13)), tw * easeOut(clamp(p * 4 - i / 13))); paper("star", s, s, i % 3 ? C.white : C.mustard, 500 + i, boil, { edge: false }); ctx.restore() } }
+
+// ---------- scene rendering -------------------------------------------------------------------
+function drawItem(s, it, t) {
+  const t0 = itemStart(s, it), len = (it.len ?? 0.6) * BEAT
+  if (t < t0) return
+  const tq = q12(t), p = clamp((tq - t0) / len), boil = Math.floor(tq / STEP / 2) // lines re-"boil" every 2 steps
+  const r = rng(hash(JSON.stringify([it.kind, it.x, it.y, it.text])))
+  ctx.save(); ctx.translate(it.x ?? 0, it.y ?? 0)
+  ctx.rotate((((it.rot ?? 0) + (rng(boil + hash(it.x))() - 0.5) * 0.8) * Math.PI) / 180) // stop-motion wobble
+  const a = it.anim ?? (it.kind === "custom" ? "none" : "pop") // custom drawings animate themselves
+  let lift = 0
+  if (a === "pop" || a === "grow") { const k = a === "pop" ? back(p) : easeOut(p); ctx.scale(Math.max(0.001, k), Math.max(0.001, k)) }
+  else if (a === "drop") { const k = bounce(p); ctx.translate(0, (1 - k) * -260); ctx.rotate((1 - k) * 0.3); lift = 1 - clamp(p * 1.4) }
+  else if (a.startsWith("slide")) { const d = { "slide-l": [-500, 0], "slide-r": [500, 0], "slide-u": [0, 400] }[a], k = easeOut(p); ctx.translate(d[0] * (1 - k), d[1] * (1 - k)) }
+  if (it.kind === "shape") paper(it.shape, it.w, it.h, it.color, hash(JSON.stringify([it.x, it.y])), boil, { dots: it.dots, lift })
+  else if (it.kind === "text") text(it, a === "write" ? easeInOut(p) : 1, boil)
+  else if (it.kind === "figure") figure(it, boil, t - t0)
+  else if (it.kind === "bubble") bubble(it, boil)
+  else if (it.kind === "plant") plant(it, a === "grow" ? p : 1, boil)
+  else if (it.kind === "ink") { // a path is one stroke (points) or several ([[points], [points]]) drawn in turn
+    ctx.translate(-(it.x ?? 0), -(it.y ?? 0)); const out = inkPaths[it.path](it), strokes = Array.isArray(out[0][0]) ? out : [out], pp = a === "draw" ? easeInOut(p) : 1
+    strokes.forEach((pts, k) => ink(pts, pp * strokes.length - k, it.color, it.width, boil, (r() * 1e6) | 0))
+    if (it.path === "arrow" && p > 0.95) arrowHead(out, it.color, it.width, boil) }
+  else if (it.kind === "custom") { ctx.translate(-(it.x ?? 0), -(it.y ?? 0)); it.draw(clamp((t - t0) / ((it.len ?? 8) * BEAT)), t - t0, boil, LIB) }
+  ctx.restore()
+}
+function drawScene(s, t) {
+  const p = clamp((t - s.start) / (s.end - s.start)), k = easeInOut(p)
+  ctx.save()
+  // One camera move per scene, smooth (the camera is not stop-motion; the paper is).
+  const cam = s.camera ?? "push"
+  if (cam === "push") { ctx.translate(W / 2, H / 2); ctx.scale(1 + 0.05 * k, 1 + 0.05 * k); ctx.translate(-W / 2, -H / 2) }
+  else if (cam === "drift") ctx.translate(lerp(20, -20, k), 0)
+  else if (cam === "tilt") { ctx.translate(W / 2, H / 2); ctx.rotate(lerp(-0.008, 0.008, k)); ctx.scale(1.03, 1.03); ctx.translate(-W / 2, -H / 2) }
+  ctx.fillStyle = s.bg; ctx.fillRect(-60, -60, W + 120, H + 120)
+  ctx.save(); ctx.globalCompositeOperation = "multiply"; ctx.globalAlpha = 0.6; ctx.fillStyle = TEX_PAT; ctx.fillRect(-60, -60, W + 120, H + 120); ctx.restore()
+  for (const it of s.items) drawItem(s, it, t)
+  ctx.restore()
+}
+function tornWipe(x0) { // leading edge of the next sheet sliding in from the right
+  const r = rng(7), path = new Path2D(); path.moveTo(W + 100, -50); path.lineTo(x0, -50)
+  for (let y = -50; y <= H + 50; y += 18) path.lineTo(x0 + (r() - 0.5) * 26 + Math.sin(y / 90) * 18, y)
+  path.lineTo(W + 100, H + 50); path.closePath(); return path
+}
+function captions(t) {
+  if (!FILM.captions) return
+  const L = N.segments.find((l) => t >= l.start && t <= l.start + l.dur + 0.4); if (!L) return
+  // Reveal whole words as they are spoken (a word appears when the voice reaches its first letter).
+  const n = L.text.length * clamp((t - L.start) / (L.dur * 0.96)), words = L.text.split(" ")
+  let pos = 0, shown = ""
+  for (const w of words) { if (pos > n) break; shown += (shown ? " " : "") + w; pos += w.length + 1 }
+  ctx.save(); ctx.font = "400 46px Print"; ctx.textAlign = "center"; ctx.textBaseline = "middle"
+  const w = ctx.measureText(L.text).width
+  ctx.translate(W / 2, H - 70); ctx.globalAlpha = 0.92
+  paper("rect", w + 70, 72, C.white, hash(L.id), Math.floor(q12(t) / STEP / 2), { edge: false })
+  ctx.fillStyle = C.ink; ctx.textAlign = "left"; ctx.fillText(shown, -w / 2, 2)
+  ctx.restore()
+}
+
+function render(t) {
+  ctx.setTransform(1, 0, 0, 1, 0, 0); ctx.clearRect(0, 0, W, H)
+  const i = FILM.scenes.findLastIndex((s) => t >= s.start), s = FILM.scenes[Math.max(0, i)]
+  if (i > 0 && t < s.start + TRANS) { // paper-sheet wipe hides the cut
+    const prev = FILM.scenes[i - 1]; drawScene(prev, prev.end - 0.001)
+    const x0 = lerp(W + 60, -80, easeInOut((t - s.start) / TRANS))
+    ctx.save(); const path = tornWipe(x0); ctx.clip(path); drawScene(s, t); ctx.restore()
+    ctx.save(); ctx.shadowColor = "rgba(0,0,0,0.35)"; ctx.shadowBlur = 24; ctx.shadowOffsetX = -8; ctx.strokeStyle = C.white; ctx.lineWidth = 8; ctx.stroke(tornWipe(x0)); ctx.restore()
+  } else drawScene(s, t)
+  captions(t)
+  // Grain + vignette + fade in/out (opens from and closes to black so it loops).
+  ctx.save(); ctx.globalCompositeOperation = "overlay"; ctx.fillStyle = GRAIN[Math.floor(q12(t) / STEP) % 4]; ctx.fillRect(0, 0, W, H); ctx.restore()
+  const v = ctx.createRadialGradient(W / 2, H / 2, H * 0.45, W / 2, H / 2, H * 1.05); v.addColorStop(0, "rgba(0,0,0,0)"); v.addColorStop(1, "rgba(30,18,8,0.45)")
+  ctx.fillStyle = v; ctx.fillRect(0, 0, W, H)
+  const fade = Math.max(1 - clamp(t / (BEAT * 1.5)), clamp((t - (DURATION - BEAT * 3)) / (BEAT * 2.5)))
+  if (fade > 0) { ctx.fillStyle = `rgba(0,0,0,${easeInOut(fade)})`; ctx.fillRect(0, 0, W, H) }
+}
+
+// ---------- checks + cues ----------------------------------------------------------------------
+function check() {
+  const warn = []
+  if (N.placeholder) warn.push("narration is PLACEHOLDER silence with estimated timing: re-run tts.mjs with OmniVoice before the final render")
+  FILM.scenes.forEach((s, i) => s.items.forEach((it, k) => {
+    try { const t0 = itemStart(s, it); if (t0 > s.end - BEAT) warn.push(`scene ${i} item ${k} (${it.kind}) appears in the last beat of its scene`) } catch (e) { warn.push(e.message) }
+  }))
+  if (DURATION < 30 || DURATION > 60) warn.push(`duration ${DURATION}s is outside 30–60 s`)
+  return warn
+}
+function cues() {
+  const c = [], r3 = (x) => Math.round(x * 1000) / 1000
+  FILM.scenes.forEach((s, i) => {
+    if (i > 0) c.push({ t: r3(s.start), sfx: "paper", len: 0.45 })
+    for (const it of s.items) {
+      const t0 = itemStart(s, it)
+      if (it.anim === "write" || it.anim === "draw") c.push({ t: r3(t0), sfx: "scribble", len: r3((it.len ?? 0.6) * BEAT) })
+      else if (it.kind !== "custom" && ["pop", "drop", "grow"].includes(it.anim ?? "pop")) c.push({ t: r3(t0 + (it.anim === "drop" ? 0.6 * (it.len ?? 0.6) * BEAT : 0)), sfx: "pop" })
+    }
+    if (s.end === DURATION && s.end) c.push({ t: r3(s.L.start + s.L.dur), sfx: "chime" })
+  })
+  return { bpm: N.bpm, duration: DURATION, mood: FILM.mood, key: FILM.key, fadeOut: r3(BEAT * 3), cues: c.sort((a, b) => a.t - b.t) }
+}
+
+await document.fonts.load("700 100px Hand"); await document.fonts.load("400 40px Print"); await document.fonts.ready
+window.SCENE = { width: W, height: H, fps: FILM.fps, duration: DURATION, ready: Promise.resolve(), render, check, cues }
+if (P.has("t")) render(Number(P.get("t")))
+</script>
+</body>
+</html>

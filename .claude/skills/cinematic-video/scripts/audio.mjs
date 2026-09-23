@@ -8,11 +8,11 @@
 // {
 //   "bpm": 100, "duration": 30, "sampleRate": 48000,
 //   "key": "D",                       // root of the pad chord progression
-//   "mood": "minimal",                // minimal | driving | ambient
+//   "mood": "minimal",                // minimal | driving | ambient (cinematic minor) | whimsical (major, plucks)
 //   "fadeOut": 2.4,                   // seconds, ends on silence so the film loops
 //   "cues": [ { "t": 2.4, "sfx": "boom" }, { "t": 7.2, "sfx": "whoosh", "len": 0.6 }, ... ]
 // }
-// sfx: boom | whoosh | chime | tick | riser (riser ends exactly at t)
+// sfx: boom | whoosh | chime | tick | riser (riser ends exactly at t) | pop | paper | scribble (len = seconds)
 
 import fs from "node:fs"
 
@@ -51,7 +51,7 @@ const mood = spec.mood ?? "minimal"
 const bars = Math.ceil(DUR / (BEAT * 4))
 // i - VI - III - VII (minor, cinematic, resolves nowhere so it can loop)
 const progression = [[0, 3, 7], [-4, 0, 3], [3, 7, 10], [-2, 2, 5]]
-for (let bar = 0; bar < bars; bar++) {
+for (let bar = 0; bar < bars && mood !== "whimsical"; bar++) {
   const chord = progression[bar % progression.length]
   const t0 = bar * BEAT * 4
   const len = BEAT * 4
@@ -81,7 +81,38 @@ const hat = (t0, gain = 0.05) => {
     add(Math.floor((t0 + t) * SR), gain * (rand() * 2 - 1) * Math.exp(-t * 90))
   }
 }
-if (mood !== "ambient") {
+// Plucked mallet voice (marimba-ish): sine + 4th partial, fast decay. Used by the whimsical bed.
+const pluck = (t0, semi, gain, decay = 7, panL = 1, panR = 1) => {
+  const f = hz(root + 12 + semi)
+  for (let s = 0; s < 1.2 * SR; s++) {
+    const t = s / SR
+    const v = gain * (Math.sin(TAU * f * t) + 0.25 * Math.sin(TAU * 4 * f * t) * Math.exp(-t * 30)) * Math.exp(-t * decay) * Math.min(1, t * 400)
+    add(Math.floor((t0 + t) * SR), v * panL, v * panR)
+  }
+}
+if (mood === "whimsical") {
+  // I - vi - IV - V in major; bass on 1, off-beat chord plucks, shaker, and a seeded pentatonic melody.
+  const chords = [[0, 4, 7], [-3, 0, 4], [-7, -3, 0], [-5, -1, 2]]
+  const penta = [0, 2, 4, 7, 9, 12, 14, 16]
+  let step = 3
+  for (let bar = 0; bar < bars; bar++) {
+    const ch = chords[bar % 4], t0 = bar * BEAT * 4
+    pluck(t0, ch[0] - 12, 0.22, 3)
+    pluck(t0 + BEAT * 2, ch[0] - 5, 0.14, 3)
+    for (let q = 0; q < 4; q++) ch.forEach((n, k) => pluck(t0 + q * BEAT + BEAT / 2, n + 12, 0.035, 9, k === 0 ? 1 : 0.6, k === 2 ? 1 : 0.6))
+    for (let e = 0; e < 8; e++) {
+      if (bar % 8 >= 6 || rand() < 0.35) continue // phrases breathe; two bars in eight rest
+      step = Math.max(0, Math.min(penta.length - 1, step + Math.round((rand() - 0.5) * 3)))
+      pluck(t0 + e * BEAT / 2, penta[step] + 12, 0.07, 6, 0.7, 1)
+    }
+  }
+  for (let b = 0; b * BEAT / 2 < DUR; b++) {
+    for (let s = 0; s < 0.04 * SR; s++) {
+      const t = s / SR
+      add(Math.floor((b * BEAT / 2 + t) * SR), (b % 2 ? 0.03 : 0.018) * (rand() * 2 - 1) * Math.exp(-t * 120))
+    }
+  }
+} else if (mood !== "ambient") {
   for (let b = 0; b * BEAT < DUR; b++) {
     const t = b * BEAT
     if (mood === "driving" || b % 2 === 0) kick(t, 0.35)
@@ -126,6 +157,33 @@ const SFX = {
       add(Math.floor((t0 + t) * SR), 0.15 * Math.sin(TAU * 2200 * t) * Math.exp(-t * 200))
     }
   },
+  pop(t0) {
+    // Cut-paper element landing: short pitched blip.
+    for (let s = 0; s < 0.08 * SR; s++) {
+      const t = s / SR
+      add(Math.floor((t0 + t) * SR), 0.18 * Math.sin(TAU * (900 - 5000 * t) * t) * Math.exp(-t * 60))
+    }
+  },
+  paper(t0, len = 0.35) {
+    // Paper rustle / slide: crackly noise with random amplitude grains.
+    let g = 0
+    for (let s = 0; s < len * SR; s++) {
+      const t = s / SR, x = t / len
+      if (s % 240 === 0) g = rand() ** 3
+      add(Math.floor((t0 + t) * SR), 0.22 * Math.sin(Math.PI * x) * g * (rand() * 2 - 1))
+    }
+  },
+  scribble(t0, len = 0.8) {
+    // Pencil on paper: band-limited noise, amplitude wobbling at stroke rate.
+    let lp = 0, hp = 0
+    for (let s = 0; s < len * SR; s++) {
+      const t = s / SR
+      const n = rand() * 2 - 1
+      lp += 0.35 * (n - lp); hp = n - lp
+      const stroke = 0.5 + 0.5 * Math.sin(TAU * 7 * t + 2 * Math.sin(TAU * 1.3 * t))
+      add(Math.floor((t0 + t) * SR), 0.06 * hp * stroke * Math.min(1, t * 20, (len - t) * 20))
+    }
+  },
   riser(tEnd, len = BEAT * 4) {
     let lp = 0
     for (let s = 0; s < len * SR; s++) {
@@ -138,7 +196,7 @@ const SFX = {
 for (const c of spec.cues ?? []) {
   if (!SFX[c.sfx]) throw new Error(`unknown sfx "${c.sfx}" at ${c.t}`)
   const half = (2 * c.t) / BEAT, onGrid = Math.abs(half - Math.round(half)) < 1e-3 // beats and half-beats
-  if (!onGrid && c.sfx !== "whoosh") console.warn(`warning: ${c.sfx} at ${c.t}s is off the half-beat grid (beat = ${BEAT}s)`)
+  if (!onGrid && !["whoosh", "paper", "scribble"].includes(c.sfx)) console.warn(`warning: ${c.sfx} at ${c.t}s is off the half-beat grid (beat = ${BEAT}s)`)
   SFX[c.sfx](c.t, c.len)
 }
 

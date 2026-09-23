@@ -1,0 +1,19 @@
+{
+  "language": "English",
+  "voice": { "instruct": "female, middle-aged, low pitch, british accent" },
+  "speed": 0.95,
+  "seed": 7,
+  "bpm": 90,
+  "leadIn": 1.3,
+  "gapBeats": 1,
+  "tail": 3.5,
+  "segments": [
+    { "id": "s1", "text": "What is the purpose of life?" },
+    { "id": "s2", "text": "For thousands of years, philosophers, poets and prophets have tried to answer it." },
+    { "id": "s3", "text": "Some said happiness. Some said duty. Others said faith, or leaving something behind." },
+    { "id": "s4", "text": "But maybe purpose isn't something you find, like a coin on the pavement." },
+    { "id": "s5", "text": "Maybe it's something you make, a little at a time." },
+    { "id": "s6", "text": "A kind word. A seed in the ground. A question asked out loud." },
+    { "id": "s7", "text": "So, what is the purpose of life? Perhaps it's this: to make it mean something." }
+  ]
+}
