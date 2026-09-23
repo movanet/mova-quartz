@@ -2,7 +2,8 @@
 // Encode rendered PNG frames + WAV into a social-ready H.264 MP4.
 // Uses system ffmpeg, or ffmpeg-static from node_modules if none is installed.
 //
-// Usage: node encode.mjs --frames ./frames --audio music.wav --fps 30 --out film.mp4
+// Usage: node encode.mjs --frames ./frames --audio music.wav --fps 30 --out film.mp4 [--crf 16]
+// CRF 16 suits clean 3D renders; grainy/textured 2D (the collage style) looks the same at ~20 and is half the size.
 
 import { spawnSync } from "node:child_process"
 import { createRequire } from "node:module"
@@ -14,6 +15,7 @@ const frames = path.resolve(arg("frames", "frames"))
 const audio = arg("audio")
 const fps = arg("fps", "30")
 const out = arg("out", "film.mp4")
+const crf = arg("crf", "16")
 
 let ffmpeg = "ffmpeg"
 if (spawnSync("ffmpeg", ["-version"]).status !== 0) {
@@ -29,7 +31,7 @@ const cmd = [
   "-y", "-framerate", fps, "-i", path.join(frames, "%05d.png"),
   ...(audio ? ["-i", audio] : []),
   // yuv420p + even dimensions + faststart = plays everywhere (iOS, Reels, TikTok, Shorts)
-  "-c:v", "libx264", "-preset", "slow", "-crf", "16", "-pix_fmt", "yuv420p",
+  "-c:v", "libx264", "-preset", "slow", "-crf", crf, "-pix_fmt", "yuv420p",
   "-profile:v", "high", "-movflags", "+faststart", "-r", fps,
   ...(audio ? ["-c:a", "aac", "-b:a", "256k", "-shortest"] : []),
   out,

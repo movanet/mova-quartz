@@ -44,12 +44,12 @@ Both use `references/prompt-template.md` (brief A or B) and `references/audio.md
    - Render: `render.mjs --cues cues.json` (full).
    - Music: `audio.mjs --cues cues.json --out music.wav`.
    - Mode B mix: `mix.mjs --narration narration/narration.json --music music.wav --out mix.wav`.
-   - Encode: `encode.mjs --frames frames --audio (music|mix).wav --out film.mp4`.
+   - Encode: `encode.mjs --frames frames --audio (music|mix).wav --out film.mp4` (add `--crf 20` for Mode B).
    - Verify: duration, fps, size and audio stream, a few extracted frames, and no `CHECK:` warnings. Deliver the MP4, a poster frame, the shot list or script, and a short decision report.
 
 Budget (measured on SwiftShader with no GPU):
 - **Mode A:** a 30 s film took ~28 min at `--ss 1`, and `--ss 2` takes 2–3× that.
-- **Mode B:** Canvas 2D is much cheaper, with a 42 s film taking about 10 min.
+- **Mode B:** the 42 s collage film took ~35 min (≈1.6 s/frame, mostly screenshot cost). Encode it with `--crf 20`, because the paper grain doubles the bitrate at CRF 16.
 - **Stills:** about 2 s each.
 
 Run full renders in the background and split long ones across processes with `--from/--to`.

@@ -37,7 +37,7 @@ const FILM = {
   scenes: [
     { line: "s1", bg: C.cream, camera: "push", items: [
       { kind: "text", text: "What is the purpose", x: 900, y: 300, size: 150, color: C.ink, anim: "write", at: 0, len: 2.5 },
-      { kind: "text", text: "of life?", x: 900, y: 510, size: 200, color: C.red, cutout: true, anim: "drop", at: "@life", len: 1 },
+      { kind: "text", text: "of life?", x: 900, y: 510, size: 200, color: C.red, cutout: true, anim: "pop", at: "@life", len: 0.8 },
       { kind: "shape", shape: "star", x: 250, y: 170, w: 90, h: 90, color: C.mustard, anim: "pop", at: 0.5 },
       { kind: "shape", shape: "star", x: 1650, y: 190, w: 70, h: 70, color: C.pink, anim: "pop", at: 1 },
       { kind: "shape", shape: "star", x: 330, y: 760, w: 50, h: 50, color: C.teal, anim: "pop", at: 1.5 },
@@ -73,8 +73,8 @@ const FILM = {
       { kind: "shape", shape: "rect", x: 1150, y: 700, w: 320, h: 150, color: C.teal, anim: "drop", at: 2.5 },
       { kind: "shape", shape: "tri", x: 1150, y: 545, w: 400, h: 170, color: C.navy, anim: "drop", at: 3.5 },
       { kind: "shape", shape: "heart", x: 1150, y: 700, w: 80, h: 70, color: C.pink, anim: "pop", at: "@time" },
-      { kind: "text", text: "make", x: 1150, y: 300, size: 150, color: C.ink, anim: "write", at: "@make", len: 1.2 },
-      { kind: "ink", path: "underline", x: 1150, y: 345, w: 300, color: C.red, width: 9, anim: "draw", at: 2, len: 0.8 },
+      { kind: "text", text: "make", x: 620, y: 300, size: 150, color: C.ink, anim: "write", at: "@make", len: 1.2 },
+      { kind: "ink", path: "underline", x: 620, y: 345, w: 300, color: C.red, width: 9, anim: "draw", at: 2, len: 0.8 },
     ] },
     { line: "s6", bg: C.cream, camera: "push", items: [
       { kind: "bubble", x: 400, y: 420, w: 330, h: 220, tail: [60, 170], content: "heart", anim: "pop", at: "@kind" },
