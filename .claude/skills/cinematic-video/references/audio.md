@@ -16,7 +16,7 @@
   - `chime`: FM bells on root + 5th + octave. Use it on the logo.
   - `tick`: a 2.2 kHz click. Use it on taps and highlights.
   - `riser`: noise with a rising filter that *ends* at `t`. Use it before the reveal.
-- **Master:** a 20 ms fade-in, a fade-out of `fadeOut` seconds to digital silence (so the film loops), tanh soft-clip, and 16-bit 48 kHz stereo output.
+- **Master:** a 20 ms fade-in, a fade-out of `fadeOut` seconds to digital silence (so the film loops), gentle tanh soft-clip, peak normalisation to −1 dBFS, and 16-bit 48 kHz stereo output.
 - `SCENE.cues()` in the template derives cues from the shot list, so the picture and sound can't drift apart. Add custom cues by editing `cues()` rather than hand-writing times.
 - It's deterministic: a seeded mulberry32 PRNG, so the same cues always produce a byte-identical WAV.
 

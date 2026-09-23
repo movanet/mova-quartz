@@ -69,7 +69,7 @@ Put at most one UI event per 2 beats, and start the first one at least 1.5 beats
 - Sizes at 1080 wide: hero name 120–140 px, feature title 84–96 px, tagline 60–68 px, CTA 36–42 px.
 - Colours: line 1 #ffffff, line 2 #86868b, key word in the brand colour (one per title, marked as `*word*`). If the brand colour is dark (luminance < 0.25), use a lighter tint of it for the key word so it stays legible on black.
 - Entrance: opacity 0→1, translateY 40→0 px, blur 14→0 px, expo-out over 1.2 beats, starting 1 beat after the shot starts (2 beats on the hero, after the reveal). Exit: fade + blur over 1 beat, ending 0.5 beat before the cut.
-- Copy: at most 22 characters per line. Line 1 is the benefit ("Plan in seconds."), line 2 is how ("Just type what you need."). End with full stops, not exclamation marks.
+- Copy: at most 22 characters per line. Line 1 is the benefit ("Plan in seconds."), line 2 is how ("Just type it."). End with full stops, not exclamation marks.
 
 ## 6. Safe areas and formats
 

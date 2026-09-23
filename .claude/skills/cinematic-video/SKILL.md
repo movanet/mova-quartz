@@ -60,7 +60,7 @@ That comes to 50 beats = 30.0 s. For 15 s, keep 1 feature and shorten the hero. 
 ## Scripts
 
 - `scripts/render.mjs`: static server + headless Chromium. It runs the page's `SCENE.render(t)` for each frame and saves PNG screenshots. Flags: `--from/--to/--every/--stills/--ss/--cues`. It prints `CHECK:` warnings from `SCENE.check()`.
-- `scripts/audio.mjs`: `cues.json` → stereo 48 kHz WAV. The bed (pad chords, kick, hats) is locked to the BPM, with SFX `boom | whoosh | chime | tick | riser`. Moods: `minimal | driving | ambient`. It warns about any hit that falls off the beat.
+- `scripts/audio.mjs`: `cues.json` → stereo 48 kHz WAV. The bed (pad chords, kick, hats) is locked to the BPM, with SFX `boom | whoosh | chime | tick | riser`. Moods: `minimal | driving | ambient`. It warns about any hit that falls off the half-beat grid.
 - `scripts/encode.mjs`: frames + WAV → H.264 High, CRF 16, yuv420p, AAC 256k, `+faststart`. Uses system ffmpeg, or `ffmpeg-static` if that's missing.
 - `templates/scene.html`: a complete phone product film (a procedural titanium phone, or the user's GLB via `FILM.model`) with a light-strip env map, a canvas screen texture with UI animations, beat-based shots, titles, fan and logo end card, subframe motion blur, 2× supersampling, `check()` and `cues()`. Scrub any frame in a browser with `scene.html?t=6.3&guides=1&ss=1`.
 
