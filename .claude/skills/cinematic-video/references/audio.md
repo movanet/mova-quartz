@@ -44,4 +44,3 @@
   - The music is sidechain-compressed by the voice: threshold 0.02, ratio 8, attack 60 ms, release 600 ms. That ducks it roughly 12 dB while someone speaks, and it swells back in the pauses.
   - The mix is loudness-normalised to −14 LUFS / −1 dBTP.
 - Check intelligibility on laptop speakers as well as headphones. If the melody fights the voice, lower the music (`volume=` in `mix.mjs`) or use `mood: "ambient"`.
-
