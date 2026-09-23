@@ -1,0 +1,393 @@
+<!doctype html>
+<!--
+  Product film scene template (three.js). Copy next to your assets, edit FILM, then:
+    node scripts/render.mjs --scene scene.html --out frames --cues cues.json
+    node scripts/audio.mjs  --cues cues.json --out music.wav
+    node scripts/encode.mjs --frames frames --audio music.wav --out film.mp4
+  Open http://.../scene.html?t=4.2&guides=1 in a browser to scrub a single frame.
+-->
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+  @font-face {
+    font-family: "Display";
+    font-weight: 600;
+    /* Drop InterDisplay-SemiBold.woff2 (rsms.me/inter) in ./fonts; falls back to @fontsource/inter */
+    src: url("fonts/InterDisplay-SemiBold.woff2") format("woff2"),
+         url("node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2") format("woff2");
+  }
+  html, body { margin: 0; background: #000; overflow: hidden; }
+  #stage { position: relative; background: #000; overflow: hidden; }
+  #stage canvas { position: absolute; inset: 0; }
+  .title {
+    position: absolute; left: 0; right: 0; text-align: center;
+    font-family: "Display", "Inter", system-ui, sans-serif; font-weight: 600;
+    letter-spacing: -0.025em; line-height: 1.04; color: #fff; will-change: transform, filter, opacity;
+  }
+  .title .l2 { color: #86868b; display: block; }
+  .title { padding: 0 64px; } /* keep lines ≤ ~22 characters at 90px or they wrap */
+  .title .key { color: var(--brand); }
+  #fade { position: absolute; inset: 0; background: #000; opacity: 0; }
+  .guide { position: absolute; left: 0; right: 0; border: 2px dashed; pointer-events: none; font: 20px monospace; }
+</style>
+</head>
+<body>
+<div id="stage"></div>
+<script type="importmap">
+  { "imports": {
+      "three": "./node_modules/three/build/three.module.js",
+      "three/addons/": "./node_modules/three/examples/jsm/"
+  } }
+</script>
+<script type="module">
+import * as THREE from "three"
+import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js"
+
+// ============================================================================
+// FILM — the only part you normally edit
+// ============================================================================
+const FILM = {
+  width: 1080, height: 1920, fps: 30,
+  bpm: 100,                               // beat = 0.6s; every shot length is in beats
+  brand: "#0A84FF",
+  appName: "Appname",
+  tagline: ["Your day,", "*finally* organised."],
+  stores: "Free on App Store / Google Play",
+  logo: null,                             // e.g. "brand/logo.png" (square, transparent)
+  model: null,                            // e.g. "models/phone.glb"; null = procedural phone
+  screenMesh: "Screen",                   // mesh name in the GLB whose material gets the UI texture
+  screens: ["screens/01.png", "screens/02.png", "screens/03.png", "screens/04.png"],
+  // Titles: [line1, line2]. Wrap the key word in *asterisks* to paint it in the brand color.
+  // ui: timed overlays drawn INTO the screen canvas (the screenshot itself is never altered)
+  //   highlight {rect:[x,y,w,h] as 0..1 of the screenshot, at, len}   reveal {at, len}
+  //   type {rect, text, at, cps, size, color, bg}                        tap {x, y, at}
+  // `at` / `len` are in beats from the shot start.
+  shots: [
+    { type: "coldopen", beats: 4 },
+    { type: "hero",     beats: 8, screen: 0, title: ["*Appname*"], camera: "push" },
+    { type: "feature",  beats: 8, screen: 1, camera: "orbit", angle: -0.3,
+      title: ["Plan in *seconds*.", "Just type what you need."],
+      ui: [{ type: "type", rect: [0.08, 0.14, 0.84, 0.05], text: "Lunch with Sam, Friday 1pm", at: 2, cps: 18 }] },
+    { type: "feature",  beats: 8, screen: 2, camera: "rise", angle: 0.3,
+      title: ["See what *matters*.", "Everything else can wait."],
+      ui: [{ type: "highlight", rect: [0.06, 0.32, 0.88, 0.14], at: 2.5, len: 4 }] },
+    { type: "feature",  beats: 8, screen: 3, camera: "push", angle: -0.25,
+      title: ["*Shared* lists.", "Built for the whole family."],
+      ui: [{ type: "reveal", at: 1.5, len: 3 }, { type: "tap", x: 0.5, y: 0.62, at: 5 }] },
+    { type: "fan",      beats: 6, screens: [1, 0, 2] },
+    { type: "logo",     beats: 8 },
+  ],
+}
+// ============================================================================
+
+const P = new URLSearchParams(location.search)
+const BEAT = 60 / FILM.bpm
+const W = FILM.width, H = FILM.height
+let acc = 0
+for (const s of FILM.shots) { s.start = acc * BEAT; s.dur = s.beats * BEAT; acc += s.beats }
+const DURATION = acc * BEAT
+const TURN = Math.PI * 2
+
+// ---------- math -------------------------------------------------------------
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x))
+const lerp = (a, b, x) => a + (b - a) * x
+const seg = (t, a, len) => clamp((t - a) / len)
+const easeIn = (x) => x * x * x
+const easeOut = (x) => 1 - (1 - x) ** 3
+const easeInOut = (x) => (x < 0.5 ? 4 * x * x * x : 1 - (-2 * x + 2) ** 3 / 2)
+const expoOut = (x) => (x >= 1 ? 1 : 1 - 2 ** (-10 * x))
+const shotAt = (t) => {
+  for (let i = FILM.shots.length - 1; i >= 0; i--) if (t >= FILM.shots[i].start) return i
+  return 0
+}
+
+// ---------- renderer, env map of light strips --------------------------------
+const stage = document.getElementById("stage")
+stage.style.width = W + "px"; stage.style.height = H + "px"
+document.documentElement.style.setProperty("--brand", FILM.brand)
+// Anti-aliasing by supersampling (render SSx, downscale on composite). Hardware MSAA is avoided:
+// SwiftShader's MSAA leaves seams along triangle edges. ?ss=1 for fast previews.
+const SS = Number(P.get("ss") ?? 2)
+const renderer = new THREE.WebGLRenderer({ antialias: false, preserveDrawingBuffer: true, alpha: false })
+renderer.setPixelRatio(1)
+renderer.setSize(W * SS, H * SS, false)
+renderer.toneMapping = THREE.ACESFilmicToneMapping
+renderer.toneMappingExposure = 1.0
+renderer.outputColorSpace = THREE.SRGBColorSpace
+// Visible canvas: motion-blur accumulation target (2D), fed from the WebGL canvas.
+const out = document.createElement("canvas")
+out.width = W; out.height = H
+stage.appendChild(out)
+const octx = out.getContext("2d")
+octx.imageSmoothingQuality = "high"
+
+const scene = new THREE.Scene()
+scene.background = new THREE.Color(0x000000)
+{
+  const env = new THREE.Scene()
+  const strip = (color, intensity, w, h, pos) => {
+    const m = new THREE.Mesh(new THREE.PlaneGeometry(w, h),
+      new THREE.MeshBasicMaterial({ color: new THREE.Color(color).multiplyScalar(intensity), side: THREE.DoubleSide }))
+    m.position.set(...pos); m.lookAt(0, 0, 0); env.add(m)
+  }
+  strip("#ffb070", 6, 1.2, 9, [-5, 1, -4])   // warm rim, behind-left
+  strip("#7fb4ff", 6, 1.2, 9, [5, 1, -4])    // cool rim, behind-right
+  strip("#ffffff", 3, 6, 1.5, [0, 6, 1.5])   // soft top key
+  strip("#ffffff", 0.35, 3, 3, [0, 0, 7])    // faint front fill so glass isn't dead black
+  const pmrem = new THREE.PMREMGenerator(renderer)
+  scene.environment = pmrem.fromScene(env, 0.02).texture
+}
+const camera = new THREE.PerspectiveCamera(30, W / H, 0.1, 50)
+
+// ---------- screen canvases (UI animation lives here) ------------------------
+const screenImgs = await Promise.all(FILM.screens.map((src) => new Promise((res, rej) => {
+  const i = new Image(); i.onload = () => res(i); i.onerror = () => rej(new Error("missing " + src)); i.src = src
+})))
+const SCR_W = 1179, SCR_H = 2556 // iPhone-class display aspect; screenshot is cover-fitted, never redrawn
+const makeScreen = () => {
+  const c = document.createElement("canvas"); c.width = SCR_W; c.height = SCR_H
+  const tex = new THREE.CanvasTexture(c)
+  tex.colorSpace = THREE.SRGBColorSpace; tex.anisotropy = 8; tex.flipY = true
+  return { c, ctx: c.getContext("2d"), tex }
+}
+const rrect = (ctx, x, y, w, h, r) => { ctx.beginPath(); ctx.roundRect(x, y, w, h, r) }
+function drawScreen(scr, imgIndex, shot, local) {
+  const { ctx } = scr, img = screenImgs[imgIndex % screenImgs.length]
+  ctx.clearRect(0, 0, SCR_W, SCR_H)
+  ctx.save()
+  rrect(ctx, 0, 0, SCR_W, SCR_H, SCR_W * 0.14); ctx.clip()
+  ctx.fillStyle = "#000"; ctx.fillRect(0, 0, SCR_W, SCR_H)
+  const s = Math.max(SCR_W / img.width, SCR_H / img.height)
+  ctx.imageSmoothingQuality = "high"
+  ctx.drawImage(img, (SCR_W - img.width * s) / 2, (SCR_H - img.height * s) / 2, img.width * s, img.height * s)
+  const b = local / BEAT
+  for (const u of shot?.ui ?? []) {
+    const p = seg(b, u.at, u.len ?? 1)
+    if (b < u.at) { if (u.type === "reveal") { ctx.fillStyle = "#000"; ctx.fillRect(0, 0, SCR_W, SCR_H) } continue }
+    const R = u.rect && [u.rect[0] * SCR_W, u.rect[1] * SCR_H, u.rect[2] * SCR_W, u.rect[3] * SCR_H]
+    if (u.type === "highlight") {
+      const a = easeInOut(clamp(p * 4)) * (1 - easeInOut(clamp((p - 0.85) / 0.15)))
+      ctx.save(); ctx.globalAlpha = a * 0.55; ctx.fillStyle = "#000"
+      ctx.beginPath(); ctx.rect(0, 0, SCR_W, SCR_H); ctx.roundRect(...R, 36); ctx.fill("evenodd"); ctx.restore()
+      ctx.save(); ctx.globalAlpha = a; ctx.strokeStyle = FILM.brand; ctx.lineWidth = 8
+      ctx.shadowColor = FILM.brand; ctx.shadowBlur = 40; rrect(ctx, ...R, 36); ctx.stroke(); ctx.restore()
+    } else if (u.type === "reveal") {
+      // Soft-edged wipe top→bottom: content appears as if it's loading in.
+      const y = lerp(-0.1, 1.1, easeInOut(p)) * SCR_H, g = ctx.createLinearGradient(0, y - 120, 0, y + 120)
+      g.addColorStop(0, "rgba(0,0,0,0)"); g.addColorStop(1, "rgba(0,0,0,1)")
+      ctx.fillStyle = g; ctx.fillRect(0, y - 120, SCR_W, SCR_H)
+    } else if (u.type === "type") {
+      const n = Math.floor((b - u.at) * BEAT * (u.cps ?? 16))
+      const size = u.size ?? R[3] * 0.55
+      ctx.fillStyle = u.bg ?? "#fff"; rrect(ctx, ...R, R[3] / 2.5); ctx.fill()
+      ctx.fillStyle = u.color ?? "#111"; ctx.font = `500 ${size}px Display, system-ui`; ctx.textBaseline = "middle"
+      const txt = u.text.slice(0, n), tx = R[0] + size * 0.8, ty = R[1] + R[3] / 2
+      ctx.fillText(txt, tx, ty)
+      if (Math.floor(local / (BEAT / 2)) % 2 === 0 || n < u.text.length) {
+        ctx.fillStyle = FILM.brand; ctx.fillRect(tx + ctx.measureText(txt).width + 4, ty - size * 0.6, 5, size * 1.2)
+      }
+    } else if (u.type === "tap") {
+      const q = seg(b, u.at, 1.2)
+      if (q > 0 && q < 1) {
+        ctx.save(); ctx.globalAlpha = 0.5 * (1 - q); ctx.fillStyle = "#fff"
+        ctx.beginPath(); ctx.arc(u.x * SCR_W, u.y * SCR_H, 40 + 140 * easeOut(q), 0, TURN); ctx.fill(); ctx.restore()
+      }
+    }
+  }
+  ctx.restore()
+  scr.tex.needsUpdate = true
+}
+
+// ---------- phone: GLB or procedural titanium + glass ------------------------
+const titanium = new THREE.MeshPhysicalMaterial({ color: 0x8a8a8f, metalness: 1, roughness: 0.32, clearcoat: 0.3 })
+const glass = new THREE.MeshPhysicalMaterial({ color: 0x050506, metalness: 0, roughness: 0.04, clearcoat: 1, clearcoatRoughness: 0.02 })
+const backGlass = new THREE.MeshPhysicalMaterial({ color: 0x2a2a2e, metalness: 0.2, roughness: 0.45, clearcoat: 0.6 })
+const PW = 0.715, PH = 1.47, PD = 0.0825, PR = 0.105
+let template = null
+if (FILM.model) {
+  const gltf = await new GLTFLoader().loadAsync(FILM.model)
+  template = gltf.scene
+  // Normalise any model to our phone height so cameras below stay valid.
+  const box = new THREE.Box3().setFromObject(template), size = box.getSize(new THREE.Vector3())
+  template.scale.multiplyScalar(PH / size.y)
+  template.position.sub(box.getCenter(new THREE.Vector3()).multiplyScalar(PH / size.y))
+}
+function buildPhone() {
+  const g = new THREE.Group(), scr = makeScreen()
+  if (template) {
+    const m = template.clone(true); let found = false
+    m.traverse((o) => { if (o.isMesh && o.name === FILM.screenMesh) {
+      o.material = new THREE.MeshBasicMaterial({ map: scr.tex, toneMapped: false }); found = true } })
+    if (!found) console.error(`screen mesh "${FILM.screenMesh}" not found in ${FILM.model}`)
+    g.add(m)
+  } else {
+    const shape = new THREE.Shape(), x = -PW / 2, y = -PH / 2
+    shape.moveTo(x + PR, y); shape.lineTo(x + PW - PR, y); shape.quadraticCurveTo(x + PW, y, x + PW, y + PR)
+    shape.lineTo(x + PW, y + PH - PR); shape.quadraticCurveTo(x + PW, y + PH, x + PW - PR, y + PH)
+    shape.lineTo(x + PR, y + PH); shape.quadraticCurveTo(x, y + PH, x, y + PH - PR)
+    shape.lineTo(x, y + PR); shape.quadraticCurveTo(x, y, x + PR, y)
+    const bev = 0.012
+    const geo = new THREE.ExtrudeGeometry(shape, { depth: PD - 2 * bev, bevelEnabled: true, bevelThickness: bev,
+      bevelSize: bev * 0.9, bevelSegments: 8, curveSegments: 48 })
+    geo.translate(0, 0, -(PD - 2 * bev) / 2)
+    const body = new THREE.Mesh(geo, [glass, titanium]); g.add(body)
+    const back = new THREE.Mesh(new THREE.PlaneGeometry(PW - 0.04, PH - 0.04), backGlass)
+    back.position.z = -PD / 2 - 0.0005; back.rotation.y = Math.PI; g.add(back)
+    // Camera plateau + lenses so the back reads as a back while spinning.
+    const plateau = new THREE.Mesh(new THREE.BoxGeometry(0.3, 0.3, 0.012), backGlass)
+    plateau.position.set(PW / 2 - 0.2, PH / 2 - 0.2, -PD / 2 - 0.006); g.add(plateau)
+    for (const [dx, dy] of [[-0.07, 0.07], [-0.07, -0.07], [0.07, 0]]) {
+      const lens = new THREE.Mesh(new THREE.CylinderGeometry(0.052, 0.056, 0.03, 48), [titanium, glass, glass])
+      lens.rotation.x = Math.PI / 2
+      lens.position.set(PW / 2 - 0.2 + dx, PH / 2 - 0.2 + dy, -PD / 2 - 0.02); g.add(lens)
+    }
+    const screen = new THREE.Mesh(new THREE.PlaneGeometry(PW - 0.05, PH - 0.05),
+      new THREE.MeshBasicMaterial({ map: scr.tex, transparent: true, toneMapped: false }))
+    screen.position.z = PD / 2 + 0.002; g.add(screen)
+  }
+  scene.add(g)
+  return { g, scr }
+}
+const phones = [buildPhone(), buildPhone(), buildPhone()]
+
+// ---------- DOM titles --------------------------------------------------------
+const fmt = (s) => s.replace(/\*(.+?)\*/g, '<span class="key">$1</span>')
+const titles = FILM.shots.map((s) => {
+  if (!s.title && s.type !== "logo") return null
+  const el = document.createElement("div"); el.className = "title"
+  if (s.type === "logo") {
+    el.style.top = "700px"
+    el.innerHTML = (FILM.logo ? `<img src="${FILM.logo}" style="width:220px;height:220px;display:block;margin:0 auto 48px">`
+      : `<div style="width:220px;height:220px;border-radius:50px;margin:0 auto 48px;background:var(--brand)"></div>`)
+      + `<div style="font-size:110px">${fmt(FILM.appName)}</div>`
+      + `<div class="tag" style="font-size:64px;margin-top:40px">${fmt(FILM.tagline[0])}<span class="l2">${fmt(FILM.tagline[1] ?? "")}</span></div>`
+      + `<div class="stores" style="font-size:40px;color:#86868b;margin-top:90px;letter-spacing:0">${FILM.stores}</div>`
+  } else {
+    el.style.top = "250px" // title band: y 230–450px, clear of Reels/TikTok/Shorts UI
+    el.style.fontSize = (s.type === "hero" ? 130 : 90) + "px"
+    el.innerHTML = fmt(s.title[0]) + (s.title[1] ? `<span class="l2">${fmt(s.title[1])}</span>` : "")
+  }
+  stage.appendChild(el); return el
+})
+const fade = document.createElement("div"); fade.id = "fade"; stage.appendChild(fade)
+if (P.has("guides")) {
+  stage.insertAdjacentHTML("beforeend",
+    `<div class="guide" style="top:230px;height:220px;color:#0f0">title band 230–450</div>
+     <div class="guide" style="top:1550px;bottom:0;color:#f33;border-color:#f33">Reels/TikTok UI: nothing important below 1550</div>`)
+}
+const animateIn = (el, p, dy = 40) => {
+  const e = expoOut(p)
+  el.style.opacity = clamp(p * 1.6); el.style.transform = `translateY(${(1 - e) * dy}px)`; el.style.filter = `blur(${(1 - e) * 14}px)`
+}
+
+// ---------- the timeline: everything is a pure function of t -----------------
+// Phone Y rotation: every shot boundary lands at an odd multiple of PI (screen facing away),
+// so screen swaps are invisible and the film reads as one continuous take.
+const HERO = (s) => s.angle ?? 0
+const boundaryAngle = (i) => TURN * i - Math.PI // shot i starts here; back to camera
+function phoneRot(t) {
+  const i = shotAt(t), s = FILM.shots[i], local = t - s.start
+  const enter = BEAT * 2, exit = BEAT * 2
+  const inA = boundaryAngle(i), heroA = TURN * i + HERO(s), outA = boundaryAngle(i + 1)
+  if (s.type === "coldopen") return lerp(inA - Math.PI / 2 + 0.1, inA - Math.PI / 2 + 0.25, easeInOut(local / s.dur)) // edge-on, screen turned just away
+  if (s.type === "logo") return outA
+  if (local < enter) return lerp(inA, heroA, easeOut(local / enter))
+  if (local > s.dur - exit && i + 1 < FILM.shots.length && FILM.shots[i + 1].type !== "logo")
+    return lerp(heroA, outA, easeIn((local - (s.dur - exit)) / exit))
+  return heroA + 0.06 * Math.sin((local / s.dur) * Math.PI) // slow drift so a held shot still breathes
+}
+const D = 5.6, TY = 0.156 // camera distance / look-at offset: phone centred at ~y1060, clear of the title band
+function pose(t) {
+  const i = shotAt(t), s = FILM.shots[i], local = t - s.start, p = easeInOut(local / s.dur)
+  const rot = phoneRot(t), bob = 0.015 * Math.sin((t / (BEAT * 8)) * TURN)
+  const [main, left, right] = phones
+  for (const ph of phones) { ph.g.visible = s.type !== "logo"; ph.g.position.set(0, bob, 0); ph.g.rotation.set(0, rot, 0) }
+  left.g.visible = right.g.visible = s.type === "fan"
+  // One camera move per shot.
+  let cam = [0, TY, D], look = [0, TY, 0]
+  if (s.type === "coldopen") { cam = [lerp(-0.12, 0, p), lerp(0.85, 0.35, p), 1.1]; look = [0, lerp(0.6, 0.2, p), 0] } // macro along the frame edge
+  else if (s.camera === "push" || s.type === "hero") cam = [0, TY, lerp(D + 0.6, D - 0.5, p)]
+  else if (s.camera === "orbit") { const a = lerp(-0.22, 0.22, p); cam = [Math.sin(a) * D, TY, Math.cos(a) * D] }
+  else if (s.camera === "rise") cam = [0, lerp(TY - 0.5, TY + 0.4, p), D]
+  else if (s.type === "fan") cam = [0, TY, lerp(D + 0.4, D + 1.6, p)]
+  if (s.type === "fan") {
+    const spread = easeOut(seg(local, 0, BEAT * 3))
+    left.g.position.set(-0.62 * spread, bob - 0.04 * spread, -0.35 * spread); left.g.rotation.set(0, rot + 0.35 * spread, 0.12 * spread)
+    right.g.position.set(0.62 * spread, bob - 0.04 * spread, -0.35 * spread); right.g.rotation.set(0, rot - 0.35 * spread, -0.12 * spread)
+  }
+  camera.position.set(...cam); camera.lookAt(...look)
+  // Screen content: which screenshot each phone shows during this shot.
+  const img = s.type === "fan" ? s.screens : [s.screen ?? 0]
+  drawScreen(main.scr, img[s.type === "fan" ? 1 : 0], s, local)
+  if (s.type === "fan") { drawScreen(left.scr, img[0], null, 0); drawScreen(right.scr, img[2], null, 0) }
+  return { i, s, local, rot }
+}
+
+function overlays(t) {
+  const i = shotAt(t), s = FILM.shots[i], local = t - s.start
+  titles.forEach((el, k) => { if (el) el.style.opacity = 0 })
+  const el = titles[i]
+  if (el && s.type !== "logo") {
+    const inAt = (s.type === "hero" ? 2 : 1) * BEAT, outAt = s.dur - BEAT * 1.5
+    animateIn(el, seg(local, inAt, BEAT * 1.2))
+    if (local > outAt) { const q = seg(local, outAt, BEAT); el.style.opacity = 1 - q; el.style.filter = `blur(${q * 10}px)` }
+  }
+  if (s.type === "logo") {
+    el.style.opacity = 1; el.style.transform = "none"; el.style.filter = "none"
+    const [icon, name, tag, stores] = el.children
+    animateIn(icon, seg(local, 0, BEAT * 1.5), 0); icon.style.transform = `scale(${lerp(0.85, 1, expoOut(seg(local, 0, BEAT * 2)))})`
+    animateIn(name, seg(local, BEAT * 0.5, BEAT * 1.2))
+    animateIn(tag, seg(local, BEAT * 2, BEAT * 1.2))
+    animateIn(stores, seg(local, BEAT * 3, BEAT * 1.2))
+  }
+  // Fade to black at the end so the loop point is seamless (film opens on black too).
+  fade.style.opacity = t > DURATION - BEAT * 2.5 ? easeInOut(seg(t, DURATION - BEAT * 2.5, BEAT * 2)) : 1 - seg(t, 0, BEAT)
+}
+
+// ---------- motion blur: average subframes while the phone spins --------------
+const SHUTTER = 0.5 / FILM.fps // 180° shutter
+function render(t) {
+  const w = Math.abs(phoneRot(t + 0.004) - phoneRot(t - 0.004)) / 0.008 // rad/s
+  const n = w > 3 ? 12 : w > 1 ? 6 : 1
+  for (let k = 0; k < n; k++) {
+    const st = n === 1 ? t : t + (k / (n - 1) - 0.5) * SHUTTER
+    pose(st); renderer.render(scene, camera)
+    octx.globalAlpha = 1 / (k + 1) // running mean: exact average of n subframes
+    octx.drawImage(renderer.domElement, 0, 0, W, H)
+  }
+  octx.globalAlpha = 1
+  overlays(t)
+}
+
+// ---------- checks + audio cues derived from the same timeline ----------------
+function check() {
+  const warn = []
+  FILM.shots.forEach((s, i) => {
+    if (i === 0) return
+    const t = s.start, r = phoneRot(t)
+    if (Math.cos(r) > 0.2 && FILM.shots[i - 1].type !== "logo" && s.type !== "logo")
+      warn.push(`shot ${i} (${s.type}) starts with the screen facing camera (rot ${r.toFixed(2)}): swap would be visible`)
+    if (Math.abs(s.start / BEAT - Math.round(s.start / BEAT)) > 1e-6) warn.push(`shot ${i} does not start on a beat`)
+  })
+  if (Math.abs(DURATION - Math.round(DURATION)) > 0.05) warn.push(`duration ${DURATION.toFixed(2)}s is not a whole second`)
+  return warn
+}
+function cues() {
+  const c = []
+  FILM.shots.forEach((s, i) => {
+    if (s.type === "hero") c.push({ t: s.start + BEAT * 2, sfx: "boom" }, { t: s.start + BEAT, sfx: "whoosh", len: BEAT * 2 })
+    else if (s.type === "logo") c.push({ t: s.start, sfx: "chime" })
+    else if (i > 0) c.push({ t: s.start, sfx: "whoosh", len: BEAT * 2 })
+    if (FILM.shots[i + 1]?.type === "hero") c.push({ t: FILM.shots[i + 1].start + BEAT * 2, sfx: "riser", len: s.dur + BEAT * 2 })
+    for (const u of s.ui ?? []) if (u.type === "tap" || u.type === "highlight") c.push({ t: s.start + u.at * BEAT, sfx: "tick" })
+  })
+  return { bpm: FILM.bpm, duration: DURATION, fadeOut: BEAT * 2.5, cues: c.sort((a, b) => a.t - b.t) }
+}
+
+await document.fonts.ready
+window.SCENE = { width: W, height: H, fps: FILM.fps, duration: DURATION, ready: Promise.resolve(), render, check, cues }
+if (P.has("t")) render(Number(P.get("t")))
+</script>
+</body>
+</html>
