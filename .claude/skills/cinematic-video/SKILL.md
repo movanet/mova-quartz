@@ -24,7 +24,7 @@ assets (screens, model, logo, brand) ──► scene.html  (three.js + DOM, rend
 5. **Motion check.** `--every 3 --ss 1` renders a 10 fps preview. Encode it and check that the timing feels right and that no screen swap is visible.
 6. **Final.** Run a full render at `--ss 2` (the default), then `audio.mjs`, then `encode.mjs`. Verify it with `ffprobe` (duration, fps, resolution, audio stream), look at 3–4 extracted frames, and check that `render.mjs` printed no `CHECK:` warnings. Deliver the MP4 along with the poster frame and the shot list.
 
-Budget: SwiftShader (no GPU) runs at roughly 0.5–2 s per frame at 1080×1920 with `--ss 2`, and spin shots take longer because of the motion-blur subframes. For long renders, run in the background and split the render across processes with `--from/--to`.
+Budget (measured, SwiftShader, no GPU): the 30 s template film took **~28 min at `--ss 1`** (≈1.8 s/frame on average; spin frames with 12 motion-blur subframes are the slowest), and `--ss 2` costs roughly 2–3× that. Always run full renders in the background, and split them across 3–4 processes with disjoint `--from/--to` ranges. A still costs about 2–3 s.
 
 ## Non-negotiables (what makes it read as "Apple")
 
