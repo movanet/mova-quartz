@@ -382,7 +382,9 @@ function cues() {
     if (FILM.shots[i + 1]?.type === "hero") c.push({ t: FILM.shots[i + 1].start + BEAT * 2, sfx: "riser", len: s.dur + BEAT * 2 })
     for (const u of s.ui ?? []) if (u.type === "tap" || u.type === "highlight") c.push({ t: s.start + u.at * BEAT, sfx: "tick" })
   })
-  return { bpm: FILM.bpm, duration: DURATION, fadeOut: BEAT * 2.5, cues: c.sort((a, b) => a.t - b.t) }
+  const r = (x) => Math.round(x * 1e6) / 1e6
+  c.forEach((q) => { q.t = r(q.t); if (q.len) q.len = r(q.len) })
+  return { bpm: FILM.bpm, duration: r(DURATION), fadeOut: r(BEAT * 2.5), cues: c.sort((a, b) => a.t - b.t) }
 }
 
 await document.fonts.ready

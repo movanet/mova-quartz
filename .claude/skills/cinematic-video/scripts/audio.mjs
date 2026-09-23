@@ -137,12 +137,12 @@ const SFX = {
 }
 for (const c of spec.cues ?? []) {
   if (!SFX[c.sfx]) throw new Error(`unknown sfx "${c.sfx}" at ${c.t}`)
-  const onBeat = Math.abs(c.t / BEAT - Math.round(c.t / BEAT)) < 1e-3
-  if (!onBeat && c.sfx !== "whoosh") console.warn(`warning: ${c.sfx} at ${c.t}s is off the beat grid (beat = ${BEAT}s)`)
+  const half = (2 * c.t) / BEAT, onGrid = Math.abs(half - Math.round(half)) < 1e-3 // beats and half-beats
+  if (!onGrid && c.sfx !== "whoosh") console.warn(`warning: ${c.sfx} at ${c.t}s is off the half-beat grid (beat = ${BEAT}s)`)
   SFX[c.sfx](c.t, c.len)
 }
 
-// --- Master: fade-in, fade-out to digital silence, soft clip, 16-bit WAV ------
+// --- Master: fade-in, fade-out to digital silence, soft clip, normalise to -1 dBFS, 16-bit WAV
 const fadeIn = 0.02 * SR
 const fadeOut = (spec.fadeOut ?? 2) * SR
 const buf = Buffer.alloc(44 + N * 4)
@@ -153,10 +153,13 @@ buf.write("data", 36); buf.writeUInt32LE(N * 4, 40)
 let peak = 0
 for (let i = 0; i < N; i++) {
   const g = Math.min(1, i / fadeIn) * Math.min(1, (N - i) / fadeOut)
-  const l = Math.tanh(L[i] * g * 1.2), r = Math.tanh(R[i] * g * 1.2)
-  peak = Math.max(peak, Math.abs(l), Math.abs(r))
-  buf.writeInt16LE(Math.round(l * 32000), 44 + i * 4)
-  buf.writeInt16LE(Math.round(r * 32000), 46 + i * 4)
+  L[i] = Math.tanh(L[i] * g * 0.6); R[i] = Math.tanh(R[i] * g * 0.6) // gentle glue, not distortion
+  peak = Math.max(peak, Math.abs(L[i]), Math.abs(R[i]))
+}
+const norm = peak > 0 ? 0.89 / peak : 1 // -1 dBFS headroom
+for (let i = 0; i < N; i++) {
+  buf.writeInt16LE(Math.round(L[i] * norm * 32767), 44 + i * 4)
+  buf.writeInt16LE(Math.round(R[i] * norm * 32767), 46 + i * 4)
 }
 fs.writeFileSync(out, buf)
-console.log(`${out}: ${DUR}s @ ${BPM} BPM (beat ${BEAT.toFixed(3)}s), ${spec.cues?.length ?? 0} cues, peak ${peak.toFixed(2)}`)
+console.log(`${out}: ${DUR}s @ ${BPM} BPM (beat ${BEAT.toFixed(3)}s), ${spec.cues?.length ?? 0} cues, pre-norm peak ${peak.toFixed(2)} -> -1 dBFS`)
