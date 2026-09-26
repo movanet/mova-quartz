@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 580" width="960" height="580" role="img" aria-labelledby="t d" font-size="12.5">
+<title id="t">Tanggung jawab penghasil tidak berhenti di pagar pabrik</title>
+<desc id="d">Rantai penghasil, pengumpul, pengangkut, lalu pemanfaat, pengolah, atau penimbun. Di bawahnya batang tanggung jawab penghasil yang melekat sampai penyerahan kepada pihak berizin, dan contoh rantai yang putus.</desc>
+<style>
+.bg{fill:#ffffff}
+.ink{fill:#18202b}.mut{fill:#5c6675}.acct{fill:#17704b}
+.box{fill:#f3f5f7;stroke:#c5ccd4;stroke-width:1}
+.plain{fill:#ffffff;stroke:#c5ccd4;stroke-width:1}
+.acc{fill:#e7f2ec;stroke:#17704b;stroke-width:1.5}
+.accsolid{fill:#17704b}
+.ln{stroke:#8b949f;stroke-width:1.2;fill:none}
+.lna{stroke:#17704b;stroke-width:1.6;fill:none}
+.axis{stroke:#18202b;stroke-width:1.2}
+.dash{stroke-dasharray:5 4}
+.mk{fill:#8b949f}.mka{fill:#17704b}
+.onacc{fill:#ffffff}
+text{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif}
+.serif{font-family:'Source Serif 4','Source Serif Pro',Georgia,'Times New Roman',serif}
+@media (prefers-color-scheme:dark){
+.bg{fill:#12161b}
+.ink{fill:#e7eaee}.mut{fill:#9ba5b1}.acct{fill:#5fcf98}
+.box{fill:#1b2027;stroke:#3a434e}
+.plain{fill:#12161b;stroke:#3a434e}
+.acc{fill:#15291f;stroke:#5fcf98}
+.accsolid{fill:#5fcf98}
+.ln{stroke:#7d8793}.lna{stroke:#5fcf98}
+.axis{stroke:#e7eaee}
+.mk{fill:#7d8793}.mka{fill:#5fcf98}
+.onacc{fill:#0d1a13}
+}
+</style>
+<defs><marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mk"/></marker><marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mka"/></marker></defs>
+<rect width="960" height="580" class="bg"/>
+<text x="32" y="44" class="ink serif" font-size="22" font-weight="600" text-anchor="start">Tanggung jawab penghasil tidak berhenti di pagar pabrik</text>
+<text x="32" y="68" class="mut" font-size="13" font-weight="400" text-anchor="start">Enam peran dalam rantai limbah B3. Tanggung jawab baru berpindah ketika limbah diserahkan kepada pihak yang memiliki Perizinan</text>
+<text x="32" y="86" class="mut" font-size="13" font-weight="400" text-anchor="start">Berusaha untuk kegiatan itu.</text>
+<rect x="32" y="164" width="168" height="108" rx="6" class="acc"/>
+<text x="48" y="195" class="acct" font-size="14" font-weight="600" text-anchor="start">Penghasil</text>
+<text x="48" y="212" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Menghasilkan limbah</text>
+<text x="48" y="229" class="ink" font-size="12.5" font-weight="400" text-anchor="start">B3; wajib</text>
+<text x="48" y="246" class="ink" font-size="12.5" font-weight="400" text-anchor="start">mengelolanya (Pasal</text>
+<text x="48" y="263" class="ink" font-size="12.5" font-weight="400" text-anchor="start">274).</text>
+<rect x="248" y="164" width="168" height="108" rx="6" class="box"/>
+<text x="264" y="195" class="ink" font-size="14" font-weight="600" text-anchor="start">Pengumpul</text>
+<text x="264" y="212" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Mengumpulkan sebelum</text>
+<text x="264" y="229" class="ink" font-size="12.5" font-weight="400" text-anchor="start">diolah,</text>
+<text x="264" y="246" class="ink" font-size="12.5" font-weight="400" text-anchor="start">dimanfaatkan, atau</text>
+<text x="264" y="263" class="ink" font-size="12.5" font-weight="400" text-anchor="start">ditimbun.</text>
+<rect x="464" y="164" width="168" height="108" rx="6" class="box"/>
+<text x="480" y="195" class="ink" font-size="14" font-weight="600" text-anchor="start">Pengangkut</text>
+<text x="480" y="212" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Memindahkan limbah</text>
+<text x="480" y="229" class="ink" font-size="12.5" font-weight="400" text-anchor="start">antartempat.</text>
+<path d="M200 218.0 L244 218.0" class="ln" marker-end="url(#h)"/>
+<polygon points="222,211.0 229,218.0 222,225.0 215,218.0" class="acc"/>
+<path d="M416 218.0 L460 218.0" class="ln" marker-end="url(#h)"/>
+<polygon points="438,211.0 445,218.0 438,225.0 431,218.0" class="acc"/>
+<rect x="696" y="104" width="232" height="68" rx="6" class="box"/>
+<text x="712" y="135" class="ink" font-size="14" font-weight="600" text-anchor="start">Pemanfaat</text>
+<text x="712" y="152" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Memakai ulang sebagai bahan</text>
+<text x="712" y="169" class="ink" font-size="12.5" font-weight="400" text-anchor="start">baku atau sumber energi.</text>
+<path d="M632 218.0 L664 218.0 L664 138 L692 138" class="ln" marker-end="url(#h)"/>
+<rect x="696" y="184" width="232" height="68" rx="6" class="box"/>
+<text x="712" y="215" class="ink" font-size="14" font-weight="600" text-anchor="start">Pengolah</text>
+<text x="712" y="232" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Mengurangi atau menghilangkan</text>
+<text x="712" y="249" class="ink" font-size="12.5" font-weight="400" text-anchor="start">sifat bahaya.</text>
+<path d="M632 218.0 L664 218.0 L664 218 L692 218" class="ln" marker-end="url(#h)"/>
+<rect x="696" y="264" width="232" height="68" rx="6" class="box"/>
+<text x="712" y="295" class="ink" font-size="14" font-weight="600" text-anchor="start">Penimbun</text>
+<text x="712" y="312" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Menempatkan di fasilitas</text>
+<text x="712" y="329" class="ink" font-size="12.5" font-weight="400" text-anchor="start">penimbunan akhir.</text>
+<path d="M632 218.0 L664 218.0 L664 298 L692 298" class="ln" marker-end="url(#h)"/>
+<polygon points="648,211.0 655,218.0 648,225.0 641,218.0" class="acc"/>
+<polygon points="160,117 167,124 160,131 153,124" class="acc"/>
+<text x="174" y="128" class="mut" font-size="11" font-weight="400" text-anchor="start">serah terima kepada pihak yang memiliki Perizinan Berusaha</text>
+<rect x="32" y="364" width="896" height="40" rx="6" class="acc"/>
+<text x="48" y="389" class="acct" font-size="13" font-weight="600" text-anchor="start">Tanggung jawab penghasil tetap melekat sampai limbah diterima pihak yang memiliki Perizinan Berusaha</text>
+<path d="M116 272 L116 360" class="lna" marker-end="url(#ha)"/>
+<rect x="32" y="444" width="320" height="79" rx="6" class="plain"/>
+<text x="48" y="475" class="ink" font-size="14" font-weight="600" text-anchor="start">Diserahkan ke pihak tanpa izin</text>
+<text x="48" y="492" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Rantai putus di satu titik.</text>
+<rect x="400" y="444" width="528" height="79" rx="6" class="plain"/>
+<text x="416" y="475" class="ink" font-size="14" font-weight="600" text-anchor="start">Tanggung jawab tidak berpindah</text>
+<text x="416" y="492" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Penghasil tetap bertanggung jawab sampai ujung, dan penyerahan itu</text>
+<text x="416" y="509" class="ink" font-size="12.5" font-weight="400" text-anchor="start">menambah pelanggaran baru.</text>
+<path d="M352 483.5 L396 483.5" class="ln dash" marker-end="url(#h)"/>
+<text x="32" y="124" class="mut" font-size="11.5" font-weight="600" text-anchor="start">RANTAI SAH</text>
+<text x="32" y="436" class="mut" font-size="11.5" font-weight="600" text-anchor="start">RANTAI YANG PUTUS</text>
+<text x="32" y="560" class="mut" font-size="11" font-weight="400" text-anchor="start">Sumber: BAB 2 bagian 5; PP 22/2021 Pasal 1 angka 81 sampai 86 dan Pasal 274.</text>
+</svg>

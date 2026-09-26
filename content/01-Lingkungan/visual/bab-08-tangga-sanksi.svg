@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" role="img" aria-labelledby="t d" font-size="12.5">
+<title id="t">Sanksi administratif naik bertahap, lalu membuka jalur perdata dan pidana</title>
+<desc id="d">Tangga empat sanksi administratif: teguran tertulis, paksaan pemerintah, pembekuan izin, pencabutan izin. Keputusan masih melanggar mengarah ke sanksi perdata dan pidana.</desc>
+<style>
+.bg{fill:#ffffff}
+.ink{fill:#18202b}.mut{fill:#5c6675}.acct{fill:#17704b}
+.box{fill:#f3f5f7;stroke:#c5ccd4;stroke-width:1}
+.plain{fill:#ffffff;stroke:#c5ccd4;stroke-width:1}
+.acc{fill:#e7f2ec;stroke:#17704b;stroke-width:1.5}
+.accsolid{fill:#17704b}
+.ln{stroke:#8b949f;stroke-width:1.2;fill:none}
+.lna{stroke:#17704b;stroke-width:1.6;fill:none}
+.axis{stroke:#18202b;stroke-width:1.2}
+.dash{stroke-dasharray:5 4}
+.mk{fill:#8b949f}.mka{fill:#17704b}
+.onacc{fill:#ffffff}
+text{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif}
+.serif{font-family:'Source Serif 4','Source Serif Pro',Georgia,'Times New Roman',serif}
+@media (prefers-color-scheme:dark){
+.bg{fill:#12161b}
+.ink{fill:#e7eaee}.mut{fill:#9ba5b1}.acct{fill:#5fcf98}
+.box{fill:#1b2027;stroke:#3a434e}
+.plain{fill:#12161b;stroke:#3a434e}
+.acc{fill:#15291f;stroke:#5fcf98}
+.accsolid{fill:#5fcf98}
+.ln{stroke:#7d8793}.lna{stroke:#5fcf98}
+.axis{stroke:#e7eaee}
+.mk{fill:#7d8793}.mka{fill:#5fcf98}
+.onacc{fill:#0d1a13}
+}
+</style>
+<defs><marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mk"/></marker><marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mka"/></marker></defs>
+<rect width="960" height="640" class="bg"/>
+<text x="32" y="44" class="ink serif" font-size="22" font-weight="600" text-anchor="start">Sanksi administratif naik bertahap, lalu membuka jalur perdata dan pidana</text>
+<text x="32" y="68" class="mut" font-size="13" font-weight="400" text-anchor="start">Empat jenis sanksi administratif, dari peringatan sampai penghentian usaha. Bila pelanggaran berlanjut, penegakan beralih ke sanksi</text>
+<text x="32" y="86" class="mut" font-size="13" font-weight="400" text-anchor="start">perdata dan pidana.</text>
+<rect x="32" y="396" width="200" height="96" rx="6" class="box"/>
+<text x="48" y="423" class="mut" font-size="11" font-weight="600" text-anchor="start">TINGKAT 1</text>
+<text x="48" y="442" class="ink" font-size="14" font-weight="600" text-anchor="start">Teguran tertulis</text>
+<text x="48" y="459" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Peringatan dan kesempatan</text>
+<text x="48" y="476" class="ink" font-size="12.5" font-weight="400" text-anchor="start">memperbaiki.</text>
+<path d="M232 444 L240 444 L240 372 L244 372" class="ln" marker-end="url(#h)"/>
+<rect x="248" y="324" width="200" height="96" rx="6" class="box"/>
+<text x="264" y="351" class="mut" font-size="11" font-weight="600" text-anchor="start">TINGKAT 2</text>
+<text x="264" y="370" class="ink" font-size="14" font-weight="600" text-anchor="start">Paksaan pemerintah</text>
+<text x="264" y="387" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Menghentikan pelanggaran;</text>
+<text x="264" y="404" class="ink" font-size="12.5" font-weight="400" text-anchor="start">termasuk bestuursdwang.</text>
+<path d="M448 372 L456 372 L456 300 L460 300" class="ln" marker-end="url(#h)"/>
+<rect x="464" y="252" width="200" height="96" rx="6" class="box"/>
+<text x="480" y="279" class="mut" font-size="11" font-weight="600" text-anchor="start">TINGKAT 3</text>
+<text x="480" y="298" class="ink" font-size="14" font-weight="600" text-anchor="start">Pembekuan izin</text>
+<text x="480" y="315" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Sementara; operasi</text>
+<text x="480" y="332" class="ink" font-size="12.5" font-weight="400" text-anchor="start">dihentikan.</text>
+<path d="M664 300 L672 300 L672 228 L676 228" class="ln" marker-end="url(#h)"/>
+<rect x="680" y="180" width="200" height="96" rx="6" class="box"/>
+<text x="696" y="207" class="mut" font-size="11" font-weight="600" text-anchor="start">TINGKAT 4</text>
+<text x="696" y="226" class="ink" font-size="14" font-weight="600" text-anchor="start">Pencabutan izin</text>
+<text x="696" y="243" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Permanen; usaha</text>
+<text x="696" y="260" class="ink" font-size="12.5" font-weight="400" text-anchor="start">dihentikan.</text>
+<text x="32" y="124" class="mut" font-size="11.5" font-weight="600" text-anchor="start">SANKSI ADMINISTRATIF, PASAL 76 AYAT (2)</text>
+<rect x="32" y="532" width="200" height="64" rx="6" class="plain"/>
+<text x="48" y="563" class="ink" font-size="14" font-weight="600" text-anchor="start">Pengawasan</text>
+<text x="48" y="580" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Pelanggaran ditemukan?</text>
+<path d="M132 532 L132 496" class="ln" marker-end="url(#h)"/>
+<text x="142" y="518" class="mut" font-size="10.5" font-weight="400" text-anchor="start">ya</text>
+<text x="240" y="572" class="mut" font-size="10.5" font-weight="400" text-anchor="start">tidak: lanjut pengawasan rutin</text>
+<path d="M780 276 L780 316" class="ln" marker-end="url(#h)"/>
+<polygon points="780,320.0 888.0,372 780,424.0 672.0,372" class="acc"/>
+<text x="780" y="376" class="acct" font-size="13" font-weight="600" text-anchor="middle">Masih melanggar?</text>
+<path d="M672 372 L620 372" class="ln dash" marker-end="url(#h)"/>
+<text x="612" y="368" class="mut" font-size="10.5" font-weight="400" text-anchor="end">tidak: kepatuhan tercapai</text>
+<path d="M780 424 L780 440 M738 440 L870 440" class="lna"/>
+<path d="M738 440 L738 456" class="lna" marker-end="url(#ha)"/>
+<path d="M870 440 L870 456" class="lna" marker-end="url(#ha)"/>
+<text x="790" y="434" class="acct" font-size="10.5" font-weight="400" text-anchor="start">ya: eskalasi</text>
+<rect x="680" y="460" width="116" height="48" rx="6" class="box"/>
+<text x="738.0" y="491" class="ink" font-size="14" font-weight="600" text-anchor="middle">Perdata</text>
+<rect x="812" y="460" width="116" height="48" rx="6" class="box"/>
+<text x="870.0" y="491" class="ink" font-size="14" font-weight="600" text-anchor="middle">Pidana</text>
+<text x="32" y="620" class="mut" font-size="11" font-weight="400" text-anchor="start">Sumber: BAB 8 bagian 1.2 dan 2.2; UU 32/2009 Pasal 76 ayat (2).</text>
+</svg>

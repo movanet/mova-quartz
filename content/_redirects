@@ -2,3 +2,27 @@
 # Keep old bookmarks and shared links working.
 /perubahan-iklim/*  /06-perubahaniklim/:splat  301
 /perubahan-iklim    /06-perubahaniklim/        301
+
+# 01-Lingkungan rebuilt as a 12-chapter book (September 2026).
+# The 21 pre-rebuild pages redirect to the chapter that absorbed them.
+/01-lingkungan/01_konsep_dasar_prinsip  /01-lingkungan/bab-1----konsep-dasar-dan-prinsip-hukum-lingkungan---  301
+/01-lingkungan/02_perubahan_iklim  /06-perubahaniklim/  301
+/01-lingkungan/03_perencanaan_lingkungan  /01-lingkungan/bab-3----perencanaan-lingkungan-hidup---  301
+/01-lingkungan/04_pengendalian_pencemaran  /01-lingkungan/bab-4----pengendalian-pencemaran-dan-baku-mutu---  301
+/01-lingkungan/05_amdal_perizinan  /01-lingkungan/bab-5----amdal-dan-perizinan-lingkungan---  301
+/01-lingkungan/06_keadilan_lingkungan  /01-lingkungan/bab-6----keadilan-lingkungan---  301
+/01-lingkungan/07_tanggung_jawab_mutlak  /01-lingkungan/bab-7----tanggung-jawab-mutlak---  301
+/01-lingkungan/08_penegakan_hukum  /01-lingkungan/bab-8----penegakan-hukum-lingkungan---  301
+/01-lingkungan/09_hukum_lingkungan_internasional  /01-lingkungan/bab-9----hukum-lingkungan-internasional---  301
+/01-lingkungan/10_isu_kontemporer  /01-lingkungan/bab-11----isu-kontemporer-hukum-lingkungan---  301
+/01-lingkungan/11_studi_kasus  /01-lingkungan/studi-kasus  301
+/01-lingkungan/bab_i_pendahuluan  /01-lingkungan/monograf/bab-i----pendahuluan  301
+/01-lingkungan/bab_ii_definisi_dasar_hukum  /01-lingkungan/monograf/bab-ii----definisi-dan-dasar-hukum  301
+/01-lingkungan/bab_iii_keterkaitan_konseptual  /01-lingkungan/monograf/bab-iii----keterkaitan-konseptual  301
+/01-lingkungan/bab_iv_mekanisme_hukum_operasional  /01-lingkungan/monograf/bab-iv----mekanisme-hukum-operasional  301
+/01-lingkungan/bab_v_kasus_1_pencemaran_air_sungai  /01-lingkungan/monograf/bab-v----kasus-1,-pencemaran-air-sungai  301
+/01-lingkungan/bab_v_kasus_2_3_pencemaran_udara_laut  /01-lingkungan/monograf/bab-v----kasus-2-dan-3,-pencemaran-udara-dan-laut  301
+/01-lingkungan/bab_vi_implikasi_hukum_konsekuensi  /01-lingkungan/monograf/bab-vi----implikasi-hukum-dan-konsekuensi  301
+/01-lingkungan/outline_daya_dukung_tampung_pencemaran  /01-lingkungan/monograf/outline----daya-dukung,-daya-tampung,-dan-pencemaran  301
+/01-lingkungan/readme  /01-lingkungan/  301
+/01-lingkungan/readme_navigation  /01-lingkungan/  301

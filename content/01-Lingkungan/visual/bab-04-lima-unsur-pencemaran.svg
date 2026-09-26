@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 704" width="960" height="704" role="img" aria-labelledby="t d" font-size="12.5">
+<title id="t">Lima unsur yang harus terpenuhi sebelum sesuatu disebut pencemaran</title>
+<desc id="d">Lima pertanyaan berurutan. Bila semua dijawab ya, perbuatan itu pencemaran; satu jawaban tidak berarti bukan pencemaran. Unsur keempat yang gagal menunjukkan fenomena alam.</desc>
+<style>
+.bg{fill:#ffffff}
+.ink{fill:#18202b}.mut{fill:#5c6675}.acct{fill:#17704b}
+.box{fill:#f3f5f7;stroke:#c5ccd4;stroke-width:1}
+.plain{fill:#ffffff;stroke:#c5ccd4;stroke-width:1}
+.acc{fill:#e7f2ec;stroke:#17704b;stroke-width:1.5}
+.accsolid{fill:#17704b}
+.ln{stroke:#8b949f;stroke-width:1.2;fill:none}
+.lna{stroke:#17704b;stroke-width:1.6;fill:none}
+.axis{stroke:#18202b;stroke-width:1.2}
+.dash{stroke-dasharray:5 4}
+.mk{fill:#8b949f}.mka{fill:#17704b}
+.onacc{fill:#ffffff}
+text{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif}
+.serif{font-family:'Source Serif 4','Source Serif Pro',Georgia,'Times New Roman',serif}
+@media (prefers-color-scheme:dark){
+.bg{fill:#12161b}
+.ink{fill:#e7eaee}.mut{fill:#9ba5b1}.acct{fill:#5fcf98}
+.box{fill:#1b2027;stroke:#3a434e}
+.plain{fill:#12161b;stroke:#3a434e}
+.acc{fill:#15291f;stroke:#5fcf98}
+.accsolid{fill:#5fcf98}
+.ln{stroke:#7d8793}.lna{stroke:#5fcf98}
+.axis{stroke:#e7eaee}
+.mk{fill:#7d8793}.mka{fill:#5fcf98}
+.onacc{fill:#0d1a13}
+}
+</style>
+<defs><marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mk"/></marker><marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mka"/></marker></defs>
+<rect width="960" height="704" class="bg"/>
+<text x="32" y="44" class="ink serif" font-size="22" font-weight="600" text-anchor="start">Lima unsur yang harus terpenuhi sebelum sesuatu disebut pencemaran</text>
+<text x="32" y="68" class="mut" font-size="13" font-weight="400" text-anchor="start">Uji berurutan. Satu jawaban tidak menghentikan kualifikasi, dan unsur kelima, melampaui baku mutu, adalah syarat mutlak.</text>
+<rect x="32" y="112" width="520" height="68" rx="6" class="box"/>
+<circle cx="60" cy="146" r="14" class="plain"/>
+<text x="60" y="151" class="ink" font-size="13" font-weight="600" text-anchor="middle">1</text>
+<text x="88" y="141" class="ink" font-size="14" font-weight="600" text-anchor="start">Masuk atau dimasukkan</text>
+<text x="88" y="162" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Ada polutan yang masuk (pasif) atau dimasukkan (aktif, disengaja)?</text>
+<path d="M552 146 L636 146" class="ln dash" marker-end="url(#h)"/>
+<text x="594" y="139" class="mut" font-size="10.5" font-weight="400" text-anchor="middle">tidak</text>
+<path d="M292 180 L292 204" class="ln" marker-end="url(#h)"/>
+<text x="302" y="196" class="mut" font-size="10.5" font-weight="400" text-anchor="start">ya</text>
+<rect x="32" y="208" width="520" height="68" rx="6" class="box"/>
+<circle cx="60" cy="242" r="14" class="plain"/>
+<text x="60" y="247" class="ink" font-size="13" font-weight="600" text-anchor="middle">2</text>
+<text x="88" y="237" class="ink" font-size="14" font-weight="600" text-anchor="start">Jenis polutan</text>
+<text x="88" y="258" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Berupa makhluk hidup, zat, energi, atau komponen lain?</text>
+<path d="M552 242 L636 242" class="ln dash" marker-end="url(#h)"/>
+<text x="594" y="235" class="mut" font-size="10.5" font-weight="400" text-anchor="middle">tidak</text>
+<path d="M292 276 L292 300" class="ln" marker-end="url(#h)"/>
+<text x="302" y="292" class="mut" font-size="10.5" font-weight="400" text-anchor="start">ya</text>
+<rect x="32" y="304" width="520" height="68" rx="6" class="box"/>
+<circle cx="60" cy="338" r="14" class="plain"/>
+<text x="60" y="343" class="ink" font-size="13" font-weight="600" text-anchor="middle">3</text>
+<text x="88" y="333" class="ink" font-size="14" font-weight="600" text-anchor="start">Ke dalam lingkungan hidup</text>
+<text x="88" y="354" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Masuk ke air, udara, tanah, atau laut?</text>
+<path d="M552 338 L636 338" class="ln dash" marker-end="url(#h)"/>
+<text x="594" y="331" class="mut" font-size="10.5" font-weight="400" text-anchor="middle">tidak</text>
+<path d="M292 372 L292 396" class="ln" marker-end="url(#h)"/>
+<text x="302" y="388" class="mut" font-size="10.5" font-weight="400" text-anchor="start">ya</text>
+<rect x="32" y="400" width="520" height="68" rx="6" class="box"/>
+<circle cx="60" cy="434" r="14" class="plain"/>
+<text x="60" y="439" class="ink" font-size="13" font-weight="600" text-anchor="middle">4</text>
+<text x="88" y="429" class="ink" font-size="14" font-weight="600" text-anchor="start">Oleh kegiatan manusia</text>
+<text x="88" y="450" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Disebabkan kegiatan manusia, bukan fenomena alam?</text>
+<path d="M552 434 L636 434" class="ln dash" marker-end="url(#h)"/>
+<text x="594" y="427" class="mut" font-size="10.5" font-weight="400" text-anchor="middle">fenomena alam</text>
+<path d="M292 468 L292 492" class="ln" marker-end="url(#h)"/>
+<text x="302" y="484" class="mut" font-size="10.5" font-weight="400" text-anchor="start">ya</text>
+<rect x="32" y="496" width="520" height="68" rx="6" class="acc"/>
+<circle cx="60" cy="530" r="14" class="accsolid"/>
+<text x="60" y="535" class="onacc" font-size="13" font-weight="600" text-anchor="middle">5</text>
+<text x="88" y="525" class="acct" font-size="14" font-weight="600" text-anchor="start">Melampaui baku mutu</text>
+<text x="88" y="546" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Syarat mutlak untuk disebut pencemaran.</text>
+<path d="M552 530 L636 530" class="ln dash" marker-end="url(#h)"/>
+<text x="594" y="523" class="mut" font-size="10.5" font-weight="400" text-anchor="middle">tidak</text>
+<rect x="640" y="112" width="288" height="452" rx="6" class="plain"/>
+<text x="656" y="140" class="ink" font-size="14" font-weight="600" text-anchor="start">Bukan pencemaran</text>
+<text x="656" y="162" class="mut" font-size="12.5" font-weight="400" text-anchor="start">Satu unsur saja yang tidak terpenuhi</text>
+<text x="656" y="179" class="mut" font-size="12.5" font-weight="400" text-anchor="start">sudah menggugurkan kualifikasi</text>
+<text x="656" y="196" class="mut" font-size="12.5" font-weight="400" text-anchor="start">pencemaran menurut UU 32/2009.</text>
+<path d="M292 564 L292 596" class="lna" marker-end="url(#ha)"/>
+<text x="302" y="584" class="acct" font-size="10.5" font-weight="400" text-anchor="start">ya</text>
+<rect x="32" y="600" width="520" height="56" rx="6" class="acc"/>
+<text x="48" y="625" class="acct" font-size="14" font-weight="600" text-anchor="start">Pencemaran lingkungan hidup</text>
+<text x="48" y="644" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Kelima unsur terpenuhi.</text>
+<text x="32" y="684" class="mut" font-size="11" font-weight="400" text-anchor="start">Sumber: BAB 4 bagian 1.2; definisi pencemaran lingkungan hidup dalam UU 32/2009.</text>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" width="960" height="480" role="img" aria-labelledby="t d" font-size="12.5">
+<title id="t">Tiga pilar ESG, dan satu isu yang dibahas di mata kuliah lain</title>
+<desc id="d">ESG terbagi menjadi lingkungan, sosial, dan tata kelola, masing-masing dengan daftar isu. Emisi gas rumah kaca ditandai sebagai materi HKL-302.</desc>
+<style>
+.bg{fill:#ffffff}
+.ink{fill:#18202b}.mut{fill:#5c6675}.acct{fill:#17704b}
+.box{fill:#f3f5f7;stroke:#c5ccd4;stroke-width:1}
+.plain{fill:#ffffff;stroke:#c5ccd4;stroke-width:1}
+.acc{fill:#e7f2ec;stroke:#17704b;stroke-width:1.5}
+.accsolid{fill:#17704b}
+.ln{stroke:#8b949f;stroke-width:1.2;fill:none}
+.lna{stroke:#17704b;stroke-width:1.6;fill:none}
+.axis{stroke:#18202b;stroke-width:1.2}
+.dash{stroke-dasharray:5 4}
+.mk{fill:#8b949f}.mka{fill:#17704b}
+.onacc{fill:#ffffff}
+text{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif}
+.serif{font-family:'Source Serif 4','Source Serif Pro',Georgia,'Times New Roman',serif}
+@media (prefers-color-scheme:dark){
+.bg{fill:#12161b}
+.ink{fill:#e7eaee}.mut{fill:#9ba5b1}.acct{fill:#5fcf98}
+.box{fill:#1b2027;stroke:#3a434e}
+.plain{fill:#12161b;stroke:#3a434e}
+.acc{fill:#15291f;stroke:#5fcf98}
+.accsolid{fill:#5fcf98}
+.ln{stroke:#7d8793}.lna{stroke:#5fcf98}
+.axis{stroke:#e7eaee}
+.mk{fill:#7d8793}.mka{fill:#5fcf98}
+.onacc{fill:#0d1a13}
+}
+</style>
+<defs><marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mk"/></marker><marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mka"/></marker></defs>
+<rect width="960" height="480" class="bg"/>
+<text x="32" y="44" class="ink serif" font-size="22" font-weight="600" text-anchor="start">Tiga pilar ESG, dan satu isu yang dibahas di mata kuliah lain</text>
+<text x="32" y="68" class="mut" font-size="13" font-weight="400" text-anchor="start">Isu yang dinilai investor dan regulator pada setiap pilar. Emisi gas rumah kaca termasuk pilar lingkungan, tetapi dibahas di mata</text>
+<text x="32" y="86" class="mut" font-size="13" font-weight="400" text-anchor="start">kuliah Hukum Perubahan Iklim.</text>
+<rect x="380" y="104" width="200" height="44" rx="6" class="box"/>
+<text x="480.0" y="135" class="ink" font-size="14" font-weight="600" text-anchor="middle">ESG</text>
+<path d="M480 148 L172 188" class="ln" marker-end="url(#h)"/>
+<rect x="32" y="192" width="280" height="232" rx="6" class="acc"/>
+<text x="48" y="223" class="acct" font-size="14" font-weight="600" text-anchor="start">Environment</text>
+<text x="48" y="238" class="mut" font-size="11" font-weight="400" text-anchor="start">Lingkungan</text>
+<circle cx="51" cy="260.5" r="2.2" class="mut"/>
+<text x="62" y="261" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Limbah</text>
+<circle cx="51" cy="277.5" r="2.2" class="mut"/>
+<text x="62" y="278" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Energi</text>
+<circle cx="51" cy="294.5" r="2.2" class="mut"/>
+<text x="62" y="295" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Air</text>
+<circle cx="51" cy="311.5" r="2.2" class="mut"/>
+<text x="62" y="312" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Keanekaragaman hayati</text>
+<path d="M480 148 L480 188" class="ln" marker-end="url(#h)"/>
+<rect x="340" y="192" width="280" height="232" rx="6" class="box"/>
+<text x="356" y="223" class="ink" font-size="14" font-weight="600" text-anchor="start">Social</text>
+<text x="356" y="238" class="mut" font-size="11" font-weight="400" text-anchor="start">Sosial</text>
+<circle cx="359" cy="260.5" r="2.2" class="mut"/>
+<text x="370" y="261" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Ketenagakerjaan</text>
+<circle cx="359" cy="277.5" r="2.2" class="mut"/>
+<text x="370" y="278" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Hak asasi manusia</text>
+<circle cx="359" cy="294.5" r="2.2" class="mut"/>
+<text x="370" y="295" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Komunitas</text>
+<circle cx="359" cy="311.5" r="2.2" class="mut"/>
+<text x="370" y="312" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Keselamatan dan kesehatan kerja</text>
+<path d="M480 148 L788 188" class="ln" marker-end="url(#h)"/>
+<rect x="648" y="192" width="280" height="232" rx="6" class="box"/>
+<text x="664" y="223" class="ink" font-size="14" font-weight="600" text-anchor="start">Governance</text>
+<text x="664" y="238" class="mut" font-size="11" font-weight="400" text-anchor="start">Tata kelola</text>
+<circle cx="667" cy="260.5" r="2.2" class="mut"/>
+<text x="678" y="261" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Etika</text>
+<circle cx="667" cy="277.5" r="2.2" class="mut"/>
+<text x="678" y="278" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Antikorupsi</text>
+<circle cx="667" cy="294.5" r="2.2" class="mut"/>
+<text x="678" y="295" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Kepatuhan</text>
+<circle cx="667" cy="311.5" r="2.2" class="mut"/>
+<text x="678" y="312" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Transparansi</text>
+<circle cx="667" cy="328.5" r="2.2" class="mut"/>
+<text x="678" y="329" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Dewan komisaris</text>
+<rect x="48" y="360" width="248" height="48" rx="6" class="plain dash" style="stroke-dasharray:5 4"/>
+<text x="64" y="380" class="mut" font-size="12.5" font-weight="600" text-anchor="start">Emisi gas rumah kaca</text>
+<text x="64" y="398" class="mut" font-size="11.5" font-weight="400" text-anchor="start">dibahas di HKL-302 Hukum Perubahan Iklim</text>
+<text x="32" y="460" class="mut" font-size="11" font-weight="400" text-anchor="start">Sumber: BAB 11 bagian 4.1.</text>
+</svg>

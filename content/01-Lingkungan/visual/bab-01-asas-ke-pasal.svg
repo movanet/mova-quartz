@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 588" width="960" height="588" role="img" aria-labelledby="t d" font-size="12.5">
+<title id="t">Tiga asas, dari dokumen internasional ke pasal undang-undang</title>
+<desc id="d">Tiga baris: pencemar membayar, kehati-hatian, dan keadilan antargenerasi. Tiap baris menghubungkan sumber internasional, asas dalam Pasal 2 UU 32/2009, dan bentuk penerapannya.</desc>
+<style>
+.bg{fill:#ffffff}
+.ink{fill:#18202b}.mut{fill:#5c6675}.acct{fill:#17704b}
+.box{fill:#f3f5f7;stroke:#c5ccd4;stroke-width:1}
+.plain{fill:#ffffff;stroke:#c5ccd4;stroke-width:1}
+.acc{fill:#e7f2ec;stroke:#17704b;stroke-width:1.5}
+.accsolid{fill:#17704b}
+.ln{stroke:#8b949f;stroke-width:1.2;fill:none}
+.lna{stroke:#17704b;stroke-width:1.6;fill:none}
+.axis{stroke:#18202b;stroke-width:1.2}
+.dash{stroke-dasharray:5 4}
+.mk{fill:#8b949f}.mka{fill:#17704b}
+.onacc{fill:#ffffff}
+text{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif}
+.serif{font-family:'Source Serif 4','Source Serif Pro',Georgia,'Times New Roman',serif}
+@media (prefers-color-scheme:dark){
+.bg{fill:#12161b}
+.ink{fill:#e7eaee}.mut{fill:#9ba5b1}.acct{fill:#5fcf98}
+.box{fill:#1b2027;stroke:#3a434e}
+.plain{fill:#12161b;stroke:#3a434e}
+.acc{fill:#15291f;stroke:#5fcf98}
+.accsolid{fill:#5fcf98}
+.ln{stroke:#7d8793}.lna{stroke:#5fcf98}
+.axis{stroke:#e7eaee}
+.mk{fill:#7d8793}.mka{fill:#5fcf98}
+.onacc{fill:#0d1a13}
+}
+</style>
+<defs><marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mk"/></marker><marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mka"/></marker></defs>
+<rect width="960" height="588" class="bg"/>
+<text x="32" y="44" class="ink serif" font-size="22" font-weight="600" text-anchor="start">Tiga asas, dari dokumen internasional ke pasal undang-undang</text>
+<text x="32" y="68" class="mut" font-size="13" font-weight="400" text-anchor="start">Setiap asas dalam Pasal 2 UU 32/2009 punya asal-usul internasional dan bentuk penerapan yang dapat dikutip di kelas maupun di</text>
+<text x="32" y="86" class="mut" font-size="13" font-weight="400" text-anchor="start">pengadilan.</text>
+<text x="32" y="112" class="mut" font-size="11" font-weight="600" text-anchor="start">SUMBER INTERNASIONAL</text>
+<text x="348" y="112" class="acct" font-size="11" font-weight="600" text-anchor="start">ASAS DALAM UU 32/2009</text>
+<text x="664" y="112" class="mut" font-size="11" font-weight="600" text-anchor="start">WUJUD PENERAPAN</text>
+<rect x="32" y="124" width="264" height="132" rx="6" class="box"/>
+<text x="48" y="151" class="mut" font-size="11" font-weight="600" text-anchor="start">PENCEMAR MEMBAYAR</text>
+<text x="48" y="170" class="ink" font-size="14" font-weight="600" text-anchor="start">OECD 1972; Rio 1992, Prinsip</text>
+<text x="48" y="189" class="ink" font-size="14" font-weight="600" text-anchor="start">16</text>
+<text x="48" y="206" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Biaya pencemaran ditanggung</text>
+<text x="48" y="223" class="ink" font-size="12.5" font-weight="400" text-anchor="start">pencemar melalui internalisasi</text>
+<text x="48" y="240" class="ink" font-size="12.5" font-weight="400" text-anchor="start">biaya lingkungan.</text>
+<rect x="348" y="124" width="264" height="132" rx="6" class="acc"/>
+<text x="364" y="155" class="acct" font-size="14" font-weight="600" text-anchor="start">Pasal 2 huruf j</text>
+<text x="364" y="172" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Penanggung jawab usaha yang</text>
+<text x="364" y="189" class="ink" font-size="12.5" font-weight="400" text-anchor="start">mencemari atau merusak wajib</text>
+<text x="364" y="206" class="ink" font-size="12.5" font-weight="400" text-anchor="start">menanggung biaya pemulihan.</text>
+<rect x="664" y="124" width="264" height="132" rx="6" class="plain"/>
+<circle cx="683" cy="152.5" r="2.2" class="mut"/>
+<text x="694" y="153" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Pemulihan fungsi lingkungan</text>
+<text x="694" y="170" class="ink" font-size="12.5" font-weight="400" text-anchor="start">(Pasal 82)</text>
+<circle cx="683" cy="186.5" r="2.2" class="mut"/>
+<text x="694" y="187" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Ganti rugi (Pasal 87)</text>
+<circle cx="683" cy="203.5" r="2.2" class="mut"/>
+<text x="694" y="204" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Dana penjaminan pemulihan (Pasal</text>
+<text x="694" y="221" class="ink" font-size="12.5" font-weight="400" text-anchor="start">55)</text>
+<path d="M300 190.0 L344 190.0" class="ln" marker-end="url(#h)"/>
+<path d="M616 190.0 L660 190.0" class="ln" marker-end="url(#h)"/>
+<rect x="32" y="272" width="264" height="128" rx="6" class="box"/>
+<text x="48" y="299" class="mut" font-size="11" font-weight="600" text-anchor="start">KEHATI-HATIAN</text>
+<text x="48" y="318" class="ink" font-size="14" font-weight="600" text-anchor="start">Rio 1992, Prinsip 15</text>
+<text x="48" y="335" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Ketiadaan kepastian ilmiah tidak</text>
+<text x="48" y="352" class="ink" font-size="12.5" font-weight="400" text-anchor="start">boleh menunda pencegahan kerusakan</text>
+<text x="48" y="369" class="ink" font-size="12.5" font-weight="400" text-anchor="start">serius.</text>
+<rect x="348" y="272" width="264" height="128" rx="6" class="acc"/>
+<text x="364" y="303" class="acct" font-size="14" font-weight="600" text-anchor="start">Pasal 2 huruf f</text>
+<text x="364" y="320" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Keterbatasan iptek bukan alasan</text>
+<text x="364" y="337" class="ink" font-size="12.5" font-weight="400" text-anchor="start">menunda langkah menghindari</text>
+<text x="364" y="354" class="ink" font-size="12.5" font-weight="400" text-anchor="start">pencemaran atau kerusakan.</text>
+<rect x="664" y="272" width="264" height="128" rx="6" class="plain"/>
+<circle cx="683" cy="300.5" r="2.2" class="mut"/>
+<text x="694" y="301" class="ink" font-size="12.5" font-weight="400" text-anchor="start">AMDAL untuk kegiatan berdampak</text>
+<text x="694" y="318" class="ink" font-size="12.5" font-weight="400" text-anchor="start">penting</text>
+<circle cx="683" cy="334.5" r="2.2" class="mut"/>
+<text x="694" y="335" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Pemantauan lingkungan</text>
+<text x="694" y="352" class="ink" font-size="12.5" font-weight="400" text-anchor="start">berkelanjutan</text>
+<circle cx="683" cy="368.5" r="2.2" class="mut"/>
+<text x="694" y="369" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Evaluasi perizinan secara</text>
+<text x="694" y="386" class="ink" font-size="12.5" font-weight="400" text-anchor="start">berkala</text>
+<path d="M300 336.0 L344 336.0" class="ln" marker-end="url(#h)"/>
+<path d="M616 336.0 L660 336.0" class="ln" marker-end="url(#h)"/>
+<rect x="32" y="416" width="264" height="112" rx="6" class="box"/>
+<text x="48" y="443" class="mut" font-size="11" font-weight="600" text-anchor="start">KEADILAN ANTARGENERASI</text>
+<text x="48" y="462" class="ink" font-size="14" font-weight="600" text-anchor="start">Laporan Brundtland 1987</text>
+<text x="48" y="479" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Memenuhi kebutuhan kini tanpa</text>
+<text x="48" y="496" class="ink" font-size="12.5" font-weight="400" text-anchor="start">mengorbankan kebutuhan generasi</text>
+<text x="48" y="513" class="ink" font-size="12.5" font-weight="400" text-anchor="start">mendatang.</text>
+<rect x="348" y="416" width="264" height="112" rx="6" class="acc"/>
+<text x="364" y="447" class="acct" font-size="14" font-weight="600" text-anchor="start">Pasal 2 huruf a</text>
+<text x="364" y="464" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Asas tanggung jawab negara,</text>
+<text x="364" y="481" class="ink" font-size="12.5" font-weight="400" text-anchor="start">bersama Pasal 28H ayat (1) UUD</text>
+<text x="364" y="498" class="ink" font-size="12.5" font-weight="400" text-anchor="start">1945.</text>
+<rect x="664" y="416" width="264" height="112" rx="6" class="plain"/>
+<circle cx="683" cy="444.5" r="2.2" class="mut"/>
+<text x="694" y="445" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Menjaga kualitas lingkungan</text>
+<circle cx="683" cy="461.5" r="2.2" class="mut"/>
+<text x="694" y="462" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Tidak mengeksploitasi berlebihan</text>
+<circle cx="683" cy="478.5" r="2.2" class="mut"/>
+<text x="694" y="479" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Mewariskan kondisi setara atau</text>
+<text x="694" y="496" class="ink" font-size="12.5" font-weight="400" text-anchor="start">lebih baik</text>
+<path d="M300 472.0 L344 472.0" class="ln" marker-end="url(#h)"/>
+<path d="M616 472.0 L660 472.0" class="ln" marker-end="url(#h)"/>
+<text x="32" y="568" class="mut" font-size="11" font-weight="400" text-anchor="start">Sumber: BAB 1 bagian 2 sampai 4; UU 32/2009 Pasal 2, 55, 82, 87; Deklarasi Rio 1992.</text>
+</svg>

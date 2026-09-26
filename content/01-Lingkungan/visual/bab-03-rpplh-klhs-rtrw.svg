@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 566" width="960" height="566" role="img" aria-labelledby="t d" font-size="12.5">
+<title id="t">RPPLH menjadi dasar; KLHS menjadi pintu masuknya ke tata ruang</title>
+<desc id="d">Hierarki RPPLH dari inventarisasi ke tingkat nasional, provinsi, dan kabupaten/kota, serta aliran RPPLH ke KLHS, RTRW, dan RDTR dengan umpan balik.</desc>
+<style>
+.bg{fill:#ffffff}
+.ink{fill:#18202b}.mut{fill:#5c6675}.acct{fill:#17704b}
+.box{fill:#f3f5f7;stroke:#c5ccd4;stroke-width:1}
+.plain{fill:#ffffff;stroke:#c5ccd4;stroke-width:1}
+.acc{fill:#e7f2ec;stroke:#17704b;stroke-width:1.5}
+.accsolid{fill:#17704b}
+.ln{stroke:#8b949f;stroke-width:1.2;fill:none}
+.lna{stroke:#17704b;stroke-width:1.6;fill:none}
+.axis{stroke:#18202b;stroke-width:1.2}
+.dash{stroke-dasharray:5 4}
+.mk{fill:#8b949f}.mka{fill:#17704b}
+.onacc{fill:#ffffff}
+text{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif}
+.serif{font-family:'Source Serif 4','Source Serif Pro',Georgia,'Times New Roman',serif}
+@media (prefers-color-scheme:dark){
+.bg{fill:#12161b}
+.ink{fill:#e7eaee}.mut{fill:#9ba5b1}.acct{fill:#5fcf98}
+.box{fill:#1b2027;stroke:#3a434e}
+.plain{fill:#12161b;stroke:#3a434e}
+.acc{fill:#15291f;stroke:#5fcf98}
+.accsolid{fill:#5fcf98}
+.ln{stroke:#7d8793}.lna{stroke:#5fcf98}
+.axis{stroke:#e7eaee}
+.mk{fill:#7d8793}.mka{fill:#5fcf98}
+.onacc{fill:#0d1a13}
+}
+</style>
+<defs><marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mk"/></marker><marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mka"/></marker></defs>
+<rect width="960" height="566" class="bg"/>
+<text x="32" y="44" class="ink serif" font-size="22" font-weight="600" text-anchor="start">RPPLH menjadi dasar; KLHS menjadi pintu masuknya ke tata ruang</text>
+<text x="32" y="68" class="mut" font-size="13" font-weight="400" text-anchor="start">Kiri: RPPLH disusun dari inventarisasi dan diturunkan dari tingkat nasional ke kabupaten/kota. Kanan: RPPLH mengalir ke KLHS, RTRW,</text>
+<text x="32" y="86" class="mut" font-size="13" font-weight="400" text-anchor="start">dan RDTR, dengan umpan balik ke KLHS.</text>
+<text x="32" y="112" class="mut" font-size="11.5" font-weight="600" text-anchor="start">HIERARKI RPPLH</text>
+<rect x="32" y="124" width="360" height="130" rx="6" class="plain"/>
+<text x="48" y="155" class="ink" font-size="14" font-weight="600" text-anchor="start">Inventarisasi lingkungan hidup</text>
+<circle cx="51" cy="171.5" r="2.2" class="mut"/>
+<text x="62" y="172" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Potensi dan ketersediaan SDA</text>
+<circle cx="51" cy="188.5" r="2.2" class="mut"/>
+<text x="62" y="189" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Jenis SDA yang dimanfaatkan</text>
+<circle cx="51" cy="205.5" r="2.2" class="mut"/>
+<text x="62" y="206" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Bentuk penguasaan SDA</text>
+<circle cx="51" cy="222.5" r="2.2" class="mut"/>
+<text x="62" y="223" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Pengetahuan pengelolaan LH dan SDA</text>
+<circle cx="51" cy="239.5" r="2.2" class="mut"/>
+<text x="62" y="240" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Kearifan lokal masyarakat</text>
+<path d="M212 254 L212 286" class="ln" marker-end="url(#h)"/>
+<rect x="32" y="290" width="360" height="48" rx="6" class="box"/>
+<text x="48" y="321" class="ink" font-size="14" font-weight="600" text-anchor="start">RPPLH Nasional</text>
+<path d="M212 338 L212 366" class="ln" marker-end="url(#h)"/>
+<text x="224" y="356" class="mut" font-size="11.5" font-weight="400" text-anchor="start">menjadi dasar</text>
+<rect x="32" y="370" width="360" height="48" rx="6" class="box"/>
+<text x="48" y="401" class="ink" font-size="14" font-weight="600" text-anchor="start">RPPLH Provinsi</text>
+<path d="M212 418 L212 446" class="ln" marker-end="url(#h)"/>
+<text x="224" y="436" class="mut" font-size="11.5" font-weight="400" text-anchor="start">menjadi dasar</text>
+<rect x="32" y="450" width="360" height="48" rx="6" class="box"/>
+<text x="48" y="481" class="ink" font-size="14" font-weight="600" text-anchor="start">RPPLH Kabupaten/Kota</text>
+<text x="456" y="112" class="mut" font-size="11.5" font-weight="600" text-anchor="start">ALIRAN KE TATA RUANG</text>
+<rect x="572" y="124" width="240" height="60" rx="6" class="box"/>
+<text x="692.0" y="155" class="ink" font-size="14" font-weight="600" text-anchor="middle">RPPLH</text>
+<text x="692.0" y="170" class="mut" font-size="11" font-weight="400" text-anchor="middle">di setiap tingkat</text>
+<rect x="456" y="248" width="136" height="80" rx="6" class="acc"/>
+<text x="524.0" y="279" class="acct" font-size="14" font-weight="600" text-anchor="middle">KLHS</text>
+<text x="524.0" y="296" class="ink" font-size="12.5" font-weight="400" text-anchor="middle">Kajian</text>
+<text x="524.0" y="313" class="ink" font-size="12.5" font-weight="400" text-anchor="middle">strategis</text>
+<path d="M692 184 L524 244" class="ln" marker-end="url(#h)"/>
+<rect x="624" y="248" width="136" height="80" rx="6" class="box"/>
+<text x="692.0" y="279" class="ink" font-size="14" font-weight="600" text-anchor="middle">RTRW</text>
+<text x="692.0" y="296" class="ink" font-size="12.5" font-weight="400" text-anchor="middle">Rencana tata</text>
+<text x="692.0" y="313" class="ink" font-size="12.5" font-weight="400" text-anchor="middle">ruang</text>
+<path d="M692 184 L692 244" class="ln" marker-end="url(#h)"/>
+<rect x="792" y="248" width="136" height="80" rx="6" class="box"/>
+<text x="860.0" y="279" class="ink" font-size="14" font-weight="600" text-anchor="middle">RDTR</text>
+<text x="860.0" y="296" class="ink" font-size="12.5" font-weight="400" text-anchor="middle">Rencana detail</text>
+<path d="M692 184 L860 244" class="ln" marker-end="url(#h)"/>
+<path d="M592 288 L620 288" class="lna" marker-end="url(#ha)"/>
+<path d="M760 288 L788 288" class="ln" marker-end="url(#h)"/>
+<path d="M860 328 L860 368 L524 368 L524 332" class="lna dash" marker-end="url(#ha)"/>
+<text x="692" y="388" class="acct" font-size="11.5" font-weight="400" text-anchor="middle">umpan balik dari rencana rinci ke kajian strategis</text>
+<text x="32" y="546" class="mut" font-size="11" font-weight="400" text-anchor="start">Sumber: BAB 3 bagian 1.3 dan 3.1; UU 32/2009.</text>
+</svg>
