@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 625" width="960" height="625" role="img" aria-labelledby="t d" font-size="12.5">
+<title id="t">Dari Stockholm ke UU 32/2009: asas internasional yang menjadi pasal</title>
+<desc id="d">Garis waktu 1972 sampai 2009: Deklarasi Stockholm, Laporan Brundtland, Deklarasi Rio, Konvensi Stockholm tentang POPs; di Indonesia UU 4/1982, PP 29/1986, dan UU 32/2009.</desc>
+<style>
+.bg{fill:#ffffff}
+.ink{fill:#18202b}.mut{fill:#5c6675}.acct{fill:#17704b}
+.box{fill:#f3f5f7;stroke:#c5ccd4;stroke-width:1}
+.plain{fill:#ffffff;stroke:#c5ccd4;stroke-width:1}
+.acc{fill:#e7f2ec;stroke:#17704b;stroke-width:1.5}
+.accsolid{fill:#17704b}
+.ln{stroke:#8b949f;stroke-width:1.2;fill:none}
+.lna{stroke:#17704b;stroke-width:1.6;fill:none}
+.axis{stroke:#18202b;stroke-width:1.2}
+.dash{stroke-dasharray:5 4}
+.mk{fill:#8b949f}.mka{fill:#17704b}
+.onacc{fill:#ffffff}
+text{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif}
+.serif{font-family:'Source Serif 4','Source Serif Pro',Georgia,'Times New Roman',serif}
+@media (prefers-color-scheme:dark){
+.bg{fill:#12161b}
+.ink{fill:#e7eaee}.mut{fill:#9ba5b1}.acct{fill:#5fcf98}
+.box{fill:#1b2027;stroke:#3a434e}
+.plain{fill:#12161b;stroke:#3a434e}
+.acc{fill:#15291f;stroke:#5fcf98}
+.accsolid{fill:#5fcf98}
+.ln{stroke:#7d8793}.lna{stroke:#5fcf98}
+.axis{stroke:#e7eaee}
+.mk{fill:#7d8793}.mka{fill:#5fcf98}
+.onacc{fill:#0d1a13}
+}
+</style>
+<defs><marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mk"/></marker><marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" class="mka"/></marker></defs>
+<rect width="960" height="625" class="bg"/>
+<text x="32" y="44" class="ink serif" font-size="22" font-weight="600" text-anchor="start">Dari Stockholm ke UU 32/2009: asas internasional yang menjadi pasal</text>
+<text x="32" y="68" class="mut" font-size="13" font-weight="400" text-anchor="start">Di atas garis: tonggak internasional. Di bawah garis: jejaknya dalam hukum Indonesia. Deklarasi Rio adalah sumber tiga asas yang kini</text>
+<text x="32" y="86" class="mut" font-size="13" font-weight="400" text-anchor="start">tertulis dalam Pasal 2 UU 32/2009.</text>
+<line x1="40" y1="364" x2="920" y2="364" class="axis"/>
+<text x="32" y="112" class="mut" font-size="11.5" font-weight="600" text-anchor="start">TONGGAK INTERNASIONAL</text>
+<text x="32" y="408" class="mut" font-size="11.5" font-weight="600" text-anchor="start">JEJAKNYA DI INDONESIA</text>
+<rect x="32" y="152" width="192" height="180" rx="6" class="box"/>
+<text x="48" y="179" class="mut" font-size="11" font-weight="600" text-anchor="start">1972</text>
+<text x="48" y="198" class="ink" font-size="14" font-weight="600" text-anchor="start">Deklarasi Stockholm</text>
+<text x="48" y="215" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Konferensi PBB tentang</text>
+<text x="48" y="232" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Lingkungan Manusia, 113</text>
+<text x="48" y="249" class="ink" font-size="12.5" font-weight="400" text-anchor="start">negara. Lahirnya UNEP.</text>
+<text x="48" y="266" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Prinsip 1 hak atas</text>
+<text x="48" y="283" class="ink" font-size="12.5" font-weight="400" text-anchor="start">lingkungan; Prinsip 21</text>
+<text x="48" y="300" class="ink" font-size="12.5" font-weight="400" text-anchor="start">kedaulatan dan tanggung</text>
+<text x="48" y="317" class="ink" font-size="12.5" font-weight="400" text-anchor="start">jawab.</text>
+<line x1="89" y1="332" x2="89" y2="364" class="ln"/>
+<circle cx="89" cy="364" r="4" class="ink"/>
+<rect x="256" y="184" width="192" height="148" rx="6" class="box"/>
+<text x="272" y="211" class="mut" font-size="11" font-weight="600" text-anchor="start">1987</text>
+<text x="272" y="230" class="ink" font-size="14" font-weight="600" text-anchor="start">Laporan Brundtland</text>
+<text x="272" y="247" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Definisi pembangunan</text>
+<text x="272" y="264" class="ink" font-size="12.5" font-weight="400" text-anchor="start">berkelanjutan:</text>
+<text x="272" y="281" class="ink" font-size="12.5" font-weight="400" text-anchor="start">kebutuhan kini tanpa</text>
+<text x="272" y="298" class="ink" font-size="12.5" font-weight="400" text-anchor="start">mengorbankan generasi</text>
+<text x="272" y="315" class="ink" font-size="12.5" font-weight="400" text-anchor="start">mendatang.</text>
+<line x1="398" y1="332" x2="398" y2="364" class="ln"/>
+<circle cx="398" cy="364" r="4" class="ink"/>
+<rect x="448" y="184" width="216" height="148" rx="6" class="acc"/>
+<text x="464" y="211" class="mut" font-size="11" font-weight="600" text-anchor="start">1992</text>
+<text x="464" y="230" class="acct" font-size="14" font-weight="600" text-anchor="start">Deklarasi Rio</text>
+<text x="464" y="247" class="ink" font-size="12.5" font-weight="400" text-anchor="start">172 negara. Agenda 21 dan</text>
+<text x="464" y="264" class="ink" font-size="12.5" font-weight="400" text-anchor="start">CBD. Prinsip 10</text>
+<text x="464" y="281" class="ink" font-size="12.5" font-weight="400" text-anchor="start">partisipasi, 15</text>
+<text x="464" y="298" class="ink" font-size="12.5" font-weight="400" text-anchor="start">kehati-hatian, 16 pencemar</text>
+<text x="464" y="315" class="ink" font-size="12.5" font-weight="400" text-anchor="start">membayar, 17 AMDAL.</text>
+<line x1="501" y1="332" x2="501" y2="364" class="lna"/>
+<circle cx="501" cy="364" r="4" class="accsolid"/>
+<rect x="680" y="200" width="192" height="132" rx="6" class="box"/>
+<text x="696" y="227" class="mut" font-size="11" font-weight="600" text-anchor="start">2001</text>
+<text x="696" y="246" class="ink" font-size="14" font-weight="600" text-anchor="start">Konvensi Stockholm</text>
+<text x="696" y="265" class="ink" font-size="14" font-weight="600" text-anchor="start">(POPs)</text>
+<text x="696" y="282" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Pencemar organik</text>
+<text x="696" y="299" class="ink" font-size="12.5" font-weight="400" text-anchor="start">persisten, dimulai dari</text>
+<text x="696" y="316" class="ink" font-size="12.5" font-weight="400" text-anchor="start">dua belas senyawa awal.</text>
+<line x1="686" y1="332" x2="686" y2="364" class="ln"/>
+<circle cx="686" cy="364" r="4" class="ink"/>
+<rect x="168" y="424" width="176" height="111" rx="6" class="plain"/>
+<text x="184" y="451" class="mut" font-size="11" font-weight="600" text-anchor="start">1982</text>
+<text x="184" y="470" class="ink" font-size="14" font-weight="600" text-anchor="start">UU 4/1982</text>
+<text x="184" y="487" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Undang-undang</text>
+<text x="184" y="504" class="ink" font-size="12.5" font-weight="400" text-anchor="start">lingkungan hidup</text>
+<text x="184" y="521" class="ink" font-size="12.5" font-weight="400" text-anchor="start">pertama.</text>
+<line x1="295" y1="364" x2="295" y2="424" class="ln"/>
+<circle cx="295" cy="364" r="4" class="ink"/>
+<rect x="360" y="424" width="176" height="94" rx="6" class="plain"/>
+<text x="376" y="451" class="mut" font-size="11" font-weight="600" text-anchor="start">1986</text>
+<text x="376" y="470" class="ink" font-size="14" font-weight="600" text-anchor="start">PP 29/1986</text>
+<text x="376" y="487" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Peraturan AMDAL</text>
+<text x="376" y="504" class="ink" font-size="12.5" font-weight="400" text-anchor="start">pertama.</text>
+<line x1="377" y1="364" x2="377" y2="424" class="ln"/>
+<circle cx="377" cy="364" r="4" class="ink"/>
+<rect x="712" y="424" width="216" height="145" rx="6" class="plain"/>
+<text x="728" y="451" class="mut" font-size="11" font-weight="600" text-anchor="start">2009</text>
+<text x="728" y="470" class="ink" font-size="14" font-weight="600" text-anchor="start">UU 32/2009</text>
+<text x="728" y="487" class="ink" font-size="12.5" font-weight="400" text-anchor="start">Prinsip Rio menjadi asas:</text>
+<text x="728" y="504" class="ink" font-size="12.5" font-weight="400" text-anchor="start">kehati-hatian (Pasal 2</text>
+<text x="728" y="521" class="ink" font-size="12.5" font-weight="400" text-anchor="start">huruf f), pencemar membayar</text>
+<text x="728" y="538" class="ink" font-size="12.5" font-weight="400" text-anchor="start">(huruf j), AMDAL (Pasal 22</text>
+<text x="728" y="555" class="ink" font-size="12.5" font-weight="400" text-anchor="start">sampai 35).</text>
+<line x1="850" y1="364" x2="850" y2="424" class="ln"/>
+<circle cx="850" cy="364" r="4" class="ink"/>
+<path d="M504.5714285714286 370 Q560 468 706 468" class="lna dash" marker-end="url(#ha)"/>
+<text x="640" y="488" class="acct" font-size="10.5" font-weight="400" text-anchor="middle">diadopsi menjadi asas</text>
+<text x="48.0" y="382" class="mut" font-size="10" font-weight="400" text-anchor="middle">1970</text>
+<text x="253.71428571428572" y="382" class="mut" font-size="10" font-weight="400" text-anchor="middle">1980</text>
+<text x="459.42857142857144" y="382" class="mut" font-size="10" font-weight="400" text-anchor="middle">1990</text>
+<text x="665.1428571428572" y="382" class="mut" font-size="10" font-weight="400" text-anchor="middle">2000</text>
+<text x="870.8571428571429" y="382" class="mut" font-size="10" font-weight="400" text-anchor="middle">2010</text>
+<text x="32" y="605" class="mut" font-size="11" font-weight="400" text-anchor="start">Sumber: BAB 9 bagian 1 sampai 3; BAB 1 bagian 2.1; BAB 5 bagian 1.1.</text>
+</svg>
