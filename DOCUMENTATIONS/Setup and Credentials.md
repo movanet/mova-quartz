@@ -9,7 +9,7 @@ Complete reference for all accounts, credentials, and configuration for the mova
 | Service | URL | Credentials |
 |---------|-----|-------------|
 | **Live Site** | https://note.alafghani.info | Public |
-| **Protected Content** | https://note.alafghani.info/EkologiPolitik/ | Netlify env var `EKOPOL_PASSWORD` only |
+| **Protected Content** | None. No section is gated since 2026-10-14 | — |
 | **Netlify Dashboard** | https://app.netlify.com/projects/mova-quartz | Netlify account |
 | **GitHub Repo** | https://github.com/movanet/mova-quartz | `movanet` account |
 
@@ -84,7 +84,7 @@ See full API documentation: [Netlify-API-Reference.md](./Netlify-API-Reference.m
 
 > **Removed 2026-04-12** (commit `725588a`): `netlify/edge-functions/auth.ts` and its `netlify.toml` binding were deleted, so `/perubahan-iklim/` (now `/06-PerubahanIklim/`) is no longer protected. This section is kept for history. The old username and password were committed to this public repository and are retired; never reuse them.
 >
-> The current Basic Auth gate is `netlify/edge-functions/ekopol-auth.ts` for `/EkologiPolitik/`. It reads `EKOPOL_PASSWORD` from the Netlify environment and has no hardcoded fallback.
+> The later `EkologiPolitik/` gate (`netlify/edge-functions/ekopol-auth.ts`) was removed on 2026-10-14 and that section is public too. No path is gated now. See `CLAUDE.md` for why path-based Basic Auth cannot protect content on this site.
 
 ### Default Credentials
 
@@ -317,7 +317,7 @@ Set in Netlify Dashboard → Site Settings → Environment Variables:
 
 | Variable | Purpose | Default | Context |
 |----------|---------|---------|---------|
-| `EKOPOL_PASSWORD` | Password for `/EkologiPolitik/` (`ekopol-auth.ts`) | none, must be set | All |
+| `EKOPOL_PASSWORD` | Obsolete since 2026-10-14 (`ekopol-auth.ts` removed); can be unset | none | All |
 | `AUTH_USERNAME` | Obsolete since 2026-04-12 (`auth.ts` removed) | none | All |
 | `AUTH_PASSWORD` | Obsolete since 2026-04-12 (`auth.ts` removed) | none | All |
 | `NODE_VERSION` | Node.js version for builds | `22` | All |
@@ -342,7 +342,7 @@ Set in Netlify Dashboard → Site Settings → Environment Variables:
 | Git credentials | Windows Credential Manager | OS-protected |
 | Netlify CLI token | `~/.netlify/config.json` | User-only access |
 | Netlify API token | `16-Creds/03-Infrastructure/netlify-mova-quartz.md` | Never in this repository |
-| Protected content password | Netlify env vars only | Not in public code |
+| Protected content password | None in use; any future one in Netlify env vars only | Not in public code |
 
 ### What's NOT in the Repository
 
@@ -361,9 +361,7 @@ Set in Netlify Dashboard → Site Settings → Environment Variables:
 4. Store it in `16-Creds/03-Infrastructure/netlify-mova-quartz.md`. Never paste it into this repository
 
 **Protected Content Password:**
-1. Go to: https://app.netlify.com/projects/mova-quartz/configuration/env
-2. Update `EKOPOL_PASSWORD`
-3. Redeploy
+None in use since 2026-10-14. If a gate is added again, keep its password in a Netlify env var only and redeploy after changing it.
 
 **Git Credentials:**
 1. Windows Credential Manager → Remove GitHub credential
