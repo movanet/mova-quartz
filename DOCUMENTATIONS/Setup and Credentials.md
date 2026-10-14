@@ -9,7 +9,7 @@ Complete reference for all accounts, credentials, and configuration for the mova
 | Service | URL | Credentials |
 |---------|-----|-------------|
 | **Live Site** | https://note.alafghani.info | Public |
-| **Protected Content** | https://note.alafghani.info/perubahan-iklim/ | `fhuika` / `fhuika2026` |
+| **Protected Content** | https://note.alafghani.info/EkologiPolitik/ | Netlify env var `EKOPOL_PASSWORD` only |
 | **Netlify Dashboard** | https://app.netlify.com/projects/mova-quartz | Netlify account |
 | **GitHub Repo** | https://github.com/movanet/mova-quartz | `movanet` account |
 
@@ -47,7 +47,7 @@ Complete reference for all accounts, credentials, and configuration for the mova
 
 | Field | Value |
 |-------|-------|
-| **Token** | `nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815` |
+| **Token** | `<REDACTED — see 16-Creds/03-Infrastructure/netlify-mova-quartz.md>` |
 | **Created** | 2026-01-05 |
 | **Purpose** | Claude Code / API access for mova-quartz |
 | **Permissions** | Full API access |
@@ -55,14 +55,14 @@ Complete reference for all accounts, credentials, and configuration for the mova
 **Usage:**
 ```bash
 # Set as environment variable
-export NETLIFY_TOKEN="nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815"
+export NETLIFY_TOKEN="<REDACTED — see 16-Creds/03-Infrastructure/netlify-mova-quartz.md>"
 
 # Use in API calls
 curl -H "Authorization: Bearer $NETLIFY_TOKEN" \
   https://api.netlify.com/api/v1/sites/mova-quartz.netlify.app
 
 # Or inline
-curl -H "Authorization: Bearer nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815" \
+curl -H "Authorization: Bearer $NETLIFY_TOKEN" \
   https://api.netlify.com/api/v1/sites/mova-quartz.netlify.app
 ```
 
@@ -82,15 +82,17 @@ See full API documentation: [Netlify-API-Reference.md](./Netlify-API-Reference.m
 
 ## Protected Content Authentication
 
-The `/perubahan-iklim/` path uses HTTP Basic Auth via Netlify Edge Functions.
+> **Removed 2026-04-12** (commit `725588a`): `netlify/edge-functions/auth.ts` and its `netlify.toml` binding were deleted, so `/perubahan-iklim/` (now `/06-PerubahanIklim/`) is no longer protected. This section is kept for history. The old username and password were committed to this public repository and are retired; never reuse them.
+>
+> The current Basic Auth gate is `netlify/edge-functions/ekopol-auth.ts` for `/EkologiPolitik/`. It reads `EKOPOL_PASSWORD` from the Netlify environment and has no hardcoded fallback.
 
 ### Default Credentials
 
 | Field | Value |
 |-------|-------|
 | **Protected Path** | `/perubahan-iklim/*` |
-| **Username** | `fhuika` |
-| **Password** | `fhuika2026` |
+| **Username** | <REDACTED — retired 2026-04-12, never reuse> |
+| **Password** | <REDACTED — retired 2026-04-12, never reuse> |
 | **Auth Type** | HTTP Basic Auth |
 | **Edge Function** | `netlify/edge-functions/auth.ts` |
 
@@ -101,10 +103,10 @@ The `/perubahan-iklim/` path uses HTTP Basic Auth via Netlify Edge Functions.
 curl -I https://note.alafghani.info/perubahan-iklim/
 
 # With auth (returns 200 OK)
-curl -I -u fhuika:fhuika2026 https://note.alafghani.info/perubahan-iklim/
+curl -I -u "$AUTH_USERNAME:$AUTH_PASSWORD" https://note.alafghani.info/perubahan-iklim/
 
 # Full content with auth
-curl -u fhuika:fhuika2026 https://note.alafghani.info/perubahan-iklim/
+curl -u "$AUTH_USERNAME:$AUTH_PASSWORD" https://note.alafghani.info/perubahan-iklim/
 ```
 
 ### Override via Environment Variables
@@ -119,8 +121,10 @@ To change credentials without editing code, set in Netlify Dashboard:
 
 **Edge Function Code (reference):**
 ```typescript
-const VALID_USERNAME = Deno.env.get("AUTH_USERNAME") || "fhuika";
-const VALID_PASSWORD = Deno.env.get("AUTH_PASSWORD") || "fhuika2026";
+// Read credentials from the Netlify environment only. No hardcoded fallback:
+// if the variables are unset, every request must get 401.
+const VALID_USERNAME = Netlify.env.get("AUTH_USERNAME") ?? "";
+const VALID_PASSWORD = Netlify.env.get("AUTH_PASSWORD") ?? "";
 ```
 
 ---
@@ -313,8 +317,9 @@ Set in Netlify Dashboard → Site Settings → Environment Variables:
 
 | Variable | Purpose | Default | Context |
 |----------|---------|---------|---------|
-| `AUTH_USERNAME` | Protected content username | `fhuika` | All |
-| `AUTH_PASSWORD` | Protected content password | `fhuika2026` | All |
+| `EKOPOL_PASSWORD` | Password for `/EkologiPolitik/` (`ekopol-auth.ts`) | none, must be set | All |
+| `AUTH_USERNAME` | Obsolete since 2026-04-12 (`auth.ts` removed) | none | All |
+| `AUTH_PASSWORD` | Obsolete since 2026-04-12 (`auth.ts` removed) | none | All |
 | `NODE_VERSION` | Node.js version for builds | `22` | All |
 
 ### How to Set
@@ -336,13 +341,13 @@ Set in Netlify Dashboard → Site Settings → Environment Variables:
 |--------|----------|----------|
 | Git credentials | Windows Credential Manager | OS-protected |
 | Netlify CLI token | `~/.netlify/config.json` | User-only access |
-| Netlify API token | This documentation | Do not commit to public repos |
-| Protected content password | Edge function + Netlify env vars | Not in public code |
+| Netlify API token | `16-Creds/03-Infrastructure/netlify-mova-quartz.md` | Never in this repository |
+| Protected content password | Netlify env vars only | Not in public code |
 
 ### What's NOT in the Repository
 
 - No API tokens in committed code
-- No passwords in committed code (only fallback defaults in edge function)
+- No passwords in committed code; edge functions read them from Netlify env vars with no fallback
 - `.obsidian` folder is gitignored (except plugin files)
 - `public/` build output is gitignored
 - `node_modules/` is gitignored
@@ -353,11 +358,11 @@ Set in Netlify Dashboard → Site Settings → Environment Variables:
 1. Go to: https://app.netlify.com/user/applications
 2. Revoke old token
 3. Generate new token
-4. Update this documentation
+4. Store it in `16-Creds/03-Infrastructure/netlify-mova-quartz.md`. Never paste it into this repository
 
 **Protected Content Password:**
 1. Go to: https://app.netlify.com/projects/mova-quartz/configuration/env
-2. Update `AUTH_PASSWORD`
+2. Update `EKOPOL_PASSWORD`
 3. Redeploy
 
 **Git Credentials:**
