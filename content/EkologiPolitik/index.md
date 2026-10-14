@@ -1,7 +1,7 @@
 ---
 publish: true
 title: "Ekologi Politik — Studi Kasus Film Pesta Babi"
-description: "Modul ajar Ekologi Politik dengan studi kasus film dokumenter Pesta Babi (PSN pangan-energi Papua Selatan). Materi dilindungi password."
+description: "Modul ajar Ekologi Politik dengan studi kasus film dokumenter Pesta Babi (PSN pangan-energi Papua Selatan)."
 tags:
   - ekologi-politik
   - teaching
@@ -9,8 +9,6 @@ tags:
 ---
 
 # Ekologi Politik — Studi Kasus Film *Pesta Babi*
-
-> **Materi terlindungi.** Bagian ini ditujukan bagi mahasiswa peserta mata kuliah. Akses memerlukan kata sandi yang dibagikan oleh pengajar.
 
 Modul ini menggunakan film dokumenter *Pesta Babi: Kolonialisme di Zaman Kita* (Dandhy Laksono & Cypri Paju Dale, 2026) sebagai teks primer untuk membedah satu kasus konkret konflik agraria-ekologis di Papua Selatan — Proyek Strategis Nasional (PSN) pangan-energi seluas ±2,5 juta hektare.
 

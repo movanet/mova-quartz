@@ -40,7 +40,7 @@ mova-quartz/
 ├── quartz/                           # Quartz framework code (do not edit)
 ├── public/                           # Built output (generated, gitignored)
 ├── netlify/                          # Netlify configurations
-│   └── edge-functions/               # (currently empty — Basic Auth removed 2026-04-12)
+│   └── edge-functions/               # (currently empty — Basic Auth removed 2026-04-12 and 2026-10-14)
 ├── DOCUMENTATIONS/                   # Project documentation
 │   ├── Setup and Credentials.md      # Account info and credentials
 │   ├── Quartz Configuration.md       # Quartz config guide
@@ -148,6 +148,12 @@ Component.Explorer({
 ### Note on Basic Auth (removed 2026-04-12)
 
 Basic Auth via Netlify Edge Functions was previously used to protect `/perubahan-iklim/` (now `/06-PerubahanIklim/`). It was removed on 2026-04-12. The edge function `netlify/edge-functions/auth.ts` was deleted and the related `netlify.toml` entries were removed. To re-add auth protection for any path, create a new edge function and register it in `netlify.toml`.
+
+The `EkologiPolitik/` section had its own gate (`netlify/edge-functions/ekopol-auth.ts`, added 2026-06-10). It was removed on 2026-10-14 and the section is now public. The gate never protected the text, for three reasons that apply to any future gate:
+
+- Netlify stores deployed paths in lower case and serves `/ekologipolitik/` for `/EkologiPolitik/`, but an edge function's `config.path` match is case-sensitive. A gate on the mixed-case path alone leaves the lower-case URL open.
+- Quartz writes the full text of every published page to `/static/contentIndex.json` (the search index), which no path-based gate covers.
+- This repository is public, so the markdown under `content/` is readable on GitHub.
 
 ---
 
@@ -385,6 +391,8 @@ npx quartz build
 
 | Date | Change |
 |------|--------|
+| 2026-10-14 | Removed Basic Auth from EkologiPolitik (deleted `ekopol-auth.ts`); section is public |
+| 2026-06-10 | Added `EkologiPolitik/` course module behind Basic Auth (`ekopol-auth.ts`) |
 | 2026-04-12 | Renamed `perubahan-iklim/` → `06-PerubahanIklim/` (numbered folder convention) |
 | 2026-04-12 | Added `07-IntLaw/` international law course materials (12 chapters) |
 | 2026-04-12 | Removed Basic Auth from 06-PerubahanIklim (deleted edge function + netlify.toml entries) |
