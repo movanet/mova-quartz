@@ -30,26 +30,61 @@ International legal advisor and scholar with expertise in the fields of water la
 
 ## Current Positions
 
-- **[Center for Regulation, Policy and Governance (CRPG)](https://crpg.id/)**: Founding Director (March 2013 - Present). Directs CRPG's research and consultancy portfolio, manages the organisation and develops partnerships. Current CRPG work includes support to the drafting of Indonesia's drinking water and sanitation law. Research positions held at CRPG include Senior Researcher (October 2020 - Present), Researcher (February 2016 - December 2016), Lead Researcher (January 2015 - September 2015), and Principal Investigator (January 2015 - April 2016).
+- **[Center for Regulation, Policy and Governance (CRPG)](https://crpg.id/)**: Founding Director (March 2013 - Present). Directs CRPG's research and consultancy portfolio, manages the organisation and develops partnerships. CRPG's projects are listed under "CRPG Projects" below. Research positions held at CRPG include Senior Researcher (October 2020 - Present), Researcher (February 2016 - December 2016), Lead Researcher (January 2015 - September 2015), and Principal Investigator (January 2015 - April 2016).
 
 - **Universitas Ibn Khaldun Bogor**: Lecturer on Environmental Law and Head of Administrative Law, International Law and Constitutional Law Department (2003 - Present).
 
 
-## Research Consultancies and Positions
+## CRPG Projects
+
+Projects contracted to and implemented by CRPG as an institution, listed with the contracting client, the funder, the partners and Mova's position in the project team.
+
+- **Surface and Groundwater Assessment in Indonesia: Serayu-Opak River Basin** (April 2026 - Present). Client: Commonwealth Scientific and Industrial Research Organisation (CSIRO). Funder: Australian Government (DFAT), through the Australian Water Partnership (AWP). Partners: CSIRO, University of Technology Sydney, Universitas Gadjah Mada and IPB University, with Bappenas as government counterpart. Position: Team Leader for CRPG and member of the Project Leadership Team. CRPG leads the regulatory framework review, institutional mapping and governance feasibility work.
+
+- **Policy Paper on the Establishment of a Water Sector Regulator** (September 2025 - November 2025). Client: Indonesia Australia Partnership for Infrastructure (KIAT), implemented by DT Global. Funder: Australian Government (DFAT). Position: Director, overseeing CRPG's legal input to the policy paper.
+
+- **Wastewater and Water Quality Regulatory Mapping** (August 2025 - February 2026). Client: Water Stewardship Indonesia (Yayasan Aliansi Wali Sumber Daya Air Indonesia). Funder: Australian Government. Position: Team Leader. Mapping of wastewater and water quality regulation and its gaps, review of environmental monitoring systems, and a desktop audit of industrial wastewater discharge.
+
+- **Accelerating Climate Action through Environmental Democracy** (July 2025 - August 2025). Client: Westminster Foundation for Democracy (WFD). Funder: UK PACT. Position: Team Leader. Updated the academic paper (Naskah Akademik) and drafted the Climate Change Management Bill (RUU Pengelolaan Perubahan Iklim) to support the Expertise Body (Badan Keahlian) of the Indonesian House of Representatives.
+
+- **Towards Indonesian Sustainable Lake Management** (February 2025 - October 2025). Client: CSIRO. Funder: Australian Centre for International Agricultural Research (ACIAR). Partner: National Research and Innovation Agency (BRIN). Position: Team Leader. Contribution to a lakes information system and to the governance analysis for Indonesian lakes.
+
+- **Water Tenure Assessment of the Cimanuk River Basin** (November 2024 - November 2025). Client: Food and Agriculture Organization of the United Nations (FAO), under the Indonesia Water Scarcity Programme. Funder: Australian Water Partnership (AWP). Government counterpart: Bappenas. Position: Water Law Expert (Team Leader). Assessed water tenure in the basin and finalised the assessment with the river basin committees.
+
+- **EMISI: Sanitation, Greenhouse Gas Emissions and Climate** (July 2024 - February 2026). Client: University of Technology Sydney, Institute for Sustainable Futures (UTS-ISF). Funder: Australian Government (DFAT), through KIAT. Partners: Universitas Indonesia and the University of Leeds. Position: CRPG Team Lead, sanitation governance and regulatory expert. Research on sanitation governance and the political economy of low-carbon sanitation in Indonesia.
+
+- **REAL-Water (Rural Evidence and Learning for Water) Indonesia** (March 2024 - September 2024). Client: University of Technology Sydney (UTS). Funder: USAID, through the Aquaya Institute. Partner: Universitas Indonesia. Position: Team Leader. Political economy and legal analysis of rural water services in Bogor, Sijunjung and Timor Tengah Selatan.
+
+- **[Future proofing a basic social service: climate-resilient community-based rural water supply](https://crpg.id/koneksi/)** (July 2023 - June 2024). Client: University of Technology Sydney (UTS-ISF). Funder: Australian Government (DFAT), through the KONEKSI research grant. Partners: Universitas Indonesia and Universitas Gadjah Mada. Position: co-lead of Component C (Regulation and Policy) and Component D (Policy Engagement).
+
+- **Mapping Indonesia's Obligations under the Basel, Rotterdam and Stockholm Conventions** (August 2021 - November 2021). Client: Ministry of Foreign Affairs of the Republic of Indonesia, Directorate General of Multilateral Cooperation. Position: Director.
+
+- **Sanitation and Water for All (SWA) Study on Mutual Accountability Mechanisms in the WASH Sector: Indonesia** (August 2020 - December 2020). Client: UTS-ISF. Funder: Sanitation and Water for All, through UNICEF. Partner: IRC. Position: Director and co-author of the Indonesia country brief.
+
+- **Open Government Partnership Water Community of Practice, Indonesia** (June 2020 - December 2020). Client: World Resources Institute (WRI). Funder: Stockholm International Water Institute (SIWI). Position: Coordinator of the Community of Practice activities in Indonesia.
+
+- **National Polychlorinated Biphenyls (PCB) Management Plan and Extended PCB Inventory** (September 2019 - December 2020). Client: PT Petrolab Services, under the UNIDO project "Introduction of an Environmentally-Sound Management and Disposal System for PCB Wastes and PCB-Contaminated Equipment". Funder: United Nations Industrial Development Organization (UNIDO). Position: Expert Advisor on the National PCB Management Plan. Supported the regulatory, policy and technical work of the second phase of Indonesia's extended PCB inventory.
+
+- **Mercury Supply Restriction and Law Enforcement in Indonesia** (June 2019 - June 2021 and May 2023 - September 2023). Client: Biodiversity Research Institute (BRI). Funder: United States Department of State. Partner: Nexus3 Foundation (2023). Position: Director. Regulatory support on artisanal and small-scale gold mining and local action plans; in 2023, a court case database on mercury and cinnabar and draft guidelines for prosecutors.
+
+- **Open Contracting in Water Governance** (June 2019 - August 2019). Client: Hivos, under its Strategic Partnership with ARTICLE 19. Funder: Netherlands Ministry of Foreign Affairs. Position: Director. Research in Jakarta, Central Java and Yogyakarta.
+
+- **Sanitation Programme Governance in West Sumatra and Lampung** (October 2017 - March 2018). Client: SNV Netherlands Development Organisation, under the Voice for Change Partnership. Funder: Netherlands Ministry of Foreign Affairs. Position: Director. Governance research in Padang Pariaman, Sijunjung, Pringsewu and Lampung Selatan.
+
+- **Enterprise in WASH: District Associations of Community-Based Organisations** (2017 - 2018). Client: UTS-ISF. Position: co-researcher and co-author of Research Report 10.
+
+- **Developing Effective Governance for Community Scale Sanitation** (September 2016 - December 2016). Client: UTS-ISF. Funder: Indonesia Infrastructure Initiative (IndII), Australian Government. Position: CRPG lead. Reviewed national programme guidelines and the use of regional budgets (APBD) for communal sanitation.
+
+- **The Role of Regulatory Frameworks for Ensuring the Sustainability of Community Based Water and Sanitation** (2015 - 2016). Australia Indonesia Infrastructure Research Award (AIIRA). Funder: Indonesia Infrastructure Initiative (IndII), Australian Government, managed by SMEC. Partner: UNESCO Centre for Water Law, Policy and Science, University of Dundee. Position: Project Leader and Principal Investigator.
+
+- **Review of Regulation of Jakarta Water Services** (January 2014 - May 2014). Client: Jakarta Water Sector Regulatory Body (JWSRB). Position: Consultant. Advised on regulatory reform for JWSRB through a research report.
+
+
+## Individual Consultancies
+
+Engagements in which Mova was contracted in his own name.
 
 - **Asian Development Bank (ADB)**: Governance Expert (July 2026 - Present). Conducting a governance assessment.
-
-- **Commonwealth Scientific and Industrial Research Organisation (CSIRO)**: Team Leader, through CRPG (May 2026 - Present). Water accounting and governance in the Serayu-Opak basin, funded by the Australian Water Partnership (AWP). CRPG leads the regulatory framework review, institutional mapping and governance feasibility work.
-
-- **Commonwealth Scientific and Industrial Research Organisation (CSIRO)**: Team Leader, through CRPG (ongoing). Contribution to a lakes information system for Indonesian lakes, funded by the Australian Centre for International Agricultural Research (ACIAR).
-
-- **Westminster Foundation for Democracy (WFD)**: Team Leader, through CRPG (2025). Updated the academic paper (Naskah Akademik) and drafted the Climate Change Management Bill (RUU Pengelolaan Perubahan Iklim) to support the Expertise Body (Badan Keahlian) of the Indonesian House of Representatives.
-
-- **Food and Agriculture Organization of the United Nations (FAO)**: Team Leader, through CRPG (December 2024 - January 2026). Water tenure assessment in Indonesia.
-
-- **University of Technology Sydney, Institute for Sustainable Futures (UTS-ISF)**: Team Leader, through CRPG (July 2024 - February 2026). Research on sanitation governance and climate finance in Indonesia.
-
-- **University of Technology Sydney (UTS)**: Team Leader, through CRPG (March 2024 - September 2024). Political economy analysis of rural water services in Bogor, Sijunjung and Timor Tengah Selatan under the USAID-funded REAL-Water (Rural Evidence and Learning for Water) programme.
 
 - **World Bank** (EACIF): Consultant for Water Regulation (repeated appointments). Key activities include advising the Bank on water resources and irrigation sector reform as well as water supply and sanitation sector reform and more recently on the data center and water nexus.
 
@@ -58,8 +93,6 @@ International legal advisor and scholar with expertise in the fields of water la
 - **[EFECA](https://www.efeca.com/)**: Consultant for CIFOR's REDD+ Monitoring and Evaluation (2024). Key activities include drafting a report on the REDD+ Global Comparative Study and analysing programme achievements.
 
 - **International Budget Partnership**: Consultant for WASH Project Design and Review (2024). Key activities include reviewing reports of WASH and solid waste services baseline studies in project locations, reviewing the budget credibility (BC) angle of the WASH problem in Indonesia, and drafting an analysis of the WASH political economy situation in Indonesia.
-
-- **KONEKSI research project (UTS, CRPG, Universitas Indonesia and Universitas Gadjah Mada)**: Lead of project component C (Regulation and Policy) for the DFAT-funded research project "[Future proofing a basic social service: climate-resilient community-based rural water supply](https://crpg.id/koneksi/)" (2023 - 2024).
 
 - **United Nations Development Programme (UNDP Business and Human Rights Programme)**: Expert Consultant for Human Rights and Environmental Due Diligence (September 2022 - May 2023). Key activities include drafting an Environmental and Human Rights Due Diligence (EHRDD) framework on Water Pollution and formulating curricula for industry training.
 
@@ -72,8 +105,6 @@ International legal advisor and scholar with expertise in the fields of water la
 - **Tap Room Ltd.**: Member of Monitoring and Evaluation Consultant Team (October 2021 - October 2022) and Evaluation Team (August 2020 - August 2021). Evaluated the Publish What You Pay Indonesia GPSA-World Bank program in mining governance and the International Budget Partnership Monitoring, Evaluation and Learning (MEL) on Climate Finance Accountability.
 
 - **The World Bank**: Expert Consultant on Water Security (June 2020 - March 2021). Conducted institutional and regulatory analysis of the Indonesian water sector.
-
-- **United Nations Industrial Development Organization (UNIDO)**: Expert Advisor on the National Polychlorinated Biphenyls (PCB) Management Plan (December 2019 - December 2020).
 
 - **ASEAN Intergovernmental Commission on Human Rights (AICHR) Regional Research Team**: Member (December 2018 - 2019). Reviewed the work of ASEAN Working Group on Water Resources Management (AWGWRM) officials.
 
@@ -91,9 +122,10 @@ International legal advisor and scholar with expertise in the fields of water la
 
 - **Open Government Partnership Independent Reporting Mechanism (OGP-IRM)**: Researcher (January 2014 - January 2016). Reviewed Indonesia's Action Plan formulation, planning, and implementation following the IRM methodology; drafted IRM reports.
 
-- **Jakarta Water Sector Regulatory Body (JWSRB)**: Consultant (January 2014 - May 2014). Advised on regulatory reform for JWSRB through a research report.
-
 - **Presidential Work Unit for Development Monitoring and Oversight (UKP4) and The Asia Foundation**: Research Consultant (January 2013 - December 2013). Recommended and identified information flow in the licensing mechanisms of plantation and mining.
+
+
+## Earlier Positions
 
 - **Institut Teknologi Bandung, MBA Program**: Guest Lecturer (2013 - 2017). Taught Business Law and Ethics.
 
