@@ -9,7 +9,7 @@ Complete API documentation for programmatic interaction with Netlify for the mov
 | Field | Value |
 |-------|-------|
 | **API Base URL** | `https://api.netlify.com/api/v1/` |
-| **API Token** | `nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815` |
+| **API Token** | `<REDACTED — see 16-Creds/03-Infrastructure/netlify-mova-quartz.md>` |
 | **Site ID** | `1c671d6b-34fe-4905-9c1c-59ff4166e37a` |
 | **Site Name** | `mova-quartz.netlify.app` |
 | **Custom Domain** | `note.alafghani.info` |
@@ -25,14 +25,14 @@ Complete API documentation for programmatic interaction with Netlify for the mov
 All API requests require authentication via Bearer token:
 
 ```bash
-Authorization: Bearer nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815
+Authorization: Bearer $NETLIFY_TOKEN
 ```
 
 ### Setting Up Environment Variable
 
 ```bash
 # Set token as environment variable
-export NETLIFY_TOKEN="nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815"
+export NETLIFY_TOKEN="<REDACTED — see 16-Creds/03-Infrastructure/netlify-mova-quartz.md>"
 
 # Use in API calls
 curl -H "Authorization: Bearer $NETLIFY_TOKEN" \
@@ -296,7 +296,7 @@ curl -s -H "Authorization: Bearer $NETLIFY_TOKEN" \
 
 ```bash
 #!/bin/bash
-NETLIFY_TOKEN="nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815"
+NETLIFY_TOKEN="<REDACTED — see 16-Creds/03-Infrastructure/netlify-mova-quartz.md>"
 SITE_ID="mova-quartz.netlify.app"
 
 curl -s -H "Authorization: Bearer $NETLIFY_TOKEN" \
@@ -314,7 +314,7 @@ curl -s -H "Authorization: Bearer $NETLIFY_TOKEN" \
 
 ```bash
 #!/bin/bash
-NETLIFY_TOKEN="nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815"
+NETLIFY_TOKEN="<REDACTED — see 16-Creds/03-Infrastructure/netlify-mova-quartz.md>"
 DEPLOY_ID="$1"
 
 while true; do
@@ -339,7 +339,7 @@ done
 
 ```bash
 #!/bin/bash
-NETLIFY_TOKEN="nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815"
+NETLIFY_TOKEN="<REDACTED — see 16-Creds/03-Infrastructure/netlify-mova-quartz.md>"
 SITE_ID="mova-quartz.netlify.app"
 
 # Trigger build
@@ -447,7 +447,7 @@ npm install netlify
 ```javascript
 const NetlifyAPI = require('netlify');
 
-const client = new NetlifyAPI('nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815');
+const client = new NetlifyAPI(process.env.NETLIFY_TOKEN);
 
 // List sites
 const sites = await client.listSites();
