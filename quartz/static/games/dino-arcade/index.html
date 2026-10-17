@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<title>Isla Nova: Dino Patrol — Arcade Rail Shooter</title>
+<meta name="description" content="A browser rail-shooter tribute to 2015-era dinosaur park arcade cabinets. Three.js, procedural 3D models, no external assets." />
+<style>
+  :root {
+    --amber: #ffc23c;
+    --amber-dim: #a5761d;
+    --red: #ff3b30;
+    --green: #4ce08a;
+    --cyan: #4fd7ff;
+    --panel: rgba(6, 12, 10, 0.72);
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0; height: 100%; overflow: hidden;
+    background: #05070a; color: #e9f3ee;
+    font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    -webkit-user-select: none; user-select: none; touch-action: none;
+  }
+  #app { position: fixed; inset: 0; }
+  canvas { display: block; width: 100%; height: 100%; }
+
+  /* ---------- HUD ---------- */
+  #hud { position: fixed; inset: 0; pointer-events: none; z-index: 10; }
+  .hidden { display: none !important; }
+
+  #topbar {
+    position: absolute; top: 0; left: 0; right: 0;
+    display: flex; justify-content: space-between; align-items: flex-start;
+    padding: 14px 18px; gap: 12px;
+  }
+  .plate {
+    background: var(--panel);
+    border: 1px solid rgba(255, 194, 60, 0.35);
+    border-radius: 4px;
+    padding: 8px 12px;
+    backdrop-filter: blur(3px);
+    box-shadow: 0 0 18px rgba(0,0,0,0.5) inset;
+  }
+  .label { font-size: 10px; letter-spacing: 2px; color: var(--amber-dim); text-transform: uppercase; }
+  .value { font-size: 22px; font-weight: 700; color: var(--amber); line-height: 1.1; letter-spacing: 1px; }
+  #combo { color: var(--cyan); font-size: 13px; height: 16px; letter-spacing: 1px; }
+
+  #zoneplate { text-align: center; }
+  #zonename { font-size: 13px; color: var(--green); letter-spacing: 3px; }
+  #objective { font-size: 11px; color: #cfe3d8; margin-top: 4px; letter-spacing: 1px; }
+  #progresswrap { width: 220px; height: 4px; background: rgba(255,255,255,0.12); margin-top: 8px; border-radius: 2px; overflow: hidden; }
+  #progress { height: 100%; width: 0%; background: linear-gradient(90deg, var(--green), var(--cyan)); transition: width 0.25s linear; }
+
+  #bottombar {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    display: flex; justify-content: space-between; align-items: flex-end;
+    padding: 16px 18px;
+  }
+  #healthwrap { width: 240px; }
+  #healthbar { height: 14px; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,59,48,0.4); border-radius: 3px; overflow: hidden; margin-top: 6px; }
+  #health { height: 100%; width: 100%; background: linear-gradient(90deg, #ff3b30, #ff8a3c); transition: width 0.2s; }
+  #ammoplate { text-align: right; }
+  #ammoicons { display: flex; gap: 3px; justify-content: flex-end; margin-top: 6px; }
+  .dart { width: 6px; height: 20px; background: var(--cyan); border-radius: 1px 1px 3px 3px; box-shadow: 0 0 6px rgba(79,215,255,0.8); }
+  .dart.spent { background: rgba(255,255,255,0.14); box-shadow: none; }
+  #reloadmsg { color: var(--red); font-size: 12px; letter-spacing: 2px; height: 14px; margin-top: 4px; }
+
+  /* ---------- crosshair ---------- */
+  #reticle { position: fixed; width: 54px; height: 54px; margin: -27px 0 0 -27px; z-index: 11; pointer-events: none; transition: transform 0.05s; }
+  #reticle svg { width: 100%; height: 100%; }
+  #reticle.hot .ring { stroke: var(--red); }
+  #reticle.locked .ring { stroke: var(--red); }
+
+  /* ---------- effects ---------- */
+  #vignette { position: fixed; inset: 0; z-index: 9; pointer-events: none; opacity: 0;
+    background: radial-gradient(ellipse at center, rgba(255,0,0,0) 40%, rgba(190,0,0,0.75) 100%); transition: opacity 0.25s; }
+  #flash { position: fixed; inset: 0; z-index: 9; pointer-events: none; background: #fff; opacity: 0; }
+  #floaters { position: fixed; inset: 0; z-index: 12; pointer-events: none; overflow: hidden; }
+  .floater { position: absolute; font-size: 15px; font-weight: 700; color: var(--amber); text-shadow: 0 2px 6px #000; animation: rise 0.9s ease-out forwards; letter-spacing: 1px; }
+  .floater.crit { color: var(--cyan); font-size: 19px; }
+  .floater.bad { color: var(--red); }
+  @keyframes rise { from { transform: translateY(0); opacity: 1; } to { transform: translateY(-52px); opacity: 0; } }
+
+  #banner {
+    position: fixed; top: 34%; left: 0; right: 0; text-align: center; z-index: 12; pointer-events: none;
+  }
+  #banner .big { font-size: 40px; letter-spacing: 8px; color: var(--amber); text-shadow: 0 0 24px rgba(255,194,60,0.55); }
+  #banner .small { font-size: 14px; letter-spacing: 4px; color: #d8e8de; margin-top: 10px; }
+
+  /* ---------- screens ---------- */
+  .screen {
+    position: fixed; inset: 0; z-index: 20; display: flex; flex-direction: column;
+    align-items: center; justify-content: center; text-align: center; gap: 6px;
+    background: radial-gradient(ellipse at 50% 40%, rgba(12,26,20,0.86), rgba(2,4,6,0.96));
+    pointer-events: auto; padding: 24px;
+  }
+  .warnstripe {
+    width: min(680px, 92vw); height: 12px;
+    background: repeating-linear-gradient(45deg, #ffc23c 0 14px, #14100a 14px 28px);
+    opacity: 0.85;
+  }
+  h1 { font-size: clamp(26px, 6vw, 52px); margin: 16px 0 0; letter-spacing: 6px; color: var(--amber);
+       text-shadow: 0 0 30px rgba(255,194,60,0.4); }
+  h2 { font-size: clamp(18px, 4vw, 30px); margin: 0 0 6px; letter-spacing: 5px; color: var(--amber); }
+  .sub { font-size: 12px; letter-spacing: 3px; color: var(--green); margin-top: 6px; }
+  .body { max-width: 620px; font-size: 13px; line-height: 1.8; color: #c6d8ce; margin-top: 14px; }
+  .keys { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 18px; }
+  .key { border: 1px solid rgba(255,194,60,0.4); border-radius: 3px; padding: 6px 10px; font-size: 11px; letter-spacing: 1px; color: #e6f0e9; background: rgba(255,194,60,0.06); }
+  .key b { color: var(--amber); }
+  button {
+    margin-top: 22px; font-family: inherit; font-size: 15px; letter-spacing: 4px;
+    padding: 14px 34px; color: #12160f; background: var(--amber);
+    border: none; border-radius: 3px; cursor: pointer; font-weight: 700;
+    box-shadow: 0 0 26px rgba(255,194,60,0.35);
+  }
+  button:hover { background: #ffd977; }
+  button.ghost { background: transparent; color: var(--amber); border: 1px solid var(--amber); box-shadow: none; }
+  button.ghost:hover { background: rgba(255,194,60,0.12); }
+  .stats { margin-top: 18px; font-size: 13px; line-height: 2; color: #d5e6db; letter-spacing: 1px; }
+  .stats b { color: var(--amber); }
+  .legalese { position: fixed; bottom: 10px; left: 0; right: 0; text-align: center; font-size: 10px; color: #55665d; letter-spacing: 1px; padding: 0 16px; }
+  #loading { font-size: 12px; letter-spacing: 4px; color: var(--green); }
+
+  #mobilefire {
+    position: fixed; right: 18px; bottom: 90px; z-index: 13; display: none;
+    width: 86px; height: 86px; border-radius: 50%;
+    border: 2px solid rgba(255,194,60,0.6); background: rgba(255,194,60,0.12);
+    color: var(--amber); font-size: 11px; letter-spacing: 2px; align-items: center; justify-content: center;
+  }
+  body.touch #mobilefire { display: flex; }
+  body.touch #reticle { display: none; }
+</style>
+</head>
+<body>
+<div id="app"></div>
+
+<div id="hud" class="hidden">
+  <div id="topbar">
+    <div class="plate">
+      <div class="label">Score</div>
+      <div class="value" id="score">0</div>
+      <div id="combo"></div>
+    </div>
+    <div class="plate" id="zoneplate">
+      <div id="zonename">SECTOR 01</div>
+      <div id="objective">STAND BY</div>
+      <div id="progresswrap"><div id="progress"></div></div>
+    </div>
+    <div class="plate" style="text-align:right">
+      <div class="label">Rescued</div>
+      <div class="value" id="rescued">0</div>
+      <div id="combo" style="color:var(--green)"><span id="dna">0</span> DNA</div>
+    </div>
+  </div>
+
+  <div id="bottombar">
+    <div class="plate" id="healthwrap">
+      <div class="label">Vehicle Integrity</div>
+      <div id="healthbar"><div id="health"></div></div>
+    </div>
+    <div class="plate" id="ammoplate">
+      <div class="label">Tranquilizer Darts</div>
+      <div id="ammoicons"></div>
+      <div id="reloadmsg"></div>
+    </div>
+  </div>
+</div>
+
+<div id="reticle" class="hidden">
+  <svg viewBox="0 0 100 100">
+    <circle class="ring" cx="50" cy="50" r="30" fill="none" stroke="#ffc23c" stroke-width="2.5" opacity="0.9"/>
+    <circle cx="50" cy="50" r="2.5" fill="#ffc23c"/>
+    <line x1="50" y1="8"  x2="50" y2="26" stroke="#ffc23c" stroke-width="2.5"/>
+    <line x1="50" y1="74" x2="50" y2="92" stroke="#ffc23c" stroke-width="2.5"/>
+    <line x1="8"  y1="50" x2="26" y2="50" stroke="#ffc23c" stroke-width="2.5"/>
+    <line x1="74" y1="50" x2="92" y2="50" stroke="#ffc23c" stroke-width="2.5"/>
+  </svg>
+</div>
+
+<div id="vignette"></div>
+<div id="flash"></div>
+<div id="floaters"></div>
+<div id="banner" class="hidden"><div class="big"></div><div class="small"></div></div>
+<button id="mobilefire">FIRE</button>
+
+<div class="screen" id="titlescreen">
+  <div class="warnstripe"></div>
+  <h1>ISLA NOVA</h1>
+  <div class="sub">DINO PATROL &nbsp;·&nbsp; ARCADE RAIL SHOOTER</div>
+  <div class="body">
+    Containment has failed across four sectors of the park. You ride shotgun in a patrol
+    jeep on a fixed route. Sedate every animal that charges the vehicle, shoot the supply
+    crates for darts and repairs, and tag the amber DNA canisters for bonus score.
+    Keep the jeep in one piece long enough to reach the paddock at the end of the road.
+  </div>
+  <div class="keys">
+    <div class="key"><b>MOUSE</b> AIM</div>
+    <div class="key"><b>CLICK / SPACE</b> FIRE</div>
+    <div class="key"><b>R</b> RELOAD</div>
+    <div class="key"><b>P / ESC</b> PAUSE</div>
+    <div class="key"><b>M</b> MUTE</div>
+  </div>
+  <button id="startbtn">INSERT COIN</button>
+  <div id="loading" style="margin-top:14px"></div>
+  <div class="legalese">
+    An original fan-made homage to 2015-era dinosaur-park arcade cabinets. All models, code, audio
+    and artwork are generated procedurally in this file — no copyrighted assets are used.
+  </div>
+</div>
+
+<div class="screen hidden" id="pausescreen">
+  <h2>PAUSED</h2>
+  <div class="sub">SYSTEM HOLD</div>
+  <button id="resumebtn">RESUME</button>
+  <button id="quitbtn" class="ghost" style="margin-top:10px">ABANDON RUN</button>
+</div>
+
+<div class="screen hidden" id="endscreen">
+  <div class="warnstripe"></div>
+  <h2 id="endtitle">CONTAINMENT LOST</h2>
+  <div class="sub" id="endsub"></div>
+  <div class="stats" id="endstats"></div>
+  <button id="againbtn">CONTINUE? &nbsp;INSERT COIN</button>
+</div>
+
+<!-- three.js r128 is vendored next to this file so the game works offline and needs no CDN -->
+<script src="three.min.js"></script>
+<script>if (typeof THREE === "undefined") { document.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"><\/script>'); }</script>
+<script src="game.js"></script>
+</body>
+</html>
