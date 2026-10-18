@@ -38,7 +38,7 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
 
 
-# ILSA / Jessup 2027 casebook (/ilsa/): client-side-encrypted page, rewrite lives in content/_redirects.
+# Private casebook (/ilsa/): client-side-encrypted page, rewrite lives in content/_redirects.
 [[headers]]
   for = "/ilsa/*"
   [headers.values]
