@@ -21,4 +21,5 @@ This site is still under development as I transition from other blogging platfor
 
 - [[01-Lingkungan/README_Navigation|Environmental Law Course Materials]]
 - [[EkologiPolitik/index|Ekologi Politik: Studi Kasus Film Pesta Babi]]
+- [[Bologna -- A Visit to Palazzo Poggi|Travel: Marsili's Manuscripts at Palazzo Poggi, Bologna]]
 
