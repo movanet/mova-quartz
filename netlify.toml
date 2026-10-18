@@ -37,3 +37,10 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
 
+
+# ILSA / Jessup 2027 casebook (/ilsa/): client-side-encrypted page, rewrite lives in content/_redirects.
+[[headers]]
+  for = "/ilsa/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    Cache-Control = "no-cache"

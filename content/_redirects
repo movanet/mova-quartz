@@ -26,3 +26,8 @@
 /01-lingkungan/outline_daya_dukung_tampung_pencemaran  /01-lingkungan/monograf/outline----daya-dukung,-daya-tampung,-dan-pencemaran  301
 /01-lingkungan/readme  /01-lingkungan/  301
 /01-lingkungan/readme_navigation  /01-lingkungan/  301
+
+# ILSA / Jessup 2027 casebook. Quartz strips ".html" from copied assets, so the page ships as
+# casebook.htm. It is one client-side-encrypted page (AES-256-GCM); the password is never in the repo.
+/ilsa   /ilsa/casebook.htm  200
+/ilsa/  /ilsa/casebook.htm  200
