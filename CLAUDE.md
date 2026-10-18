@@ -159,10 +159,12 @@ The `EkologiPolitik/` section had its own gate (`netlify/edge-functions/ekopol-a
 
 ## Netlify API Quick Reference
 
+> This repository is public. Never commit a token or password here: the Netlify token lives in `16-Creds/03-Infrastructure/netlify-mova-quartz.md`, and edge-function passwords live only in Netlify environment variables.
+
 | Field | Value |
 |-------|-------|
 | **API Base URL** | `https://api.netlify.com/api/v1/` |
-| **API Token** | `nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815` |
+| **API Token** | `<REDACTED — see 16-Creds/03-Infrastructure/netlify-mova-quartz.md>` |
 | **Site ID** | `1c671d6b-34fe-4905-9c1c-59ff4166e37a` |
 | **Site Name** | `mova-quartz.netlify.app` |
 | **Account ID** | `640ec635dcf746089c4b2c08` |
@@ -171,7 +173,7 @@ The `EkologiPolitik/` section had its own gate (`netlify/edge-functions/ekopol-a
 
 ```bash
 # Set token
-export NETLIFY_TOKEN="nfp_r33PYc8YVTqs3NkVvcmH6LWCgrTG2sdd4815"
+export NETLIFY_TOKEN="<REDACTED — see 16-Creds/03-Infrastructure/netlify-mova-quartz.md>"
 
 # Check site info
 curl -s -H "Authorization: Bearer $NETLIFY_TOKEN" \
